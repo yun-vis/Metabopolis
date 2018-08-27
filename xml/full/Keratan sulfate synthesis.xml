@@ -1,0 +1,1018 @@
+<metabolites>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>core2[g]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>Core 2</description>
+    </metabolite>
+    <metabolite>
+        <name>core4[g]</name>
+        <formula>C24H40N3O15X</formula>
+        <description>Core 4</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi[g]</name>
+        <formula>C247H393N17O213S12X</formula>
+        <description>keratan sulfate I</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre10[g]</name>
+        <formula>C129H209N9O98S2X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 10</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre11[g]</name>
+        <formula>C129H208N9O101S3X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 11</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre12[g]</name>
+        <formula>C135H218N9O106S3X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 12</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre13[g]</name>
+        <formula>C143H231N10O111S3X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 13</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre14[g]</name>
+        <formula>C143H230N10O114S4X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 14</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre15[g]</name>
+        <formula>C149H240N10O119S4X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 15</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre16[g]</name>
+        <formula>C157H253N11O124S4X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 16</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre17[g]</name>
+        <formula>C157H252N11O127S5X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 17</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre18[g]</name>
+        <formula>C163H262N11O132S5X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 18</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre19[g]</name>
+        <formula>C171H275N12O137S5X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 19</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre1[g]</name>
+        <formula>C79H129N5O57X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre20[g]</name>
+        <formula>C171H274N12O140S6X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 20</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre21[g]</name>
+        <formula>C177H284N12O145S6X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 21</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre22[g]</name>
+        <formula>C185H297N13O150S6X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 22</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre23[g]</name>
+        <formula>C185H296N13O153S7X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 23</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre24[g]</name>
+        <formula>C191H306N13O158S7X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 24</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre25[g]</name>
+        <formula>C199H319N14O163S7X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 25</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre26[g]</name>
+        <formula>C199H318N14O166S8X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 26</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre27[g]</name>
+        <formula>C205H328N14O171S8X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 27</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre28[g]</name>
+        <formula>C213H341N15O176S8X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 28</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre29[g]</name>
+        <formula>C213H340N15O179S9X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 29</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre2[g]</name>
+        <formula>C87H142N6O62X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre30[g]</name>
+        <formula>C219H350N15O184S9X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 30</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre31[g]</name>
+        <formula>C227H363N16O189S9X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 31</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre32[g]</name>
+        <formula>C227H362N16O192S10X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 32</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre33[g]</name>
+        <formula>C233H372N16O197S10X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 33</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre34[g]</name>
+        <formula>C241H385N17O202S10X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 34</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre35[g]</name>
+        <formula>C241H384N17O205S11X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 35</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre36[g]</name>
+        <formula>C247H394N17O210S11X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 36</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre3[g]</name>
+        <formula>C93H152N6O67X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre4[g]</name>
+        <formula>C101H165N7O72X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre5[g]</name>
+        <formula>C101H164N7O75SX</formula>
+        <description>keratan sulfate I biosynthesis, precursor 5</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre6[g]</name>
+        <formula>C107H174N7O80SX</formula>
+        <description>keratan sulfate I biosynthesis, precursor 6</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre7[g]</name>
+        <formula>C115H187N8O85SX</formula>
+        <description>keratan sulfate I biosynthesis, precursor 7</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre8[g]</name>
+        <formula>C115H186N8O88S2X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 8</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_pre9[g]</name>
+        <formula>C121H196N8O93S2X</formula>
+        <description>keratan sulfate I biosynthesis, precursor 9</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2[g]</name>
+        <formula>C81H129N6O67S3X</formula>
+        <description>keratan sulfate II (core 2-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre10[g]</name>
+        <formula>C81H130N6O64S2X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 10</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre1[g]</name>
+        <formula>C33H53N3O23X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre2[g]</name>
+        <formula>C39H63N3O28X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre3[g]</name>
+        <formula>C47H76N4O33X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre4[g]</name>
+        <formula>C53H86N4O38X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre5[g]</name>
+        <formula>C61H99N5O43X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 5</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre6[g]</name>
+        <formula>C61H98N5O46SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 6</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre7[g]</name>
+        <formula>C67H108N5O51SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 7</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre8[g]</name>
+        <formula>C75H121N6O56SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 8</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_pre9[g]</name>
+        <formula>C75H120N6O59S2X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 9</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4[g]</name>
+        <formula>C89H142N7O72S3X</formula>
+        <description>keratan sulfate II (core 4-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre10[g]</name>
+        <formula>C89H143N7O69S2X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 10</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre1[g]</name>
+        <formula>C36H60N3O25X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre2[g]</name>
+        <formula>C47H76N4O33X</formula>
+        <description>keratan sulfate II boisynthesis, precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre3[g]</name>
+        <formula>C55H89N5O38X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre4[g]</name>
+        <formula>C61H99N5O43X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre5[g]</name>
+        <formula>C69H112N6O48X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 5</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre6[g]</name>
+        <formula>C69H111N6O51SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 6</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre7[g]</name>
+        <formula>C75H121N6O56SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 7</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre8[g]</name>
+        <formula>C83H134N7O61SX</formula>
+        <description>keratan sulfate II biosynthesis, precursor 8</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_pre9[g]</name>
+        <formula>C83H133N7O64S2X</formula>
+        <description>keratan sulfate II biosynthesis, precursor 9</description>
+    </metabolite>
+    <metabolite>
+        <name>l2fn2m2masn[g]</name>
+        <formula>C68H113N4O49X</formula>
+        <description>{[galactosyl-(1,4)-N-Acetyl-glucosaminyl-(1,2)-mannosyl-(1,3)-],[N-acetyl-glucosaminyl-(1,2)-mannosyl-(1,6)-]mannosyl-(1,4)-N-acetyl-glucosaminyl-(1,4)-[fucosyl-(1,6)]-N-acetyl-glucosaminyl}asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>AG13T10g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre18[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre19[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T11g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre21[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre22[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T12g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre24[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre25[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T13g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre27[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre28[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T14g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre30[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre31[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T15g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre33[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre34[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T16g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core4_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T17g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core4_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T18g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core4_pre7[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre8[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T1g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core2_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T2g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core2_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T3g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksii_core2_pre7[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre8[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T4g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T5g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T6g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre6[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre7[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T7g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre9[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre10[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T8g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre12[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre13[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AG13T9g</id>
+        <name>N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>ksi_pre15[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre16[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T10g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre14[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre15[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T11g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre17[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre18[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T12g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre20[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre21[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T13g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre23[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre24[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T14g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre26[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre27[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T15g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre29[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre30[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T16g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre32[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre33[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T17g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre35[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre36[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T18g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>2 udpgal[g]</reactant>
+        <reactant>core4[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 udp[g]</product>
+        <product>ksii_core4_pre1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T19g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core4_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T20g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core4_pre6[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre7[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T21g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core4_pre9[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core4_pre10[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T2g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core2_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T3g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core2_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T4g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core2_pre6[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre7[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T5g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksii_core2_pre9[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksii_core2_pre10[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T6g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T7g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre5[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre6[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T8g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre8[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre9[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14T9g</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase, Golgi</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ksi_pre11[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ksi_pre12[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S23T2g</id>
+        <name>beta-galactoside alpha-2,3-sialyltransferase (core 2)</name>
+        <reactant>core2[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>ksii_core2_pre1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S23T3g</id>
+        <name>beta-galactoside alpha-2,3-sialyltransferase (complex N-glycan)</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>l2fn2m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre1[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S23T4g</id>
+        <name>beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>ksii_core4_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>ksii_core4_pre2[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T10g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre22[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre23[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T11g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre25[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre26[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T12g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre28[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre29[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T13g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre31[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre32[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T14g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre34[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre35[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T15g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre36[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>ksi[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T16g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core4_pre5[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksii_core4_pre6[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T17g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core4_pre8[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksii_core4_pre9[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T18g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core4_pre10[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>ksii_core4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T1g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core2_pre5[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksii_core2_pre6[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T2g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core2_pre8[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksii_core2_pre9[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T3g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksii_core2_pre10[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>ksii_core2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T4g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre4[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre5[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T5g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre7[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre8[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T6g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre10[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre11[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T7g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre13[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre14[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T8g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre16[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre17[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T9g</id>
+        <name>galactose/N-acetylglucosamine 6-O-sulfotransferase, Golgi apparatus</name>
+        <reactant>ksi_pre19[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>ksi_pre20[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate synthesis</subsystem>
+    </reaction>
+</reactions>

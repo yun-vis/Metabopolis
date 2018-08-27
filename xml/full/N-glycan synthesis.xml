@@ -1,0 +1,1785 @@
+<metabolites>
+    <metabolite>
+        <name>chito2pdol_L[c]</name>
+        <formula>C1240H2028N20O170P20</formula>
+        <description>N,N&apos;-Diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>chito2pdol_U[c]</name>
+        <formula>C1185H1940N20O170P20</formula>
+        <description>N,N&apos;-Diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedol_L[c]</name>
+        <formula>C1080H1748O10</formula>
+        <description>Dehydrodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedol_U[c]</name>
+        <formula>C1025H1660O10</formula>
+        <description>Dehydrodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedoldp_L[c]</name>
+        <formula>C1080H1738O70P20</formula>
+        <description>Dehydrodolichol diphosphate, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedoldp_U[c]</name>
+        <formula>C1025H1650O70P20</formula>
+        <description>Dehydrodolichol diphosphate, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedolp_L[c]</name>
+        <formula>C1080H1738O40P10</formula>
+        <description>Dehydrodolichol phosphate, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dedolp_U[c]</name>
+        <formula>C1025H1650O40P10</formula>
+        <description>Dehydrodolichol phosphate, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>doldp_L[r]</name>
+        <formula>C1080H1758O70P20</formula>
+        <description>Dolichol diphosphate, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>doldp_U[r]</name>
+        <formula>C1025H1670O70P20</formula>
+        <description>Dolichol diphosphate, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolglcp_L[c]</name>
+        <formula>C1140H1868O90P10</formula>
+        <description>Dolichyl beta-D-glucosyl phosphate, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolglcp_L[r]</name>
+        <formula>C1140H1868O90P10</formula>
+        <description>Dolichyl beta-D-glucosyl phosphate, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolglcp_U[c]</name>
+        <formula>C1085H1780O90P10</formula>
+        <description>Dolichyl beta-D-glucosyl phosphate, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolglcp_U[r]</name>
+        <formula>C1085H1780O90P10</formula>
+        <description>Dolichyl beta-D-glucosyl phosphate, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolichol_L[c]</name>
+        <formula>C1080H1768O10</formula>
+        <description>Dolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolichol_L[r]</name>
+        <formula>C1080H1768O10</formula>
+        <description>Dolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolichol_U[c]</name>
+        <formula>C1025H1680O10</formula>
+        <description>Dolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolichol_U[r]</name>
+        <formula>C1025H1680O10</formula>
+        <description>Dolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolmanp_L[c]</name>
+        <formula>C1140H1868O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolmanp_L[r]</name>
+        <formula>C1140H1868O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolmanp_U[c]</name>
+        <formula>C1085H1780O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolmanp_U[r]</name>
+        <formula>C1085H1780O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_L[c]</name>
+        <formula>C1080H1758O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_L[r]</name>
+        <formula>C1080H1758O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_U[c]</name>
+        <formula>C1025H1670O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_U[r]</name>
+        <formula>C1025H1670O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m8mpdol_L[r]</name>
+        <formula>C1840H3028N20O670P20</formula>
+        <description>alpha-D-Glucosyl-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m8mpdol_U[r]</name>
+        <formula>C1785H2940N20O670P20</formula>
+        <description>alpha-D-Glucosyl-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>g2m8mpdol_L[r]</name>
+        <formula>C1900H3128N20O720P20</formula>
+        <description>(alpha-D-Glucosyl)2-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>g2m8mpdol_U[r]</name>
+        <formula>C1845H3040N20O720P20</formula>
+        <description>(alpha-D-Glucosyl)2-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>g3m8mpdol_L[r]</name>
+        <formula>C1960H3228N20O770P20</formula>
+        <description>(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>g3m8mpdol_U[r]</name>
+        <formula>C1905H3140N20O770P20</formula>
+        <description>(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m1mpdol_L[c]</name>
+        <formula>C1360H2228N20O270P20</formula>
+        <description>alpha-D-mannosyl-beta-D-mannosyl-diacylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m1mpdol_U[c]</name>
+        <formula>C1305H2140N20O270P20</formula>
+        <description>alpha-D-mannosyl-beta-D-mannosyl-diacylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m2mpdol_L[c]</name>
+        <formula>C1420H2328N20O320P20</formula>
+        <description>(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m2mpdol_U[c]</name>
+        <formula>C1365H2240N20O320P20</formula>
+        <description>(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m3mpdol_L[c]</name>
+        <formula>C1480H2428N20O370P20</formula>
+        <description>(alpha-D-mannosyl)3-beta-D-mannosyl-diacetylchitodiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m3mpdol_U[c]</name>
+        <formula>C1425H2340N20O370P20</formula>
+        <description>(alpha-D-mannosyl)3-beta-D-mannosyl-diacetylchitodiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_L[c]</name>
+        <formula>C1540H2528N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_L[r]</name>
+        <formula>C1540H2528N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_U[c]</name>
+        <formula>C1485H2440N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_U[r]</name>
+        <formula>C1485H2440N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m5mpdol_L[r]</name>
+        <formula>C1600H2628N20O470P20</formula>
+        <description>(alpha-D-Mannosyl)5-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m5mpdol_U[r]</name>
+        <formula>C1545H2540N20O470P20</formula>
+        <description>(alpha-D-Mannosyl)5-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m6mpdol_L[r]</name>
+        <formula>C1660H2728N20O520P20</formula>
+        <description>(alpha-D-Mannosyl)6-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m6mpdol_U[r]</name>
+        <formula>C1605H2640N20O520P20</formula>
+        <description>(alpha-D-Mannosyl)6-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m7mpdol_L[r]</name>
+        <formula>C1720H2828N20O570P20</formula>
+        <description>(alpha-D-Mannosyl)7-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m7mpdol_U[r]</name>
+        <formula>C1665H2740N20O570P20</formula>
+        <description>(alpha-D-Mannosyl)7-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m8mpdol_L[r]</name>
+        <formula>C1780H2928N20O620P20</formula>
+        <description>(alpha-D-Mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m8mpdol_U[r]</name>
+        <formula>C1725H2840N20O620P20</formula>
+        <description>(alpha-D-Mannosyl)8-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>mpdol_L[c]</name>
+        <formula>C1300H2128N20O220P20</formula>
+        <description>beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>mpdol_U[c]</name>
+        <formula>C1245H2040N20O220P20</formula>
+        <description>beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>naglc2p_L[c]</name>
+        <formula>C1160H1898N10O120P20</formula>
+        <description>N-Acetyl-D-glucosaminyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>naglc2p_U[c]</name>
+        <formula>C1105H1810N10O120P20</formula>
+        <description>N-Acetyl-D-glucosaminyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>man[g]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Asn_X_Ser_Thr[r]</name>
+        <formula>XH</formula>
+        <description>protein-linked asparagine residue (N-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[c]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[c]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>fn2m2masn[g]</name>
+        <formula>C56H93N4O39X</formula>
+        <description>N4-{N-Acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1,3)-[N-acetyl-beta-D-glucosaminyl-(1,2)-alpha-D-mannosyl-(1,6)]-beta-D-mannosyl-(1,4)-N-acetyl-beta-D-glucosaminyl-(1,4)-[alpha-L-fucosyl-(1,6)]-N-acetyl-beta-D-glucosaminyl}asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[c]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m6masnB1[g]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m6masnB1[r]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m7masnB[g]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m7masnB[r]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m7masnC[g]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m7masnC[r]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>glucosyl-(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m8masn[g]</name>
+        <formula>C76H127N2O60X</formula>
+        <description>(alpha-D-Glucosyl)-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g1m8masn[r]</name>
+        <formula>C76H127N2O60X</formula>
+        <description>(alpha-D-Glucosyl)-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g2m8masn[g]</name>
+        <formula>C82H137N2O65X</formula>
+        <description>(alpha-D-Glucosyl)2-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g2m8masn[r]</name>
+        <formula>C82H137N2O65X</formula>
+        <description>(alpha-D-Glucosyl)2-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g3m8masn[g]</name>
+        <formula>C88H147N2O70X</formula>
+        <description>(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>g3m8masn[r]</name>
+        <formula>C88H147N2O70X</formula>
+        <description>(alpha-D-Glucosyl)3-(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[g]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[g]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpmann[c]</name>
+        <formula>C16H23N5O16P2</formula>
+        <description>GDP-alpha-D-mannose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glc1man[g]</name>
+        <formula>C12H22O11</formula>
+        <description>glucose-1,3-mannose oligosaccharide</description>
+    </metabolite>
+    <metabolite>
+        <name>glc2man[g]</name>
+        <formula>C18H32O16</formula>
+        <description>(2)[glucose-1,3]-mannose oligosaccharide</description>
+    </metabolite>
+    <metabolite>
+        <name>glc3man[g]</name>
+        <formula>C24H42O21</formula>
+        <description>glucose-1,2-(2)[glucose-1,3]-mannose oligosaccharide</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[r]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>l2fn2m2masn[g]</name>
+        <formula>C68H113N4O49X</formula>
+        <description>{[galactosyl-(1,4)-N-Acetyl-glucosaminyl-(1,2)-mannosyl-(1,3)-],[N-acetyl-glucosaminyl-(1,2)-mannosyl-(1,6)-]mannosyl-(1,4)-N-acetyl-glucosaminyl-(1,4)-[fucosyl-(1,6)]-N-acetyl-glucosaminyl}asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>m4masn[g]</name>
+        <formula>C46H77N2O35X</formula>
+        <description>(alpha-D-mannosyl)4-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_L[c]</name>
+        <formula>C1540H2528N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_L[r]</name>
+        <formula>C1540H2528N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_U[c]</name>
+        <formula>C1485H2440N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m4mpdol_U[r]</name>
+        <formula>C1485H2440N20O420P20</formula>
+        <description>(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>m5masnB1[g]</name>
+        <formula>C52H87N2O40X</formula>
+        <description>(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m5masnB2[g]</name>
+        <formula>C52H87N2O40X</formula>
+        <description>(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m5masnC[g]</name>
+        <formula>C52H87N2O40X</formula>
+        <description>(alpha-D-mannosyl)5-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m6masnA[g]</name>
+        <formula>C58H97N2O45X</formula>
+        <description>(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m6masnB1[g]</name>
+        <formula>C58H97N2O45X</formula>
+        <description>(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m6masnB2[g]</name>
+        <formula>C58H97N2O45X</formula>
+        <description>(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m6masnC[g]</name>
+        <formula>C58H97N2O45X</formula>
+        <description>(alpha-D-mannosyl)6-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m7masnA[g]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform A (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m7masnB[g]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m7masnB[r]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform B (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m7masnC[g]</name>
+        <formula>C64H107N2O50X</formula>
+        <description>(alpha-D-mannosyl)7-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine, isoform C (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m8masn[g]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>m8masn[r]</name>
+        <formula>C70H117N2O55X</formula>
+        <description>(alpha-D-mannosyl)8-beta-D-mannosyl-diacetylchitobiosyl-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>man[g]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>man[r]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2masn[g]</name>
+        <formula>C50H83N4O35X</formula>
+        <description>((N-acetyl-D-glucosaminyl)2-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmasn[g]</name>
+        <formula>C58H96N5O40X</formula>
+        <description>N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R</description>
+    </metabolite>
+    <metabolite>
+        <name>n3m2masn[g]</name>
+        <formula>C58H96N5O40X</formula>
+        <description>((N-acetyl-D-glucosaminyl)3-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>n4m2masn[g]</name>
+        <formula>C66H109N6O45X</formula>
+        <description>((N-acetyl-D-glucosaminyl)4-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>n5m2masn[g]</name>
+        <formula>C74H122N7O50X</formula>
+        <description>((N-acetyl-D-glucosaminyl)5-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nm2masn[g]</name>
+        <formula>C42H70N3O30X</formula>
+        <description>(N-acetyl-D-glucosaminyl-(alpha-D-mannosyl)2-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>nm4masn[g]</name>
+        <formula>C54H90N3O40X</formula>
+        <description>(N-acetyl-D-glucosaminyl-(alpha-D-mannosyl)4-beta-D-mannosyl-diacetylchitobiosyl)-L-asparagine (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2fn2m2masn[g]</name>
+        <formula>C90H145N6O65X</formula>
+        <description>PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>ttc_ggdp[c]</name>
+        <formula>C20H33O7P2</formula>
+        <description>trans,trans,cis-Geranylgeranyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>BDMT_L</id>
+        <name>GDPmannose:chitobiosyldiphosphodolichol beta-D-mannosyltransferase (liver)</name>
+        <reactant>0.1 chito2pdol_L[c]</reactant>
+        <reactant>gdpmann[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 mpdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>BDMT_U</id>
+        <name>GDPmannose:chitobiosyldiphosphodolichol beta-D-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 chito2pdol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 mpdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLP1_L</id>
+        <name>dehydrodolichol diphosphate phosphatase (liver)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>0.1 dedoldp_L[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>0.1 dedolp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLP1_U</id>
+        <name>dehydrodolichol diphosphate phosphatase (uterus)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>0.1 dedoldp_U[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>0.1 dedolp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLP2_L</id>
+        <name>dehydrodolichol phosphate phosphatase (liver)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>0.1 dedolp_L[c]</reactant>
+        <product>pi[c]</product>
+        <product>0.1 dedol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLP2_U</id>
+        <name>dehydrodolichol phosphate phosphatase (uterus)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>0.1 dedolp_U[c]</reactant>
+        <product>pi[c]</product>
+        <product>0.1 dedol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLR_L</id>
+        <name>dehydrodolichol reductase (liver)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>0.1 dedol_L[c]</reactant>
+        <product>nadp[c]</product>
+        <product>0.1 dolichol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DEDOLR_U</id>
+        <name>dehydrodolichol reductase (uterus)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>0.1 dedol_U[c]</reactant>
+        <product>nadp[c]</product>
+        <product>0.1 dolichol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLASNT_Ler</id>
+        <name>Dolichyl-diphosphooligosaccharide:protein-L-asparagine oligopolysaccharidotransferase (liver)</name>
+        <reactant>Asn_X_Ser_Thr[r]</reactant>
+        <reactant>0.1 g3m8mpdol_L[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 doldp_L[r]</product>
+        <product>g3m8masn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLASNT_Uer</id>
+        <name>Dolichyl-diphosphooligosaccharide:protein-L-asparagine oligopolysaccharidotransferase (uterus)</name>
+        <reactant>Asn_X_Ser_Thr[r]</reactant>
+        <reactant>0.1 g3m8mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>g3m8masn[r]</product>
+        <product>0.1 doldp_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLDPP_Ler</id>
+        <name>Dolichyl-diphosphate phosphohydrolase, human (liver)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 doldp_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLDPP_Uer</id>
+        <name>Dolichyl-diphosphate phosphohydrolase, human (uterus)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 doldp_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLGLCP_Lter</id>
+        <name>Dolichyl beta-D-glucosyl phosphate flippase (liver)</name>
+        <reactant>0.1 dolglcp_L[c]</reactant>
+        <product>0.1 dolglcp_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLGLCP_Uter</id>
+        <name>Dolichyl beta-D-glucosyl phosphate flippase (uterus)</name>
+        <reactant>0.1 dolglcp_U[c]</reactant>
+        <product>0.1 dolglcp_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLGPP_Ler</id>
+        <name>Dolichyl-beta-D-glucosyl-phosphate dolichylphosphohydrolase (liver)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 dolglcp_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>glc_D[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLGPP_Uer</id>
+        <name>Dolichyl-beta-D-glucosyl-phosphate dolichylphosphohydrolase (uterus)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 dolglcp_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>glc_D[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLICHOL_Lter</id>
+        <name>dolichol diffusion, human (liver)</name>
+        <reactant>0.1 dolichol_L[r]</reactant>
+        <product>0.1 dolichol_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLICHOL_Uter</id>
+        <name>dolichol diffusion, human (uterus)</name>
+        <reactant>0.1 dolichol_U[r]</reactant>
+        <product>0.1 dolichol_U[c]</product>
+        <reversible>true</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLK_L</id>
+        <name>Dolichol kinase, human (liver)</name>
+        <reactant>ctp[c]</reactant>
+        <reactant>0.1 dolichol_L[c]</reactant>
+        <product>h[c]</product>
+        <product>cdp[c]</product>
+        <product>0.1 dolp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLK_U</id>
+        <name>Dolichol kinase, human (uterus)</name>
+        <reactant>ctp[c]</reactant>
+        <reactant>0.1 dolichol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>cdp[c]</product>
+        <product>0.1 dolp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLMANP_Lter</id>
+        <name>dolichol-phosphate mannose flippase (liver)</name>
+        <reactant>0.1 dolmanp_L[c]</reactant>
+        <product>0.1 dolmanp_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLMANP_Uter</id>
+        <name>dolichol-phosphate mannose flippase (uterus)</name>
+        <reactant>0.1 dolmanp_U[c]</reactant>
+        <product>0.1 dolmanp_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLP_Lter</id>
+        <name>dolichol phosphate flippase (liver)</name>
+        <reactant>0.1 dolglcp_L[r]</reactant>
+        <reactant>0.1 m8mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 g1m8mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLP_Uter</id>
+        <name>dolichol phosphate flippase (uterus)</name>
+        <reactant>0.1 dolglcp_U[r]</reactant>
+        <reactant>0.1 m8mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 g1m8mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT1_Ler</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (liver)</name>
+        <reactant>0.1 dolglcp_L[r]</reactant>
+        <reactant>0.1 g1m8mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 g2m8mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT1_Uer</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (uterus)</name>
+        <reactant>0.1 dolglcp_U[r]</reactant>
+        <reactant>0.1 g1m8mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 g2m8mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT2_Ler</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (liver)</name>
+        <reactant>0.1 dolglcp_L[r]</reactant>
+        <reactant>0.1 g2m8mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 g3m8mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT2_Uer</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (uterus)</name>
+        <reactant>0.1 dolglcp_U[r]</reactant>
+        <reactant>0.1 g2m8mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 g3m8mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT3_Ler</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (liver)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 dolp_L[r]</reactant>
+        <product>pi[r]</product>
+        <product>0.1 dolichol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPGT3_Uer</id>
+        <name>dolichyl-phosphate-glucose-glycolipid alpha-glucosyltransferase (uterus)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>0.1 dolp_U[r]</reactant>
+        <product>pi[r]</product>
+        <product>0.1 dolichol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPH_Ler</id>
+        <name>Dolichol-phosphate phosphohydrolase, human (liver)</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>0.1 m4mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 m5mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPH_Uer</id>
+        <name>Dolichol-phosphate phosphohydrolase, human (uterus)</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>0.1 m4mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 m5mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT_L</id>
+        <name>Dolichyl-phosphate D-mannosyltransferase (liver)</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>0.1 m5mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 m6mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT_U</id>
+        <name>Dolichyl-phosphate D-mannosyltransferase (uterus)</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>0.1 m5mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 m6mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT1_Ler</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (liver)</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>0.1 m6mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 m7mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT1_Uer</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (uterus)</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>0.1 m6mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 m7mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT2_Ler</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (liver)</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>0.1 m7mpdol_L[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>0.1 m8mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT2_Uer</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (uterus)</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>0.1 m7mpdol_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>0.1 m8mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT3_Ler</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (liver)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 dolp_L[c]</reactant>
+        <product>gdp[c]</product>
+        <product>0.1 dolmanp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT3_Uer</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 dolp_U[c]</reactant>
+        <product>gdp[c]</product>
+        <product>0.1 dolmanp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT4_Ler</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (liver)</name>
+        <reactant>0.1 dolp_L[r]</reactant>
+        <product>0.1 dolp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOLPMT4_Uer</id>
+        <name>dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase (uterus)</name>
+        <reactant>0.1 dolp_U[r]</reactant>
+        <product>0.1 dolp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN1g</id>
+        <name>Endomannosidase (glc1man-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g1m8masn[g]</reactant>
+        <product>glc1man[g]</product>
+        <product>m7masnA[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN2g</id>
+        <name>Endomannosidase (glc2man-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g2m8masn[g]</reactant>
+        <product>m7masnA[g]</product>
+        <product>glc2man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN3g</id>
+        <name>Endomannosidase (glc3man-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g3m8masn[g]</reactant>
+        <product>m7masnA[g]</product>
+        <product>glc3man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN4g</id>
+        <name>Endomannosidase (m6masnC-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g1m7masnC[g]</reactant>
+        <product>glc1man[g]</product>
+        <product>m6masnC[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN5g</id>
+        <name>Endomannosidase (m6masnB2-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g1m7masnB[g]</reactant>
+        <product>glc1man[g]</product>
+        <product>m6masnB2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENMAN6g</id>
+        <name>Endomannosidase (m5masnB1-producing), Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>g1m6masnB1[g]</reactant>
+        <product>glc1man[g]</product>
+        <product>m5masnB1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>F6Tg</id>
+        <name>glycoprotein 6-alpha-L-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>n2m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>fn2m2masn[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FT</id>
+        <name>farnesyltranstransferase (trans,trans,cis-geranylgeranyl diphosphate-generating)</name>
+        <reactant>ipdp[c]</reactant>
+        <reactant>frdp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>ttc_ggdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G12MT1_L</id>
+        <name>Glycolipid 1,2-alpha-D-mannosyltransferase (liver)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m2mpdol_L[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m3mpdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G12MT1_U</id>
+        <name>Glycolipid 1,2-alpha-D-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m2mpdol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m3mpdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G12MT2_L</id>
+        <name>Glycolipid 1,2-alpha-D-mannosyltransferase (liver)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m3mpdol_L[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m4mpdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G12MT2_U</id>
+        <name>Glycolipid 1,2-alpha-D-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m3mpdol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m4mpdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G13MT_L</id>
+        <name>Glycolipid 1,3-alpha-D-mannosyltransferase (liver)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 mpdol_L[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m1mpdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G13MT_U</id>
+        <name>Glycolipid 1,3-alpha-D-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 mpdol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m1mpdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G14Tg</id>
+        <name>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase</name>
+        <reactant>2 udpgal[g]</reactant>
+        <reactant>fn2m2masn[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 udp[g]</product>
+        <product>l2fn2m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G16MT_L</id>
+        <name>Glycolipid 1,6-alpha-D-mannosyltransferase (liver)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m1mpdol_L[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m2mpdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G16MT_U</id>
+        <name>Glycolipid 1,6-alpha-D-mannosyltransferase (uterus)</name>
+        <reactant>gdpmann[c]</reactant>
+        <reactant>0.1 m1mpdol_U[c]</reactant>
+        <product>h[c]</product>
+        <product>gdp[c]</product>
+        <product>0.1 m2mpdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G1M6MASNB1terg</id>
+        <name>g1m6masnB1 endoplasmic reticulum to Golgi transport</name>
+        <reactant>g1m6masnB1[r]</reactant>
+        <product>g1m6masnB1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G1M7MASNBterg</id>
+        <name>g1m7masnC endoplasmic reticulum to Golgi transport</name>
+        <reactant>g1m7masnB[r]</reactant>
+        <product>g1m7masnB[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G1M7MASNCterg</id>
+        <name>g1m7masnC endoplasmic reticulum to Golgi transport</name>
+        <reactant>g1m7masnC[r]</reactant>
+        <product>g1m7masnC[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G1M8MASNterg</id>
+        <name>g1m8masn transport from endoplasmic reticulum to Golgi apparatus</name>
+        <reactant>g1m8masn[r]</reactant>
+        <product>g1m8masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G2M8MASNterg</id>
+        <name>g2m8masn transport from endoplasmic reticulum to Golgi apparatus</name>
+        <reactant>g2m8masn[r]</reactant>
+        <product>g2m8masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>G3M8MASNterg</id>
+        <name>g3m8masn transport from endoplasmic reticulum to Golgi apparatus</name>
+        <reactant>g3m8masn[r]</reactant>
+        <product>g3m8masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGT_L</id>
+        <name>geranylgeranyltransferase (liver)</name>
+        <reactant>17.6 ipdp[c]</reactant>
+        <reactant>ttc_ggdp[c]</reactant>
+        <product>17.6 ppi[c]</product>
+        <product>0.1 dedoldp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGT_U</id>
+        <name>geranylgeranyltransferase (uterus)</name>
+        <reactant>16.5 ipdp[c]</reactant>
+        <reactant>ttc_ggdp[c]</reactant>
+        <product>16.5 ppi[c]</product>
+        <product>0.1 dedoldp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACPT_L</id>
+        <name>UDP-GlcNAc:dolichol-phosphate GlcNAc phosphotransferase (liver)</name>
+        <reactant>0.1 dolp_L[c]</reactant>
+        <reactant>uacgam[c]</reactant>
+        <product>0.1 naglc2p_L[c]</product>
+        <product>ump[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACPT_U</id>
+        <name>UDP-GlcNAc:dolichol-phosphate GlcNAc phosphotransferase (uterus)</name>
+        <reactant>0.1 dolp_U[c]</reactant>
+        <reactant>uacgam[c]</reactant>
+        <product>ump[c]</product>
+        <product>0.1 naglc2p_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT_L</id>
+        <name>UDP-GlcNAc:N-acetyl-D-glucosaminyl diphosphodolichol N-acetyl-D-glucosaminyltransferase (liver)</name>
+        <reactant>uacgam[c]</reactant>
+        <reactant>0.1 naglc2p_L[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>0.1 chito2pdol_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT_U</id>
+        <name>UDP-GlcNAc:N-acetyl-D-glucosaminyl diphosphodolichol N-acetyl-D-glucosaminyltransferase (uterus)</name>
+        <reactant>uacgam[c]</reactant>
+        <reactant>0.1 naglc2p_U[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>0.1 chito2pdol_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M1316Mg</id>
+        <name>mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase</name>
+        <reactant>2 h2o[g]</reactant>
+        <reactant>nm4masn[g]</reactant>
+        <product>2 man[g]</product>
+        <product>nm2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M13N2Tg</id>
+        <name>alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>m4masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>nm4masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M13N4Tg</id>
+        <name>alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>n2m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>n3m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M14NTg</id>
+        <name>beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>n2m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>n2m2nmasn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M16N4Tg</id>
+        <name>alpha-1,6-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>n4m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>n5m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M16N6Tg</id>
+        <name>alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>n3m2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>n4m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M16NTg</id>
+        <name>alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>nm2masn[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>n2m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4MPDOL_Lter</id>
+        <name>m4mpdol flippase</name>
+        <reactant>m4mpdol_L[c]</reactant>
+        <product>m4mpdol_L[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4MPDOL_Uter</id>
+        <name>m4mpdol flippase</name>
+        <reactant>m4mpdol_U[c]</reactant>
+        <product>m4mpdol_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M7MASNBterg</id>
+        <name>m7masnB transport from endoplasmic reticulum to Golgi apparatus</name>
+        <reactant>m7masnB[r]</reactant>
+        <product>m7masnB[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>M8MASNterg</id>
+        <name>m8masn transport from ER to Golgi apparatus</name>
+        <reactant>m8masn[r]</reactant>
+        <product>m8masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN1_6B1er</id>
+        <name>mannosidase I, endoplasmic reticulum (g1m6masnB1-producing)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g1m7masnC[r]</reactant>
+        <product>g1m6masnB1[r]</product>
+        <product>man[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN1_7Ber</id>
+        <name>mannosidase I, endoplasmic reticulum (g1m7masnB-producing)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g1m8masn[r]</reactant>
+        <product>g1m7masnB[r]</product>
+        <product>man[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN2_6B1er</id>
+        <name>mannosidase II, endoplasmic reticulum (g1m6masnB1-producing)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g1m7masnB[r]</reactant>
+        <product>g1m6masnB1[r]</product>
+        <product>man[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN2_7Cer</id>
+        <name>mannosidase II, endoplasmic reticulum (g1m7masnC-producing)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g1m8masn[r]</reactant>
+        <product>g1m7masnC[r]</product>
+        <product>man[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MG1er</id>
+        <name>mannosyl-oligosaccharide glucosidase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g3m8masn[r]</reactant>
+        <product>glc_D[r]</product>
+        <product>g2m8masn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MG2er</id>
+        <name>mannosyl-oligosaccharide glucosidase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g2m8masn[r]</reactant>
+        <product>glc_D[r]</product>
+        <product>g1m8masn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MG3er</id>
+        <name>mannosyl-oligosaccharide glucosidase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>g1m8masn[r]</reactant>
+        <product>glc_D[r]</product>
+        <product>m8masn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM5ag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m5masnC[g]</reactant>
+        <product>man[g]</product>
+        <product>m4masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM5bg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m5masnB1[g]</reactant>
+        <product>man[g]</product>
+        <product>m4masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM5cg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m5masnB2[g]</reactant>
+        <product>man[g]</product>
+        <product>m4masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM6ag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m6masnA[g]</reactant>
+        <product>man[g]</product>
+        <product>m5masnC[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM6B1ag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m6masnB1[g]</reactant>
+        <product>m5masnB1[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM6B1bg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m6masnB2[g]</reactant>
+        <product>m5masnB1[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM6B2g</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m6masnB2[g]</reactant>
+        <product>man[g]</product>
+        <product>m5masnB2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM6bg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m6masnC[g]</reactant>
+        <product>man[g]</product>
+        <product>m5masnC[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM7Ag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m7masnA[g]</reactant>
+        <product>man[g]</product>
+        <product>m6masnA[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM7B1g</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m7masnB[g]</reactant>
+        <product>man[g]</product>
+        <product>m6masnB1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM7B2g</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m7masnB[g]</reactant>
+        <product>m6masnB2[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM7Cag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m7masnA[g]</reactant>
+        <product>m6masnC[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM7Cbg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m7masnC[g]</reactant>
+        <product>m6masnC[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM8Ag</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m8masn[g]</reactant>
+        <product>m7masnA[g]</product>
+        <product>man[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM8Ber</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>m8masn[r]</reactant>
+        <product>m7masnB[r]</product>
+        <product>man[r]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MM8Cg</id>
+        <name>mannosyl-oligosaccharide 1,2-alpha-mannosidase, Golgi apparatus</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>m8masn[g]</reactant>
+        <product>man[g]</product>
+        <product>m7masnC[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S26Tg</id>
+        <name>beta-galactoside alpha-2,6-sialyltransferase</name>
+        <reactant>2 cmpacna[g]</reactant>
+        <reactant>l2fn2m2masn[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 cmp[g]</product>
+        <product>s2l2fn2m2masn[g]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPDOLPT_L</id>
+        <name>UDPglucose:dolichyl-phosphate beta-D-glucosyltransferase (liver)</name>
+        <reactant>0.1 dolp_L[c]</reactant>
+        <reactant>udpg[c]</reactant>
+        <product>udp[c]</product>
+        <product>0.1 dolglcp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPDOLPT_U</id>
+        <name>UDPglucose:dolichyl-phosphate beta-D-glucosyltransferase (uterus)</name>
+        <reactant>0.1 dolp_U[c]</reactant>
+        <reactant>udpg[c]</reactant>
+        <product>udp[c]</product>
+        <product>0.1 dolglcp_U[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan synthesis</subsystem>
+    </reaction>
+</reactions>

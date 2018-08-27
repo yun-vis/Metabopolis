@@ -1,0 +1,1462 @@
+<metabolites>
+    <metabolite>
+        <name>13dampp[c]</name>
+        <formula>C3H12N2</formula>
+        <description>trimethylenediaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>1pyr5c[c]</name>
+        <formula>C5H6NO2</formula>
+        <description>1-Pyrroline-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[c]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>4abutn[c]</name>
+        <formula>C4H10NO</formula>
+        <description>4-Aminobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>5mta[c]</name>
+        <formula>C11H15N5O3S</formula>
+        <description>5-Methylthioadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>5oxpro[c]</name>
+        <formula>C5H6NO3</formula>
+        <description>5-oxoprolinate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02356[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>(S)-2-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C03413[c]</name>
+        <formula>C14H32N4O2</formula>
+        <description>N(1),N(12)-diacetylsperminium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>C03413[x]</name>
+        <formula>C14H32N4O2</formula>
+        <description>N(1),N(12)-diacetylsperminium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1059[c]</name>
+        <formula>C11H24N3O2</formula>
+        <description>N1,N8-diacetylspermidine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1556[c]</name>
+        <formula>C6H9N2O4</formula>
+        <description>N-acetyl-L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1556[m]</name>
+        <formula>C6H9N2O4</formula>
+        <description>N-acetyl-L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1661[c]</name>
+        <formula>C9H15N2O5</formula>
+        <description>gama-L-glutamyl-L-alpha-aminobutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1665[c]</name>
+        <formula>C15H22N4O9S</formula>
+        <description>gama-glutamylglutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1935[c]</name>
+        <formula>C10H26N3O</formula>
+        <description>spermine monoaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1935[e]</name>
+        <formula>C10H26N3O</formula>
+        <description>spermine monoaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1935[x]</name>
+        <formula>C10H26N3O</formula>
+        <description>spermine monoaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1936[c]</name>
+        <formula>C10H22N2O2</formula>
+        <description>spermine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1936[e]</name>
+        <formula>C10H22N2O2</formula>
+        <description>spermine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1936[x]</name>
+        <formula>C10H22N2O2</formula>
+        <description>spermine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1937[c]</name>
+        <formula>C10H25N3O2</formula>
+        <description>spermic acid 1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1939[c]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1939[e]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1939[x]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1940[c]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1940[e]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1940[x]</name>
+        <formula>C7H18N2O</formula>
+        <description>spermidine monoaldehyde 2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1941[c]</name>
+        <formula>C7H17N2O2</formula>
+        <description>isoputreanine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1943[c]</name>
+        <formula>C7H14NO2</formula>
+        <description>spermidine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1943[e]</name>
+        <formula>C7H14NO2</formula>
+        <description>spermidine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1943[x]</name>
+        <formula>C7H14NO2</formula>
+        <description>spermidine dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1944[c]</name>
+        <formula>C4H8N</formula>
+        <description>1-pyrrolinium</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2072[c]</name>
+        <formula>C7H17N2O2</formula>
+        <description>putreanine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4788[c]</name>
+        <formula>C5H9NO2</formula>
+        <description>acetamidopropanal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4788[x]</name>
+        <formula>C5H9NO2</formula>
+        <description>acetamidopropanal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5586[c]</name>
+        <formula>C7H20N3</formula>
+        <description>N-[(E)-4-ammoniobutylidene]propane-1,3-diaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5588[c]</name>
+        <formula>C10H25N3O2</formula>
+        <description>deoxyhypusine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00591[c]</name>
+        <formula>C5H6NO4</formula>
+        <description>2-oxoglutaramate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00591[m]</name>
+        <formula>C5H6NO4</formula>
+        <description>2-oxoglutaramate</description>
+    </metabolite>
+    <metabolite>
+        <name>N1aspmd[c]</name>
+        <formula>C9H23N3O</formula>
+        <description>N(1)-acetylspermidinium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>N1aspmd[x]</name>
+        <formula>C9H23N3O</formula>
+        <description>N(1)-acetylspermidinium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>N1sprm[c]</name>
+        <formula>C12H31N4O</formula>
+        <description>N(1)-acetylsperminium(3+)</description>
+    </metabolite>
+    <metabolite>
+        <name>N1sprm[x]</name>
+        <formula>C12H31N4O</formula>
+        <description>N(1)-acetylsperminium(3+)</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[x]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acg5p[m]</name>
+        <formula>C7H9NO8P</formula>
+        <description>N-acetyl-L-gamma-glutamyl phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acg5sa[m]</name>
+        <formula>C7H10NO4</formula>
+        <description>2-acetamido-5-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>acglu[m]</name>
+        <formula>C7H9NO5</formula>
+        <description>N-acetyl-L-glutamate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acorn[c]</name>
+        <formula>C7H14N2O3</formula>
+        <description>N(2)-acetyl-L-ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>ametam[c]</name>
+        <formula>C14H24N6O3S</formula>
+        <description>S-Adenosylmethioninamine</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[c]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[m]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[c]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[m]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cbp[m]</name>
+        <formula>CH2NO5P</formula>
+        <description>Carbamoyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[m]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>creat[c]</name>
+        <formula>C4H9N3O2</formula>
+        <description>creatine</description>
+    </metabolite>
+    <metabolite>
+        <name>creat[m]</name>
+        <formula>C4H9N3O2</formula>
+        <description>creatine</description>
+    </metabolite>
+    <metabolite>
+        <name>crtn[c]</name>
+        <formula>C4H7N3O</formula>
+        <description>creatinine</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[m]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5p[m]</name>
+        <formula>C5H8NO7P</formula>
+        <description>L-Glutamate 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5sa[c]</name>
+        <formula>C5H9NO3</formula>
+        <description>L-Glutamate 5-semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5sa[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>L-Glutamate 5-semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[m]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gudac[c]</name>
+        <formula>C3H7N3O2</formula>
+        <description>guanidinoacetic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[e]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[m]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>n8aspmd[c]</name>
+        <formula>C9H23N3O</formula>
+        <description>N(8)-acetylspermidinium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[e]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[m]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[e]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[c]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[m]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>pcreat[c]</name>
+        <formula>C4H9N3O5P</formula>
+        <description>N-phosphocreatinate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pcreat[m]</name>
+        <formula>C4H9N3O5P</formula>
+        <description>N-phosphocreatinate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[c]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[x]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>spmd[c]</name>
+        <formula>C7H22N3</formula>
+        <description>Spermidine</description>
+    </metabolite>
+    <metabolite>
+        <name>spmd[e]</name>
+        <formula>C7H22N3</formula>
+        <description>Spermidine</description>
+    </metabolite>
+    <metabolite>
+        <name>spmd[x]</name>
+        <formula>C7H22N3</formula>
+        <description>Spermidine</description>
+    </metabolite>
+    <metabolite>
+        <name>sprm[c]</name>
+        <formula>C10H30N4</formula>
+        <description>spermine(4+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sprm[e]</name>
+        <formula>C10H30N4</formula>
+        <description>spermine(4+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sprm[x]</name>
+        <formula>C10H30N4</formula>
+        <description>spermine(4+)</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[m]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[c]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[m]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACGSm</id>
+        <name>N-acteylglutamate synthase, mitochondrial</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>accoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>acglu[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACODA</id>
+        <name>acetylornithine deacetylase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>acorn[c]</reactant>
+        <product>ac[c]</product>
+        <product>orn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGPRim</id>
+        <name>N-acetyl-g-glutamyl-phosphate reductase, irreversible, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>acg5p[m]</reactant>
+        <product>nadp[m]</product>
+        <product>pi[m]</product>
+        <product>acg5sa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARGN</id>
+        <name>arginase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>orn[c]</product>
+        <product>urea[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARGNm</id>
+        <name>arginase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <product>urea[m]</product>
+        <product>orn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CK</id>
+        <name>ATP Creatine kinase</name>
+        <reactant>atp[m]</reactant>
+        <reactant>creat[m]</reactant>
+        <product>adp[m]</product>
+        <product>pcreat[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CKc</id>
+        <name>ATP Creatine kinase (c)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>creat[c]</reactant>
+        <product>adp[c]</product>
+        <product>pcreat[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CREATtmdiffir</id>
+        <name>Creatine transport to/from mitochondria via diffusion</name>
+        <reactant>creat[c]</reactant>
+        <product>creat[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRTNsyn</id>
+        <name>Creatinine synthase</name>
+        <reactant>pcreat[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>crtn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>G5SADs</id>
+        <name>L-glutamate 5-semialdehyde dehydratase (spontaneous)</name>
+        <reactant>glu5sa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>1pyr5c[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>G5SDym</id>
+        <name>glutamate-5-semialdehyde dehydrogenase (m)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>glu5p[m]</reactant>
+        <product>nadp[m]</product>
+        <product>pi[m]</product>
+        <product>glu5sa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>GACMTRc</id>
+        <name>guanidinoacetate N-methyltransferase (c)</name>
+        <reactant>amet[c]</reactant>
+        <reactant>gudac[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>creat[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLU5Km</id>
+        <name>glutamate 5-kinase (m)</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>adp[m]</product>
+        <product>glu5p[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYAMDTRc</id>
+        <name>glycine amidinotransferase (c)</name>
+        <reactant>gly[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>orn[c]</product>
+        <product>gudac[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>OCBTm</id>
+        <name>ornithine carbamoyltransferase, irreversible</name>
+        <reactant>orn[m]</reactant>
+        <reactant>cbp[m]</reactant>
+        <product>h[m]</product>
+        <product>pi[m]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORNDC</id>
+        <name>Ornithine Decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <product>co2[c]</product>
+        <product>ptrc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORNTArm</id>
+        <name>ornithine transaminase reversible (m)</name>
+        <reactant>akg[m]</reactant>
+        <reactant>orn[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>glu5sa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCREATtmdiffir</id>
+        <name>Phosphocreatine transport to/from mitochondria via diffusion</name>
+        <reactant>pcreat[m]</reactant>
+        <product>pcreat[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SARDHm</id>
+        <name>Sarcosine dehydrogenase (m)</name>
+        <reactant>fad[m]</reactant>
+        <reactant>sarcs[m]</reactant>
+        <reactant>thf[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>gly[m]</product>
+        <product>mlthf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPMS</id>
+        <name>spermidine synthase</name>
+        <reactant>ametam[c]</reactant>
+        <reactant>ptrc[c]</reactant>
+        <product>h[c]</product>
+        <product>5mta[c]</product>
+        <product>spmd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPRMS</id>
+        <name>spermine synthase</name>
+        <reactant>ametam[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h[c]</product>
+        <product>sprm[c]</product>
+        <product>5mta[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>UREAtm</id>
+        <name>Urea transport via diffusion</name>
+        <reactant>urea[c]</reactant>
+        <product>urea[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0034</id>
+        <name>Carbon-dioxide:ammonia ligase (ADP-forming,carbamate-phosphorylating) Urea cycle and metabolism of amino groups / Nitrogen metabolism EC:6.3.4.16</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>co2[m]</reactant>
+        <reactant>2 atp[m]</reactant>
+        <reactant>nh4[m]</reactant>
+        <product>3 h[m]</product>
+        <product>2 adp[m]</product>
+        <product>pi[m]</product>
+        <product>cbp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0074</id>
+        <name>L-Glutamate 5-semialdehyde:NAD+ oxidoreductase Arginine and proline metabolism EC:1.5.1.12</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>glu5sa[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0085</id>
+        <name>2-Oxoglutaramate amidohydrolase Glutamate metabolism EC:3.5.1.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>HC00591[c]</reactant>
+        <product>nh4[c]</product>
+        <product>akg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0086</id>
+        <name>2-Oxoglutaramate amidohydrolase Glutamate metabolism EC:3.5.1.3</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>HC00591[m]</reactant>
+        <product>akg[m]</product>
+        <product>nh4[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0156</id>
+        <name>L-Glutamine:pyruvate aminotransferase Glutamate metabolism EC:2.6.1.15</name>
+        <reactant>pyr[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <product>ala_L[c]</product>
+        <product>HC00591[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0157</id>
+        <name>L-Glutamine:pyruvate aminotransferase Glutamate metabolism EC:2.6.1.15</name>
+        <reactant>pyr[m]</reactant>
+        <reactant>gln_L[m]</reactant>
+        <product>ala_L[m]</product>
+        <product>HC00591[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0688C</id>
+        <name>RE0688</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>sprm[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1935[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0688E</id>
+        <name>RE0688</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>sprm[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1935[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0688X</id>
+        <name>RE0688</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>sprm[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1935[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0689C</id>
+        <name>RE0689</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1940[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0689E</id>
+        <name>RE0689</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>spmd[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1940[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0689X</id>
+        <name>RE0689</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>spmd[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1940[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0690C</id>
+        <name>RE0690</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>CE1940[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1943[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0690E</id>
+        <name>RE0690</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>CE1940[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1943[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0690X</id>
+        <name>RE0690</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE1940[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1943[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0691C</id>
+        <name>RE0691</name>
+        <reactant>4abutn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE1944[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0827C</id>
+        <name>RE0827</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>CE1935[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1936[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0827E</id>
+        <name>RE0827</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>CE1935[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1936[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0827X</id>
+        <name>RE0827</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE1935[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1936[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0828C</id>
+        <name>RE0828</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1939[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0828E</id>
+        <name>RE0828</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>spmd[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1939[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0828X</id>
+        <name>RE0828</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>spmd[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1939[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1234C</id>
+        <name>RE1234</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>N1aspmd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1235C</id>
+        <name>RE1235</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>n8aspmd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1236C</id>
+        <name>RE1236</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>N1aspmd[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE1059[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1238X</id>
+        <name>RE1238</name>
+        <reactant>accoa[x]</reactant>
+        <reactant>sprm[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>N1sprm[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1240C</id>
+        <name>RE1240</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>N1sprm[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>C03413[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1537C</id>
+        <name>RE1537</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>N1aspmd[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>ptrc[c]</product>
+        <product>CE4788[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1537X</id>
+        <name>RE1537</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>N1aspmd[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>ptrc[x]</product>
+        <product>CE4788[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1538C</id>
+        <name>RE1538</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>C03413[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>N1aspmd[c]</product>
+        <product>CE4788[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1538X</id>
+        <name>RE1538</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>C03413[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>N1aspmd[x]</product>
+        <product>CE4788[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1539C</id>
+        <name>RE1539</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>N1sprm[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>spmd[c]</product>
+        <product>CE4788[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1539X</id>
+        <name>RE1539</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>N1sprm[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>spmd[x]</product>
+        <product>CE4788[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1897C</id>
+        <name>RE1897</name>
+        <reactant>nad[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE5586[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1898C</id>
+        <name>RE1898</name>
+        <reactant>CE5586[c]</reactant>
+        <product>13dampp[c]</product>
+        <product>CE1944[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1899C</id>
+        <name>RE1899</name>
+        <reactant>lys_L[c]</reactant>
+        <reactant>spmd[c]</reactant>
+        <product>13dampp[c]</product>
+        <product>CE5588[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2032M</id>
+        <name>RE2032</name>
+        <reactant>accoa[m]</reactant>
+        <reactant>asn_L[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE1556[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2034C</id>
+        <name>RE2034</name>
+        <reactant>akg[c]</reactant>
+        <reactant>C02356[c]</reactant>
+        <product>2obut[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2040C</id>
+        <name>RE2040</name>
+        <reactant>CE1661[c]</reactant>
+        <product>5oxpro[c]</product>
+        <product>C02356[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2041C</id>
+        <name>RE2041</name>
+        <reactant>CE1665[c]</reactant>
+        <product>gthrd[c]</product>
+        <product>5oxpro[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2333C</id>
+        <name>RE2333</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>CE1939[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE2072[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2334C</id>
+        <name>RE2334</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>CE1940[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE1941[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2335C</id>
+        <name>RE2335</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>CE1935[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE1937[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2644C</id>
+        <name>RE2644</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE1556[c]</reactant>
+        <product>ac[c]</product>
+        <product>asn_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3367C</id>
+        <name>RE3367</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>CE1939[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>CE1943[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3367E</id>
+        <name>RE3367</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>CE1939[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>CE1943[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3367X</id>
+        <name>RE3367</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE1939[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>CE1943[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Urea cycle</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,387 @@
+<metabolites>
+    <metabolite>
+        <name>glyc_S[c]</name>
+        <formula>C3H5O4</formula>
+        <description>(S)-Glycerate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[c]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>2pg[c]</name>
+        <formula>C3H4O7P</formula>
+        <description>D-Glycerate 2-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>2pglyc[c]</name>
+        <formula>C2H2O6P</formula>
+        <description>2-phosphonatoglycolate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gcald[c]</name>
+        <formula>C2H4O2</formula>
+        <description>glycolaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>gcald[m]</name>
+        <formula>C2H4O2</formula>
+        <description>glycolaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[c]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[m]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[x]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc_R[c]</name>
+        <formula>C3H5O4</formula>
+        <description>D-glycerate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyclt[c]</name>
+        <formula>C2H3O3</formula>
+        <description>glycolate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyclt[m]</name>
+        <formula>C2H3O3</formula>
+        <description>glycolate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyclt[x]</name>
+        <formula>C2H3O3</formula>
+        <description>glycolate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[c]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[m]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[c]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[x]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>xu1p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-Xylulose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>xylu_D[c]</name>
+        <formula>C5H10O5</formula>
+        <description>D-xylulose</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>FBA4</id>
+        <name>D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase</name>
+        <reactant>xu1p_D[c]</reactant>
+        <product>dhap[c]</product>
+        <product>gcald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCALDD</id>
+        <name>Glycolaldehyde dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>gcald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>glyclt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCALDDm</id>
+        <name>Glycolaldehyde dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>gcald[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>glyclt[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLXO1</id>
+        <name>glyoxylate oxidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>glx[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>oxa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLXO2p</id>
+        <name>glyoxylate oxidase, peroxisomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>glx[x]</reactant>
+        <product>h[x]</product>
+        <product>h2o2[x]</product>
+        <product>oxa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCK2</id>
+        <name>glycerate kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glyc_R[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>2pg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCLTDy</id>
+        <name>Glycolate dehydrogenase (NADP)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>glx[c]</reactant>
+        <product>nadp[c]</product>
+        <product>glyclt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCLTDym</id>
+        <name>Glycolate dehydrogenase (NADP), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>glx[m]</reactant>
+        <product>nadp[m]</product>
+        <product>glyclt[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCTO1p</id>
+        <name>Glycolate oxidase, peroxisome</name>
+        <reactant>o2[x]</reactant>
+        <reactant>glyclt[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>glx[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPYRDC</id>
+        <name>hydroxypyruvate decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>hpyr[c]</reactant>
+        <product>co2[c]</product>
+        <product>gcald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPYRDCm</id>
+        <name>hydroxypyruvate decarboxylase, mitochondria</name>
+        <reactant>h[m]</reactant>
+        <reactant>hpyr[m]</reactant>
+        <product>co2[m]</product>
+        <product>gcald[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPYRR2x</id>
+        <name>hydroxypyruvate reductase (NADH)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>2 hpyr[c]</reactant>
+        <product>nad[c]</product>
+        <product>2 glyc_S[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPYRRy</id>
+        <name>Hydroxypyruvate reductase (NADPH)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>hpyr[c]</reactant>
+        <product>nadp[c]</product>
+        <product>glyc_R[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KHK2</id>
+        <name>ketohexokinase (D-xylulose)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>xylu_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>xu1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGLYCP</id>
+        <name>Phosphoglycolate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2pglyc[c]</reactant>
+        <product>pi[c]</product>
+        <product>glyclt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glyoxylate and dicarboxylate metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,505 @@
+<metabolites>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[x]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cit[c]</name>
+        <formula>C6H5O7</formula>
+        <description>Citrate</description>
+    </metabolite>
+    <metabolite>
+        <name>cit[m]</name>
+        <formula>C6H5O7</formula>
+        <description>Citrate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[x]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[c]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[m]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[m]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[m]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[c]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[m]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[x]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[c]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[m]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[x]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[c]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[m]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[x]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[m]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[m]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>succoa[m]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>Succinyl-CoA</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACITL</id>
+        <name>ATP-Citrate lyase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>cit[c]</reactant>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <product>accoa[c]</product>
+        <product>oaa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACONT</id>
+        <name>aconitase</name>
+        <reactant>cit[c]</reactant>
+        <product>icit[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACONTm</id>
+        <name>Aconitate hydratase</name>
+        <reactant>cit[m]</reactant>
+        <product>icit[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKGDm</id>
+        <name>2-oxoglutarate dehydrogenase</name>
+        <reactant>akg[m]</reactant>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>succoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CITL</id>
+        <name>Citrate lyase</name>
+        <reactant>cit[c]</reactant>
+        <product>ac[c]</product>
+        <product>oaa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSm</id>
+        <name>citrate synthase</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>accoa[m]</reactant>
+        <reactant>oaa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>cit[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUM</id>
+        <name>fumarase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>fum[c]</reactant>
+        <product>mal_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMm</id>
+        <name>fumarase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>fum[m]</reactant>
+        <product>mal_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ICDHxm</id>
+        <name>Isocitrate dehydrogenase (NAD+)</name>
+        <reactant>nad[m]</reactant>
+        <reactant>icit[m]</reactant>
+        <product>akg[m]</product>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ICDHy</id>
+        <name>isocitrate dehydrogenase (NADP)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>icit[c]</reactant>
+        <product>nadph[c]</product>
+        <product>akg[c]</product>
+        <product>co2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ICDHyp</id>
+        <name>Isocitrate dehydrogenase (NADP+)</name>
+        <reactant>nadp[x]</reactant>
+        <reactant>icit[x]</reactant>
+        <product>akg[x]</product>
+        <product>co2[x]</product>
+        <product>nadph[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>ICDHyrm</id>
+        <name>Isocitrate dehydrogenase (NADP+)</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>icit[m]</reactant>
+        <product>nadph[m]</product>
+        <product>akg[m]</product>
+        <product>co2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>MDH</id>
+        <name>malate dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>oaa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>MDHm</id>
+        <name>malate dehydrogenase, mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>oaa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCD1m</id>
+        <name>succinate dehydrogenase</name>
+        <reactant>fad[m]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>fum[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCOAS1m</id>
+        <name>Succinate--CoA ligase (GDP-forming)</name>
+        <reactant>coa[m]</reactant>
+        <reactant>gtp[m]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>pi[m]</product>
+        <product>gdp[m]</product>
+        <product>succoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCOASm</id>
+        <name>Succinate--CoA ligase (ADP-forming)</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>succoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0081</id>
+        <name>L-Alanine:2-oxoglutarate aminotransferase Glutamate metabolism / Alanine and aspartate metabolism EC:2.6.1.2</name>
+        <reactant>akg[m]</reactant>
+        <reactant>ala_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>pyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0509</id>
+        <name>Succinate:ubiquinone oxidoreductase Citrate cycle (TCA cycle) EC:1.3.5.1</name>
+        <reactant>q10[m]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>q10h2[m]</product>
+        <product>fum[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+    <reaction>
+        <id>MDHx</id>
+        <name>malate dehydrogenase, peroxisomal</name>
+        <reactant>nad[x]</reactant>
+        <reactant>mal_L[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>oaa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Citric acid cycle</subsystem>
+    </reaction>
+</reactions>

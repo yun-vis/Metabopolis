@@ -1,0 +1,287 @@
+<metabolites>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>fru[e]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Fructose</description>
+    </metabolite>
+    <metabolite>
+        <name>g1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gal1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[e]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>galt[c]</name>
+        <formula>C6H14O6</formula>
+        <description>galactitol</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[e]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[g]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glyald[c]</name>
+        <formula>C3H6O3</formula>
+        <description>D-Glyceraldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lcts[e]</name>
+        <formula>C12H22O11</formula>
+        <description>Lactose</description>
+    </metabolite>
+    <metabolite>
+        <name>lcts[g]</name>
+        <formula>C12H22O11</formula>
+        <description>Lactose</description>
+    </metabolite>
+    <metabolite>
+        <name>lcts[l]</name>
+        <formula>C12H22O11</formula>
+        <description>Lactose</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sucr[e]</name>
+        <formula>C12H22O11</formula>
+        <description>Sucrose</description>
+    </metabolite>
+    <metabolite>
+        <name>tag1p_D[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Tagatose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>tagat_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-tagatose</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[c]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>FBA5</id>
+        <name>D-Tagatose 1-phosphate D-glyceraldehyde-3-phosphate-lyase</name>
+        <reactant>tag1p_D[c]</reactant>
+        <product>dhap[c]</product>
+        <product>glyald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALK</id>
+        <name>galactokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gal[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>gal1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALOR</id>
+        <name>D-Galactose:NADP+ 1-oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>gal[c]</reactant>
+        <product>nadp[c]</product>
+        <product>galt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALT</id>
+        <name>galactose-1-phosphate uridylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <reactant>gal1p[c]</reactant>
+        <product>udpgal[c]</product>
+        <product>ppi[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALU</id>
+        <name>UTP-glucose-1-phosphate uridylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>g1p[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>udpg[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KHK3</id>
+        <name>ketohexokinase (D-tagatose)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>tagat_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>tag1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LACZe</id>
+        <name>b-galactosidase, extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>lcts[e]</reactant>
+        <product>glc_D[e]</product>
+        <product>gal[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LACZly</id>
+        <name>b-galactosidase,lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>lcts[l]</reactant>
+        <product>gal[l]</product>
+        <product>glc_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCRe</id>
+        <name>sucrose hydrolyzing enxyme, extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>sucr[e]</reactant>
+        <product>glc_D[e]</product>
+        <product>fru[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPG4E</id>
+        <name>UDPglucose 4-epimerase</name>
+        <reactant>udpg[c]</reactant>
+        <product>udpgal[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGALGTg</id>
+        <name>UDPgalactose:D-glucose 4-beta-D-galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>glc_D[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>lcts[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGLT</id>
+        <name>UDPglucose--hexose-1-phosphate uridylyltransferase</name>
+        <reactant>gal1p[c]</reactant>
+        <reactant>udpg[c]</reactant>
+        <product>udpgal[c]</product>
+        <product>g1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Galactose metabolism</subsystem>
+    </reaction>
+</reactions>

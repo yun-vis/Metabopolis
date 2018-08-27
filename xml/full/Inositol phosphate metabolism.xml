@@ -1,0 +1,1008 @@
+<metabolites>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[n]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[r]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[c]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[n]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[c]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[c]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>mi13456p[c]</name>
+        <formula>C6H7O21P5</formula>
+        <description>myo-inositol 1,3,4,5,6-pentakisphosphate(10-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi13456p[n]</name>
+        <formula>C6H7O21P5</formula>
+        <description>myo-inositol 1,3,4,5,6-pentakisphosphate(10-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1345p[c]</name>
+        <formula>C6H8O18P4</formula>
+        <description>1D-myo-inositol 1,3,4,5-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1345p[n]</name>
+        <formula>C6H8O18P4</formula>
+        <description>1D-myo-inositol 1,3,4,5-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1346p[c]</name>
+        <formula>C6H8O18P4</formula>
+        <description>myo-inositol 1,3,4,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1346p[n]</name>
+        <formula>C6H8O18P4</formula>
+        <description>myo-inositol 1,3,4,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi134p[c]</name>
+        <formula>C6H9O15P3</formula>
+        <description>1D-myo-inositol 1,3,4-trisphosphate(6-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi13p[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>1D-myo-Inositol 1,3-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1456p[n]</name>
+        <formula>C6H8O18P4</formula>
+        <description>1D-myo-inositol 1,4,5,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi145p[c]</name>
+        <formula>C6H9O15P3</formula>
+        <description>1D-myo-inositol 1,4,5-trisphosphate(6-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi145p[n]</name>
+        <formula>C6H9O15P3</formula>
+        <description>1D-myo-inositol 1,4,5-trisphosphate(6-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi14p[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonatooxy)cyclohexyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi14p[n]</name>
+        <formula>C6H10O12P2</formula>
+        <description>(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonatooxy)cyclohexyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1p_D[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 1-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1p_D[n]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 1-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi3456p[c]</name>
+        <formula>C6H8O18P4</formula>
+        <description>1D-myo-inositol 3,4,5,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi34p[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>1D-myo-Inositol 3,4-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi3p_D[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 3-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi4p_D[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 4-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>minohp[c]</name>
+        <formula>C6H6O24P6</formula>
+        <description>myo-inositol hexakisphosphate(12-)</description>
+    </metabolite>
+    <metabolite>
+        <name>minohp[n]</name>
+        <formula>C6H6O24P6</formula>
+        <description>myo-inositol hexakisphosphate(12-)</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pail345p_hs[c]</name>
+        <formula>C9H13O18P4FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail345p_hs[n]</name>
+        <formula>C9H13O18P4FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail34p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail34p_hs[n]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail34p_hs[r]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail35p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail35p_hs[r]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[r]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[n]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[r]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[r]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[c]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[n]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[r]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[n]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi12346p[c]</name>
+        <formula>C6H6O27P7</formula>
+        <description>5-Diphosphoinositol pentakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi12346p[n]</name>
+        <formula>C6H6O27P7</formula>
+        <description>5-Diphosphoinositol pentakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi1346p[c]</name>
+        <formula>C6H7O24P6</formula>
+        <description>Diphosphoinositol tetrakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi1346p[n]</name>
+        <formula>C6H7O24P6</formula>
+        <description>Diphosphoinositol tetrakisphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>INOSTO</id>
+        <name>inositol oxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>inost[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>glcur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI13456PK</id>
+        <name>inositol-1,3,4,5,6-pentakisphosphate 2-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>mi13456p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>minohp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1345PKn</id>
+        <name>inositol-1,3,4,5-triphosphate 6-kinase, nucleus</name>
+        <reactant>atp[n]</reactant>
+        <reactant>mi1345p[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>mi13456p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1345PP</id>
+        <name>inositol-1,3,4,5-trisphosphate 5-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi1345p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi134p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1346PKn</id>
+        <name>inositol-1,3,4,6-tetrakisphosphate 5-kinase, nucleus</name>
+        <reactant>atp[n]</reactant>
+        <reactant>mi1346p[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>mi13456p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI134P4P</id>
+        <name>inositol-1,3,4-trisphosphate 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi134p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi13p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI134PK</id>
+        <name>inositol-1,3,4-trisphosphate 6-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>mi134p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>mi1346p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI134PP</id>
+        <name>inositol-1,3,4-trisphosphate 1-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi134p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi34p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI13PP</id>
+        <name>inositol-1,3-bisphosphate 3-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi13p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1456PKn</id>
+        <name>inositol-1,4,5,6- tetrakisphosphate 3-kinase, nucleus</name>
+        <reactant>atp[n]</reactant>
+        <reactant>mi1456p[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>mi13456p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI145P6Kn</id>
+        <name>inositol-1,4,5-triphosphate 6-kinase, nucleus</name>
+        <reactant>atp[n]</reactant>
+        <reactant>mi145p[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>mi1456p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI145PK</id>
+        <name>inositol-1,4,5-trisphosphate 3-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>mi145p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>mi1345p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI145PKn</id>
+        <name>inositol-1,4,5-trisphosphate 3-kinase, nucleus</name>
+        <reactant>atp[n]</reactant>
+        <reactant>mi145p[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>mi1345p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI145PP</id>
+        <name>inositol-1,4,5-trisphosphate 5-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi145p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi14p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI14P4P</id>
+        <name>inositol-1,4-bisphosphate 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi14p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI14PP</id>
+        <name>inositol-1,4-bisphosphate 1-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi14p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi4p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1PP</id>
+        <name>myo-inositol 1-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi1p_D[c]</reactant>
+        <product>pi[c]</product>
+        <product>inost[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1PS</id>
+        <name>myo-Inositol-1-phosphate synthase</name>
+        <reactant>g6p[c]</reactant>
+        <product>mi1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI3456PK</id>
+        <name>inositol-3,4,5,6-tetrakisphosphate 1-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>mi3456p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>mi13456p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI34PP</id>
+        <name>inositol-3,4-bisphosphate 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi34p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi3p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI3PP</id>
+        <name>myo-inositol 3-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi3p_D[c]</reactant>
+        <product>pi[c]</product>
+        <product>inost[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI4PP</id>
+        <name>myo-inositol 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mi4p_D[c]</reactant>
+        <product>pi[c]</product>
+        <product>inost[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI345P3P</id>
+        <name>phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail345p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail45p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI345P3Pn</id>
+        <name>phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail345p_hs[n]</reactant>
+        <product>pail45p_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI345P5P</id>
+        <name>phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail345p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail34p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI345P5Pn</id>
+        <name>phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail345p_hs[n]</reactant>
+        <product>pi[n]</product>
+        <product>pail34p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI34P3Pn</id>
+        <name>phosphatidylinositol-3,4-bisphosphate 3-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail34p_hs[n]</reactant>
+        <product>pail4p_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI34P4Pn</id>
+        <name>phosphatidylinositol-3,4-bisphosphate 4-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail34p_hs[n]</reactant>
+        <product>pi[n]</product>
+        <product>pail3p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI34P5K</id>
+        <name>phosphatidylinositol 3,4-bisphosphate 5-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail34p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail345p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI34P5Kn</id>
+        <name>phosphatidylinositol 3,4-bisphosphate 5-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail34p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail345p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI3P3Pn</id>
+        <name>phosphatidylinositol-3-phosphate 3-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail3p_hs[n]</reactant>
+        <product>pail_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI3P4K</id>
+        <name>phosphatidylinositol 3-phosphate 4-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail3p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail34p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI3P4Kn</id>
+        <name>phosphatidylinositol 3-phosphate 4-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail3p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail34p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI3P5K</id>
+        <name>phosphatidylinositol 3-phosphate 5-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail3p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail35p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45P3K</id>
+        <name>phosphatidylinositol 4,5-bisphosphate 3-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail45p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail345p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45P3Kn</id>
+        <name>phosphatidylinositol 4,5-bisphosphate 3-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail45p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail345p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45P4P</id>
+        <name>phosphatidylinositol-4,5-bisphosphate 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail45p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail5p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45P5P</id>
+        <name>phosphatidylinositol-4,5-bisphosphate 5-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail45p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail4p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45P5Pn</id>
+        <name>phosphatidylinositol-4,5-bisphosphate 5-phosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail45p_hs[n]</reactant>
+        <product>pail4p_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45PLC</id>
+        <name>phosphatidylinositol 4,5-bisphosphate phospholipase C</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail45p_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>dag_hs[c]</product>
+        <product>mi145p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI45PLCn</id>
+        <name>phosphatidylinositol 4,5-bisphosphate phospholipase C, nucleus</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail45p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>dag_hs[n]</product>
+        <product>mi145p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4P3K</id>
+        <name>phosphatidylinositol 4-phosphate 3-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail4p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail34p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4P3Ker</id>
+        <name>phosphatidylinositol 4-phosphate 3-kinase, endoplasmic reticulum</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail4p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail34p_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4P3Kn</id>
+        <name>phosphatidylinositol 4-phosphate 3-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail4p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail34p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4P5Kn</id>
+        <name>phosphatidylinositol 4-phosphate 5-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail4p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail45p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4PLC</id>
+        <name>phosphatidylinositol 4-phosphate phospholipase C</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail4p_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>dag_hs[c]</product>
+        <product>mi14p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4PLCn</id>
+        <name>phosphatidylinositol 4-phosphate phospholipase C, nucleus</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail4p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>dag_hs[n]</product>
+        <product>mi14p[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4PP</id>
+        <name>phosphatidylinositol-4-phosphate 4-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail4p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI5P3K</id>
+        <name>phosphatidylinositol-5-phosphate 3-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail5p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail35p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI5P3Ker</id>
+        <name>phosphatidylinositol-5-phosphate 3-kinase, endoplasmic reticulum</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail5p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail35p_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI5P4K</id>
+        <name>phosphatidylinositol-5-phosphate 4-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail5p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail45p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI5P4Kn</id>
+        <name>phosphatidylinositol-5-phosphate 4-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail5p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail45p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK3</id>
+        <name>phosphatidylinositol 3-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail3p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK3er</id>
+        <name>phosphatidylinositol 3-kinase, endoplasmic reticulum</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail3p_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK3n</id>
+        <name>phosphatidylinositol 3-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail3p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK4n</id>
+        <name>phosphatidylinositol 4-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail4p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK5</id>
+        <name>phosphatidylinositol 5-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail5p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK5n</id>
+        <name>phosphatidylinositol 5-kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pail5p_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIPLC</id>
+        <name>phosphatidylinositol phospholipase C</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>dag_hs[c]</product>
+        <product>mi1p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIPLCn</id>
+        <name>phosphatidylinositol phospholipase C, nucleus</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>dag_hs[n]</product>
+        <product>mi1p_D[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMI12346PH</id>
+        <name>5-diphosphoinositol-1,2,3,4,6-pentakisphosphate diphosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ppmi12346p[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>minohp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMI12346PHn</id>
+        <name>5-diphosphoinositol-1,2,3,4,6-pentakisphosphate diphosphohydrolase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>ppmi12346p[n]</reactant>
+        <product>h[n]</product>
+        <product>minohp[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMI1346PH</id>
+        <name>diphosphoinositol-1,3,4,6-tetrakisphosphate diphosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ppmi1346p[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>mi13456p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMI1346PHn</id>
+        <name>diphosphoinositol-1,3,4,6-tetrakisphosphate diphosphohydrolase, nucleus</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>ppmi1346p[n]</reactant>
+        <product>h[n]</product>
+        <product>mi13456p[n]</product>
+        <product>pi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Inositol phosphate metabolism</subsystem>
+    </reaction>
+</reactions>

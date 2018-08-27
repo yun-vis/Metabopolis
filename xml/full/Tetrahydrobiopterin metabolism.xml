@@ -1,0 +1,525 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[n]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[n]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>5htrp[c]</name>
+        <formula>C11H12N2O3</formula>
+        <description>5-hydroxy-L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>5mthf[c]</name>
+        <formula>C20H24N7O6</formula>
+        <description>5-Methyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>6pthp[c]</name>
+        <formula>C9H11N5O3</formula>
+        <description>6-pyruvoyl-5,6,7,8-tetrahydropterin</description>
+    </metabolite>
+    <metabolite>
+        <name>6pthp[n]</name>
+        <formula>C9H11N5O3</formula>
+        <description>6-pyruvoyl-5,6,7,8-tetrahydropterin</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2705[c]</name>
+        <formula>C9H13N5O3</formula>
+        <description>quinonoid dihydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2705[n]</name>
+        <formula>C9H13N5O3</formula>
+        <description>quinonoid dihydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5236[c]</name>
+        <formula>C9H13N5O3</formula>
+        <description>O2&apos;-4a-cyclic-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5236[n]</name>
+        <formula>C9H13N5O3</formula>
+        <description>O2&apos;-4a-cyclic-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01254[c]</name>
+        <formula>C9H13N5O3</formula>
+        <description>6-Lactoyl-5,6,7,8-tetrahydropterin</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01651[c]</name>
+        <formula></formula>
+        <description>Formamidopyrimidine nucleoside triphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01651[n]</name>
+        <formula></formula>
+        <description>Formamidopyrimidine nucleoside triphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01652[c]</name>
+        <formula>C9H14N5O14P3</formula>
+        <description>2,5-Diaminopyrimidine nucleoside triphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01652[n]</name>
+        <formula>C9H14N5O14P3</formula>
+        <description>2,5-Diaminopyrimidine nucleoside triphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01710[c]</name>
+        <formula></formula>
+        <description>2,5-Diamino-6-(5-triphosphoryl-3,4-trihydroxy-2-oxopentyl)- amino-4-oxopyrimidine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01710[n]</name>
+        <formula></formula>
+        <description>2,5-Diamino-6-(5-triphosphoryl-3,4-trihydroxy-2-oxopentyl)- amino-4-oxopyrimidine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahdt[c]</name>
+        <formula>C9H12N5O13P3</formula>
+        <description>7,8-dihydroneopterin 3&apos;-triphosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ahdt[n]</name>
+        <formula>C9H12N5O13P3</formula>
+        <description>7,8-dihydroneopterin 3&apos;-triphosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dhbpt[c]</name>
+        <formula>C9H13N5O3</formula>
+        <description>6,7-dihydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[n]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[n]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[c]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[c]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>pppi[c]</name>
+        <formula>HO10P3</formula>
+        <description>triphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pppi[n]</name>
+        <formula>HO10P3</formula>
+        <description>triphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt4acam[c]</name>
+        <formula>C9H15N5O4</formula>
+        <description>4a-hydroxytetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt4acam[n]</name>
+        <formula>C9H15N5O4</formula>
+        <description>4a-hydroxytetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt[c]</name>
+        <formula>C9H15N5O3</formula>
+        <description>5,6,7,8-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt[n]</name>
+        <formula>C9H15N5O3</formula>
+        <description>5,6,7,8-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>trp_L[c]</name>
+        <formula>C11H12N2O2</formula>
+        <description>L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>DHPR</id>
+        <name>6,7-dihydropteridine reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>dhbpt[c]</reactant>
+        <product>nad[c]</product>
+        <product>thbpt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHPR2</id>
+        <name>6,7-dihydropteridine reduction</name>
+        <reactant>5mthf[c]</reactant>
+        <reactant>dhbpt[c]</reactant>
+        <product>h[c]</product>
+        <product>thbpt[c]</product>
+        <product>mlthf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTPCI</id>
+        <name>GTP cyclohydrolase I</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <product>h[c]</product>
+        <product>for[c]</product>
+        <product>ahdt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTPCIn</id>
+        <name>GTP cyclohydrolase I, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>gtp[n]</reactant>
+        <product>h[n]</product>
+        <product>for[n]</product>
+        <product>ahdt[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PTHPS</id>
+        <name>6-pyruvoyltetrahydropterin synthase</name>
+        <reactant>ahdt[c]</reactant>
+        <product>pppi[c]</product>
+        <product>6pthp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PTHPSn</id>
+        <name>6-pyruvoyltetrahydropterin synthase, nuclear</name>
+        <reactant>ahdt[n]</reactant>
+        <product>pppi[n]</product>
+        <product>6pthp[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPR</id>
+        <name>sepiapterin reductase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>6pthp[c]</reactant>
+        <product>2 nadp[c]</product>
+        <product>thbpt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPRn</id>
+        <name>sepiapterin reductase, nuclear</name>
+        <reactant>2 h[n]</reactant>
+        <reactant>6pthp[n]</reactant>
+        <reactant>2 nadph[n]</reactant>
+        <product>2 nadp[n]</product>
+        <product>thbpt[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THBPT4ACAMDASE</id>
+        <name>Tetrahydrobiopterin-4a-carbinolamine dehydratase</name>
+        <reactant>thbpt4acam[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dhbpt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0120</id>
+        <name>GTP 7,8-8,9-dihydrolase Folate biosynthesis EC:3.5.4.16</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>4 h[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <product>HC01651[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0121</id>
+        <name>r0121</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>4 h[n]</reactant>
+        <reactant>gtp[n]</reactant>
+        <product>HC01651[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0398</id>
+        <name>NADPH:6,7-dihydropteridine oxidoreductase Folate biosynthesis EC:1.5.1.34</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>dhbpt[c]</reactant>
+        <product>nadp[c]</product>
+        <product>thbpt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0399</id>
+        <name>L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating) Phenylalanine, tyrosine and tryptophan biosynthesis EC:1.14.16.1</name>
+        <reactant>o2[c]</reactant>
+        <reactant>thbpt[c]</reactant>
+        <reactant>phe_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dhbpt[c]</product>
+        <product>tyr_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0402</id>
+        <name>Tetrahydrobiopterin:NADP+ oxidoreductase Folate biosynthesis EC:1.1.1.153</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>HC01254[c]</reactant>
+        <product>nadp[c]</product>
+        <product>thbpt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0403</id>
+        <name>L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating) Tryptophan metabolism EC:1.14.16.4</name>
+        <reactant>o2[c]</reactant>
+        <reactant>thbpt[c]</reactant>
+        <reactant>trp_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>5htrp[c]</product>
+        <product>dhbpt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0673</id>
+        <name>6-Lactoyl-5,6,7,8-tetrahydropterin:NADP+ 2-oxidoreductase Folate biosynthesis EC:1.1.1.220</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>6pthp[c]</reactant>
+        <product>nadp[c]</product>
+        <product>HC01254[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0708</id>
+        <name>2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate 7,8-8,9-dihydrolase Folate biosynthesis EC:3.5.4.16</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>4 h[c]</reactant>
+        <reactant>ahdt[c]</reactant>
+        <product>HC01710[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0709</id>
+        <name>r0709</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>4 h[n]</reactant>
+        <reactant>ahdt[n]</reactant>
+        <product>HC01710[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0776</id>
+        <name>r0776</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>HC01651[n]</reactant>
+        <product>5 h[n]</product>
+        <product>for[n]</product>
+        <product>HC01652[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0777</id>
+        <name>GTP 7,8-8,9-dihydrolase Folate biosynthesis EC:3.5.4.16</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>HC01652[c]</reactant>
+        <product>HC01710[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0778</id>
+        <name>r0778</name>
+        <reactant>4 h[n]</reactant>
+        <reactant>HC01652[n]</reactant>
+        <product>HC01710[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0830C</id>
+        <name>RE0830</name>
+        <reactant>thbpt4acam[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2705[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0830N</id>
+        <name>RE0830</name>
+        <reactant>thbpt4acam[n]</reactant>
+        <product>h2o[n]</product>
+        <product>CE2705[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1709C</id>
+        <name>RE1709</name>
+        <reactant>thbpt4acam[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5236[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1709N</id>
+        <name>RE1709</name>
+        <reactant>thbpt4acam[n]</reactant>
+        <product>h2o[n]</product>
+        <product>CE5236[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2660C</id>
+        <name>RE2660</name>
+        <reactant>CE5236[c]</reactant>
+        <product>CE2705[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2660N</id>
+        <name>RE2660</name>
+        <reactant>CE5236[n]</reactant>
+        <product>CE2705[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Tetrahydrobiopterin metabolism</subsystem>
+    </reaction>
+</reactions>

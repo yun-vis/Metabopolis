@@ -1,0 +1,803 @@
+<metabolites>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2maacoa[m]</name>
+        <formula>C26H38N7O18P3S</formula>
+        <description>2-methylacetoacetyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2mb2coa[m]</name>
+        <formula>C26H38N7O17P3S</formula>
+        <description>2-methylcrotonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2mbcoa[m]</name>
+        <formula>C26H40N7O17P3S</formula>
+        <description>2-methylbutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2mop[m]</name>
+        <formula>C4H5O3</formula>
+        <description>2-methyl-3-oxopropanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>2mp2coa[m]</name>
+        <formula>C25H36N7O17P3S</formula>
+        <description>2-Methylprop-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>2mpdhl[m]</name>
+        <formula>C12H23NO2S2</formula>
+        <description>S-(2-Methylpropanoyl)-dihydrolipoamide</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>(S)-3-aminoisobutyric acid</description>
+    </metabolite>
+    <metabolite>
+        <name>3hibutcoa[m]</name>
+        <formula>C25H38N7O18P3S</formula>
+        <description>(S)-3-Hydroxyisobutyryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>3hmbcoa[m]</name>
+        <formula>C26H40N7O18P3S</formula>
+        <description>(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3hmp[m]</name>
+        <formula>C4H7O3</formula>
+        <description>3-hydroxy-2-methylpropanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mb2coa[m]</name>
+        <formula>C26H38N7O17P3S</formula>
+        <description>3-methylbut-2-enoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3mgcoa[m]</name>
+        <formula>C27H37N7O19P3S</formula>
+        <description>trans-3-methylglutaconyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3mob[c]</name>
+        <formula>C5H7O3</formula>
+        <description>3-methyl-2-oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mob[m]</name>
+        <formula>C5H7O3</formula>
+        <description>3-methyl-2-oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mop[c]</name>
+        <formula>C6H9O3</formula>
+        <description>3-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mop[m]</name>
+        <formula>C6H9O3</formula>
+        <description>3-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mop[c]</name>
+        <formula>C6H9O3</formula>
+        <description>4-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mop[m]</name>
+        <formula>C6H9O3</formula>
+        <description>4-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2028[c]</name>
+        <formula>C5H9O3</formula>
+        <description>beta-hydroxy-beta-methylbutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5068[m]</name>
+        <formula>C6H6O4</formula>
+        <description>2-methylglutaconic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5456[c]</name>
+        <formula>C6H11O3</formula>
+        <description>(R)-2-hydroxy-4-methylpentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5875[m]</name>
+        <formula>C27H37N7O19P3S</formula>
+        <description>2-methylglutaconyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00900[m]</name>
+        <formula>C4H4O4</formula>
+        <description>Methylmalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01223[m]</name>
+        <formula>C25H38N7O18P3S</formula>
+        <description>3-hydroxy-2-methylpropanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[m]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[m]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[x]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dhlam[m]</name>
+        <formula>C8H17NOS2</formula>
+        <description>dihydrolipoamide</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hco3[m]</name>
+        <formula>CHO3</formula>
+        <description>Bicarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[m]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ibcoa[m]</name>
+        <formula>C25H38N7O17P3S</formula>
+        <description>isobutyryl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[m]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ivcoa[m]</name>
+        <formula>C26H40N7O17P3S</formula>
+        <description>Isovaleryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[m]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>mmcoa_R[m]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>(R)-methylmalonyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mmcoa_S[c]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>(S)-methylmalonyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mmcoa_S[m]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>(S)-methylmalonyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mmcoa_S[x]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>(S)-methylmalonyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[m]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[x]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[m]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[m]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>succoa[m]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>Succinyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[c]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[m]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>3AIBTm</id>
+        <name>L-3-aminoisobutyrate transaminase, mitochondrial</name>
+        <reactant>2mop[m]</reactant>
+        <reactant>glu_L[m]</reactant>
+        <product>akg[m]</product>
+        <product>3aib[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HBCOAHLm</id>
+        <name>3-hydroxyisobutyryl-CoA hydrolase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>3hibutcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>3hmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACACT10m</id>
+        <name>acetyl-CoA C-acetyltransferase, mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>2maacoa[m]</reactant>
+        <product>accoa[m]</product>
+        <product>ppcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACOAD10m</id>
+        <name>acyl-CoA dehydrogenase (2-methylbutanoyl-CoA), mitochondrial</name>
+        <reactant>2mbcoa[m]</reactant>
+        <reactant>fad[m]</reactant>
+        <product>2mb2coa[m]</product>
+        <product>fadh2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACOAD8m</id>
+        <name>acyl-CoA dehydrogenase (isovaleryl-CoA), mitochondrial</name>
+        <reactant>fad[m]</reactant>
+        <reactant>ivcoa[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>3mb2coa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACOAD9m</id>
+        <name>acyl-CoA dehydrogenase (isobutyryl-CoA), mitochondrial</name>
+        <reactant>fad[m]</reactant>
+        <reactant>ibcoa[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>2mp2coa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ECOAH12m</id>
+        <name>3-hydroxyacyl-CoA dehydratase (3-hydroxyisobutyryl-CoA) (mitochondria)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>2mp2coa[m]</reactant>
+        <product>3hibutcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ECOAH9m</id>
+        <name>2-Methylprop-2-enoyl-CoA (2-Methylbut-2-enoyl-CoA), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>2mb2coa[m]</reactant>
+        <product>3hmbcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HACD9m</id>
+        <name>3-hydroxyacyl-CoA dehydrogenase (2-Methylacetoacetyl-CoA), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>3hmbcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>2maacoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HIBDm</id>
+        <name>3-hydroxyisobutyrate dehydrogenase, mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>3hmp[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>2mop[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ILETA</id>
+        <name>isoleucine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>ile_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>3mop[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ILETAm</id>
+        <name>isoleucine transaminase, mitochondrial</name>
+        <reactant>akg[m]</reactant>
+        <reactant>ile_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>3mop[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUTA</id>
+        <name>leucine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>leu_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>4mop[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUTAm</id>
+        <name>leucine transaminase, mitochondrial</name>
+        <reactant>akg[m]</reactant>
+        <reactant>leu_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>4mop[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MCCCrm</id>
+        <name>methylcrotonoyl-CoA carboxylase, mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>hco3[m]</reactant>
+        <reactant>3mb2coa[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>3mgcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MGCHrm</id>
+        <name>methylglutaconyl-CoA hydratase (reversible), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>3mgcoa[m]</reactant>
+        <product>hmgcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMCD</id>
+        <name>Methylmalonyl-CoA decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>mmcoa_S[c]</reactant>
+        <product>co2[c]</product>
+        <product>ppcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMCDm</id>
+        <name>Methylmalonyl-CoA decarboxylase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>mmcoa_S[m]</reactant>
+        <product>co2[m]</product>
+        <product>ppcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMCDp</id>
+        <name>Methylmalonyl-CoA decarboxylase, peroxisomal</name>
+        <reactant>h[x]</reactant>
+        <reactant>mmcoa_S[x]</reactant>
+        <product>co2[x]</product>
+        <product>ppcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMEm</id>
+        <name>methylmalonyl-CoA epimerase/racemase</name>
+        <reactant>mmcoa_R[m]</reactant>
+        <product>mmcoa_S[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMMm</id>
+        <name>methylmalonyl-CoA mutase</name>
+        <reactant>mmcoa_R[m]</reactant>
+        <product>succoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMSAD1m</id>
+        <name>methylmalonate-semialdehyde dehydrogenase</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>2mop[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>ppcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMTSADm</id>
+        <name>malonate-semialdehyde dehydrogenase (acetylating), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>2mop[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>mmcoa_R[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OCOAT1m</id>
+        <name>3-oxoacid CoA-transferase</name>
+        <reactant>acac[m]</reactant>
+        <reactant>succoa[m]</reactant>
+        <product>aacoa[m]</product>
+        <product>succ[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OIVD1m</id>
+        <name>2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>4mop[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>ivcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OIVD2m</id>
+        <name>2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>3mob[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>ibcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OIVD3m</id>
+        <name>2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>3mop[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>2mbcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPCOACm</id>
+        <name>Propionyl-CoA carboxylase, mitochondrial</name>
+        <reactant>ppcoa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>hco3[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>mmcoa_S[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>VALTA</id>
+        <name>valine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>val_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>3mob[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>VALTAm</id>
+        <name>valine transaminase, mitochondiral</name>
+        <reactant>akg[m]</reactant>
+        <reactant>val_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>3mob[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0560</id>
+        <name>2-Methylpropanoyl-CoA:oxygen 2,3-oxidoreductase Valine, leucine and isoleucine degradation EC:1.3.99.2</name>
+        <reactant>ibcoa[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>2mp2coa[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0561</id>
+        <name>2-methylpropanoyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-(2-methylpropanoyl)transferase Valine, leucine and isoleucine degradation EC:2.3.1.168</name>
+        <reactant>coa[m]</reactant>
+        <reactant>2mpdhl[m]</reactant>
+        <product>ibcoa[m]</product>
+        <product>dhlam[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0571</id>
+        <name>(S)-Methylmalonyl-CoA hydrolase Propanoate metabolism EC:3.1.2.17</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>mmcoa_S[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>HC00900[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0603</id>
+        <name>(S)-2-methylbutanoyl-CoA:acceptor 2,3-oxidoreductase Valine, leucine and isoleucine degradation EC:1.3.99.12</name>
+        <reactant>2mbcoa[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>2mb2coa[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0643</id>
+        <name>(S)-Methylmalonate semialdehyde:NAD+ oxidoreductase Valine, leucine and isoleucine degradation EC:1.2.1.3</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>2mop[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>HC00900[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0655</id>
+        <name>3-Methylbutanoyl-CoA:(acceptor) 2,3-oxidoreductase Valine, leucine and isoleucine degradation EC:1.3.99.10</name>
+        <reactant>ivcoa[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>3mb2coa[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0669</id>
+        <name>(S)-3-Hydroxyisobutyryl-CoA hydro-lyase Valine, leucine and isoleucine degradation EC:4.2.1.17</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>2mp2coa[m]</reactant>
+        <product>HC01223[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1266C</id>
+        <name>RE1266</name>
+        <reactant>o2[c]</reactant>
+        <reactant>4mop[c]</reactant>
+        <product>co2[c]</product>
+        <product>CE2028[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2292C</id>
+        <name>RE2292</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE5456[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>4mop[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2453M</id>
+        <name>RE2453</name>
+        <reactant>atp[m]</reactant>
+        <reactant>hco3[m]</reactant>
+        <reactant>2mb2coa[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>CE5875[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2454M</id>
+        <name>RE2454</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5875[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE5068[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3326M</id>
+        <name>RE3326</name>
+        <reactant>ibcoa[m]</reactant>
+        <reactant>dhlam[m]</reactant>
+        <product>coa[m]</product>
+        <product>2mpdhl[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Valine, leucine, and isoleucine metabolism</subsystem>
+    </reaction>
+</reactions>

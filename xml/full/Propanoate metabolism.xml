@@ -1,0 +1,355 @@
+<metabolites>
+    <metabolite>
+        <name>2hb[c]</name>
+        <formula>C4H7O3</formula>
+        <description>2-Hydroxybutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>2mcacn[c]</name>
+        <formula>C7H5O6</formula>
+        <description>(Z)-but-2-ene-1,2,3-tricarboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>2mcit[c]</name>
+        <formula>C7H7O7</formula>
+        <description>2-methylcitrate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[c]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[m]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3hpp[c]</name>
+        <formula>C3H5O3</formula>
+        <description>3-hydroxypropionate</description>
+    </metabolite>
+    <metabolite>
+        <name>3hpp[m]</name>
+        <formula>C3H5O3</formula>
+        <description>3-hydroxypropionate</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[c]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[c]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[m]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acetone[m]</name>
+        <formula>C3H6O</formula>
+        <description>acetone</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>micit[c]</name>
+        <formula>C7H7O7</formula>
+        <description>(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>msa[c]</name>
+        <formula>C3H3O3</formula>
+        <description>3-oxopropanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>msa[m]</name>
+        <formula>C3H3O3</formula>
+        <description>3-oxopropanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[c]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[c]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[m]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[m]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prpncoa[m]</name>
+        <formula>C24H34N7O17P3S</formula>
+        <description>acryloyl-CoA(4-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>2HBO</id>
+        <name>2-Hydroxybutyrate:NAD+ oxidoreductase</name>
+        <reactant>2hb[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <product>h[c]</product>
+        <product>2obut[c]</product>
+        <product>nadh[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HPPD</id>
+        <name>3-hydroxypropionate dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>3hpp[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>msa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AACOAT</id>
+        <name>Acetoacetyl-CoA:acetate CoA-transferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>acac[c]</reactant>
+        <product>aacoa[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACCOAL</id>
+        <name>acetate-CoA ligase (ADP-forming)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>ppa[c]</reactant>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <product>ppcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACCOALm</id>
+        <name>acetate-CoA ligase (AMP-forming)</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>ppa[m]</reactant>
+        <product>ppcoa[m]</product>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACS2</id>
+        <name>acetyl-CoA synthase (propionate)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>ppa[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>ppcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADCim</id>
+        <name>Acetoacetate decarboxylation (irreversible), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>acac[m]</reactant>
+        <product>co2[m]</product>
+        <product>acetone[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MCITS</id>
+        <name>2-methylcitrate synthase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ppcoa[c]</reactant>
+        <reactant>oaa[c]</reactant>
+        <product>h[c]</product>
+        <product>2mcit[c]</product>
+        <product>coa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MICITDr</id>
+        <name>2-methylisocitrate dehydratase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2mcacn[c]</reactant>
+        <product>micit[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MMSAD3m</id>
+        <name>methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>msa[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>accoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPCOAOm</id>
+        <name>Propanoyl-CoA:FAD 2,3-oxidoreductase, mitochondrial</name>
+        <reactant>ppcoa[m]</reactant>
+        <reactant>fad[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>prpncoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0365</id>
+        <name>3-hydroxypropanoate:NAD+ oxidoreductase beta-Alanine metabolism / Propanoate metabolism EC:1.1.1.59</name>
+        <reactant>nad[m]</reactant>
+        <reactant>3hpp[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>msa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1154</id>
+        <name>EC:1.2.7.2</name>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>2obut[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>ppcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Propanoate metabolism</subsystem>
+    </reaction>
+</reactions>

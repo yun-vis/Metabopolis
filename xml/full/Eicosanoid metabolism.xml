@@ -1,0 +1,4725 @@
+<metabolites>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>12HPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>12-Hydroperoxyeicosa-5,8,10,14-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>12RHPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>12R-Hydroperoxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>12harachd[r]</name>
+        <formula>C20H31O3</formula>
+        <description>12 hydroxy arachidonic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>15HPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>15(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>18harachd[r]</name>
+        <formula>C20H31O3</formula>
+        <description>18 hydroxy arachidonic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[c]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhdascb[c]</name>
+        <formula>C6H6O6</formula>
+        <description>dehydroascorbide(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5535[c]</name>
+        <formula>C20H30O4</formula>
+        <description>9-peroxy-5Z,7E,11Z,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5537[c]</name>
+        <formula>C20H30O4</formula>
+        <description>11-peroxy-5Z,8Z,12E,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5925[c]</name>
+        <formula>C20H30O4</formula>
+        <description>12-peroxy-5Z,8Z,10E,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5928[c]</name>
+        <formula>C20H30O4</formula>
+        <description>8-peroxy-5Z,9E,11Z,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>5HPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>5(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C01041[c]</name>
+        <formula>C6H6O6</formula>
+        <description>monodehydroascorbate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C03577[x]</name>
+        <formula>C23H36NO6S</formula>
+        <description>20-hydroxy-leukotriene E4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04685[m]</name>
+        <formula>C20H31O4</formula>
+        <description>prostaglandin A1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04685[r]</name>
+        <formula>C20H31O4</formula>
+        <description>prostaglandin A1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04853[c]</name>
+        <formula>C20H31O5</formula>
+        <description>20-hydroxy-leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04853[m]</name>
+        <formula>C20H31O5</formula>
+        <description>20-hydroxy-leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04853[r]</name>
+        <formula>C20H31O5</formula>
+        <description>20-hydroxy-leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C05953[m]</name>
+        <formula>C20H29O4</formula>
+        <description>Prostaglandin A2</description>
+    </metabolite>
+    <metabolite>
+        <name>C05953[r]</name>
+        <formula>C20H29O4</formula>
+        <description>Prostaglandin A2</description>
+    </metabolite>
+    <metabolite>
+        <name>C05957[c]</name>
+        <formula>C20H29O4</formula>
+        <description>Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>C05957[m]</name>
+        <formula>C20H29O4</formula>
+        <description>Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>C05957[r]</name>
+        <formula>C20H29O4</formula>
+        <description>Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>C06439[n]</name>
+        <formula>C20H29O5</formula>
+        <description>Prostaglandin E3</description>
+    </metabolite>
+    <metabolite>
+        <name>C11304[c]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(PGA1)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>C11304[m]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(PGA1)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>C11304[r]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(PGA1)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>C11695[c]</name>
+        <formula>C22H37NO2</formula>
+        <description>Anandamide</description>
+    </metabolite>
+    <metabolite>
+        <name>C13856[c]</name>
+        <formula>C23H38O4</formula>
+        <description>2-Arachidonoylglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>C13856[g]</name>
+        <formula>C23H38O4</formula>
+        <description>2-Arachidonoylglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>C13856[r]</name>
+        <formula>C23H38O4</formula>
+        <description>2-Arachidonoylglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0737[c]</name>
+        <formula>C3H3O2</formula>
+        <description>malonic dialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0955[r]</name>
+        <formula>C20H33O6</formula>
+        <description>6-oxo-prostaglandin F1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1243[c]</name>
+        <formula>C17H27O3</formula>
+        <description>12S-HHT</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1447[c]</name>
+        <formula>C20H31O6</formula>
+        <description>11-dehydrothromboxane B2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2053[c]</name>
+        <formula>C20H29O5</formula>
+        <description>20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2053[m]</name>
+        <formula>C20H29O5</formula>
+        <description>20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2053[r]</name>
+        <formula>C20H29O5</formula>
+        <description>20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2054[c]</name>
+        <formula>C20H28O6</formula>
+        <description>20-carboxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2054[m]</name>
+        <formula>C20H28O6</formula>
+        <description>20-carboxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2054[r]</name>
+        <formula>C20H28O6</formula>
+        <description>20-carboxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2054[x]</name>
+        <formula>C20H28O6</formula>
+        <description>20-carboxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2056[c]</name>
+        <formula>C20H31O6</formula>
+        <description>20-dihydroxyleukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2056[r]</name>
+        <formula>C20H31O6</formula>
+        <description>20-dihydroxyleukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2445[c]</name>
+        <formula>C20H31O4</formula>
+        <description>6-trans-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2446[m]</name>
+        <formula>C20H31O4</formula>
+        <description>6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2446[x]</name>
+        <formula>C20H31O4</formula>
+        <description>6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2516[c]</name>
+        <formula>C20H33O2</formula>
+        <description>(8Z,11Z,14Z)-eicosatrienoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2516[r]</name>
+        <formula>C20H33O2</formula>
+        <description>(8Z,11Z,14Z)-eicosatrienoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2537[c]</name>
+        <formula>C20H33O3</formula>
+        <description>15-hydroxy-(8Z,11Z,13E)-eicosatrienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2540[c]</name>
+        <formula>C20H29O2</formula>
+        <description>timnodonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2540[n]</name>
+        <formula>C20H29O2</formula>
+        <description>timnodonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2540[r]</name>
+        <formula>C20H29O2</formula>
+        <description>timnodonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2540[x]</name>
+        <formula>C20H29O2</formula>
+        <description>timnodonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3481[c]</name>
+        <formula>C23H37O7P</formula>
+        <description>1-lyso-2-arachidonoyl-phosphatidate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3481[g]</name>
+        <formula>C23H37O7P</formula>
+        <description>1-lyso-2-arachidonoyl-phosphatidate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3481[r]</name>
+        <formula>C23H37O7P</formula>
+        <description>1-lyso-2-arachidonoyl-phosphatidate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3554[c]</name>
+        <formula>C20H31O7</formula>
+        <description>20-trihydroxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3554[r]</name>
+        <formula>C20H31O7</formula>
+        <description>20-trihydroxy-leukotriene-B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4876[c]</name>
+        <formula>C20H29O4</formula>
+        <description>delta12-Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4876[m]</name>
+        <formula>C20H29O4</formula>
+        <description>delta12-Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4876[r]</name>
+        <formula>C20H29O4</formula>
+        <description>delta12-Prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4877[c]</name>
+        <formula>C20H27O3</formula>
+        <description>15-deoxy-prostaglandin J2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4936[c]</name>
+        <formula>C25H37NO6S</formula>
+        <description>N-acetyl-leukotriene E4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4936[n]</name>
+        <formula>C25H37NO6S</formula>
+        <description>N-acetyl-leukotriene E4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4980[c]</name>
+        <formula>C23H38O7</formula>
+        <description>Prostaglandin PGE2 glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4987[c]</name>
+        <formula>C20H33O4</formula>
+        <description>10,11-dihydro-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4988[c]</name>
+        <formula>C20H33O4</formula>
+        <description>10,11-dihydro-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4988[m]</name>
+        <formula>C20H33O4</formula>
+        <description>10,11-dihydro-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4988[r]</name>
+        <formula>C20H33O4</formula>
+        <description>10,11-dihydro-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4988[x]</name>
+        <formula>C20H33O4</formula>
+        <description>10,11-dihydro-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4989[c]</name>
+        <formula>C20H33O5</formula>
+        <description>20-OH-10,11-dihydro-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4989[r]</name>
+        <formula>C20H33O5</formula>
+        <description>20-OH-10,11-dihydro-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4990[c]</name>
+        <formula>C20H29O4</formula>
+        <description>12-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4990[m]</name>
+        <formula>C20H29O4</formula>
+        <description>12-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4990[r]</name>
+        <formula>C20H29O4</formula>
+        <description>12-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4990[x]</name>
+        <formula>C20H29O4</formula>
+        <description>12-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4993[c]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>10,11-dihydro-12R-hydroxy-leukotriene C4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4993[m]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>10,11-dihydro-12R-hydroxy-leukotriene C4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4993[x]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>10,11-dihydro-12R-hydroxy-leukotriene C4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5138[c]</name>
+        <formula>C20H29O5</formula>
+        <description>12-oxo-20-hydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5138[r]</name>
+        <formula>C20H29O5</formula>
+        <description>12-oxo-20-hydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5139[c]</name>
+        <formula>C20H29O6</formula>
+        <description>12-oxo-20-dihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5139[r]</name>
+        <formula>C20H29O6</formula>
+        <description>12-oxo-20-dihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5140[c]</name>
+        <formula>C20H29O7</formula>
+        <description>12-oxo-20-trihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5140[r]</name>
+        <formula>C20H29O7</formula>
+        <description>12-oxo-20-trihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5141[c]</name>
+        <formula>C20H27O5</formula>
+        <description>12,20-dioxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5178[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6-trans-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5179[c]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5179[r]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5304[c]</name>
+        <formula>C20H29O4</formula>
+        <description>15-deoxy-PGD2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5307[c]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5307[m]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5307[x]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5319[c]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5319[m]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5319[x]</name>
+        <formula>C18H27O4</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5329[c]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(S)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5329[m]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(S)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5329[x]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(S)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5331[c]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5331[m]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5331[x]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5337[c]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5337[m]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5337[x]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(S)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5341[m]</name>
+        <formula>C41H60N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5341[x]</name>
+        <formula>C41H60N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5342[c]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5342[m]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5342[r]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5342[x]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5343[c]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-12-epi-leukotriene B</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5343[m]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-12-epi-leukotriene B</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5343[r]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-12-epi-leukotriene B</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5343[x]</name>
+        <formula>C20H31O4</formula>
+        <description>6,7-dihydro-5-oxo-12-epi-leukotriene B</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5344[c]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(R)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5344[m]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(R)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5344[x]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3(S),12(R)-dihydroxy-5-oxo-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5345[c]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5345[m]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5345[x]</name>
+        <formula>C41H60N7O20P3S</formula>
+        <description>3,5-dioxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5346[c]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5346[m]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5346[x]</name>
+        <formula>C39H58N7O19P3S</formula>
+        <description>3-oxo-10(R)-hydroxy-octadeca-6E,8E,12Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5347[m]</name>
+        <formula>C41H60N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5347[x]</name>
+        <formula>C41H60N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-2E,8E,10E,14Z-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5348[c]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5348[m]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5348[r]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5348[x]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5-oxo-12(R)-hydroxy-eicosa-8E,10E,14Z-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5349[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5349[m]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5349[r]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5349[x]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6E-12-epi-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5352[c]</name>
+        <formula>C20H33O4</formula>
+        <description>6,7-dihydro-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5352[r]</name>
+        <formula>C20H33O4</formula>
+        <description>6,7-dihydro-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5525[c]</name>
+        <formula>C20H26O6</formula>
+        <description>12-oxo-20-carboxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5525[m]</name>
+        <formula>C20H26O6</formula>
+        <description>12-oxo-20-carboxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5525[x]</name>
+        <formula>C20H26O6</formula>
+        <description>12-oxo-20-carboxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5531[c]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>12-oxo-c-LTB3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5531[m]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>12-oxo-c-LTB3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5531[r]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>12-oxo-c-LTB3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5531[x]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>12-oxo-c-LTB3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5533[c]</name>
+        <formula>C20H31O6</formula>
+        <description>9,11-cycloperoxy-15-hydroperoxy-5Z,13E-eicosadienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5534[c]</name>
+        <formula>C20H31O6</formula>
+        <description>9,11-cycloperoxy-5-hydroperoxy-6E,14Z-eicosadienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5535[c]</name>
+        <formula>C20H30O4</formula>
+        <description>9-peroxy-5Z,7E,11Z,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5537[c]</name>
+        <formula>C20H30O4</formula>
+        <description>11-peroxy-5Z,8Z,12E,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5700[c]</name>
+        <formula>C23H38O6</formula>
+        <description>12-hydroperoxyeicosatetraenoate glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5700[r]</name>
+        <formula>C23H38O6</formula>
+        <description>12-hydroperoxyeicosatetraenoate glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5726[c]</name>
+        <formula>C23H38O7</formula>
+        <description>Prostaglandin PGE2 1-glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5727[c]</name>
+        <formula>C23H38O7</formula>
+        <description>Prostaglandin PGE2 3-glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5730[c]</name>
+        <formula>C23H36O6</formula>
+        <description>Prostaglandin PGB2 glyceryl ester</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5828[c]</name>
+        <formula>C20H33O5</formula>
+        <description>5,9,11-trihydroxyprosta-6E,14Z-dien-1-oate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5924[c]</name>
+        <formula>C20H33O5</formula>
+        <description>9,11,15-trihydroxyprosta-5Z,13E-dien-1-oate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5925[c]</name>
+        <formula>C20H30O4</formula>
+        <description>12-peroxy-5Z,8Z,10E,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5926[c]</name>
+        <formula>C20H31O6</formula>
+        <description>11,15-cyclo-12,14-cycloperoxy-8-hydroperoxy-5Z,9E-eicosadienoic</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5928[c]</name>
+        <formula>C20H30O4</formula>
+        <description>8-peroxy-5Z,9E,11Z,14Z-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5929[c]</name>
+        <formula>C20H33O5</formula>
+        <description>11,15-cyclo-8,12,14-trihydroxy-(5Z,9E)-eicosadienoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5930[c]</name>
+        <formula>C20H31O6</formula>
+        <description>5,9-cyclo-6,8-cycloperoxy-12-hydroperoxy-(10E,14Z)-eicosadienoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5931[c]</name>
+        <formula>C20H33O5</formula>
+        <description>5,9-cyclo-6,8,12-trihydroxy-(10E,14Z)-eicosadienoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5944[c]</name>
+        <formula>C20H31O4</formula>
+        <description>10,11-dihydro-12-oxo-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5944[m]</name>
+        <formula>C20H31O4</formula>
+        <description>10,11-dihydro-12-oxo-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5944[x]</name>
+        <formula>C20H31O4</formula>
+        <description>10,11-dihydro-12-oxo-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5945[c]</name>
+        <formula>C20H33O6</formula>
+        <description>10,11-dihydro-20-dihydroxy-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5945[r]</name>
+        <formula>C20H33O6</formula>
+        <description>10,11-dihydro-20-dihydroxy-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5946[c]</name>
+        <formula>C20H33O7</formula>
+        <description>10,11-dihydro-20-trihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5946[r]</name>
+        <formula>C20H33O7</formula>
+        <description>10,11-dihydro-20-trihydroxy-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5947[c]</name>
+        <formula>C20H30O6</formula>
+        <description>20-COOH-10,11-dihydro-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5947[m]</name>
+        <formula>C20H30O6</formula>
+        <description>20-COOH-10,11-dihydro-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5947[x]</name>
+        <formula>C20H30O6</formula>
+        <description>20-COOH-10,11-dihydro-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5966[c]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5966[m]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5966[x]</name>
+        <formula>C41H62N7O20P3S</formula>
+        <description>3-oxo-5(S),12(R)-dihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5967[c]</name>
+        <formula>C39H60N7O19P3S</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5967[m]</name>
+        <formula>C39H60N7O19P3S</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5967[x]</name>
+        <formula>C39H60N7O19P3S</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5968[c]</name>
+        <formula>C18H29O4</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5968[m]</name>
+        <formula>C18H29O4</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5968[x]</name>
+        <formula>C18H29O4</formula>
+        <description>3(S),10(R)-OH-octadeca-6-trans-4,12-cis-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5969[c]</name>
+        <formula>C41H64N7O19P3S</formula>
+        <description>10,11-dihydro-LTB4-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5969[m]</name>
+        <formula>C41H64N7O19P3S</formula>
+        <description>10,11-dihydro-LTB4-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5969[r]</name>
+        <formula>C41H64N7O19P3S</formula>
+        <description>10,11-dihydro-LTB4-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5969[x]</name>
+        <formula>C41H64N7O19P3S</formula>
+        <description>10,11-dihydro-LTB4-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5970[m]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5970[x]</name>
+        <formula>C41H62N7O19P3S</formula>
+        <description>5(S),12(R)-dihydroxy-eicosa-2,8-trans-6,14-cis-tetraenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5971[c]</name>
+        <formula>C41H64N7O20P3S</formula>
+        <description>3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5971[m]</name>
+        <formula>C41H64N7O20P3S</formula>
+        <description>3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5971[x]</name>
+        <formula>C41H64N7O20P3S</formula>
+        <description>3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5976[c]</name>
+        <formula>C20H28O6</formula>
+        <description>12-oxo-10,11-dihydro-20-COOH-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5976[m]</name>
+        <formula>C20H28O6</formula>
+        <description>12-oxo-10,11-dihydro-20-COOH-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5976[x]</name>
+        <formula>C20H28O6</formula>
+        <description>12-oxo-10,11-dihydro-20-COOH-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5994[x]</name>
+        <formula>C23H34NO6S</formula>
+        <description>20-oxo-leukotriene E4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5995[x]</name>
+        <formula>C23H33NO7S</formula>
+        <description>20-COOH-leukotriene E4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6182[c]</name>
+        <formula>C41H59N7O21P3S</formula>
+        <description>20-CoA-20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6182[m]</name>
+        <formula>C41H59N7O21P3S</formula>
+        <description>20-CoA-20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6182[r]</name>
+        <formula>C41H59N7O21P3S</formula>
+        <description>20-CoA-20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6182[x]</name>
+        <formula>C41H59N7O21P3S</formula>
+        <description>20-CoA-20-oxo-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6183[c]</name>
+        <formula>C41H57N7O22P3S</formula>
+        <description>18,20-dioxo-20-CoA-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6183[m]</name>
+        <formula>C41H57N7O22P3S</formula>
+        <description>18,20-dioxo-20-CoA-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6183[x]</name>
+        <formula>C41H57N7O22P3S</formula>
+        <description>18,20-dioxo-20-CoA-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6184[c]</name>
+        <formula>C39H55N7O21P3S</formula>
+        <description>18-CoA-18-oxo-dinorleukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6184[m]</name>
+        <formula>C39H55N7O21P3S</formula>
+        <description>18-CoA-18-oxo-dinorleukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6184[x]</name>
+        <formula>C39H55N7O21P3S</formula>
+        <description>18-CoA-18-oxo-dinorleukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6185[c]</name>
+        <formula>C18H24O6</formula>
+        <description>omega-carboxy-trinor-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6185[m]</name>
+        <formula>C18H24O6</formula>
+        <description>omega-carboxy-trinor-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6185[x]</name>
+        <formula>C18H24O6</formula>
+        <description>omega-carboxy-trinor-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6186[m]</name>
+        <formula>C41H57N7O21P3S</formula>
+        <description>18E-20-oxo-20-CoA-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6186[x]</name>
+        <formula>C41H57N7O21P3S</formula>
+        <description>18E-20-oxo-20-CoA-LTB4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6187[c]</name>
+        <formula>C41H59N7O22P3S</formula>
+        <description>20-CoA-20-oxo-18R-hydroxyleucotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6187[m]</name>
+        <formula>C41H59N7O22P3S</formula>
+        <description>20-CoA-20-oxo-18R-hydroxyleucotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6187[x]</name>
+        <formula>C41H59N7O22P3S</formula>
+        <description>20-CoA-20-oxo-18R-hydroxyleucotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6188[x]</name>
+        <formula>C42H60N8O22P3S2</formula>
+        <description>CoA-omega-COOH-dinor-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6189[x]</name>
+        <formula>C44H62N8O23P3S2</formula>
+        <description>CoA-20-COOH-18-oxo-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6190[x]</name>
+        <formula>C44H64N8O22P3S2</formula>
+        <description>CoA-20-COOH-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6191[x]</name>
+        <formula>C44H62N8O22P3S2</formula>
+        <description>18E-20-oxo-20-CoA-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6192[x]</name>
+        <formula>C44H64N8O23P3S2</formula>
+        <description>18(R)-hydroxy-20-oxo-20-CoA-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6193[x]</name>
+        <formula>C21H29NO7S</formula>
+        <description>18-carboxy-dinor-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6198[x]</name>
+        <formula>C42H60N8O23P3S2</formula>
+        <description>16,18-oxo-18-CoA-dinor-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6204[x]</name>
+        <formula>C42H58N8O22P3S2</formula>
+        <description>CoA-18-COOH-16E-dinor-LTE5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6225[x]</name>
+        <formula>C42H60N8O22P3S2</formula>
+        <description>16E-18-oxo-18-CoA-dinor-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6226[x]</name>
+        <formula>C42H62N8O23P3S2</formula>
+        <description>16(S)-hydroxy-18-oxo-18-CoA-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6227[x]</name>
+        <formula>C42H60N8O22P3S2</formula>
+        <description>CoA-18-COOH-15E-dinor-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6228[x]</name>
+        <formula>C40H56N8O22P3S2</formula>
+        <description>13E-tetranor-16-oxo-16-CoA-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6229[x]</name>
+        <formula>C19H25NO7S</formula>
+        <description>13E-tetranor-16-carboxy-LTE4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6230[c]</name>
+        <formula>C20H33O4</formula>
+        <description>15-hydroperoxyeicosa-8Z,11Z,13E-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6232[c]</name>
+        <formula>C20H33O6</formula>
+        <description>prostaglandin G1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6232[r]</name>
+        <formula>C20H33O6</formula>
+        <description>prostaglandin G1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6234[c]</name>
+        <formula>C20H33O5</formula>
+        <description>prostaglandin H1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6234[n]</name>
+        <formula>C20H33O5</formula>
+        <description>prostaglandin H1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6235[c]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGA2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6235[m]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGA2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6235[r]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGA2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6240[c]</name>
+        <formula>C20H31O4</formula>
+        <description>9-deoxy-delta12-PGD2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6240[m]</name>
+        <formula>C20H31O4</formula>
+        <description>9-deoxy-delta12-PGD2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6240[r]</name>
+        <formula>C20H31O4</formula>
+        <description>9-deoxy-delta12-PGD2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6241[c]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(9-deoxy-delta12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6241[m]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(9-deoxy-delta12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6241[r]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(9-deoxy-delta12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6242[c]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGJ2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6242[m]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGJ2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6242[r]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(PGJ2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6243[c]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(9-deoxy-delta9,12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6243[m]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(9-deoxy-delta9,12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6243[r]</name>
+        <formula>C30H45N3O10S</formula>
+        <description>S-(9-deoxy-delta9,12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6244[c]</name>
+        <formula>C30H49N3O10S</formula>
+        <description>S-(11-hydroxy-9-deoxy-delta12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6245[c]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>S-(11-OH-9-deoxy-delta9,12-PGD2)-glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6508[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-hydroperoxy-EPA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6508[n]</name>
+        <formula>C20H29O4</formula>
+        <description>5-hydroperoxy-EPA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7079[c]</name>
+        <formula>C20H27O3</formula>
+        <description>leukotriene A5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7080[c]</name>
+        <formula>C20H29O4</formula>
+        <description>15(S)-hydroperoxy-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7081[n]</name>
+        <formula>C20H29O3</formula>
+        <description>15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7081[r]</name>
+        <formula>C20H29O3</formula>
+        <description>15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7082[c]</name>
+        <formula>C20H29O3</formula>
+        <description>15(S)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7083[c]</name>
+        <formula>C20H29O4</formula>
+        <description>leukotriene B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7083[r]</name>
+        <formula>C20H29O4</formula>
+        <description>leukotriene B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7084[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5,12-dihydroxy-6E-LTB5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7085[c]</name>
+        <formula>C20H29O3</formula>
+        <description>5-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7085[x]</name>
+        <formula>C20H29O3</formula>
+        <description>5-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7086[c]</name>
+        <formula>C30H43N3O9S</formula>
+        <description>leukotriene C5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7087[c]</name>
+        <formula>C25H37N2O6S</formula>
+        <description>leukotriene D5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7088[c]</name>
+        <formula>C20H29O5</formula>
+        <description>PGH3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7088[n]</name>
+        <formula>C20H29O5</formula>
+        <description>PGH3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7090[c]</name>
+        <formula>C20H29O3</formula>
+        <description>18R-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7090[n]</name>
+        <formula>C20H29O3</formula>
+        <description>18R-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7091[c]</name>
+        <formula>C20H29O4</formula>
+        <description>15(R)-hydroperoxy-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7091[n]</name>
+        <formula>C20H29O4</formula>
+        <description>15(R)-hydroperoxy-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7091[r]</name>
+        <formula>C20H29O4</formula>
+        <description>15(R)-hydroperoxy-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7091[x]</name>
+        <formula>C20H29O4</formula>
+        <description>15(R)-hydroperoxy-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7109[c]</name>
+        <formula>C20H27O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7109[n]</name>
+        <formula>C20H27O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7109[r]</name>
+        <formula>C20H27O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7109[x]</name>
+        <formula>C20H27O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7110[c]</name>
+        <formula>C20H27O4</formula>
+        <description>5,6-epoxy,18R-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7110[n]</name>
+        <formula>C20H27O4</formula>
+        <description>5,6-epoxy,18R-HEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7111[c]</name>
+        <formula>C20H27O3</formula>
+        <description>5-oxo-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7111[x]</name>
+        <formula>C20H27O3</formula>
+        <description>5-oxo-EPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7112[c]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin A5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7112[r]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin A5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7112[x]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin A5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7113[c]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7113[r]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7113[x]</name>
+        <formula>C20H29O5</formula>
+        <description>15-epi-lipoxin B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7114[c]</name>
+        <formula>C20H29O5</formula>
+        <description>5,12,18R-TriHEPE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7115[c]</name>
+        <formula>C20H29O5</formula>
+        <description>20-hydroxy-leukotriene B5</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7115[r]</name>
+        <formula>C20H29O5</formula>
+        <description>20-hydroxy-leukotriene B5</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02202[c]</name>
+        <formula>C20H31O4</formula>
+        <description>prostaglandin A1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02203[c]</name>
+        <formula>C20H29O4</formula>
+        <description>prostaglandin-a2</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02204[c]</name>
+        <formula>C20H31O4</formula>
+        <description>prostaglandin-b1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02205[c]</name>
+        <formula>C20H29O4</formula>
+        <description>prostaglandin-b2</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02206[c]</name>
+        <formula>C20H31O4</formula>
+        <description>prostaglandin C1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02207[c]</name>
+        <formula>C20H29O4</formula>
+        <description>prostaglandin-c2</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02213[c]</name>
+        <formula>C20H29O5</formula>
+        <description>prostaglandin-e3</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[n]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[x]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[r]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[x]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[r]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[c]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[x]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[n]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[r]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>etha[c]</name>
+        <formula>C2H8NO</formula>
+        <description>etha[c]</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[r]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[c]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[r]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[x]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2[c]</name>
+        <formula>H2</formula>
+        <description>Hydrogen</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[c]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[r]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[c]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[m]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[r]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[x]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4wcooh[r]</name>
+        <formula>C20H28O6</formula>
+        <description>w-carboxy leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4woh[r]</name>
+        <formula>C20H31O5</formula>
+        <description>w-hydroxyl leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrC4[c]</name>
+        <formula>C30H45N3O9S</formula>
+        <description>leukotriene C4(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrC4[r]</name>
+        <formula>C30H45N3O9S</formula>
+        <description>leukotriene C4(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrD4[c]</name>
+        <formula>C25H39N2O6S</formula>
+        <description>Leukotriene D4</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrD4[r]</name>
+        <formula>C25H39N2O6S</formula>
+        <description>Leukotriene D4</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrE4[c]</name>
+        <formula>C23H36NO5S</formula>
+        <description>leukotriene E4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrE4[n]</name>
+        <formula>C23H36NO5S</formula>
+        <description>leukotriene E4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrE4[x]</name>
+        <formula>C23H36NO5S</formula>
+        <description>leukotriene E4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrF4[c]</name>
+        <formula>C28H42N2O8S</formula>
+        <description>leukotriene F4</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[n]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[g]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[r]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[x]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prostg1[c]</name>
+        <formula>C20H31O5</formula>
+        <description>15-dehydro-prostaglandin E1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgd2[c]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin D2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgd2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin D2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostge1[c]</name>
+        <formula>C20H33O5</formula>
+        <description>prostaglandin E1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostge1[n]</name>
+        <formula>C20H33O5</formula>
+        <description>prostaglandin E1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostge2[c]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin E2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostge2[m]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin E2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostge2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin E2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgf2[c]</name>
+        <formula>C20H33O5</formula>
+        <description>prostaglandin F2alpha(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgh2[c]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin H2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgh2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin H2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgi2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin I2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>txa2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>thromboxane A2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>wharachd[r]</name>
+        <formula>C20H31O3</formula>
+        <description>w-hydroxyl arachidonic acid</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ALOX12</id>
+        <name>Arachidonate 12-lipoxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>12HPET[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALOX12R</id>
+        <name>Arachidonate 12-lipoxygenase R</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>12RHPET[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALOX15</id>
+        <name>Arachidonate 15-lipoxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>15HPET[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALOX5</id>
+        <name>Arachidonate 5-lipoxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>5HPET[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALOX52</id>
+        <name>Arachidonate 5-lipoxygenase</name>
+        <reactant>5HPET[c]</reactant>
+        <product>h2o[c]</product>
+        <product>leuktrA4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBR1</id>
+        <name>Carbonyl reductase [NADPH] 1</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>prostg1[c]</reactant>
+        <product>nadp[c]</product>
+        <product>prostge1[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBR2</id>
+        <name>Carbonyl reductase [NADPH] 1</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>prostge2[c]</reactant>
+        <product>nadp[c]</product>
+        <product>prostgf2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGT5r</id>
+        <name>Gamma-glutamyltransferase 5</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>leuktrC4[r]</reactant>
+        <product>glu_L[r]</product>
+        <product>leuktrD4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGT6</id>
+        <name>Gamma-glutamyltransferase</name>
+        <reactant>glu_L[c]</reactant>
+        <reactant>leuktrE4[c]</reactant>
+        <product>h2o[c]</product>
+        <product>leuktrF4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LTA4H</id>
+        <name>Leukotriene A-4 hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>leuktrA4[c]</reactant>
+        <product>leuktrB4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LTC4CP</id>
+        <name>Leukotriene C4 carboxypeptidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>leuktrC4[c]</reactant>
+        <product>gly[c]</product>
+        <product>leuktrF4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LTC4Sr</id>
+        <name>Leukotriene C4 synthase</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>leuktrA4[r]</reactant>
+        <product>leuktrC4[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LTD4DP</id>
+        <name>Leukotriene D4 dipeptidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>leuktrD4[c]</reactant>
+        <product>gly[c]</product>
+        <product>leuktrE4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4504B1r</id>
+        <name>cytochrome P450 4B1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>12harachd[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4504F121r</id>
+        <name>cytochrome p450 4F12/4F2</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>wharachd[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4504F122r</id>
+        <name>cytochrome p450 4F12/4F2</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>leuktrB4[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>leuktrB4woh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4504F81r</id>
+        <name>cytochrome p450 4F8</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>18harachd[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P450LTB4r</id>
+        <name>cytochrome p450 leukotriene B4</name>
+        <reactant>1.5 o2[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>leuktrB4woh[r]</reactant>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>leuktrB4wcooh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGDI</id>
+        <name>Prostaglandin-H2 D-isomerase [Precursor]</name>
+        <reactant>prostgh2[c]</reactant>
+        <product>prostgd2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGDIr</id>
+        <name>Prostaglandin-H2 D-isomerase [Precursor]</name>
+        <reactant>prostgh2[r]</reactant>
+        <product>prostgd2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGESr</id>
+        <name>Prostaglandin E synthase</name>
+        <reactant>prostgh2[r]</reactant>
+        <product>prostge2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGISr</id>
+        <name>Prostaglandin I2 synthase</name>
+        <reactant>prostgh2[r]</reactant>
+        <product>prostgi2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGS</id>
+        <name>Prostaglandin G/H synthase</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>prostgh2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGSr</id>
+        <name>Prostaglandin G/H synthase</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>prostgh2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TXASr</id>
+        <name>Thromboxane-A synthase</name>
+        <reactant>prostgh2[r]</reactant>
+        <product>txa2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1077C</id>
+        <name>RE1077</name>
+        <reactant>prostgh2[c]</reactant>
+        <product>h[c]</product>
+        <product>CE0737[c]</product>
+        <product>CE1243[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1818C</id>
+        <name>RE1818</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE4990[c]</reactant>
+        <product>CE5531[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1818M</id>
+        <name>RE1818</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>CE4990[m]</reactant>
+        <product>CE5531[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1818R</id>
+        <name>RE1818</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>CE4990[r]</reactant>
+        <product>CE5531[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1818X</id>
+        <name>RE1818</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>CE4990[x]</reactant>
+        <product>CE5531[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1819C</id>
+        <name>RE1819</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5531[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE4993[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1819M</id>
+        <name>RE1819</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>CE5531[m]</reactant>
+        <product>nadp[m]</product>
+        <product>CE4993[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1819X</id>
+        <name>RE1819</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE5531[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE4993[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1978C</id>
+        <name>RE1978</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C11695[c]</reactant>
+        <product>arachd[c]</product>
+        <product>etha[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2050C</id>
+        <name>RE2050</name>
+        <reactant>o2[c]</reactant>
+        <reactant>C13856[c]</reactant>
+        <product>CE5700[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2050R</id>
+        <name>RE2050</name>
+        <reactant>o2[r]</reactant>
+        <reactant>C13856[r]</reactant>
+        <product>CE5700[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2051C</id>
+        <name>RE2051</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE3481[c]</reactant>
+        <product>pi[c]</product>
+        <product>C13856[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2051G</id>
+        <name>RE2051</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>CE3481[g]</reactant>
+        <product>pi[g]</product>
+        <product>C13856[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2051R</id>
+        <name>RE2051</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE3481[r]</reactant>
+        <product>pi[r]</product>
+        <product>C13856[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2067C</id>
+        <name>RE2067</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5726[c]</reactant>
+        <product>h[c]</product>
+        <product>prostge2[c]</product>
+        <product>glyc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2068C</id>
+        <name>RE2068</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5727[c]</reactant>
+        <product>h[c]</product>
+        <product>prostge2[c]</product>
+        <product>glyc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2069C</id>
+        <name>RE2069</name>
+        <reactant>prostge2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC02205[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2070C</id>
+        <name>RE2070</name>
+        <reactant>CE4980[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5730[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2078M</id>
+        <name>RE2078</name>
+        <reactant>prostge2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>C05953[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2079R</id>
+        <name>RE2079</name>
+        <reactant>prostgd2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>C05957[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2080C</id>
+        <name>RE2080</name>
+        <reactant>C05957[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE4877[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2360C</id>
+        <name>RE2360</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>leuktrE4[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE4936[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2360N</id>
+        <name>RE2360</name>
+        <reactant>accoa[n]</reactant>
+        <reactant>leuktrE4[n]</reactant>
+        <product>coa[n]</product>
+        <product>h[n]</product>
+        <product>CE4936[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2799C</id>
+        <name>RE2799</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>prostgf2[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>prostgh2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2958C</id>
+        <name>RE2958</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>prostgi2[r]</reactant>
+        <product>CE0955[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3010C</id>
+        <name>RE3010</name>
+        <reactant>nad[c]</reactant>
+        <reactant>leuktrB4[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE4990[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3010M</id>
+        <name>RE3010</name>
+        <reactant>nad[m]</reactant>
+        <reactant>leuktrB4[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE4990[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3010R</id>
+        <name>RE3010</name>
+        <reactant>nad[r]</reactant>
+        <reactant>leuktrB4[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>CE4990[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3010X</id>
+        <name>RE3010</name>
+        <reactant>nad[x]</reactant>
+        <reactant>leuktrB4[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE4990[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3011M</id>
+        <name>RE3011</name>
+        <reactant>nad[m]</reactant>
+        <reactant>C04853[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE2053[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3011R</id>
+        <name>RE3011</name>
+        <reactant>nad[r]</reactant>
+        <reactant>C04853[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>CE2053[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3012C</id>
+        <name>RE3012</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>CE2053[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE2054[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3012M</id>
+        <name>RE3012</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>CE2053[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE2054[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3012R</id>
+        <name>RE3012</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <reactant>CE2053[r]</reactant>
+        <product>2 h[r]</product>
+        <product>nadh[r]</product>
+        <product>CE2054[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3014C</id>
+        <name>RE3014</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>C04853[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2056[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3014R</id>
+        <name>RE3014</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>C04853[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE2056[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3015C</id>
+        <name>RE3015</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2056[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE3554[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3015R</id>
+        <name>RE3015</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE2056[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE3554[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3016R</id>
+        <name>RE3016</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>CE2054[r]</reactant>
+        <product>CE3554[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3017R</id>
+        <name>RE3017</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2053[r]</reactant>
+        <product>CE2056[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3018C</id>
+        <name>RE3018</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE4990[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5138[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3018R</id>
+        <name>RE3018</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE4990[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5138[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3019C</id>
+        <name>RE3019</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5138[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5139[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3019R</id>
+        <name>RE3019</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5138[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5139[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3020C</id>
+        <name>RE3020</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5139[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5140[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3020R</id>
+        <name>RE3020</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5139[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5140[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3021C</id>
+        <name>RE3021</name>
+        <reactant>CE5139[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5141[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3022C</id>
+        <name>RE3022</name>
+        <reactant>CE5140[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>CE5525[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3307C</id>
+        <name>RE3307</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE2445[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE5178[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3307M</id>
+        <name>RE3307</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>CE2446[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE5349[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3307X</id>
+        <name>RE3307</name>
+        <reactant>nadp[x]</reactant>
+        <reactant>CE2446[x]</reactant>
+        <product>h[x]</product>
+        <product>nadph[x]</product>
+        <product>CE5349[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3308C</id>
+        <name>RE3308</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5349[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5343[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3308M</id>
+        <name>RE3308</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>CE5349[m]</reactant>
+        <product>nadp[m]</product>
+        <product>CE5343[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3308R</id>
+        <name>RE3308</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5349[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5343[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3308X</id>
+        <name>RE3308</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE5349[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE5343[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3310C</id>
+        <name>RE3310</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE5352[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE5179[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3310R</id>
+        <name>RE3310</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>CE5352[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>CE5179[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3334M</id>
+        <name>RE3334</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE5348[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE5347[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3334X</id>
+        <name>RE3334</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE5348[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE5347[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3335C</id>
+        <name>RE3335</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>CE5179[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>CE5348[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3335M</id>
+        <name>RE3335</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>CE5343[m]</reactant>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <product>CE5348[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3335R</id>
+        <name>RE3335</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>CE5343[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>CE5348[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3335X</id>
+        <name>RE3335</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>CE5343[x]</reactant>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE5348[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3336M</id>
+        <name>RE3336</name>
+        <reactant>coa[m]</reactant>
+        <reactant>CE5345[m]</reactant>
+        <product>accoa[m]</product>
+        <product>CE5346[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3336X</id>
+        <name>RE3336</name>
+        <reactant>coa[x]</reactant>
+        <reactant>CE5345[x]</reactant>
+        <product>accoa[x]</product>
+        <product>CE5346[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3337M</id>
+        <name>RE3337</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5347[m]</reactant>
+        <product>CE5344[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3337X</id>
+        <name>RE3337</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5347[x]</reactant>
+        <product>CE5344[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3338C</id>
+        <name>RE3338</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE5344[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE5345[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3338M</id>
+        <name>RE3338</name>
+        <reactant>nad[m]</reactant>
+        <reactant>CE5344[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE5345[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3338X</id>
+        <name>RE3338</name>
+        <reactant>nad[x]</reactant>
+        <reactant>CE5344[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE5345[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3339C</id>
+        <name>RE3339</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5346[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE5307[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3339M</id>
+        <name>RE3339</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5346[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE5307[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3339X</id>
+        <name>RE3339</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5346[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE5307[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3340C</id>
+        <name>RE3340</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE5329[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE5331[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3340M</id>
+        <name>RE3340</name>
+        <reactant>nad[m]</reactant>
+        <reactant>CE5329[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE5331[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3340X</id>
+        <name>RE3340</name>
+        <reactant>nad[x]</reactant>
+        <reactant>CE5329[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE5331[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3341M</id>
+        <name>RE3341</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE5342[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE5341[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3341X</id>
+        <name>RE3341</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE5342[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE5341[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3342M</id>
+        <name>RE3342</name>
+        <reactant>coa[m]</reactant>
+        <reactant>CE5331[m]</reactant>
+        <product>accoa[m]</product>
+        <product>CE5337[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3342X</id>
+        <name>RE3342</name>
+        <reactant>coa[x]</reactant>
+        <reactant>CE5331[x]</reactant>
+        <product>accoa[x]</product>
+        <product>CE5337[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3343C</id>
+        <name>RE3343</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5337[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE5319[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3343M</id>
+        <name>RE3343</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5337[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE5319[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3343X</id>
+        <name>RE3343</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5337[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE5319[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3344M</id>
+        <name>RE3344</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5341[m]</reactant>
+        <product>CE5329[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3344X</id>
+        <name>RE3344</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5341[x]</reactant>
+        <product>CE5329[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3345C</id>
+        <name>RE3345</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>CE5343[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>CE5342[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3345M</id>
+        <name>RE3345</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>CE5343[m]</reactant>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <product>CE5342[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3345R</id>
+        <name>RE3345</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>CE5343[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>CE5342[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3345X</id>
+        <name>RE3345</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>CE5343[x]</reactant>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE5342[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3421M</id>
+        <name>RE3421</name>
+        <reactant>C05957[m]</reactant>
+        <product>CE4876[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3421R</id>
+        <name>RE3421</name>
+        <reactant>C05957[r]</reactant>
+        <product>CE4876[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3422C</id>
+        <name>RE3422</name>
+        <reactant>prostgd2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5304[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3423C</id>
+        <name>RE3423</name>
+        <reactant>CE4876[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE4877[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3430C</id>
+        <name>RE3430</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>CE4990[c]</reactant>
+        <product>nad[c]</product>
+        <product>CE5944[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3430M</id>
+        <name>RE3430</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>CE4990[m]</reactant>
+        <product>nad[m]</product>
+        <product>CE5944[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3430X</id>
+        <name>RE3430</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>CE4990[x]</reactant>
+        <product>nad[x]</product>
+        <product>CE5944[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3431C</id>
+        <name>RE3431</name>
+        <reactant>CE4987[c]</reactant>
+        <product>CE4988[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3432C</id>
+        <name>RE3432</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5944[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE4987[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3432M</id>
+        <name>RE3432</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>CE5944[m]</reactant>
+        <product>nadp[m]</product>
+        <product>CE4988[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3432X</id>
+        <name>RE3432</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE5944[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE4988[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3434C</id>
+        <name>RE3434</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE4988[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE4989[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3434R</id>
+        <name>RE3434</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE4988[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE4989[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3435C</id>
+        <name>RE3435</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5945[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5946[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3435R</id>
+        <name>RE3435</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5945[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5946[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3436C</id>
+        <name>RE3436</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE4989[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5945[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3436R</id>
+        <name>RE3436</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE4989[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5945[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3437C</id>
+        <name>RE3437</name>
+        <reactant>CE5946[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>CE5947[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3443M</id>
+        <name>RE3443</name>
+        <reactant>coa[m]</reactant>
+        <reactant>CE5966[m]</reactant>
+        <product>accoa[m]</product>
+        <product>CE5967[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3443X</id>
+        <name>RE3443</name>
+        <reactant>coa[x]</reactant>
+        <reactant>CE5966[x]</reactant>
+        <product>accoa[x]</product>
+        <product>CE5967[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3444C</id>
+        <name>RE3444</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5967[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE5968[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3444M</id>
+        <name>RE3444</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5967[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE5968[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3444X</id>
+        <name>RE3444</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5967[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE5968[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3445M</id>
+        <name>RE3445</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE5969[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE5970[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3445X</id>
+        <name>RE3445</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE5969[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE5970[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3446C</id>
+        <name>RE3446</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>CE4987[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>CE5969[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3446M</id>
+        <name>RE3446</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>CE4988[m]</reactant>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <product>CE5969[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3446R</id>
+        <name>RE3446</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>CE4988[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>CE5969[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3446X</id>
+        <name>RE3446</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>CE4988[x]</reactant>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE5969[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3447M</id>
+        <name>RE3447</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE5970[m]</reactant>
+        <product>CE5971[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3447X</id>
+        <name>RE3447</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5970[x]</reactant>
+        <product>CE5971[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3448C</id>
+        <name>RE3448</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE5971[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE5966[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3448M</id>
+        <name>RE3448</name>
+        <reactant>nad[m]</reactant>
+        <reactant>CE5971[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE5966[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3448X</id>
+        <name>RE3448</name>
+        <reactant>nad[x]</reactant>
+        <reactant>CE5971[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE5966[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3449C</id>
+        <name>RE3449</name>
+        <reactant>5 h[c]</reactant>
+        <reactant>3 arachd[c]</reactant>
+        <reactant>5 o2s[c]</reactant>
+        <product>4 h2o[c]</product>
+        <product>3 CE5535[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3450C</id>
+        <name>RE3450</name>
+        <reactant>2 ascb_L[c]</reactant>
+        <reactant>CE5534[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 dhdascb[c]</product>
+        <product>CE5828[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3451C</id>
+        <name>RE3451</name>
+        <reactant>o2[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE5535[c]</reactant>
+        <product>C01041[c]</product>
+        <product>CE5534[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3452C</id>
+        <name>RE3452</name>
+        <reactant>5 h[c]</reactant>
+        <reactant>3 arachd[c]</reactant>
+        <reactant>5 o2s[c]</reactant>
+        <product>4 h2o[c]</product>
+        <product>3 CE5925[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3453C</id>
+        <name>RE3453</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>CE5926[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5929[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3454C</id>
+        <name>RE3454</name>
+        <reactant>o2[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE5925[c]</reactant>
+        <product>C01041[c]</product>
+        <product>CE5926[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3455C</id>
+        <name>RE3455</name>
+        <reactant>5 o2[c]</reactant>
+        <reactant>4 arachd[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>4 CE5928[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3456C</id>
+        <name>RE3456</name>
+        <reactant>2 ascb_L[c]</reactant>
+        <reactant>CE5930[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 dhdascb[c]</product>
+        <product>CE5931[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3457C</id>
+        <name>RE3457</name>
+        <reactant>o2[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE5928[c]</reactant>
+        <product>C01041[c]</product>
+        <product>CE5930[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3458C</id>
+        <name>RE3458</name>
+        <reactant>5 h[c]</reactant>
+        <reactant>3 arachd[c]</reactant>
+        <reactant>5 o2s[c]</reactant>
+        <product>4 h2o[c]</product>
+        <product>3 CE5537[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3459C</id>
+        <name>RE3459</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>CE5533[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5924[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3460C</id>
+        <name>RE3460</name>
+        <reactant>o2[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE5537[c]</reactant>
+        <product>C01041[c]</product>
+        <product>CE5533[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3477C</id>
+        <name>RE3477</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>txa2[r]</reactant>
+        <product>h2[c]</product>
+        <product>CE1447[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3485C</id>
+        <name>RE3485</name>
+        <reactant>o2[c]</reactant>
+        <reactant>CE2540[c]</reactant>
+        <product>CE6508[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3485N</id>
+        <name>RE3485</name>
+        <reactant>o2[n]</reactant>
+        <reactant>CE2540[n]</reactant>
+        <product>CE6508[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3486C</id>
+        <name>RE3486</name>
+        <reactant>CE6508[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE7079[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3488C</id>
+        <name>RE3488</name>
+        <reactant>o2[c]</reactant>
+        <reactant>CE2540[c]</reactant>
+        <product>CE7091[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3488N</id>
+        <name>RE3488</name>
+        <reactant>o2[n]</reactant>
+        <reactant>CE2540[n]</reactant>
+        <product>CE7091[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3488R</id>
+        <name>RE3488</name>
+        <reactant>o2[r]</reactant>
+        <reactant>CE2540[r]</reactant>
+        <product>CE7091[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3488X</id>
+        <name>RE3488</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE2540[x]</reactant>
+        <product>CE7091[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3490C</id>
+        <name>RE3490</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>CE7080[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE7082[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3491C</id>
+        <name>RE3491</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7079[c]</reactant>
+        <product>CE7083[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3492C</id>
+        <name>RE3492</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7079[c]</reactant>
+        <product>CE7084[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3493C</id>
+        <name>RE3493</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>CE6508[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE7085[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3494C</id>
+        <name>RE3494</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7086[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>CE7087[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3495C</id>
+        <name>RE3495</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE7079[c]</reactant>
+        <product>CE7086[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3496C</id>
+        <name>RE3496</name>
+        <reactant>CE7088[c]</reactant>
+        <product>HC02213[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3496N</id>
+        <name>RE3496</name>
+        <reactant>CE7088[n]</reactant>
+        <product>C06439[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3498N</id>
+        <name>RE3498</name>
+        <reactant>o2[n]</reactant>
+        <reactant>CE7081[n]</reactant>
+        <product>h2o[n]</product>
+        <product>CE7109[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3498R</id>
+        <name>RE3498</name>
+        <reactant>o2[r]</reactant>
+        <reactant>CE7081[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE7109[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3499C</id>
+        <name>RE3499</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7110[c]</reactant>
+        <product>CE7114[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3500C</id>
+        <name>RE3500</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7109[c]</reactant>
+        <product>CE7113[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3500R</id>
+        <name>RE3500</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE7109[r]</reactant>
+        <product>CE7113[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3500X</id>
+        <name>RE3500</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE7109[x]</reactant>
+        <product>CE7113[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3501C</id>
+        <name>RE3501</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7109[c]</reactant>
+        <product>CE7112[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3501R</id>
+        <name>RE3501</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE7109[r]</reactant>
+        <product>CE7112[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3501X</id>
+        <name>RE3501</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE7109[x]</reactant>
+        <product>CE7112[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3502C</id>
+        <name>RE3502</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE7085[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE7111[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3502X</id>
+        <name>RE3502</name>
+        <reactant>nadp[x]</reactant>
+        <reactant>CE7085[x]</reactant>
+        <product>h[x]</product>
+        <product>nadph[x]</product>
+        <product>CE7111[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3503C</id>
+        <name>RE3503</name>
+        <reactant>o2[c]</reactant>
+        <reactant>CE7090[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE7110[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3503N</id>
+        <name>RE3503</name>
+        <reactant>o2[n]</reactant>
+        <reactant>CE7090[n]</reactant>
+        <product>h2o[n]</product>
+        <product>CE7110[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3506C</id>
+        <name>RE3506</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE7083[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE7115[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3506R</id>
+        <name>RE3506</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE7083[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE7115[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3524R</id>
+        <name>RE3524</name>
+        <reactant>prostgd2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE4876[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3532C</id>
+        <name>RE3532</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE6240[c]</reactant>
+        <product>CE6241[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3532M</id>
+        <name>RE3532</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>CE6240[m]</reactant>
+        <product>CE6241[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3532R</id>
+        <name>RE3532</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>CE6240[r]</reactant>
+        <product>CE6241[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3533C</id>
+        <name>RE3533</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>C05957[c]</reactant>
+        <product>CE6242[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3533M</id>
+        <name>RE3533</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>C05957[m]</reactant>
+        <product>CE6242[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3533R</id>
+        <name>RE3533</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>C05957[r]</reactant>
+        <product>CE6242[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3534C</id>
+        <name>RE3534</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE4876[c]</reactant>
+        <product>CE6243[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3534M</id>
+        <name>RE3534</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>CE4876[m]</reactant>
+        <product>CE6243[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3534R</id>
+        <name>RE3534</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>CE4876[r]</reactant>
+        <product>CE6243[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3535R</id>
+        <name>RE3535</name>
+        <reactant>2 h[r]</reactant>
+        <reactant>prostgd2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE6240[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3536C</id>
+        <name>RE3536</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE6243[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE6245[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3537C</id>
+        <name>RE3537</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE6241[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE6244[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3550X</id>
+        <name>RE3550</name>
+        <reactant>h[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>leuktrE4[x]</reactant>
+        <product>h2o[x]</product>
+        <product>nadp[x]</product>
+        <product>C03577[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3551X</id>
+        <name>RE3551</name>
+        <reactant>nad[x]</reactant>
+        <reactant>C03577[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE5994[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3552X</id>
+        <name>RE3552</name>
+        <reactant>nad[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE5994[x]</reactant>
+        <product>2 h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE5995[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3554C</id>
+        <name>RE3554</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>HC02203[c]</reactant>
+        <product>CE6235[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3554M</id>
+        <name>RE3554</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>C05953[m]</reactant>
+        <product>CE6235[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3554R</id>
+        <name>RE3554</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>C05953[r]</reactant>
+        <product>CE6235[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3556C</id>
+        <name>RE3556</name>
+        <reactant>HC02202[c]</reactant>
+        <product>HC02206[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3557C</id>
+        <name>RE3557</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>HC02202[c]</reactant>
+        <product>C11304[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3557M</id>
+        <name>RE3557</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>C04685[m]</reactant>
+        <product>C11304[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3557R</id>
+        <name>RE3557</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>C04685[r]</reactant>
+        <product>C11304[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3559M</id>
+        <name>RE3559</name>
+        <reactant>coa[m]</reactant>
+        <reactant>CE6183[m]</reactant>
+        <product>accoa[m]</product>
+        <product>CE6184[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3559X</id>
+        <name>RE3559</name>
+        <reactant>coa[x]</reactant>
+        <reactant>CE6183[x]</reactant>
+        <product>accoa[x]</product>
+        <product>CE6184[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3560C</id>
+        <name>RE3560</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE6184[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE6185[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3560M</id>
+        <name>RE3560</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE6184[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE6185[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3560X</id>
+        <name>RE3560</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6184[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE6185[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3561M</id>
+        <name>RE3561</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE6182[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE6186[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3561X</id>
+        <name>RE3561</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE6182[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE6186[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3562C</id>
+        <name>RE3562</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>CE2054[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>CE6182[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3562M</id>
+        <name>RE3562</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>CE2054[m]</reactant>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <product>CE6182[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3562R</id>
+        <name>RE3562</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>CE2054[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>CE6182[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3562X</id>
+        <name>RE3562</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>CE2054[x]</reactant>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE6182[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3563M</id>
+        <name>RE3563</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE6186[m]</reactant>
+        <product>CE6187[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3563X</id>
+        <name>RE3563</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6186[x]</reactant>
+        <product>CE6187[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3564C</id>
+        <name>RE3564</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE6187[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE6183[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3564M</id>
+        <name>RE3564</name>
+        <reactant>nad[m]</reactant>
+        <reactant>CE6187[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE6183[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3564X</id>
+        <name>RE3564</name>
+        <reactant>nad[x]</reactant>
+        <reactant>CE6187[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>CE6183[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3565C</id>
+        <name>RE3565</name>
+        <reactant>HC02206[c]</reactant>
+        <product>HC02204[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3566C</id>
+        <name>RE3566</name>
+        <reactant>HC02203[c]</reactant>
+        <product>HC02207[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3567C</id>
+        <name>RE3567</name>
+        <reactant>HC02207[c]</reactant>
+        <product>HC02205[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3568C</id>
+        <name>RE3568</name>
+        <reactant>prostge1[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC02202[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3570C</id>
+        <name>RE3570</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>CE6230[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2537[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3571C</id>
+        <name>RE3571</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>CE2516[c]</reactant>
+        <product>CE6232[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3571R</id>
+        <name>RE3571</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>CE2516[r]</reactant>
+        <product>CE6232[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3572X</id>
+        <name>RE3572</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>CE6189[x]</reactant>
+        <product>nad[x]</product>
+        <product>CE6192[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3573X</id>
+        <name>RE3573</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>CE6198[x]</reactant>
+        <product>nad[x]</product>
+        <product>CE6226[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3574X</id>
+        <name>RE3574</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6188[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE6193[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3575X</id>
+        <name>RE3575</name>
+        <reactant>coa[x]</reactant>
+        <reactant>CE6189[x]</reactant>
+        <product>accoa[x]</product>
+        <product>CE6188[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3576X</id>
+        <name>RE3576</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE6190[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE6191[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3577X</id>
+        <name>RE3577</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>CE5995[x]</reactant>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE6190[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3578X</id>
+        <name>RE3578</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6191[x]</reactant>
+        <product>CE6192[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3580X</id>
+        <name>RE3580</name>
+        <reactant>o2[x]</reactant>
+        <reactant>CE6188[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>CE6204[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3581X</id>
+        <name>RE3581</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE6204[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE6227[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3582X</id>
+        <name>RE3582</name>
+        <reactant>CE6227[x]</reactant>
+        <product>CE6225[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3583X</id>
+        <name>RE3583</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6225[x]</reactant>
+        <product>CE6226[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3586X</id>
+        <name>RE3586</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE6228[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>CE6229[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3587C</id>
+        <name>RE3587</name>
+        <reactant>CE6234[c]</reactant>
+        <product>prostge1[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3587N</id>
+        <name>RE3587</name>
+        <reactant>CE6234[n]</reactant>
+        <product>prostge1[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3596C</id>
+        <name>RE3596</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5525[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5976[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3596M</id>
+        <name>RE3596</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>CE5525[m]</reactant>
+        <product>nadp[m]</product>
+        <product>CE5976[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3596X</id>
+        <name>RE3596</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE5525[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE5976[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3597C</id>
+        <name>RE3597</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2054[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5947[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3597M</id>
+        <name>RE3597</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>CE2054[m]</reactant>
+        <product>nadp[m]</product>
+        <product>CE5947[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3597X</id>
+        <name>RE3597</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <reactant>CE2054[x]</reactant>
+        <product>nadp[x]</product>
+        <product>CE5947[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Eicosanoid metabolism</subsystem>
+    </reaction>
+</reactions>

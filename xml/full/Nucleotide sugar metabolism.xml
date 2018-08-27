@@ -1,0 +1,128 @@
+<metabolites>
+    <metabolite>
+        <name>co2[g]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp4d6dg[c]</name>
+        <formula>C16H22N2O15P2</formula>
+        <description>dTDP-4-dehydro-6-deoxy-alpha-D-glucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp4d6dm[c]</name>
+        <formula>C16H22N2O15P2</formula>
+        <description>dTDP-4-dehydro-6-deoxy-L-mannose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdpglu[c]</name>
+        <formula>C16H24N2O16P2</formula>
+        <description>dTDP-glucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdprmn[c]</name>
+        <formula>C16H24N2O15P2</formula>
+        <description>dTDP-L-rhamnose</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[c]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>g1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[g]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[g]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>G1PTT</id>
+        <name>glucose-1-phosphate thymidylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>g1p[c]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>dtdpglu[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide sugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TDPDRE</id>
+        <name>dTDP-4-dehydrorhamnose 3,5-epimerase</name>
+        <reactant>dtdp4d6dg[c]</reactant>
+        <product>dtdp4d6dm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide sugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TDPDRR</id>
+        <name>dTDP-4-dehydrorhamnose reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>dtdp4d6dm[c]</reactant>
+        <product>nadp[c]</product>
+        <product>dtdprmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide sugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TDPGDH</id>
+        <name>dTDPglucose 4,6-dehydratase</name>
+        <reactant>dtdpglu[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dtdp4d6dg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide sugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGLDCg</id>
+        <name>UDP-D-glucuronate decarboxylase, Golgi apparatus</name>
+        <reactant>h[g]</reactant>
+        <reactant>udpglcur[g]</reactant>
+        <product>co2[g]</product>
+        <product>udpxyl[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide sugar metabolism</subsystem>
+    </reaction>
+</reactions>

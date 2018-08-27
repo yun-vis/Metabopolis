@@ -1,0 +1,220 @@
+<metabolites>
+    <metabolite>
+        <name>bglc[e]</name>
+        <formula>C1200000H2200000O1100000</formula>
+        <description>beta-glucans</description>
+    </metabolite>
+    <metabolite>
+        <name>dchac[e]</name>
+        <formula>C24H39O4</formula>
+        <description>deoxycholic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>gchola[e]</name>
+        <formula>C26H43NO6</formula>
+        <description>glycocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>glgchlo[e]</name>
+        <formula>C1200026H2200043NO1100006</formula>
+        <description>beta glucan-glycocholate complex</description>
+    </metabolite>
+    <metabolite>
+        <name>gltcho[e]</name>
+        <formula>C1200026H2200045NO1100007S</formula>
+        <description>beta glucan-taurocholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>gltdechol[e]</name>
+        <formula>C1200026H2200044NO1100006S</formula>
+        <description>beta glucan-taurodeoxycholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>gum[e]</name>
+        <formula>C2760000H5060000O2530000</formula>
+        <description>gums</description>
+    </metabolite>
+    <metabolite>
+        <name>gumdchac[e]</name>
+        <formula>C2760024H5060039O2530004</formula>
+        <description>guar gum-deoxyxholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>gumgchol[e]</name>
+        <formula>C2760026H5060043NO2530006</formula>
+        <description>guar gum-glycocholate complex</description>
+    </metabolite>
+    <metabolite>
+        <name>gumtchol[e]</name>
+        <formula>C2760026H5060045NO2530007S</formula>
+        <description>guar gum-taurocholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pect[e]</name>
+        <formula>C2535H3509O2535</formula>
+        <description>pectins</description>
+    </metabolite>
+    <metabolite>
+        <name>pectindchac[e]</name>
+        <formula>C2559H3549O2539</formula>
+        <description>pectin-deoxycholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>pectingchol[e]</name>
+        <formula>C2561H3553NO2541</formula>
+        <description>pectin-glycocholate complex</description>
+    </metabolite>
+    <metabolite>
+        <name>pectintchol[e]</name>
+        <formula>C2561H3555NO2542S</formula>
+        <description>pectin-taurocholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>psyl[e]</name>
+        <formula>C9642006H15428700O8667414</formula>
+        <description>psyllium</description>
+    </metabolite>
+    <metabolite>
+        <name>psylchol[e]</name>
+        <formula>C9642032H15428743NO8667420</formula>
+        <description>psillium-glycocholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>psyltchol[e]</name>
+        <formula>C9642032H15428745NO8667421S</formula>
+        <description>psyllium-taurocholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>psyltdechol[e]</name>
+        <formula>C9642032H15428744NO8667420S</formula>
+        <description>psyllium-taurodeoxycholic acid complex</description>
+    </metabolite>
+    <metabolite>
+        <name>tchola[e]</name>
+        <formula>C26H45NO7S</formula>
+        <description>taurocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tdechola[e]</name>
+        <formula>C26H44NO6S</formula>
+        <description>Taurodeoxycholic acid</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>BGLUGCHe</id>
+        <name>binding of betaglucans with glycocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>gchola[e]</reactant>
+        <reactant>bglc[e]</reactant>
+        <product>glgchlo[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>BGLUTCHLe</id>
+        <name>binding of betaglucans with taurocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>tchola[e]</reactant>
+        <reactant>bglc[e]</reactant>
+        <product>gltcho[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>BGLUTDECHOe</id>
+        <name>binding of betaglucans with taurodeoxycholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>bglc[e]</reactant>
+        <reactant>tdechola[e]</reactant>
+        <product>gltdechol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUMDCHAe</id>
+        <name>binding of guar gums with deoxyxholic acid in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>gum[e]</reactant>
+        <reactant>dchac[e]</reactant>
+        <product>gumdchac[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUMGCHLe</id>
+        <name>Binding of guar gums with glycocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>gchola[e]</reactant>
+        <reactant>gum[e]</reactant>
+        <product>gumgchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUMTCHOLe</id>
+        <name>Binding of guar gums with taurocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>tchola[e]</reactant>
+        <reactant>gum[e]</reactant>
+        <product>gumtchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PECDCHe</id>
+        <name>binding of pectins with deoxycholic acid in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>h[e]</reactant>
+        <reactant>dchac[e]</reactant>
+        <reactant>pect[e]</reactant>
+        <product>pectindchac[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PECGCHLe</id>
+        <name>binding of pectins with glycocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>h[e]</reactant>
+        <reactant>gchola[e]</reactant>
+        <reactant>pect[e]</reactant>
+        <product>pectingchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PECTCHLe</id>
+        <name>Binding of pectins with taurocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>h[e]</reactant>
+        <reactant>tchola[e]</reactant>
+        <reactant>pect[e]</reactant>
+        <product>pectintchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSYGCHe</id>
+        <name>binding of psyllium with glycocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>gchola[e]</reactant>
+        <reactant>psyl[e]</reactant>
+        <product>psylchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSYTCHe</id>
+        <name>binding of psyllium with taurocholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>tchola[e]</reactant>
+        <reactant>psyl[e]</reactant>
+        <product>psyltchol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSYTDECHe</id>
+        <name>binding of psyllium with taurodeoxycholate in the intestinal lumen, reducing serum cholsterol levels.</name>
+        <reactant>tdechola[e]</reactant>
+        <reactant>psyl[e]</reactant>
+        <product>psyltdechol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Dietary fiber binding</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,571 @@
+<metabolites>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1924[c]</name>
+        <formula>C28H48O2</formula>
+        <description>(+)-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1924[r]</name>
+        <formula>C28H48O2</formula>
+        <description>(+)-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4898[c]</name>
+        <formula>C28H45O4</formula>
+        <description>13&apos;-carboxy-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4898[r]</name>
+        <formula>C28H45O4</formula>
+        <description>13&apos;-carboxy-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5021[c]</name>
+        <formula>C29H52O3</formula>
+        <description>alpha-tocopheryl hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5022[c]</name>
+        <formula>C29H50O3</formula>
+        <description>alpha-tocopheryl quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5643[c]</name>
+        <formula>NO3</formula>
+        <description>peroxynitrite</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5655[c]</name>
+        <formula>C28H48O3</formula>
+        <description>13&apos;-hydroxy-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5655[r]</name>
+        <formula>C28H48O3</formula>
+        <description>13&apos;-hydroxy-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5835[c]</name>
+        <formula>C29H50O3</formula>
+        <description>8alpha-hydroxytocopherone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5837[c]</name>
+        <formula>C29H50O5</formula>
+        <description>7,8-epoxy-8alpha-hydroperoxytocopherone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5838[c]</name>
+        <formula>C29H50O4</formula>
+        <description>5,6-epoxy-alpha-tocopheryl quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5839[c]</name>
+        <formula>C29H50O5</formula>
+        <description>4alpha,5-epoxy-8alpha-hydroperoxytocopherone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5840[c]</name>
+        <formula>C29H50O4</formula>
+        <description>2,3-epoxy-alpha-tocopheryl quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5842[c]</name>
+        <formula>C29H50O3</formula>
+        <description>13&apos;-hydroxy-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5842[r]</name>
+        <formula>C29H50O3</formula>
+        <description>13&apos;-hydroxy-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5843[c]</name>
+        <formula>C29H47O4</formula>
+        <description>13&apos;-carboxy-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5843[r]</name>
+        <formula>C29H47O4</formula>
+        <description>13&apos;-carboxy-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5986[c]</name>
+        <formula>C28H47NO4</formula>
+        <description>5-nitro-gama-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6000[c]</name>
+        <formula>CNO5</formula>
+        <description>nitrosoperoxycarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6219[c]</name>
+        <formula>C28H48O3</formula>
+        <description>gama-tocopheryl quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7047[c]</name>
+        <formula>C28H47O2</formula>
+        <description>gama-tocopheroxyl radical</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7072[c]</name>
+        <formula>C28H39O4</formula>
+        <description>13&apos;-carboxy-gama-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7072[r]</name>
+        <formula>C28H39O4</formula>
+        <description>13&apos;-carboxy-gama-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7074[c]</name>
+        <formula>C28H42O3</formula>
+        <description>13&apos;-hydroxy-gama-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7074[r]</name>
+        <formula>C28H42O3</formula>
+        <description>13&apos;-hydroxy-gama-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7101[c]</name>
+        <formula>C28H48O3</formula>
+        <description>8alpha-hydroxy-gama-tocopherone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7144[c]</name>
+        <formula>C29H44O3</formula>
+        <description>13&apos;-hydroxy-alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7144[r]</name>
+        <formula>C29H44O3</formula>
+        <description>13&apos;-hydroxy-alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7145[c]</name>
+        <formula>C29H41O4</formula>
+        <description>13&apos;-carboxy-alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7145[r]</name>
+        <formula>C29H41O4</formula>
+        <description>13&apos;-carboxy-alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>avite1[c]</name>
+        <formula>C29H50O2</formula>
+        <description>(+)-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>avite1[r]</name>
+        <formula>C29H50O2</formula>
+        <description>(+)-alpha-tocopherol</description>
+    </metabolite>
+    <metabolite>
+        <name>avite2[c]</name>
+        <formula>C29H44O2</formula>
+        <description>alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>avite2[r]</name>
+        <formula>C29H44O2</formula>
+        <description>alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>no2[c]</name>
+        <formula>NO2</formula>
+        <description>Nitrite</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[c]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[c]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>RE2327C</id>
+        <name>RE2327</name>
+        <reactant>q10[c]</reactant>
+        <reactant>CE5021[c]</reactant>
+        <product>q10h2[c]</product>
+        <product>CE5022[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2373C</id>
+        <name>RE2373</name>
+        <reactant>CE5835[c]</reactant>
+        <product>CE5022[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2375C</id>
+        <name>RE2375</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5837[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE5838[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2377C</id>
+        <name>RE2377</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5839[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE5840[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2382C</id>
+        <name>RE2382</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE1924[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5655[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2382R</id>
+        <name>RE2382</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE1924[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5655[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2383C</id>
+        <name>RE2383</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>CE5842[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE5843[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2383R</id>
+        <name>RE2383</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>CE5842[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE5843[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2387C</id>
+        <name>RE2387</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>avite1[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5842[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2387R</id>
+        <name>RE2387</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>avite1[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5842[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2398C</id>
+        <name>RE2398</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>CE5655[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE4898[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2398R</id>
+        <name>RE2398</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>CE5655[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE4898[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2533C</id>
+        <name>RE2533</name>
+        <reactant>co2[c]</reactant>
+        <reactant>CE5643[c]</reactant>
+        <product>CE6000[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2704C</id>
+        <name>RE2704</name>
+        <reactant>CE1924[c]</reactant>
+        <product>h[c]</product>
+        <product>no2[c]</product>
+        <product>CE7047[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2705C</id>
+        <name>RE2705</name>
+        <reactant>no2[c]</reactant>
+        <reactant>CE7047[c]</reactant>
+        <product>CE5986[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2948C</id>
+        <name>RE2948</name>
+        <reactant>h[c]</reactant>
+        <reactant>CE1924[c]</reactant>
+        <reactant>CE5643[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5986[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3295C</id>
+        <name>RE3295</name>
+        <reactant>CE7101[c]</reactant>
+        <product>CE6219[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3370C</id>
+        <name>RE3370</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>CE7144[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE7145[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3370R</id>
+        <name>RE3370</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>CE7144[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE7145[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3440C</id>
+        <name>RE3440</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>CE7074[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE7072[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3440R</id>
+        <name>RE3440</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>CE7074[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE7072[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3464C</id>
+        <name>RE3464</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>avite2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE7144[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3464R</id>
+        <name>RE3464</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>avite2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE7144[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3636C</id>
+        <name>RE3636</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE7047[c]</reactant>
+        <product>h[c]</product>
+        <product>CE7101[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin E metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,1484 @@
+<metabolites>
+    <metabolite>
+        <name>11_cis_retfa[c]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid 11-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>11_cis_retfa[e]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid 11-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>13-cis-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[r]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retnglc[c]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retnglc[r]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>13-cis-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>4-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal[c]</name>
+        <formula>C20H28O</formula>
+        <description>retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>9_cis_retfa[c]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid 9-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>9_cis_retfa[e]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid 9-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1162[c]</name>
+        <formula>C20H28O</formula>
+        <description>vitamin A2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1617[c]</name>
+        <formula>C20H27O2</formula>
+        <description>9-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1617[r]</name>
+        <formula>C20H27O2</formula>
+        <description>9-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1761[c]</name>
+        <formula>C20H30O2</formula>
+        <description>4-hydroxyvitamin A1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1761[r]</name>
+        <formula>C20H30O2</formula>
+        <description>4-hydroxyvitamin A1</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2953[c]</name>
+        <formula>C20H27O3</formula>
+        <description>rac-5,6-epoxy-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2953[r]</name>
+        <formula>C20H27O3</formula>
+        <description>rac-5,6-epoxy-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2955[c]</name>
+        <formula>C20H25O2</formula>
+        <description>all-trans-3,4-didehydroretinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2957[c]</name>
+        <formula>C20H27O3</formula>
+        <description>18-hydroxy-all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2957[r]</name>
+        <formula>C20H27O3</formula>
+        <description>18-hydroxy-all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2958[c]</name>
+        <formula>C26H35O9</formula>
+        <description>rac-5,6-epoxy-retinoyl-beta-D-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2958[r]</name>
+        <formula>C26H35O9</formula>
+        <description>rac-5,6-epoxy-retinoyl-beta-D-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2959[r]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl-beta-D-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2961[c]</name>
+        <formula>C22H32O3</formula>
+        <description>4-hydroxy-all-trans-retinyl acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2961[r]</name>
+        <formula>C22H32O3</formula>
+        <description>4-hydroxy-all-trans-retinyl acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2962[c]</name>
+        <formula>C28H39O9</formula>
+        <description>rac-4-hydroxy-4-O-(beta-D-glucuronide)-all-trans-retinyl acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2962[r]</name>
+        <formula>C28H39O9</formula>
+        <description>rac-4-hydroxy-4-O-(beta-D-glucuronide)-all-trans-retinyl acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2963[c]</name>
+        <formula>C20H27O3</formula>
+        <description>5,6-epoxy-13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2964[c]</name>
+        <formula>C20H27O3</formula>
+        <description>5,8-epoxy-13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3136[c]</name>
+        <formula>C20H27O3</formula>
+        <description>9-cis-4-oxo-13,14-dihydro-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5013[c]</name>
+        <formula>C20H30O2</formula>
+        <description>14-hydroxy-4,14-retro-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5014[c]</name>
+        <formula>C20H28</formula>
+        <description>anhydroretinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5016[c]</name>
+        <formula>C20H32O3</formula>
+        <description>13,14-dihydroxy-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5591[c]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-13-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5591[r]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-13-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5592[c]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-9-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5592[r]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-9-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5593[c]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5593[r]</name>
+        <formula>C20H28O2</formula>
+        <description>4-OH-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5594[c]</name>
+        <formula>C20H27O2</formula>
+        <description>9,13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5653[c]</name>
+        <formula>C20H25O3</formula>
+        <description>4-oxo-9-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5653[r]</name>
+        <formula>C20H25O3</formula>
+        <description>4-oxo-9-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5654[c]</name>
+        <formula>C20H25O3</formula>
+        <description>4-oxo-13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5654[r]</name>
+        <formula>C20H25O3</formula>
+        <description>4-oxo-13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5747[c]</name>
+        <formula>C42H58NO</formula>
+        <description>N-retinylidene-N-retinylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5752[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(13-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5753[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(11-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5754[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(9-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5755[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(9,13-di-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5756[c]</name>
+        <formula>C26H35O8</formula>
+        <description>9-cis-retinoyl-beta-D-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5756[r]</name>
+        <formula>C26H35O8</formula>
+        <description>9-cis-retinoyl-beta-D-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5757[c]</name>
+        <formula>C26H33O9</formula>
+        <description>4-oxo-9-cis-retinoyl-beta-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5757[r]</name>
+        <formula>C26H33O9</formula>
+        <description>4-oxo-9-cis-retinoyl-beta-glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5775[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(9&apos;-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5776[c]</name>
+        <formula>C42H58NO</formula>
+        <description>iso-A2E(11&apos;-cis)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5932[c]</name>
+        <formula>C20H30O2</formula>
+        <description>13,14-epoxy-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[c]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[e]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2coa[c]</name>
+        <formula>CO2FULLR2C21H31N7O15P3S</formula>
+        <description>R total 2 coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>caro[c]</name>
+        <formula>C40H56</formula>
+        <description>beta-carotene</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>4 hydroxy retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>lpchol_hs[c]</name>
+        <formula>C8H19NO5PFULLRCO2</formula>
+        <description>lysophosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>4-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>retfa[c]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retfa[e]</name>
+        <formula>C20H29OFULLR2CO</formula>
+        <description>fatty acid retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal[c]</name>
+        <formula>C20H28O</formula>
+        <description>retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal[r]</name>
+        <formula>C20H28O</formula>
+        <description>retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal_11_cis[c]</name>
+        <formula>C20H28O</formula>
+        <description>11-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal_cis_13[c]</name>
+        <formula>C20H28O</formula>
+        <description>13-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal_cis_13[r]</name>
+        <formula>C20H28O</formula>
+        <description>13-cis-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal_cis_9[c]</name>
+        <formula>C20H28O</formula>
+        <description>all-trans-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinal_cis_9[r]</name>
+        <formula>C20H28O</formula>
+        <description>all-trans-retinal</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol[c]</name>
+        <formula>C20H30O</formula>
+        <description>retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol[e]</name>
+        <formula>C20H30O</formula>
+        <description>retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol[r]</name>
+        <formula>C20H30O</formula>
+        <description>retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol_9_cis[c]</name>
+        <formula>C20H30O</formula>
+        <description>9-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol_9_cis[e]</name>
+        <formula>C20H30O</formula>
+        <description>9-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol_cis_11[c]</name>
+        <formula>C20H30O</formula>
+        <description>11-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol_cis_11[e]</name>
+        <formula>C20H30O</formula>
+        <description>11-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retinol_cis_13[c]</name>
+        <formula>C20H30O</formula>
+        <description>13-cis-retinol</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[r]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>retncoa[c]</name>
+        <formula>C41H58N7O17P3S</formula>
+        <description>retinoyl CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>retnglc[r]</name>
+        <formula>C26H35O8</formula>
+        <description>retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>BCDO</id>
+        <name>beta-Carotene dioxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>caro[c]</reactant>
+        <product>2 retinal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LRAT</id>
+        <name>Lecithin retinol acyltransferase</name>
+        <reactant>pchol_hs[c]</reactant>
+        <reactant>retinol[c]</reactant>
+        <product>lpchol_hs[c]</product>
+        <product>retfa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LRAT1</id>
+        <name>Lecithin retinol acyltransferase (11-cis)</name>
+        <reactant>pchol_hs[c]</reactant>
+        <reactant>retinol_cis_11[c]</reactant>
+        <product>lpchol_hs[c]</product>
+        <product>11_cis_retfa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LRAT2</id>
+        <name>Lecithin retinol acyltransferase (9-cis)</name>
+        <reactant>pchol_hs[c]</reactant>
+        <reactant>retinol_9_cis[c]</reactant>
+        <product>lpchol_hs[c]</product>
+        <product>9_cis_retfa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORETNF</id>
+        <name>4-oxo-retinoic acid formation (oxidation)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 retn[c]</reactant>
+        <product>2 oretn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORETNF2</id>
+        <name>13-cis-4-oxo-retinoic acid formation (oxidation)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 13_cis_retn[c]</reactant>
+        <product>2 13_cis_oretn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RADH</id>
+        <name>retinal dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>retinal[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>retn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RADH2</id>
+        <name>retinal dehydrogenase (NADPH)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>retinal[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>retn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RADH3</id>
+        <name>retinal dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>retinal_cis_13[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>13_cis_retn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RADH4</id>
+        <name>retinal dehydrogenase (NADPH)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>retinal_cis_13[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>13_cis_retn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAHY</id>
+        <name>retinoic acid hydroxylation (P450)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>hretn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAI1</id>
+        <name>retinal isomerase (11-cis)</name>
+        <reactant>retinal[c]</reactant>
+        <product>retinal_11_cis[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAI2</id>
+        <name>retinal isomerase (9-cis)</name>
+        <reactant>retinal[c]</reactant>
+        <product>retinal_cis_9[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAI3</id>
+        <name>13-cis-retinoic acid isomerase</name>
+        <reactant>retn[c]</reactant>
+        <product>13_cis_retn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAI4</id>
+        <name>13-cis-4-oxo-retinoic acid isomerase</name>
+        <reactant>oretn[c]</reactant>
+        <product>13_cis_oretn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH1</id>
+        <name>retinol dehydrogenase (all-trans)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>retinol[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>retinal[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH1a</id>
+        <name>retinol dehydrogenase (all-trans,NADPH)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>retinol[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>retinal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH2</id>
+        <name>retinol dehydrogenase (9-cis,NADH)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>retinol_9_cis[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>retinal_cis_9[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH2a</id>
+        <name>retinol dehydrogenase (9-cis,NADPH)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>retinol_9_cis[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>retinal_cis_9[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH3</id>
+        <name>retinol dehydrogenase (11-cis,NADH)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>retinol_cis_11[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>retinal_11_cis[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH3a</id>
+        <name>retinol dehydrogenase (11-cis,NADPH)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>retinol_cis_11[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>retinal_11_cis[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RDH4</id>
+        <name>retinol dehydrogenase (13-cis,NADH)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>retinol_cis_13[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>retinal_cis_13[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETFA</id>
+        <name>retinol acyltransferase</name>
+        <reactant>Rtotal2coa[c]</reactant>
+        <reactant>retinol[c]</reactant>
+        <product>coa[c]</product>
+        <product>retfa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETH</id>
+        <name>retinyl ester hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>retfa[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>retinol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETH1</id>
+        <name>retinyl ester hydrolase (9-cis)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>9_cis_retfa[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>retinol_9_cis[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETH1e</id>
+        <name>retinyl ester hydrolase (9-cis), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>9_cis_retfa[e]</reactant>
+        <product>h[e]</product>
+        <product>retinol_9_cis[e]</product>
+        <product>Rtotal2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETH2</id>
+        <name>retinyl ester hydrolase (11-cis)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>11_cis_retfa[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>retinol_cis_11[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETH2e</id>
+        <name>retinyl ester hydrolase (11-cis), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>11_cis_retfa[e]</reactant>
+        <product>h[e]</product>
+        <product>retinol_cis_11[e]</product>
+        <product>Rtotal2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETHe</id>
+        <name>retinyl ester hydrolase, extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>retfa[e]</reactant>
+        <product>h[e]</product>
+        <product>retinol[e]</product>
+        <product>Rtotal2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETI1</id>
+        <name>retinol isomerase (11-cis)</name>
+        <reactant>retinol[c]</reactant>
+        <product>retinol_cis_11[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETI2</id>
+        <name>retinol isomerase (9-cis)</name>
+        <reactant>retinol[c]</reactant>
+        <product>retinol_9_cis[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETI3</id>
+        <name>retinol isomerase (13-cis)</name>
+        <reactant>retinol[c]</reactant>
+        <product>retinol_cis_13[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNCOA</id>
+        <name>Retinoyl CoA formation</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>retn[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>retncoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A5r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>retn[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>udp[r]</product>
+        <product>retnglc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A5r2</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal (13-cis)</name>
+        <reactant>13_cis_retn[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>udp[r]</product>
+        <product>13_cis_retnglc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1901R</id>
+        <name>RE1901</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <reactant>retinal_cis_9[r]</reactant>
+        <product>2 h[r]</product>
+        <product>nadh[r]</product>
+        <product>CE1617[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1903R</id>
+        <name>RE1903</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <reactant>retinal_cis_13[r]</reactant>
+        <product>2 h[r]</product>
+        <product>nadh[r]</product>
+        <product>13_cis_retn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1904C</id>
+        <name>RE1904</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retinal_cis_13[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5591[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1904R</id>
+        <name>RE1904</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>retinal_cis_13[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5591[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1905C</id>
+        <name>RE1905</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retinal_11_cis[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5592[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1905R</id>
+        <name>RE1905</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>retinal_cis_9[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5592[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1906C</id>
+        <name>RE1906</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retinal_cis_9[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5593[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1906R</id>
+        <name>RE1906</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>retinal[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5593[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1907C</id>
+        <name>RE1907</name>
+        <reactant>CE1617[c]</reactant>
+        <product>CE5594[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1938C</id>
+        <name>RE1938</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retinol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE1761[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1938R</id>
+        <name>RE1938</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>retinol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1761[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1941C</id>
+        <name>RE1941</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>CE1617[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE5653[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1941R</id>
+        <name>RE1941</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>2 h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>CE1617[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE5653[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1942C</id>
+        <name>RE1942</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE5654[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1942R</id>
+        <name>RE1942</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>2 h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>13_cis_retn[r]</reactant>
+        <product>3 h2o[r]</product>
+        <product>2 nadp[r]</product>
+        <product>CE5654[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1943C</id>
+        <name>RE1943</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>retn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2957[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1943R</id>
+        <name>RE1943</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>retn[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE2957[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2138C</id>
+        <name>RE2138</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5752[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2139C</id>
+        <name>RE2139</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5753[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2140C</id>
+        <name>RE2140</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5754[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2141C</id>
+        <name>RE2141</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5755[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2146C</id>
+        <name>RE2146</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2953[c]</reactant>
+        <product>udp[c]</product>
+        <product>CE2958[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2146R</id>
+        <name>RE2146</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2953[r]</reactant>
+        <product>udp[r]</product>
+        <product>CE2958[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2147C</id>
+        <name>RE2147</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>udp[c]</product>
+        <product>13_cis_retnglc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2147R</id>
+        <name>RE2147</name>
+        <reactant>13_cis_retn[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>udp[r]</product>
+        <product>CE2959[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2149C</id>
+        <name>RE2149</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2961[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2962[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2149R</id>
+        <name>RE2149</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2961[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2962[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2150C</id>
+        <name>RE2150</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE1617[c]</reactant>
+        <product>udp[c]</product>
+        <product>CE5756[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2150R</id>
+        <name>RE2150</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE1617[r]</reactant>
+        <product>udp[r]</product>
+        <product>CE5756[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2151C</id>
+        <name>RE2151</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE5653[c]</reactant>
+        <product>udp[c]</product>
+        <product>CE5757[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2151R</id>
+        <name>RE2151</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE5653[r]</reactant>
+        <product>udp[r]</product>
+        <product>CE5757[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2152C</id>
+        <name>RE2152</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2 nad[c]</reactant>
+        <reactant>CE1162[c]</reactant>
+        <product>3 h[c]</product>
+        <product>2 nadh[c]</product>
+        <product>CE2955[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2202C</id>
+        <name>RE2202</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5775[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2203C</id>
+        <name>RE2203</name>
+        <reactant>CE5747[c]</reactant>
+        <product>CE5776[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2248C</id>
+        <name>RE2248</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2963[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2249C</id>
+        <name>RE2249</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2964[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2250C</id>
+        <name>RE2250</name>
+        <reactant>CE5932[c]</reactant>
+        <product>CE5013[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2251C</id>
+        <name>RE2251</name>
+        <reactant>retinol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5014[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2252C</id>
+        <name>RE2252</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5653[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE3136[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2452C</id>
+        <name>RE2452</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5932[c]</reactant>
+        <product>CE5016[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2651R</id>
+        <name>RE2651</name>
+        <reactant>retinal[r]</reactant>
+        <product>retinal_cis_9[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2655R</id>
+        <name>RE2655</name>
+        <reactant>retinal[r]</reactant>
+        <product>retinal_cis_13[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2658C</id>
+        <name>RE2658</name>
+        <reactant>retn[c]</reactant>
+        <product>CE1617[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2658R</id>
+        <name>RE2658</name>
+        <reactant>retn[r]</reactant>
+        <product>CE1617[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2659R</id>
+        <name>RE2659</name>
+        <reactant>retn[r]</reactant>
+        <product>13_cis_retn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3050R</id>
+        <name>RE3050</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <reactant>retinal_cis_13[r]</reactant>
+        <product>2 h[r]</product>
+        <product>nadh[r]</product>
+        <product>retn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin A metabolism</subsystem>
+    </reaction>
+</reactions>

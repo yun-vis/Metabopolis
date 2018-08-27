@@ -1,0 +1,387 @@
+<metabolites>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>23doguln[c]</name>
+        <formula>C6H7O7</formula>
+        <description>(4R,5S)-4,5,6-trihydroxy-2,3-dioxohexanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>C01041[c]</name>
+        <formula>C6H6O6</formula>
+        <description>monodehydroascorbate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C02147[c]</name>
+        <formula>C8H15O2S2</formula>
+        <description>dihydrolipoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7122[c]</name>
+        <formula>C29H43O2</formula>
+        <description>alpha-tocotrienoxyl radical</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[c]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>avite2[c]</name>
+        <formula>C29H44O2</formula>
+        <description>alpha-tocotrienol</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dhdascb[c]</name>
+        <formula>C6H6O6</formula>
+        <description>dehydroascorbide(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>eryth[c]</name>
+        <formula>C4H8O4</formula>
+        <description>L-erythrulose</description>
+    </metabolite>
+    <metabolite>
+        <name>glac[c]</name>
+        <formula>C6H8O6</formula>
+        <description>D-glucurono-6,3-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>glac[m]</name>
+        <formula>C6H8O6</formula>
+        <description>D-glucurono-6,3-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>glac[r]</name>
+        <formula>C6H8O6</formula>
+        <description>D-glucurono-6,3-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>glcr[c]</name>
+        <formula>C6H8O8</formula>
+        <description>D-glucarate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glcr[m]</name>
+        <formula>C6H8O8</formula>
+        <description>D-glucarate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[r]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[c]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gullac[c]</name>
+        <formula>C6H10O6</formula>
+        <description>L-gulono-1,4-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>gullac[r]</name>
+        <formula>C6H10O6</formula>
+        <description>L-gulono-1,4-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>guln[r]</name>
+        <formula>C6H11O7</formula>
+        <description>L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lipoate[c]</name>
+        <formula>C8H14O2S2</formula>
+        <description>lipoate</description>
+    </metabolite>
+    <metabolite>
+        <name>lyxnt[c]</name>
+        <formula>C5H9O6</formula>
+        <description>L-lyxonate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[c]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>thrnt[c]</name>
+        <formula>C4H7O5</formula>
+        <description>L-threonate</description>
+    </metabolite>
+    <metabolite>
+        <name>xylnt[c]</name>
+        <formula>C5H9O6</formula>
+        <description>L-xylonate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ASCBOX</id>
+        <name>ascorbic acid oxidase</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>2 o2s[c]</reactant>
+        <product>2 h2o2[c]</product>
+        <product>dhdascb[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DASCBH</id>
+        <name>L-Dehydroascorbate lactonohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dhdascb[c]</reactant>
+        <product>h[c]</product>
+        <product>23doguln[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DASCBR</id>
+        <name>dehydroascorbate reductase</name>
+        <reactant>nadph[c]</reactant>
+        <reactant>dhdascb[c]</reactant>
+        <product>nadp[c]</product>
+        <product>ascb_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOGULND1</id>
+        <name>2,3-dioxo-L-gulonate decarboxylase (L-lyxonate-forming)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>23doguln[c]</reactant>
+        <product>co2[c]</product>
+        <product>lyxnt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOGULND2</id>
+        <name>2,3-dioxo-L-gulonate decarboxylase (L-xylonate-forming)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>23doguln[c]</reactant>
+        <product>co2[c]</product>
+        <product>xylnt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOGULNO1</id>
+        <name>2,3-dioxo-L-gulonate:hydrogen peroxide oxireductase</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>23doguln[c]</reactant>
+        <product>2 h[c]</product>
+        <product>oxa[c]</product>
+        <product>thrnt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOGULNO2</id>
+        <name>2,3-dioxo-L-gulonate:hydrogen peroxide oxireductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>23doguln[c]</reactant>
+        <product>h[c]</product>
+        <product>oxa[c]</product>
+        <product>eryth[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLACO</id>
+        <name>D-Glucuronolactone:NAD+ oxidoreductase</name>
+        <reactant>2 h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>glac[c]</reactant>
+        <product>3 h[c]</product>
+        <product>nadh[c]</product>
+        <product>glcr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLACOm</id>
+        <name>D-Glucuronolactone:NAD+ oxidoreductase, mitochondrial</name>
+        <reactant>2 h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>glac[m]</reactant>
+        <product>3 h[m]</product>
+        <product>nadh[m]</product>
+        <product>glcr[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLNLASEer</id>
+        <name>gluconolactonase, endoplasmic reticulum</name>
+        <reactant>h[r]</reactant>
+        <reactant>guln[r]</reactant>
+        <product>h2o[r]</product>
+        <product>gullac[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLRASE</id>
+        <name>glucuronolactone reductase</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>gullac[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>glac[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHDH</id>
+        <name>Glutathione dehydrogenase (dehydroascorbate reductase)</name>
+        <reactant>dhdascb[c]</reactant>
+        <reactant>2 gthrd[c]</reactant>
+        <product>h[c]</product>
+        <product>ascb_L[c]</product>
+        <product>gthox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UROLACer</id>
+        <name>uronolactonase, endoplasmic reticulum</name>
+        <reactant>h[r]</reactant>
+        <reactant>glcur[r]</reactant>
+        <product>h2o[r]</product>
+        <product>glac[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2897C</id>
+        <name>RE2897</name>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE7122[c]</reactant>
+        <product>avite2[c]</product>
+        <product>C01041[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2898C</id>
+        <name>RE2898</name>
+        <reactant>C01041[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dhdascb[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2899C</id>
+        <name>RE2899</name>
+        <reactant>dhdascb[c]</reactant>
+        <reactant>C02147[c]</reactant>
+        <product>ascb_L[c]</product>
+        <product>lipoate[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin C metabolism</subsystem>
+    </reaction>
+</reactions>

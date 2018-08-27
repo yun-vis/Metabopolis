@@ -1,0 +1,1374 @@
+<metabolites>
+    <metabolite>
+        <name>CE5860[c]</name>
+        <formula>C12H16N2O3</formula>
+        <description>N-acetyl-5-methoxykynuramine</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>fna5moxam[c]</name>
+        <formula>C13H16N2O4</formula>
+        <description>Formyl-N-acetyl-5-methoxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2oxoadp[c]</name>
+        <formula>C6H6O5</formula>
+        <description>2-oxoadipate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2oxoadp[m]</name>
+        <formula>C6H6O5</formula>
+        <description>2-oxoadipate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>fna5moxam[c]</name>
+        <formula>C13H16N2O4</formula>
+        <description>Formyl-N-acetyl-5-methoxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>melatn[c]</name>
+        <formula>C13H16N2O2</formula>
+        <description>melatonin</description>
+    </metabolite>
+    <metabolite>
+        <name>3hanthrn[c]</name>
+        <formula>C7H7NO3</formula>
+        <description>3-hydroxyanthranilate</description>
+    </metabolite>
+    <metabolite>
+        <name>3hbcoa[m]</name>
+        <formula>C25H38N7O18P3S</formula>
+        <description>(S)-3-hydroxybutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3hbcoa[x]</name>
+        <formula>C25H38N7O18P3S</formula>
+        <description>(S)-3-hydroxybutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3hxkynam[c]</name>
+        <formula>C9H13N2O2</formula>
+        <description>3-Hydroxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>42A3HP24DB[c]</name>
+        <formula>C10H8NO5</formula>
+        <description>4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>46dhoxquin[c]</name>
+        <formula>C9H7NO2</formula>
+        <description>4,6-Dihydroxyquinoline</description>
+    </metabolite>
+    <metabolite>
+        <name>48dhoxquin[c]</name>
+        <formula>C9H7NO2</formula>
+        <description>quinoline-4,8-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>4aphdob[c]</name>
+        <formula>C10H8NO4</formula>
+        <description>4-(2-aminophenyl)-2,4-dioxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>5hoxindact[c]</name>
+        <formula>C10H9NO2</formula>
+        <description>(5-hydroxyindol-3-yl)acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>5hoxindact[m]</name>
+        <formula>C10H9NO2</formula>
+        <description>(5-hydroxyindol-3-yl)acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>5hoxindoa[c]</name>
+        <formula>C10H8NO3</formula>
+        <description>5-Hydroxyindoleacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>5hoxindoa[m]</name>
+        <formula>C10H8NO3</formula>
+        <description>5-Hydroxyindoleacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>5hoxnfkyn[c]</name>
+        <formula>C11H12N2O5</formula>
+        <description>5-hydroxy-N-formylkynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>5htrp[c]</name>
+        <formula>C11H12N2O3</formula>
+        <description>5-hydroxy-L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>5hxkyn[c]</name>
+        <formula>C10H12N2O4</formula>
+        <description>5-hydroxykynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>5hxkynam[c]</name>
+        <formula>C9H13N2O2</formula>
+        <description>5-Hydroxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>5moxact[c]</name>
+        <formula>C11H10NO3</formula>
+        <description>5-Methoxyindoleacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>6hoxmelatn[c]</name>
+        <formula>C13H16N2O3</formula>
+        <description>6-Hydroxymelatonin</description>
+    </metabolite>
+    <metabolite>
+        <name>C02470[c]</name>
+        <formula>C10H6NO4</formula>
+        <description>Xanthurenic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>C02470[m]</name>
+        <formula>C10H6NO4</formula>
+        <description>Xanthurenic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>C09209[c]</name>
+        <formula>C12H10N2</formula>
+        <description>Harman</description>
+    </metabolite>
+    <metabolite>
+        <name>C10164[c]</name>
+        <formula>C6H4NO2</formula>
+        <description>Picolinic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1918[c]</name>
+        <formula>C10H11NO2</formula>
+        <description>5-hydroxytryptophol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1918[m]</name>
+        <formula>C10H11NO2</formula>
+        <description>5-hydroxytryptophol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2095[c]</name>
+        <formula>C16H22N2O9</formula>
+        <description>3-hydroxykynurenine-O-beta-D-glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2095[m]</name>
+        <formula>C16H22N2O9</formula>
+        <description>3-hydroxykynurenine-O-beta-D-glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2119[c]</name>
+        <formula>C13H16N2O3</formula>
+        <description>cyclic 3-hydroxymelatonin</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2122[c]</name>
+        <formula>C11H11NO2</formula>
+        <description>methyl indole-3-acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2152[c]</name>
+        <formula>C11H13N2</formula>
+        <description>1,2,3,4-tetrahydro-beta-carboline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2153[c]</name>
+        <formula>C11H13N2O</formula>
+        <description>6-hydroxy-1,2,3,4-tetrahydro-beta-carboline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2947[c]</name>
+        <formula>C16H16NO9</formula>
+        <description>xanthurenate-8-O-beta-D-glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2949[c]</name>
+        <formula>C10H5NO4</formula>
+        <description>oxoxanthurenate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3086[c]</name>
+        <formula>C16H20NO9</formula>
+        <description>4-(2-amino-3-hydroxyphenyl)-4-oxobutanoic acid O-glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3087[c]</name>
+        <formula>C11H8N2</formula>
+        <description>beta-carboline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3092[c]</name>
+        <formula>C26H36N5O14S</formula>
+        <description>glutathionyl-3-hydroxykynurenine glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3092[m]</name>
+        <formula>C26H36N5O14S</formula>
+        <description>glutathionyl-3-hydroxykynurenine glucoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3140[c]</name>
+        <formula>C17H22N2O7</formula>
+        <description>1-(1,2,3,4,5-pentahydroxypent-1-yl)-1,2,3,4-tetrahydro-beta-carboline-3-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5982[c]</name>
+        <formula>C13H17N2O3</formula>
+        <description>melatonin radical</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6205[c]</name>
+        <formula>C11H13NO2</formula>
+        <description>5-methoxytryptophol</description>
+    </metabolite>
+    <metabolite>
+        <name>Lfmkynr[c]</name>
+        <formula>C11H12N2O4</formula>
+        <description>N-formyl-L-kynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>Lkynr[c]</name>
+        <formula>C10H12N2O3</formula>
+        <description>L-kynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>Lkynr[m]</name>
+        <formula>C10H12N2O3</formula>
+        <description>L-kynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>Nacsertn[c]</name>
+        <formula>C12H14N2O2</formula>
+        <description>N-acetylserotonin</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[c]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[m]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[x]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>am6sa[c]</name>
+        <formula>C6H7NO3</formula>
+        <description>2-aminomuconate 6-semialdehyde(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amuco[c]</name>
+        <formula>C6H6NO4</formula>
+        <description>2-aminomuconate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>anth[c]</name>
+        <formula>C7H6NO2</formula>
+        <description>anthranilate</description>
+    </metabolite>
+    <metabolite>
+        <name>b2coa[m]</name>
+        <formula>C25H36N7O17P3S</formula>
+        <description>crotonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>b2coa[x]</name>
+        <formula>C25H36N7O17P3S</formula>
+        <description>crotonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmusa[c]</name>
+        <formula>C7H6NO5</formula>
+        <description>cis,cis-2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>f5hoxkyn[c]</name>
+        <formula>C10H13N2O3</formula>
+        <description>Formyl-5-hydroxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[c]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fna5moxam[c]</name>
+        <formula>C13H16N2O4</formula>
+        <description>Formyl-N-acetyl-5-methoxykynurenamine</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glutcoa[m]</name>
+        <formula>C26H37N7O19P3S</formula>
+        <description>glutaryl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>hLkynr[c]</name>
+        <formula>C10H12N2O4</formula>
+        <description>3-hydroxy-L-kynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>hLkynr[m]</name>
+        <formula>C10H12N2O4</formula>
+        <description>3-hydroxy-L-kynurenine</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>id3acald[c]</name>
+        <formula>C10H9NO</formula>
+        <description>indol-3-ylacetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>id3acald[m]</name>
+        <formula>C10H9NO</formula>
+        <description>indol-3-ylacetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>ind3ac[c]</name>
+        <formula>C10H8NO2</formula>
+        <description>indole-3-acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ind3ac[m]</name>
+        <formula>C10H8NO2</formula>
+        <description>indole-3-acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>kynate[c]</name>
+        <formula>C10H6NO3</formula>
+        <description>kynurenate</description>
+    </metabolite>
+    <metabolite>
+        <name>kynate[m]</name>
+        <formula>C10H6NO3</formula>
+        <description>kynurenate</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>melatn[c]</name>
+        <formula>C13H16N2O2</formula>
+        <description>melatonin</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nformanth[c]</name>
+        <formula>C8H6NO3</formula>
+        <description>N-formylanthranilate</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nmthsrtn[c]</name>
+        <formula>C11H15N2O</formula>
+        <description>N-Methylserotonin</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[m]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+    <metabolite>
+        <name>quln[c]</name>
+        <formula>C7H3NO4</formula>
+        <description>quinolinate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>srtn[c]</name>
+        <formula>C10H13N2O</formula>
+        <description>serotonin(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt4acam[c]</name>
+        <formula>C9H15N5O4</formula>
+        <description>4a-hydroxytetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt[c]</name>
+        <formula>C9H15N5O3</formula>
+        <description>5,6,7,8-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>trp_L[c]</name>
+        <formula>C11H12N2O2</formula>
+        <description>L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>trypta[c]</name>
+        <formula>C10H13N2</formula>
+        <description>tryptaminium</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>2OXOADPTm</id>
+        <name>2-oxoadipate shuttle (cytosol/mitochondria)</name>
+        <reactant>akg[m]</reactant>
+        <reactant>2oxoadp[c]</reactant>
+        <product>akg[c]</product>
+        <product>2oxoadp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HAO</id>
+        <name>3-hydroxyanthranilate 3,4-dioxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>3hanthrn[c]</reactant>
+        <product>h[c]</product>
+        <product>cmusa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HKYNAKGAT</id>
+        <name>3-Hydroxy-L-kynurenine:2-oxoglutarate aminotransferase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>hLkynr[c]</reactant>
+        <product>42A3HP24DB[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HXKYNDCL</id>
+        <name>3-Hydroxykynurenamine decarboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>hLkynr[c]</reactant>
+        <product>co2[c]</product>
+        <product>3hxkynam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HXKYNOXDA</id>
+        <name>3-Hydroxykynurenamine:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>3hxkynam[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>48dhoxquin[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HLTDL</id>
+        <name>5-Hydroxy-L-tryptophan decarboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>5htrp[c]</reactant>
+        <product>co2[c]</product>
+        <product>srtn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HOXINDACTO2OX</id>
+        <name>5-Hydroxyindoleacetaldehyde:oxygen oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>5hoxindact[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>h[c]</product>
+        <product>5hoxindoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HOXINDACTOXm</id>
+        <name>5-Hydroxyindoleacetaldehyde:NAD+ oxidoreductase (mito)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>5hoxindact[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>5hoxindoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HOXINOXDA</id>
+        <name>5-Hydroxytryptamine:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>srtn[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>5hoxindact[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HTRPDOX</id>
+        <name>5-Hydroxy-L-tryptophan:oxygen 2,3-dioxygenase (indole-decyclizing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5htrp[c]</reactant>
+        <product>5hoxnfkyn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HXKYNDCL</id>
+        <name>5-Hydroxykynurenamine decarboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>5hxkyn[c]</reactant>
+        <product>co2[c]</product>
+        <product>5hxkynam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>5HXKYNOXDA</id>
+        <name>5-Hydroxykynurenamine:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5hxkynam[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>46dhoxquin[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACACT1r</id>
+        <name>acetyl-CoA C-acetyltransferase</name>
+        <reactant>2 accoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>aacoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACACT1rm</id>
+        <name>acetyl-CoA C-acetyltransferase, mitochondrial</name>
+        <reactant>2 accoa[m]</reactant>
+        <product>coa[m]</product>
+        <product>aacoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACSOMT</id>
+        <name>S-Adenosyl-L-methionine:N-acetylserotonin O-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>5hoxindoa[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>5moxact[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACSRTNMT</id>
+        <name>S-Adenosyl-L-homocysteine:N-acetylserotonin O-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>Nacsertn[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>melatn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALDD20x</id>
+        <name>aldehyde dehydrogenase (indole-3-acetaldehyde, NAD)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>id3acald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>ind3ac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALDD20xm</id>
+        <name>aldehyde dehydrogenase (indole-3-acetaldehyde, NAD), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>id3acald[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>ind3ac[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMCOXO</id>
+        <name>2-aminomuconate reductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>amuco[c]</reactant>
+        <product>nh4[c]</product>
+        <product>nadp[c]</product>
+        <product>2oxoadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ECOAH1m</id>
+        <name>3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (mitochondria)</name>
+        <reactant>3hbcoa[m]</reactant>
+        <product>h2o[m]</product>
+        <product>b2coa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ECOAH1x</id>
+        <name>3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA) (perioxisome)</name>
+        <reactant>3hbcoa[x]</reactant>
+        <product>h2o[x]</product>
+        <product>b2coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FKYNH</id>
+        <name>N-Formyl-L-kynurenine amidohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>Lfmkynr[c]</reactant>
+        <product>h[c]</product>
+        <product>for[c]</product>
+        <product>Lkynr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUTCOADHm</id>
+        <name>glutaryl-CoA dehydrogenase (mitochondria)</name>
+        <reactant>h[m]</reactant>
+        <reactant>glutcoa[m]</reactant>
+        <reactant>fad[m]</reactant>
+        <product>co2[m]</product>
+        <product>b2coa[m]</product>
+        <product>fadh2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HACD1m</id>
+        <name>3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA) (mitochondria)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>aacoa[m]</reactant>
+        <product>nad[m]</product>
+        <product>3hbcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HACD1x</id>
+        <name>3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA) (peroxisome)</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>aacoa[x]</reactant>
+        <product>nad[x]</product>
+        <product>3hbcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HKYNH</id>
+        <name>3-Hydroxy-L-kynurenine hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>hLkynr[c]</reactant>
+        <product>3hanthrn[c]</product>
+        <product>ala_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KYN</id>
+        <name>kynureninase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>Lkynr[c]</reactant>
+        <product>h[c]</product>
+        <product>ala_L[c]</product>
+        <product>anth[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KYN3OX</id>
+        <name>kynurenine 3-monooxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>Lkynr[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>hLkynr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KYNAKGAT</id>
+        <name>L-Kynurenine:2-oxoglutarate aminotransferase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>Lkynr[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>4aphdob[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KYNATESYN</id>
+        <name>4-(2-Aminophenyl)-2,4-dioxobutanoate dehydratase</name>
+        <reactant>4aphdob[c]</reactant>
+        <product>h2o[c]</product>
+        <product>kynate[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LFORKYNHYD</id>
+        <name>L-Formylkynurenine hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>Lfmkynr[c]</reactant>
+        <product>h[c]</product>
+        <product>ala_L[c]</product>
+        <product>nformanth[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LTDCL</id>
+        <name>L-Tryptophan decarboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>trp_L[c]</reactant>
+        <product>co2[c]</product>
+        <product>trypta[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MELATN23DOX</id>
+        <name>Melatonin:oxygen 2,3-dioxygenase (indole-decyclizing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>melatn[c]</reactant>
+        <product>fna5moxam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MELATNOX</id>
+        <name>Melatonin:NADP oxidoreductase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>melatn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>6hoxmelatn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCLAD</id>
+        <name>picolinic acid decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>cmusa[c]</reactant>
+        <product>co2[c]</product>
+        <product>am6sa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>QUILSYN</id>
+        <name>Quinolinate Synthase (Eukaryotic)</name>
+        <reactant>cmusa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>quln[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SRTN23OX</id>
+        <name>5-Hydroxytryptamine:oxygen 2,3-dioxygenase (indole-decyclizing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>srtn[c]</reactant>
+        <product>f5hoxkyn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SRTNACT</id>
+        <name>Acetyl-CoA:aralkylamine N-acetyltransferase</name>
+        <reactant>srtn[c]</reactant>
+        <reactant>accoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>Nacsertn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SRTNMTX</id>
+        <name>S-Adenosyl-L-methionine:amine N-methyltransferase (srtn)</name>
+        <reactant>amet[c]</reactant>
+        <reactant>srtn[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>nmthsrtn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRPHYDRO2</id>
+        <name>L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>thbpt[c]</reactant>
+        <reactant>trp_L[c]</reactant>
+        <product>5htrp[c]</product>
+        <product>thbpt4acam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRPO2</id>
+        <name>L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>trp_L[c]</reactant>
+        <product>Lfmkynr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRYPTAOX</id>
+        <name>Tryptamine:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>trypta[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>id3acald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0239</id>
+        <name>N-Formylanthranilate amidohydrolase Tryptophan metabolism EC:3.5.1.9</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nformanth[c]</reactant>
+        <product>h[c]</product>
+        <product>for[c]</product>
+        <product>anth[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0541</id>
+        <name>Glutaryl-CoA:(acceptor) 2,3-oxidoreductase (decarboxylating) Fatty acid metabolism EC:1.3.99.7</name>
+        <reactant>h[m]</reactant>
+        <reactant>glutcoa[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>co2[m]</product>
+        <product>b2coa[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0645</id>
+        <name>2-Aminomuconate semialdehyde:NAD+ 6-oxidoreductase Tryptophan metabolism EC:1.2.1.32</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>am6sa[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>amuco[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0647</id>
+        <name>Spontaneous reaction</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C02470[c]</reactant>
+        <product>42A3HP24DB[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0758</id>
+        <name>5-Hydroxyindoleacetaldehyde:NAD+ oxidoreductase Tryptophan metabolism EC:1.2.1.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>5hoxindact[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>5hoxindoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0549C</id>
+        <name>RE0549</name>
+        <reactant>am6sa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>C10164[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1233C</id>
+        <name>RE1233</name>
+        <reactant>akg[c]</reactant>
+        <reactant>Lkynr[c]</reactant>
+        <product>h2o[c]</product>
+        <product>glu_L[c]</product>
+        <product>kynate[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1233M</id>
+        <name>RE1233</name>
+        <reactant>akg[m]</reactant>
+        <reactant>Lkynr[m]</reactant>
+        <product>h2o[m]</product>
+        <product>glu_L[m]</product>
+        <product>kynate[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1711C</id>
+        <name>RE1711</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE1918[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>5hoxindact[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1711M</id>
+        <name>RE1711</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>CE1918[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>5hoxindact[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2128C</id>
+        <name>RE2128</name>
+        <reactant>fald[c]</reactant>
+        <reactant>trypta[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2152[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2129C</id>
+        <name>RE2129</name>
+        <reactant>srtn[c]</reactant>
+        <reactant>fald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2153[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2133C</id>
+        <name>RE2133</name>
+        <reactant>amet[c]</reactant>
+        <reactant>ind3ac[c]</reactant>
+        <product>ahcys[c]</product>
+        <product>CE2122[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2349C</id>
+        <name>RE2349</name>
+        <reactant>akg[c]</reactant>
+        <reactant>hLkynr[c]</reactant>
+        <product>h2o[c]</product>
+        <product>glu_L[c]</product>
+        <product>C02470[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2349M</id>
+        <name>RE2349</name>
+        <reactant>akg[m]</reactant>
+        <reactant>hLkynr[m]</reactant>
+        <product>h2o[m]</product>
+        <product>glu_L[m]</product>
+        <product>C02470[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2426C</id>
+        <name>RE2426</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>melatn[c]</reactant>
+        <product>2 h[c]</product>
+        <product>6hoxmelatn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2439C</id>
+        <name>RE2439</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>3 melatn[c]</reactant>
+        <reactant>4 o2s[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>3 fna5moxam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2440C</id>
+        <name>RE2440</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>2 fna5moxam[c]</reactant>
+        <product>h[c]</product>
+        <product>co2[c]</product>
+        <product>for[c]</product>
+        <product>2 CE5860[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2442C</id>
+        <name>RE2442</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>CE2095[c]</reactant>
+        <product>nh4[c]</product>
+        <product>nad[c]</product>
+        <product>CE3086[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2443C</id>
+        <name>RE2443</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE2095[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE3092[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2443M</id>
+        <name>RE2443</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>CE2095[m]</reactant>
+        <product>h2o[m]</product>
+        <product>CE3092[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2476C</id>
+        <name>RE2476</name>
+        <reactant>man[c]</reactant>
+        <reactant>trp_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE3140[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2477C</id>
+        <name>RE2477</name>
+        <reactant>amet[c]</reactant>
+        <reactant>CE3087[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>C09209[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2562C</id>
+        <name>RE2562</name>
+        <reactant>amet[c]</reactant>
+        <reactant>CE1918[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>CE6205[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2594C</id>
+        <name>RE2594</name>
+        <reactant>C02470[c]</reactant>
+        <product>h[c]</product>
+        <product>CE2949[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2596C</id>
+        <name>RE2596</name>
+        <reactant>akg[c]</reactant>
+        <reactant>CE2095[c]</reactant>
+        <product>h2o[c]</product>
+        <product>glu_L[c]</product>
+        <product>CE2947[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2601C</id>
+        <name>RE2601</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>melatn[c]</reactant>
+        <product>h[c]</product>
+        <product>CE5982[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2746C</id>
+        <name>RE2746</name>
+        <reactant>h[c]</reactant>
+        <reactant>CE5982[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2119[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tryptophan metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,2937 @@
+<metabolites>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[c]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[n]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[c]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[c]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[n]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[e]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[n]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>2dr1p[c]</name>
+        <formula>C5H9O7P</formula>
+        <description>2-Deoxy-D-ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>35cgmp[c]</name>
+        <formula>C10H11N5O7P</formula>
+        <description>3&apos;,5&apos;-cyclic GMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>35cgmp[g]</name>
+        <formula>C10H11N5O7P</formula>
+        <description>3&apos;,5&apos;-cyclic GMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>35cgmp[n]</name>
+        <formula>C10H11N5O7P</formula>
+        <description>3&apos;,5&apos;-cyclic GMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[c]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[e]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[m]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[e]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[n]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adpglc[c]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>ADP alpha-D-glucoside(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>adpman[c]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>ADPmannose</description>
+    </metabolite>
+    <metabolite>
+        <name>adprib[c]</name>
+        <formula>C15H21N5O14P2</formula>
+        <description>ADPribose</description>
+    </metabolite>
+    <metabolite>
+        <name>adprib[m]</name>
+        <formula>C15H21N5O14P2</formula>
+        <description>ADPribose</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[e]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[g]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ap4a[c]</name>
+        <formula>C20H24N10O19P4</formula>
+        <description>P(1),P(4)-bis(5&apos;-adenosyl) tetraphosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>aps[c]</name>
+        <formula>C10H12N5O10PS</formula>
+        <description>5&apos;-adenylyl sulfate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[c]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[e]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>camp[c]</name>
+        <formula>C10H11N5O6P</formula>
+        <description>3&apos;,5&apos;-cyclic AMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>camp[g]</name>
+        <formula>C10H11N5O6P</formula>
+        <description>3&apos;,5&apos;-cyclic AMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[c]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[m]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[n]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[c]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[e]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[m]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[n]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[c]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[m]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[n]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[c]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[e]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[m]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[n]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dad_2[c]</name>
+        <formula>C10H13N5O3</formula>
+        <description>2-deoxyadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dad_2[e]</name>
+        <formula>C10H13N5O3</formula>
+        <description>2-deoxyadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[c]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[m]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[n]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>damp[c]</name>
+        <formula>C10H12N5O6P</formula>
+        <description>dAMP(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[c]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[m]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[n]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcamp[c]</name>
+        <formula>C14H14N5O11P</formula>
+        <description>N6-(1,2-Dicarboxyethyl)-AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[c]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[m]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[n]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcmp[c]</name>
+        <formula>C9H12N3O7P</formula>
+        <description>dCMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcmp[m]</name>
+        <formula>C9H12N3O7P</formula>
+        <description>dCMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcmp[n]</name>
+        <formula>C9H12N3O7P</formula>
+        <description>dCMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[c]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[m]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[n]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcyt[m]</name>
+        <formula>C9H13N3O4</formula>
+        <description>Deoxycytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dcyt[n]</name>
+        <formula>C9H13N3O4</formula>
+        <description>Deoxycytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[n]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[m]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[c]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>didp[c]</name>
+        <formula>C10H11N4O10P2</formula>
+        <description>dIDP</description>
+    </metabolite>
+    <metabolite>
+        <name>didp[m]</name>
+        <formula>C10H11N4O10P2</formula>
+        <description>dIDP</description>
+    </metabolite>
+    <metabolite>
+        <name>didp[n]</name>
+        <formula>C10H11N4O10P2</formula>
+        <description>dIDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dimp[c]</name>
+        <formula>C10H11N4O7P</formula>
+        <description>2&apos;-deoxyinosine 5&apos;-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>din[c]</name>
+        <formula>C10H12N4O4</formula>
+        <description>Deoxyinosine</description>
+    </metabolite>
+    <metabolite>
+        <name>din[e]</name>
+        <formula>C10H12N4O4</formula>
+        <description>Deoxyinosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ditp[c]</name>
+        <formula>C10H11N4O13P3</formula>
+        <description>dITP(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ditp[m]</name>
+        <formula>C10H11N4O13P3</formula>
+        <description>dITP(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ditp[n]</name>
+        <formula>C10H11N4O13P3</formula>
+        <description>dITP(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[c]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[m]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[n]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[c]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[m]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[c]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[m]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[n]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[c]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[m]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[n]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[c]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[m]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[n]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[c]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[m]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[n]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[c]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[m]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[n]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[c]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>g1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[e]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[m]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[n]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[e]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[g]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[m]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[n]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[c]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[e]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[m]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[e]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[m]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[n]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[c]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[c]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[e]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[m]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[n]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[c]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[e]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[m]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[m]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[c]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[m]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[n]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>man1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Mannose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[c]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[e]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[n]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[e]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[g]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[n]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r1p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[m]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[c]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[m]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>trdox[c]</name>
+        <formula>X</formula>
+        <description>Oxidized thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>trdox[m]</name>
+        <formula>X</formula>
+        <description>Oxidized thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>trdrd[c]</name>
+        <formula>XH2</formula>
+        <description>Reduced thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>trdrd[m]</name>
+        <formula>XH2</formula>
+        <description>Reduced thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[e]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[m]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[n]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[e]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[g]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[m]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[n]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[r]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ura[c]</name>
+        <formula>C4H4N2O2</formula>
+        <description>uracil</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[c]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[e]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[m]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[n]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[c]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[e]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[m]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[n]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+    <metabolite>
+        <name>xan[c]</name>
+        <formula>C5H4N4O2</formula>
+        <description>Xanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>xmp[c]</name>
+        <formula>C10H11N4O9P</formula>
+        <description>Xanthosine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>xtp[c]</name>
+        <formula>C10H11N4O15P3</formula>
+        <description>XTP</description>
+    </metabolite>
+    <metabolite>
+        <name>xtsn[c]</name>
+        <formula>C10H12N4O6</formula>
+        <description>xanthosine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ADK1</id>
+        <name>adenylate kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>amp[c]</reactant>
+        <product>2 adp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADK1m</id>
+        <name>adenylate kinase, mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>amp[m]</reactant>
+        <product>2 adp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADK3</id>
+        <name>adentylate kinase (GTP)</name>
+        <reactant>amp[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <product>adp[c]</product>
+        <product>gdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADK3m</id>
+        <name>adentylate kinase (GTP)</name>
+        <reactant>amp[m]</reactant>
+        <reactant>gtp[m]</reactant>
+        <product>adp[m]</product>
+        <product>gdp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADKd</id>
+        <name>adenylate kinase (d form)</name>
+        <reactant>damp[c]</reactant>
+        <reactant>datp[c]</reactant>
+        <product>2 dadp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNCYC</id>
+        <name>adenylate cyclase</name>
+        <reactant>atp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>camp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNK1</id>
+        <name>adenosine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>adn[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNK1m</id>
+        <name>adenosine kinase, mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>adn[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>amp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADPGLC</id>
+        <name>ADPglucose diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>adpglc[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>g1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADPMAN</id>
+        <name>ADPmannose diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>adpman[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>man1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADPRDP</id>
+        <name>ADPribose diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>adprib[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>r5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADPRDPm</id>
+        <name>ADPribose diphosphatase (mitochondrial)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>adprib[m]</reactant>
+        <product>2 h[m]</product>
+        <product>amp[m]</product>
+        <product>r5p[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADSK</id>
+        <name>adenylyl-sulfate kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>aps[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>paps[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADSL1</id>
+        <name>adenylosuccinate lyase</name>
+        <reactant>dcamp[c]</reactant>
+        <product>amp[c]</product>
+        <product>fum[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADSS</id>
+        <name>adenylosuccinate synthase</name>
+        <reactant>asp_L[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <reactant>imp[c]</reactant>
+        <product>2 h[c]</product>
+        <product>pi[c]</product>
+        <product>gdp[c]</product>
+        <product>dcamp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMPDA</id>
+        <name>Adenosine monophosphate deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>amp[c]</reactant>
+        <product>nh4[c]</product>
+        <product>imp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>AP4AH1</id>
+        <name>Ap4A hydrolase, asymmetrically</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ap4a[c]</reactant>
+        <product>atp[c]</product>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPH1e</id>
+        <name>ATP diphosphohydrolase</name>
+        <reactant>2 h2o[e]</reactant>
+        <reactant>atp[e]</reactant>
+        <product>2 h[e]</product>
+        <product>amp[e]</product>
+        <product>2 pi[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPH2e</id>
+        <name>ATP diphosphohydrolase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>adp[e]</reactant>
+        <product>h[e]</product>
+        <product>amp[e]</product>
+        <product>pi[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>BPNT</id>
+        <name>3&apos;,5&apos;-bisphosphate nucleotidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pap[c]</reactant>
+        <product>pi[c]</product>
+        <product>amp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>BPNT2</id>
+        <name>3&apos;,5&apos;-bisphosphate nucleotidase (paps)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>paps[c]</reactant>
+        <product>pi[c]</product>
+        <product>aps[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CTPS1</id>
+        <name>CTP synthase (NH3)</name>
+        <reactant>nh4[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <product>adp[c]</product>
+        <product>2 h[c]</product>
+        <product>pi[c]</product>
+        <product>ctp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDK1</id>
+        <name>ATPcytidine 5-phosphotransferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>cytd[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDK2m</id>
+        <name>cytidine kinase (ATP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>cytd[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>cmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDn</id>
+        <name>cytidine deaminase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>cytd[n]</reactant>
+        <reactant>h[n]</reactant>
+        <product>nh4[n]</product>
+        <product>uri[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK1</id>
+        <name>cytidylate kinase (CMP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>cmp[c]</reactant>
+        <product>adp[c]</product>
+        <product>cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK10</id>
+        <name>cytidylate kinase (CMP,dGTP)</name>
+        <reactant>cmp[c]</reactant>
+        <reactant>dgtp[c]</reactant>
+        <product>cdp[c]</product>
+        <product>dgdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK10n</id>
+        <name>cytidylate kinase (CMP,dGTP),nuclear</name>
+        <reactant>cmp[n]</reactant>
+        <reactant>dgtp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>dgdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK11</id>
+        <name>cytidylate kinase (dCMP,dGTP)</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>dgdp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK11n</id>
+        <name>cytidylate kinase (dCMP,dGTP),nuclear</name>
+        <reactant>dgtp[n]</reactant>
+        <reactant>dcmp[n]</reactant>
+        <product>dgdp[n]</product>
+        <product>dcdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK12</id>
+        <name>cytidylate kinase (dCMP,dCTP)</name>
+        <reactant>dcmp[c]</reactant>
+        <reactant>dctp[c]</reactant>
+        <product>2 dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK12n</id>
+        <name>cytidylate kinase (dCMP,dCTP),nuclear</name>
+        <reactant>dcmp[n]</reactant>
+        <reactant>dctp[n]</reactant>
+        <product>2 dcdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK13</id>
+        <name>cytidylate kinase (dCMP,dATP)</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK13n</id>
+        <name>cytidylate kinase (dCMP,dATP),nuclear</name>
+        <reactant>dcmp[n]</reactant>
+        <reactant>datp[n]</reactant>
+        <product>dcdp[n]</product>
+        <product>dadp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK14</id>
+        <name>cytidylate kinase (dCMP,UTP)</name>
+        <reactant>utp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>udp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK14n</id>
+        <name>cytidylate kinase (dCMP,CTP),nuclear</name>
+        <reactant>dcmp[n]</reactant>
+        <reactant>utp[n]</reactant>
+        <product>dcdp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK1m</id>
+        <name>cytidylate kinase (CMP),mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>cmp[m]</reactant>
+        <product>adp[m]</product>
+        <product>cdp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK1n</id>
+        <name>cytidylate kinase (CMP),nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>cmp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK2</id>
+        <name>cytidylate kinase (dCMP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK2n</id>
+        <name>cytidylate kinase (dCMP),nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dcmp[n]</reactant>
+        <product>dcdp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK3</id>
+        <name>cytidylate kinase (CMP)(GTP)</name>
+        <reactant>gtp[c]</reactant>
+        <reactant>cmp[c]</reactant>
+        <product>gdp[c]</product>
+        <product>cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK3n</id>
+        <name>cytidylate kinase (dCMP,CTP),nuclear</name>
+        <reactant>ctp[n]</reactant>
+        <reactant>dcmp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>dcdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK4</id>
+        <name>cytidylate kinase (dCMP)(GTP)</name>
+        <reactant>gtp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>gdp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK4n</id>
+        <name>cytidylate kinase (dCMP,GTP),nuclear</name>
+        <reactant>dcmp[n]</reactant>
+        <reactant>gtp[n]</reactant>
+        <product>dcdp[n]</product>
+        <product>gdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK5</id>
+        <name>cytidylate kinase (dCMP)</name>
+        <reactant>ctp[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>cdp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK5n</id>
+        <name>cytidylate kinase (CMP),nuclear</name>
+        <reactant>cmp[n]</reactant>
+        <reactant>gtp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>gdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK6</id>
+        <name>cytidylate kinase (CMP,CTP)</name>
+        <reactant>cmp[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <product>2 cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK6n</id>
+        <name>cytidylate kinase (CMP,CTP),nuclear</name>
+        <reactant>ctp[n]</reactant>
+        <reactant>cmp[n]</reactant>
+        <product>2 cdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK7</id>
+        <name>cytidylate kinase (CMP,UTP)</name>
+        <reactant>cmp[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <product>udp[c]</product>
+        <product>cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK7n</id>
+        <name>cytidylate kinase (CMP,UTP),nuclear</name>
+        <reactant>cmp[n]</reactant>
+        <reactant>utp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK8</id>
+        <name>cytidylate kinase (CMP,dATP)</name>
+        <reactant>datp[c]</reactant>
+        <reactant>cmp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK8n</id>
+        <name>cytidylate kinase (CMP,dATP),nuclear</name>
+        <reactant>cmp[n]</reactant>
+        <reactant>datp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>dadp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK9</id>
+        <name>cytidylate kinase (CMP,dCTP)</name>
+        <reactant>cmp[c]</reactant>
+        <reactant>dctp[c]</reactant>
+        <product>cdp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTK9n</id>
+        <name>cytidylate kinase (CMP,dCTP),nuclear</name>
+        <reactant>cmp[n]</reactant>
+        <reactant>dctp[n]</reactant>
+        <product>cdp[n]</product>
+        <product>dcdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DADA</id>
+        <name>Deoxyadenosine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>dad_2[c]</reactant>
+        <product>nh4[c]</product>
+        <product>din[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DADAe</id>
+        <name>Deoxyadenosine deaminase, extracellular</name>
+        <reactant>h[e]</reactant>
+        <reactant>h2o[e]</reactant>
+        <reactant>dad_2[e]</reactant>
+        <product>nh4[e]</product>
+        <product>din[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DADNK</id>
+        <name>deoxyadenosine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dad_2[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>damp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCK1m</id>
+        <name>Deoxycytidine kinase, mitochondrial (ATP)</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dcyt[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>dcmp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCK1n</id>
+        <name>Deoxycytidine kinase, nuclear (ATP)</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dcyt[n]</reactant>
+        <product>h[n]</product>
+        <product>dcmp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCK2n</id>
+        <name>Deoxycytidine kinase, nuclear (UTP)</name>
+        <reactant>utp[n]</reactant>
+        <reactant>dcyt[n]</reactant>
+        <product>h[n]</product>
+        <product>dcmp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCYTDn</id>
+        <name>deoxycytidine deaminase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>h[n]</reactant>
+        <reactant>dcyt[n]</reactant>
+        <product>nh4[n]</product>
+        <product>duri[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGK1</id>
+        <name>deoxyguanylate kinase (dGMP:ATP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dgmp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dgdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGK2m</id>
+        <name>deoxyguanylate kinase (dGMP:dATP) (mitochondrial)</name>
+        <reactant>datp[m]</reactant>
+        <reactant>dgmp[m]</reactant>
+        <product>dadp[m]</product>
+        <product>dgdp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGNSKm</id>
+        <name>deoxyguanosine kinase</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dgsn[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>dgmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DTMPK</id>
+        <name>dTMP kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dtmp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURIK1</id>
+        <name>deoxyuridine kinase (ATP:Deoxyuridine)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>duri[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>dump[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURIK1m</id>
+        <name>deoxyuridine kinase (ATP:Deoxyuridine), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>duri[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>dump[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURIPP</id>
+        <name>deoxyuridine phosphorylase</name>
+        <reactant>pi[c]</reactant>
+        <reactant>duri[c]</reactant>
+        <product>2dr1p[c]</product>
+        <product>ura[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DUTPDPm</id>
+        <name>dUTP diphosphatase</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>dutp[m]</reactant>
+        <product>h[m]</product>
+        <product>ppi[m]</product>
+        <product>dump[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>DUTPDPn</id>
+        <name>dUTP diphosphatase, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>dutp[n]</reactant>
+        <product>ppi[n]</product>
+        <product>h[n]</product>
+        <product>dump[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GK1</id>
+        <name>guanylate kinase (GMP:ATP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gmp[c]</reactant>
+        <product>adp[c]</product>
+        <product>gdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GK1m</id>
+        <name>guanylate kinase (GMP:ATP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>gmp[m]</reactant>
+        <product>adp[m]</product>
+        <product>gdp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GMPR</id>
+        <name>GMP reductase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>gmp[c]</reactant>
+        <product>nh4[c]</product>
+        <product>nadp[c]</product>
+        <product>imp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GMPS2</id>
+        <name>GMP synthase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <reactant>xmp[c]</reactant>
+        <product>2 h[c]</product>
+        <product>glu_L[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>gmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GSNKm</id>
+        <name>guanosine kinase (mitochondrial)</name>
+        <reactant>atp[m]</reactant>
+        <reactant>gsn[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>gmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUACYC</id>
+        <name>guanylate cyclase</name>
+        <reactant>gtp[c]</reactant>
+        <product>35cgmp[c]</product>
+        <product>ppi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>IMPD</id>
+        <name>IMP dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>imp[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>INSKm</id>
+        <name>insosine kinase, mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>ins[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>imp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP10ex</id>
+        <name>nucleoside-diphosphatase (IDP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>idp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>imp[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP3ex</id>
+        <name>nucleoside-diphosphatase (GDP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>gdp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>gmp[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP6</id>
+        <name>nucleoside-diphosphatase (dCDP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dcdp[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>dcmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP7er</id>
+        <name>nucleoside-diphosphatase (UDP), endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>udp[r]</reactant>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <product>ump[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP7ex</id>
+        <name>nucleoside-diphosphatase (UDP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>udp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>ump[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP7g</id>
+        <name>nucleoside-diphosphatase (UDP), Golgi apparatus</name>
+        <reactant>udp[g]</reactant>
+        <reactant>h2o[g]</reactant>
+        <product>h[g]</product>
+        <product>pi[g]</product>
+        <product>ump[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP8</id>
+        <name>nucleoside-diphosphatase (dUDP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>dump[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDP8ex</id>
+        <name>nucleoside-diphosphatase (UTP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>utp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>udp[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK1</id>
+        <name>nucleoside-diphosphate kinase (ATP:GDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>gtp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK10</id>
+        <name>nucleoside-diphosphate kinase (ATP:dIDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>didp[c]</reactant>
+        <product>adp[c]</product>
+        <product>ditp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK10m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dIDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>didp[m]</reactant>
+        <product>adp[m]</product>
+        <product>ditp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK10n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dIDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>didp[n]</reactant>
+        <product>adp[n]</product>
+        <product>ditp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK1m</id>
+        <name>nucleoside-diphosphate kinase (ATP:GDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>gdp[m]</reactant>
+        <product>adp[m]</product>
+        <product>gtp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK1n</id>
+        <name>nucleoside-diphosphate kinase (ATP:GDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>gdp[n]</reactant>
+        <product>adp[n]</product>
+        <product>gtp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK2</id>
+        <name>nucleoside-diphosphate kinase (ATP:UDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>udp[c]</reactant>
+        <product>adp[c]</product>
+        <product>utp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK2m</id>
+        <name>nucleoside-diphosphate kinase (ATP:UDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>udp[m]</reactant>
+        <product>adp[m]</product>
+        <product>utp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK2n</id>
+        <name>nucleoside-diphosphate kinase (ATP:UDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>udp[n]</reactant>
+        <product>utp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK3</id>
+        <name>nucleoside-diphosphate kinase (ATP:CDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>cdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>ctp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK3m</id>
+        <name>nucleoside-diphosphate kinase (ATP:CDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>cdp[m]</reactant>
+        <product>adp[m]</product>
+        <product>ctp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK3n</id>
+        <name>nucleoside-diphosphate kinase (ATP:CDP),nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>cdp[n]</reactant>
+        <product>ctp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK4</id>
+        <name>nucleoside-diphosphate kinase (ATP:dTDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dttp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK4m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dTDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>adp[m]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK4n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dTDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dtdp[n]</reactant>
+        <product>adp[n]</product>
+        <product>dttp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK5</id>
+        <name>Nucleoside-diphosphate kinase (ATP:dGDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dgdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dgtp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK5m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dGDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>adp[m]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK5n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dGDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dgdp[n]</reactant>
+        <product>dgtp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK6</id>
+        <name>Nucleoside-diphosphate kinase (ATP:dUDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dutp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK6m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dUDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>adp[m]</product>
+        <product>dutp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK6n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dUDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dudp[n]</reactant>
+        <product>adp[n]</product>
+        <product>dutp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK7</id>
+        <name>nucleoside-diphosphate kinase (ATP:dCDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dcdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dctp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK7m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dCDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>adp[m]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK7n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dCDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dcdp[n]</reactant>
+        <product>dctp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK8</id>
+        <name>Nucleoside-diphosphate kinase (ATP:dADP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dadp[c]</reactant>
+        <product>adp[c]</product>
+        <product>datp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK8m</id>
+        <name>nucleoside-diphosphate kinase (ATP:dADP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>adp[m]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK8n</id>
+        <name>nucleoside-diphosphate kinase (ATP:dADP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dadp[n]</reactant>
+        <product>datp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK9</id>
+        <name>nucleoside-diphosphate kinase (ATP:IDP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>idp[c]</reactant>
+        <product>adp[c]</product>
+        <product>itp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK9m</id>
+        <name>nucleoside-diphosphate kinase (ATP:IDP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>idp[m]</reactant>
+        <product>adp[m]</product>
+        <product>itp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NDPK9n</id>
+        <name>nucleoside-diphosphate kinase (ATP:IDP), nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>idp[n]</reactant>
+        <product>adp[n]</product>
+        <product>itp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD10</id>
+        <name>5&apos;-nucleotidase (XMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>xmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>xtsn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD12</id>
+        <name>5&apos;-nucleotidase (dIMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dimp[c]</reactant>
+        <product>pi[c]</product>
+        <product>din[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD1m</id>
+        <name>5&apos;-nucleotidase (dUMP),mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>dump[m]</reactant>
+        <product>pi[m]</product>
+        <product>duri[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD2e</id>
+        <name>5&apos;-nucleotidase (UMP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>ump[e]</reactant>
+        <product>pi[e]</product>
+        <product>uri[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD2m</id>
+        <name>5&apos;-nucleotidase (UMP), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>ump[m]</reactant>
+        <product>pi[m]</product>
+        <product>uri[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD4e</id>
+        <name>5&apos;-nucleotidase (CMP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>cmp[e]</reactant>
+        <product>pi[e]</product>
+        <product>cytd[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD5m</id>
+        <name>5&apos;-nucleotidase (dTMP), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>dtmp[m]</reactant>
+        <product>pi[m]</product>
+        <product>thymd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD6</id>
+        <name>5&apos;-nucleotidase (dAMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>damp[c]</reactant>
+        <product>pi[c]</product>
+        <product>dad_2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD7</id>
+        <name>5&apos;-nucleotidase (AMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>amp[c]</reactant>
+        <product>pi[c]</product>
+        <product>adn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD7e</id>
+        <name>5&apos;-nucleotidase (AMP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>amp[e]</reactant>
+        <product>adn[e]</product>
+        <product>pi[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD8</id>
+        <name>5&apos;-nucleotidase (dGMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dgmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>dgsn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD9</id>
+        <name>5&apos;-nucleotidase (GMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>gsn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD9e</id>
+        <name>5&apos;-nucleotidase (GMP), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>gmp[e]</reactant>
+        <product>pi[e]</product>
+        <product>gsn[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTP3e</id>
+        <name>nucleoside-triphosphatase (GTP)</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>gtp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>gdp[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTPP10</id>
+        <name>Nucleoside triphosphate pyrophosphorylase (ditp)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ditp[c]</reactant>
+        <product>h[c]</product>
+        <product>ppi[c]</product>
+        <product>dimp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTPP11</id>
+        <name>Nucleoside triphosphate pyrophosphorylase (xtp)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>xtp[c]</reactant>
+        <product>h[c]</product>
+        <product>ppi[c]</product>
+        <product>xmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTPP9</id>
+        <name>Nucleoside triphosphate pyrophosphorylase (itp)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>itp[c]</reactant>
+        <product>h[c]</product>
+        <product>ppi[c]</product>
+        <product>imp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDE1</id>
+        <name>3&apos;,5&apos;-cyclic-nucleotide phosphodiesterase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>camp[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDE1g</id>
+        <name>3&apos;,5&apos;-cyclic-nucleotide phosphodiesterase,Golgi</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>camp[g]</reactant>
+        <product>h[g]</product>
+        <product>amp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDE4</id>
+        <name>3&apos;,5&apos;-cyclic-nucleotide phosphodiesterase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>35cgmp[c]</reactant>
+        <product>h[c]</product>
+        <product>gmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDE4g</id>
+        <name>3&apos;,5&apos;-cyclic-nucleotide phosphodiesterase, Golgi</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>35cgmp[g]</reactant>
+        <product>h[g]</product>
+        <product>gmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDE4n</id>
+        <name>3&apos;,5&apos;-cyclic-nucleotide phosphodiesterase, Nucleus</name>
+        <reactant>35cgmp[n]</reactant>
+        <reactant>h2o[n]</reactant>
+        <product>h[n]</product>
+        <product>gmp[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP1</id>
+        <name>purine-nucleoside phosphorylase (Adenosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>adn[c]</reactant>
+        <product>ade[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP7</id>
+        <name>purine-nucleoside phosphorylase (Xanthosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>xtsn[c]</reactant>
+        <product>xan[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>RNDR1</id>
+        <name>ribonucleoside-diphosphate reductase (ADP)</name>
+        <reactant>adp[c]</reactant>
+        <reactant>trdrd[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dadp[c]</product>
+        <product>trdox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>RNDR2</id>
+        <name>ribonucleoside-diphosphate reductase (GDP)</name>
+        <reactant>gdp[c]</reactant>
+        <reactant>trdrd[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dgdp[c]</product>
+        <product>trdox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>RNDR3</id>
+        <name>ribonucleoside-diphosphate reductase (CDP)</name>
+        <reactant>cdp[c]</reactant>
+        <reactant>trdrd[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dcdp[c]</product>
+        <product>trdox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>RNDR4</id>
+        <name>ribonucleoside-diphosphate reductase (UDP)</name>
+        <reactant>udp[c]</reactant>
+        <reactant>trdrd[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dudp[c]</product>
+        <product>trdox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>SADT</id>
+        <name>sulfate adenylyltransferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>so4[c]</reactant>
+        <product>ppi[c]</product>
+        <product>aps[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDK1</id>
+        <name>thymidine kinase (ATP:thymidine)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>thymd[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>dtmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDK1m</id>
+        <name>thymidine kinase (ATP:thymidine)</name>
+        <reactant>atp[m]</reactant>
+        <reactant>thymd[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>dtmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDS</id>
+        <name>thymidylate synthase</name>
+        <reactant>dump[c]</reactant>
+        <reactant>mlthf[c]</reactant>
+        <product>dhf[c]</product>
+        <product>dtmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRDR</id>
+        <name>thioredoxin reductase (NADPH)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>trdox[c]</reactant>
+        <product>nadp[c]</product>
+        <product>trdrd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRDRm</id>
+        <name>thioredoxin reductase (NADPH)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>trdox[m]</reactant>
+        <product>nadp[m]</product>
+        <product>trdrd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK</id>
+        <name>UMP kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>adp[c]</product>
+        <product>udp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK2</id>
+        <name>UMP kinase (CTP)</name>
+        <reactant>ctp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udp[c]</product>
+        <product>cdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK2n</id>
+        <name>UMP kinase (CTP),nuclear</name>
+        <reactant>ctp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>cdp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK3</id>
+        <name>UMP kinase (UTP)</name>
+        <reactant>utp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>2 udp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK3n</id>
+        <name>UMP kinase (UTP),nuclear</name>
+        <reactant>utp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>2 udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK4</id>
+        <name>UMP kinase (GTP)</name>
+        <reactant>gtp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udp[c]</product>
+        <product>gdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK4n</id>
+        <name>UMP kinase (GTP),nuclear</name>
+        <reactant>gtp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>udp[n]</product>
+        <product>gdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK5</id>
+        <name>UMP kinase (dATP)</name>
+        <reactant>datp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udp[c]</product>
+        <product>dadp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK5n</id>
+        <name>UMP kinase (dATP),nuclear</name>
+        <reactant>datp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>dadp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK6</id>
+        <name>UMP kinase (dCTP)</name>
+        <reactant>dctp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udp[c]</product>
+        <product>dcdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK6n</id>
+        <name>UMP kinase (dCTP),nuclear</name>
+        <reactant>dctp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>dcdp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK7</id>
+        <name>UMP kinase (dGTP)</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udp[c]</product>
+        <product>dgdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPK7n</id>
+        <name>UMP kinase (dGTP),nuclear</name>
+        <reactant>dgtp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>dgdp[n]</product>
+        <product>udp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPKm</id>
+        <name>UMP kinase (mitochondrial, ATP)</name>
+        <reactant>atp[m]</reactant>
+        <reactant>ump[m]</reactant>
+        <product>adp[m]</product>
+        <product>udp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPKn</id>
+        <name>UMP kinase, nuclear</name>
+        <reactant>atp[n]</reactant>
+        <reactant>ump[n]</reactant>
+        <product>udp[n]</product>
+        <product>adp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>URIDK2m</id>
+        <name>uridylate kinase (dUMP), mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dump[m]</reactant>
+        <product>adp[m]</product>
+        <product>dudp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0345</id>
+        <name>ATP:AMP phosphotransferase Purine metabolism EC:2.7.4.11</name>
+        <reactant>atp[c]</reactant>
+        <reactant>damp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dadp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0394</id>
+        <name>Xanthine:NAD+ oxidoreductase Purine metabolism EC:1.17.1.4</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>hxan[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xan[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0395</id>
+        <name>Hypoxanthine:oxygen oxidoreductase Purine metabolism EC:1.17.3.2</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>hxan[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>xan[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0456</id>
+        <name>ATP:deoxyguanosine 5-phosphotransferase Purine metabolism EC:2.7.1.113</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dgsn[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>dgmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0470</id>
+        <name>2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>datp[c]</reactant>
+        <reactant>trdox[c]</reactant>
+        <product>atp[c]</product>
+        <product>trdrd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0472</id>
+        <name>2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dgtp[c]</reactant>
+        <reactant>trdox[c]</reactant>
+        <product>gtp[c]</product>
+        <product>trdrd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0474</id>
+        <name>2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dctp[c]</reactant>
+        <reactant>trdox[c]</reactant>
+        <product>ctp[c]</product>
+        <product>trdrd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0475</id>
+        <name>2-Deoxyadenosine 5-diphosphate:oxidized-thioredoxin 2-oxidoreductase Purine metabolism EC:1.17.4.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dutp[c]</reactant>
+        <reactant>trdox[c]</reactant>
+        <product>utp[c]</product>
+        <product>trdrd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0531</id>
+        <name>dUTP:cytidine 5-phosphotransferase Pyrimidine metabolism EC:2.7.1.48</name>
+        <reactant>cytd[c]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>dudp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1156</id>
+        <name>dUTP:uridine 5-phosphotransferase Pyrimidine metabolism EC:2.7.1.48</name>
+        <reactant>uri[c]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>h[c]</product>
+        <product>dudp[c]</product>
+        <product>ump[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1384</id>
+        <name>Guanosine aminohydrolase EC:3.5.4.15</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>gsn[c]</reactant>
+        <product>nh4[c]</product>
+        <product>xtsn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Nucleotide interconversion</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,1174 @@
+<metabolites>
+    <metabolite>
+        <name>13_cis_oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>13-cis-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_oretn[n]</name>
+        <formula>C20H27O3</formula>
+        <description>13-cis-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[n]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>1a25dhvitd3[c]</name>
+        <formula>C27H44O3</formula>
+        <description>calcitriol</description>
+    </metabolite>
+    <metabolite>
+        <name>1a25dhvitd3[n]</name>
+        <formula>C27H44O3</formula>
+        <description>calcitriol</description>
+    </metabolite>
+    <metabolite>
+        <name>35cgmp[c]</name>
+        <formula>C10H11N5O7P</formula>
+        <description>3&apos;,5&apos;-cyclic GMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>35cgmp[n]</name>
+        <formula>C10H11N5O7P</formula>
+        <description>3&apos;,5&apos;-cyclic GMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[n]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>Ntmelys[n]</name>
+        <formula>C3H10X</formula>
+        <description>Protein N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>Ntmelys[r]</name>
+        <formula>C3H10X</formula>
+        <description>Protein N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[n]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ach[c]</name>
+        <formula>C7H16NO2</formula>
+        <description>acetylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ach[n]</name>
+        <formula>C7H16NO2</formula>
+        <description>acetylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[c]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[n]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[n]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[n]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[c]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[n]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[c]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[n]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[c]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[n]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[c]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[n]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[n]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[n]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[c]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[n]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[c]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[n]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[c]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[n]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[c]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[n]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>didp[c]</name>
+        <formula>C10H11N4O10P2</formula>
+        <description>dIDP</description>
+    </metabolite>
+    <metabolite>
+        <name>didp[n]</name>
+        <formula>C10H11N4O10P2</formula>
+        <description>dIDP</description>
+    </metabolite>
+    <metabolite>
+        <name>ditp[c]</name>
+        <formula>C10H11N4O13P3</formula>
+        <description>dITP(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ditp[n]</name>
+        <formula>C10H11N4O13P3</formula>
+        <description>dITP(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dnad[c]</name>
+        <formula>C21H24N6O15P2</formula>
+        <description>Deamino-NAD+</description>
+    </metabolite>
+    <metabolite>
+        <name>dnad[n]</name>
+        <formula>C21H24N6O15P2</formula>
+        <description>Deamino-NAD+</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[c]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[n]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[c]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[n]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[c]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[n]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[c]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[n]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[c]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[n]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[n]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[n]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[n]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[n]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>hretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>4 hydroxy retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>hretn[n]</name>
+        <formula>C20H27O3</formula>
+        <description>4 hydroxy retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[c]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[n]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[c]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[n]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[n]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi13456p[c]</name>
+        <formula>C6H7O21P5</formula>
+        <description>myo-inositol 1,3,4,5,6-pentakisphosphate(10-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi13456p[n]</name>
+        <formula>C6H7O21P5</formula>
+        <description>myo-inositol 1,3,4,5,6-pentakisphosphate(10-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1346p[c]</name>
+        <formula>C6H8O18P4</formula>
+        <description>myo-inositol 1,3,4,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1346p[n]</name>
+        <formula>C6H8O18P4</formula>
+        <description>myo-inositol 1,3,4,6-tetrakisphosphate(8-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi14p[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonatooxy)cyclohexyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi14p[n]</name>
+        <formula>C6H10O12P2</formula>
+        <description>(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonatooxy)cyclohexyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1p_D[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 1-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi1p_D[n]</name>
+        <formula>C6H11O9P</formula>
+        <description>1D-myo-inositol 1-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>minohp[c]</name>
+        <formula>C6H6O24P6</formula>
+        <description>myo-inositol hexakisphosphate(12-)</description>
+    </metabolite>
+    <metabolite>
+        <name>minohp[n]</name>
+        <formula>C6H6O24P6</formula>
+        <description>myo-inositol hexakisphosphate(12-)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[n]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[n]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrnt[c]</name>
+        <formula>C11H12NO9P</formula>
+        <description>Nicotinate D-ribonucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrnt[n]</name>
+        <formula>C11H12NO9P</formula>
+        <description>Nicotinate D-ribonucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nmn[c]</name>
+        <formula>C11H14N2O8P</formula>
+        <description>NMN</description>
+    </metabolite>
+    <metabolite>
+        <name>nmn[n]</name>
+        <formula>C11H14N2O8P</formula>
+        <description>NMN</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[n]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[n]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>oretn[c]</name>
+        <formula>C20H27O3</formula>
+        <description>4-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>oretn[n]</name>
+        <formula>C20H27O3</formula>
+        <description>4-oxo-retinoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[n]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[n]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[c]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[n]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>peplys[e]</name>
+        <formula>XH</formula>
+        <description>Peptidyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>peplys[n]</name>
+        <formula>XH</formula>
+        <description>Peptidyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[n]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[n]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi12346p[c]</name>
+        <formula>C6H6O27P7</formula>
+        <description>5-Diphosphoinositol pentakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi12346p[n]</name>
+        <formula>C6H6O27P7</formula>
+        <description>5-Diphosphoinositol pentakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi1346p[c]</name>
+        <formula>C6H7O24P6</formula>
+        <description>Diphosphoinositol tetrakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppmi1346p[n]</name>
+        <formula>C6H7O24P6</formula>
+        <description>Diphosphoinositol tetrakisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pppi[c]</name>
+        <formula>HO10P3</formula>
+        <description>triphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pppi[n]</name>
+        <formula>HO10P3</formula>
+        <description>triphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[n]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[c]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[n]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[c]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[n]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>35CGMPtn</id>
+        <name>35cGMP nuclear transport</name>
+        <reactant>35cgmp[c]</reactant>
+        <product>35cgmp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACCOAtn</id>
+        <name>acetyl-CoA transport, nuclear</name>
+        <reactant>accoa[c]</reactant>
+        <product>accoa[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACHtn</id>
+        <name>Acetylcholin transport, nuclear trhough pores</name>
+        <reactant>ach[n]</reactant>
+        <product>ach[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNAMtn</id>
+        <name>N-acetylneuraminate nuclear import</name>
+        <reactant>acnam[c]</reactant>
+        <product>acnam[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHCYStn</id>
+        <name>S-adenosyl-L-homocysteine nuclear transport</name>
+        <reactant>ahcys[c]</reactant>
+        <product>ahcys[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMETtn</id>
+        <name>S-adenosyl-L-methionine nuclear transport</name>
+        <reactant>amet[c]</reactant>
+        <product>amet[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPtn</id>
+        <name>ATP diffusion in nucleus</name>
+        <reactant>atp[c]</reactant>
+        <product>atp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>BIOCYTtn</id>
+        <name>biocytin transport, nuclear</name>
+        <reactant>biocyt[c]</reactant>
+        <product>biocyt[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNtn</id>
+        <name>Biotin transport, nuclear</name>
+        <reactant>btn[c]</reactant>
+        <product>btn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLtn</id>
+        <name>Choline transport, nuclear through pores</name>
+        <reactant>chol[c]</reactant>
+        <product>chol[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>CMPACNAtn</id>
+        <name>CMP-Sia nuclear export</name>
+        <reactant>cmpacna[n]</reactant>
+        <product>cmpacna[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>CO2tn</id>
+        <name>CO2 nuclear transport via diffusion</name>
+        <reactant>co2[n]</reactant>
+        <product>co2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtn</id>
+        <name>coenzyme A transport, nuclear</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>CTPtn</id>
+        <name>CTP diffusion in nucleus</name>
+        <reactant>ctp[c]</reactant>
+        <product>ctp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDtn</id>
+        <name>cytidine transport in nucleus</name>
+        <reactant>cytd[c]</reactant>
+        <product>cytd[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DATPtn</id>
+        <name>dATP diffusion in nucleus</name>
+        <reactant>datp[c]</reactant>
+        <product>datp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCTPtn</id>
+        <name>dCTP diffusion in nucleus</name>
+        <reactant>dctp[c]</reactant>
+        <product>dctp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGTPtn</id>
+        <name>dGTP diffusion in nucleus</name>
+        <reactant>dgtp[c]</reactant>
+        <product>dgtp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DIDPtn</id>
+        <name>dIDP nuclear transport</name>
+        <reactant>didp[c]</reactant>
+        <product>didp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DITPtn</id>
+        <name>dITP nuclear transport</name>
+        <reactant>ditp[c]</reactant>
+        <product>ditp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNADtn</id>
+        <name>dNAD transport, nuclear trhough pore</name>
+        <reactant>dnad[c]</reactant>
+        <product>dnad[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DTDPtn</id>
+        <name>dTDP nuclear transport</name>
+        <reactant>dtdp[c]</reactant>
+        <product>dtdp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DTTPtn</id>
+        <name>dTTP diffusion in nucleus</name>
+        <reactant>dttp[c]</reactant>
+        <product>dttp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DUDPtn</id>
+        <name>dUDP nuclear transport</name>
+        <reactant>dudp[c]</reactant>
+        <product>dudp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DUMPtn</id>
+        <name>dUMP nuclear transport</name>
+        <reactant>dump[c]</reactant>
+        <product>dump[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURItn</id>
+        <name>deoxyuridine transport in nucleus</name>
+        <reactant>duri[c]</reactant>
+        <product>duri[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>FORtrn</id>
+        <name>Formate transport, nuclear</name>
+        <reactant>for[c]</reactant>
+        <product>for[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>GMPtn</id>
+        <name>GMP nuclear transport</name>
+        <reactant>gmp[c]</reactant>
+        <product>gmp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTPtn</id>
+        <name>GTP diffusion in nucleus</name>
+        <reactant>gtp[c]</reactant>
+        <product>gtp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2O2tn</id>
+        <name>hydrogen peroxide nuclear transport</name>
+        <reactant>h2o2[c]</reactant>
+        <product>h2o2[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Otn</id>
+        <name>H2O transport, nuclear</name>
+        <reactant>h2o[n]</reactant>
+        <product>h2o[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>HRETNtn</id>
+        <name>4-hydroxyretinoic acid transport, Nuclear</name>
+        <reactant>hretn[c]</reactant>
+        <product>hretn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDPtn</id>
+        <name>IDP nuclear transport</name>
+        <reactant>idp[c]</reactant>
+        <product>idp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ITPtn</id>
+        <name>ITP nuclear transport</name>
+        <reactant>itp[c]</reactant>
+        <product>itp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYStn</id>
+        <name>L-lysine transport, nuclear</name>
+        <reactant>lys_L[c]</reactant>
+        <product>lys_L[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI13456Ptn</id>
+        <name>inositol 1,3,4,5,6-pentakisphosphate nuclear transport (diffusion)</name>
+        <reactant>mi13456p[c]</reactant>
+        <product>mi13456p[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1346Ptn</id>
+        <name>1D-myo-Inositol 1,3,4,6-tetrakisphosphate nuclear transport (diffusion)</name>
+        <reactant>mi1346p[c]</reactant>
+        <product>mi1346p[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI14Ptn</id>
+        <name>inositol 1,4-bisphosphate nuclear transport (diffusion)</name>
+        <reactant>mi14p[c]</reactant>
+        <product>mi14p[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>MI1P_Dtn</id>
+        <name>inositol 1-phosphate nuclear transport (diffusion)</name>
+        <reactant>mi1p_D[c]</reactant>
+        <product>mi1p_D[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>MINOHPtn</id>
+        <name>inositol hexakisphosphate nuclear transport (diffusion)</name>
+        <reactant>minohp[c]</reactant>
+        <product>minohp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADtn</id>
+        <name>NAD transport, nuclear through pores</name>
+        <reactant>nad[n]</reactant>
+        <product>nad[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>NH4tn</id>
+        <name>ammonia nuclear transport</name>
+        <reactant>nh4[c]</reactant>
+        <product>nh4[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>NICRNTtn</id>
+        <name>NICRNT transport, nuclear trhough pore</name>
+        <reactant>nicrnt[c]</reactant>
+        <product>nicrnt[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>NMNtn</id>
+        <name>NMN transport, nuclear trhough pore</name>
+        <reactant>nmn[c]</reactant>
+        <product>nmn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTMELYStner</id>
+        <name>protein trimethyl lysine transport (nucleus to ER)</name>
+        <reactant>Ntmelys[n]</reactant>
+        <product>Ntmelys[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2Stn</id>
+        <name>superoxide anion transport via diffusion (nucleus)</name>
+        <reactant>o2s[c]</reactant>
+        <product>o2s[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2tn</id>
+        <name>O2 nuclear transport</name>
+        <reactant>o2[c]</reactant>
+        <product>o2[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORETNtn</id>
+        <name>4-oxo-retinoic acid transport, Nuclear</name>
+        <reactant>oretn[c]</reactant>
+        <product>oretn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORETNtn2</id>
+        <name>13-cis-4-oxo-retinoic acid transport, Nuclear</name>
+        <reactant>13_cis_oretn[c]</reactant>
+        <product>13_cis_oretn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PA_HStn</id>
+        <name>phosphatidate transport, nuclear</name>
+        <reactant>pa_hs[c]</reactant>
+        <product>pa_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAIL_HStn</id>
+        <name>phosphatidylinositol nuclear transport (diffusion)</name>
+        <reactant>pail_hs[c]</reactant>
+        <product>pail_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAIL45P_HStn</id>
+        <name>phosphatidylinositol 4,5-bisphosphate nuclear transport (diffusion)</name>
+        <reactant>pail45p_hs[c]</reactant>
+        <product>pail45p_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAIL4P_HStn</id>
+        <name>phosphatidylinositol 4-phosphate nuclear transport (diffusion)</name>
+        <reactant>pail4p_hs[c]</reactant>
+        <product>pail4p_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PEPLYStn</id>
+        <name>peptide (lysine) nuclear transport via diffusion</name>
+        <reactant>peplys[e]</reactant>
+        <product>peplys[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PItn</id>
+        <name>phosphate transport, nuclear</name>
+        <reactant>pi[n]</reactant>
+        <product>pi[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPMI12346Ptn</id>
+        <name>5-diphosphatidylinositol pentakisphosphate nuclear transport (diffusion)</name>
+        <reactant>ppmi12346p[c]</reactant>
+        <product>ppmi12346p[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPMI1346Ptn</id>
+        <name>diphosphatidylinositol tetrakisphosphate nuclear transport (diffusion)</name>
+        <reactant>ppmi1346p[c]</reactant>
+        <product>ppmi1346p[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPPItn</id>
+        <name>Inorganic triphosphate transport through nuclear pore</name>
+        <reactant>pppi[c]</reactant>
+        <product>pppi[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAtn</id>
+        <name>Retinoate transport, nuclear</name>
+        <reactant>retn[c]</reactant>
+        <product>retn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>RAtn3</id>
+        <name>13-cis-retinoic acid transport, nuclear</name>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>13_cis_retn[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>Uritn</id>
+        <name>uridine transport in nucleus</name>
+        <reactant>uri[c]</reactant>
+        <product>uri[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>UTPtn</id>
+        <name>UTP diffusion in nucleus</name>
+        <reactant>utp[c]</reactant>
+        <product>utp[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1459</id>
+        <name>Transport reaction</name>
+        <reactant>ppi[c]</reactant>
+        <product>ppi[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>1a25DHVITD3TRn</id>
+        <name>tanslocation of 1-alpha,25-Dihydroxyvitamin D3 to nucleus</name>
+        <reactant>1a25dhvitd3[c]</reactant>
+        <product>1a25dhvitd3[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+    <reaction>
+        <id>4ABUTtcn</id>
+        <name>transport of GABA</name>
+        <reactant>4abut[c]</reactant>
+        <product>4abut[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, nuclear</subsystem>
+    </reaction>
+</reactions>

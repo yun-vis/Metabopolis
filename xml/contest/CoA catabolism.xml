@@ -1,0 +1,186 @@
+<metabolites>
+    <metabolite>
+        <name>4ppcys[c]</name>
+        <formula>C12H20N2O9PS</formula>
+        <description>N-((R)-4-Phosphopantothenoyl)-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>4ppcys[m]</name>
+        <formula>C12H20N2O9PS</formula>
+        <description>N-((R)-4-Phosphopantothenoyl)-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01231[c]</name>
+        <formula>C12H21N2O6S</formula>
+        <description>N-[(R)-pantothenoyl]-L-cysteinate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01231[m]</name>
+        <formula>C12H21N2O6S</formula>
+        <description>N-[(R)-pantothenoyl]-L-cysteinate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[e]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[l]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>cysam[c]</name>
+        <formula>C2H8NS</formula>
+        <description>cysteaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>dpcoa[e]</name>
+        <formula>C21H33N7O13P2S</formula>
+        <description>Dephospho-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dpcoa[l]</name>
+        <formula>C21H33N7O13P2S</formula>
+        <description>Dephospho-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pan4p[c]</name>
+        <formula>C11H21N2O7PS</formula>
+        <description>Pantetheine 4&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[e]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[l]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pnto_R[c]</name>
+        <formula>C9H16NO5</formula>
+        <description>(R)-Pantothenate</description>
+    </metabolite>
+    <metabolite>
+        <name>ptth[c]</name>
+        <formula>C11H22N2O4S</formula>
+        <description>pantetheine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>LAPCOAl</id>
+        <name>lysosomal acid phosphorylase (CoA)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>coa[l]</reactant>
+        <product>pi[l]</product>
+        <product>dpcoa[l]</product>
+        <reversible>false</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAN4PP</id>
+        <name>phosphatase (pan4p)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pan4p[c]</reactant>
+        <product>pi[c]</product>
+        <product>ptth[c]</product>
+        <reversible>false</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PNTEH</id>
+        <name>Hydrolase Class ( RXN R02973)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ptth[c]</reactant>
+        <product>cysam[c]</product>
+        <product>pnto_R[c]</product>
+        <reversible>false</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0679</id>
+        <name>ATP:pantothenate 4-phosphotransferase Pantothenate and CoA biosynthesis EC:2.7.1.33</name>
+        <reactant>atp[c]</reactant>
+        <reactant>HC01231[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>4ppcys[c]</product>
+        <reversible>true</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0680</id>
+        <name>ATP:pantothenate 4-phosphotransferase Pantothenate and CoA biosynthesis EC:2.7.1.33</name>
+        <reactant>atp[m]</reactant>
+        <reactant>HC01231[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>4ppcys[m]</product>
+        <reversible>true</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LAPCOAe</id>
+        <name>LAPCOAe</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>coa[e]</reactant>
+        <product>pi[e]</product>
+        <product>dpcoa[e]</product>
+        <reversible>false</reversible>
+        <subsystem>CoA catabolism</subsystem>
+    </reaction>
+</reactions>

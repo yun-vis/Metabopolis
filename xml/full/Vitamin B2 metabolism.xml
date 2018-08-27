@@ -1,0 +1,200 @@
+<metabolites>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[c]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>fe3[c]</name>
+        <formula>Fe</formula>
+        <description>Fe3+</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[e]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[e]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fmn[c]</name>
+        <formula>C17H19N4O9P</formula>
+        <description>FMN</description>
+    </metabolite>
+    <metabolite>
+        <name>fmn[e]</name>
+        <formula>C17H19N4O9P</formula>
+        <description>FMN</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ribflv[c]</name>
+        <formula>C17H20N4O6</formula>
+        <description>Riboflavin</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACP1_FMN_</id>
+        <name>acid phosphatase (FMN)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>fmn[c]</reactant>
+        <product>pi[c]</product>
+        <product>ribflv[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADDP</id>
+        <name>FAD diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>fad[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>fmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FMNAT</id>
+        <name>FMN adenylyltransferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>fmn[c]</reactant>
+        <product>ppi[c]</product>
+        <product>fad[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RBFK</id>
+        <name>riboflavin kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>ribflv[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>fmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3347C</id>
+        <name>RE3347</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>fad[c]</reactant>
+        <product>nad[c]</product>
+        <product>fadh2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADDPle</id>
+        <name>FAD diphosphatase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>fad[e]</reactant>
+        <product>2 h[e]</product>
+        <product>amp[e]</product>
+        <product>fmn[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FERO</id>
+        <name>ferroxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>4 h[c]</reactant>
+        <reactant>4 fe2[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>4 fe3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B2 metabolism</subsystem>
+    </reaction>
+</reactions>

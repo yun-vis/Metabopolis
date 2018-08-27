@@ -1,0 +1,815 @@
+<metabolites>
+    <metabolite>
+        <name>gdp[g]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[g]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C58H102N3O31FULLRCO</formula>
+        <description>(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C78H135N4O45FULLRCO</formula>
+        <description>Type IIIA glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C92H158N5O55FULLRCO</formula>
+        <description>Type IIIAb</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C72H125N4O41FULLRCO</formula>
+        <description>(Gal)3 (GalNAc)1 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacglcgalgluside_hs[g]</name>
+        <formula>C58H102N3O31FULLRCO</formula>
+        <description>Type IA glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>acglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C66H115N4O37FULLRCO</formula>
+        <description>nLc7Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>acglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>nLc5Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>acglcgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C66H115N4O37FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>acglcgalgluside_hs[g]</name>
+        <formula>C38H69N2O17FULLRCO</formula>
+        <description>N-acetyl-beta-D-glucosaminyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-glucosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngal14acglcgalgluside_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>3&apos;,8&apos;-LD1</description>
+    </metabolite>
+    <metabolite>
+        <name>acngal14acglcgalgluside_hs[g]</name>
+        <formula>C55H95N3O30FULLRCO</formula>
+        <description>Sialyl-3-paragloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acngalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C69H118N4O40FULLRCO</formula>
+        <description>VI3NeuAc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>acngalacglcgalgluside_hs[g]</name>
+        <formula>C55H95N3O30FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Type IIH glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc132galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>V3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc14galacglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lea glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacgalfucgalacglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O35FULLRCO</formula>
+        <description>(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngal14acglcgalgluside_hs[g]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-NeuAc,III3-a-Fuc-nLc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngalacglcgalgluside_hs[g]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Ley glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc132galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O40FULLRCO</formula>
+        <description>V3Fuc,III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C90H155N4O54FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C76H132N3O44FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)2 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C84H145N4O50FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O40FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)2 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C84H145N4O50FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Leb glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgal14acglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lacto-N-fucopentaosyl III ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalacgalfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O40FULLRCO</formula>
+        <description>Type IIIH glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C84H145N4O50FULLRCO</formula>
+        <description>(Gal)4 (GalNAc)1 (Glc)1 (GlcNAc)2 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalacglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C78H135N4O46FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>VI2Fuc-nLc6</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalacglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Type IH glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalfucgalacglcgalgluside_hs[g]</name>
+        <formula>C62H109N2O35FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>gal14acglcgalgluside_hs[g]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>Lactoneotetraosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galacgalfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>(Gal)3 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galacgalfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C78H135N4O46FULLRCO</formula>
+        <description>(Gal)4 (GalNAc)1 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C72H125N4O42FULLRCO</formula>
+        <description>nLc8Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C58H102N3O32FULLRCO</formula>
+        <description>i-antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C72H125N4O42FULLRCO</formula>
+        <description>I-antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgalgluside_hs[g]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>Lc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O41FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galfucgalacglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>Type IB glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C96H165N4O60FULLRCO</formula>
+        <description>(Gal)6 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[g]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[g]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[g]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ABO1g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>fucgalacglcgalgluside_hs[g]</reactant>
+        <reactant>udpacgal[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgalfucgalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO2g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>fucgalacglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galfucgalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO3g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>fuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galfuc12gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO4g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>fuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgalfuc12gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO5g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>fucgalacgalfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO6g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>fucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgalfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO7g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>fucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO8g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>fucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABO9g</id>
+        <name>ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)</name>
+        <reactant>2 udpgal[g]</reactant>
+        <reactant>fucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 udp[g]</product>
+        <product>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALTg</id>
+        <name>Beta galactosyltransferase</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT11g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>gal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT12g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acglc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT310g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT311g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acgalfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacgalfuc12gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT312g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT313g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acgalfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacgalfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT314g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglcgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacglcgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT315g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacglc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT51g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5</name>
+        <reactant>galgluside_hs[g]</reactant>
+        <reactant>uacgam[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT12g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galacglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>fucgalacglcgalgluside_hs[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT14g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>gal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>fuc12gal14acglcgalgluside_hs[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT15g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galacgalfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>fucgalacgalfuc12gal14acglcgalgluside_hs[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT16g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>fucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT17g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galacgalfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>fucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <product>gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT18g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galacglcgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>2 gdpfuc[g]</reactant>
+        <product>2 h[g]</product>
+        <product>fucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</product>
+        <product>2 gdp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT31g</id>
+        <name>fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included) 1</name>
+        <reactant>galacglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fuc14galacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT32g</id>
+        <name>fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included) 1</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>acngalacglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucacngalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT33g</id>
+        <name>fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included) 1</name>
+        <reactant>acgalfucgalacglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucacgalfucgalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT34g</id>
+        <name>fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included) 1</name>
+        <reactant>fucgalacglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfucgalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT35g</id>
+        <name>fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included) 1</name>
+        <reactant>galfucgalacglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucgalfucgalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT910g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>fucgalacglc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT911g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>fucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT91g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT92g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>acngal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucacngal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT93g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>fuc12gal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfuc12gal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT94g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>fucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT95g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>fucfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfucfucgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT96g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fuc132galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT97g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>gdpfuc[g]</reactant>
+        <reactant>fuc132galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucfuc132galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT98g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fuc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT99g</id>
+        <name>Alpha-(1,3)-fucosyltransferase</name>
+        <reactant>galacglc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucgalacglc13galacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCNTg</id>
+        <name>N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acglcgalacglcgal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL31g</id>
+        <name>ST3 beta-galactoside alpha-2,3-sialyltransferase 3</name>
+        <reactant>galacglcgalgluside_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>acngalacglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL61g</id>
+        <name>Type 2 lactosamine alpha-2,3-sialyltransferase</name>
+        <reactant>gal14acglcgalgluside_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>acngal14acglcgalgluside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL62g</id>
+        <name>Type 2 lactosamine alpha-2,3-sialyltransferase</name>
+        <reactant>galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>acngalacglcgal14acglcgalgluside_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA56g</id>
+        <name>Alpha-2,8-sialyltransferase 8E</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>acngal14acglcgalgluside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>acnacngal14acglcgalgluside_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Blood group synthesis</subsystem>
+    </reaction>
+</reactions>

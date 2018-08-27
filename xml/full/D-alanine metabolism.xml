@@ -1,0 +1,84 @@
+<metabolites>
+    <metabolite>
+        <name>ala_D[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>D-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_D[x]</name>
+        <formula>C3H7NO2</formula>
+        <description>D-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[x]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>DALAOXx</id>
+        <name>D-Alanine Oxidase (x)</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>ala_D[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>pyr[x]</product>
+        <product>nh4[x]</product>
+        <reversible>false</reversible>
+        <subsystem>D-alanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DALAxt</id>
+        <name>D-Alanine transport to perixosome</name>
+        <reactant>ala_D[c]</reactant>
+        <product>ala_D[x]</product>
+        <reversible>false</reversible>
+        <subsystem>D-alanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYRt2p</id>
+        <name>pyruvate peroxisomal transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>pyr[c]</reactant>
+        <product>h[x]</product>
+        <product>pyr[x]</product>
+        <reversible>true</reversible>
+        <subsystem>D-alanine metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,316 @@
+<metabolites>
+    <metabolite>
+        <name>10fthf[c]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>25aics[c]</name>
+        <formula>C13H15N4O12P</formula>
+        <description>(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>5aizc[c]</name>
+        <formula>C9H11N3O9P</formula>
+        <description>5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>aicar[c]</name>
+        <formula>C9H13N4O8P</formula>
+        <description>5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide</description>
+    </metabolite>
+    <metabolite>
+        <name>air[c]</name>
+        <formula>C8H12N3O7P</formula>
+        <description>5-amino-1-(5-phospho-D-ribosyl)imidazole</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[c]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>fgam[c]</name>
+        <formula>C8H13N2O9P</formula>
+        <description>N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide</description>
+    </metabolite>
+    <metabolite>
+        <name>fpram[c]</name>
+        <formula>C8H15N3O8P</formula>
+        <description>2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine</description>
+    </metabolite>
+    <metabolite>
+        <name>fprica[c]</name>
+        <formula>C10H13N4O9P</formula>
+        <description>5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[c]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>gar[c]</name>
+        <formula>C7H14N2O8P</formula>
+        <description>N1-(5-Phospho-D-ribosyl)glycinamide</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[c]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[c]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pram[c]</name>
+        <formula>C5H11NO7P</formula>
+        <description>5-Phospho-beta-D-ribosylamine</description>
+    </metabolite>
+    <metabolite>
+        <name>prpp[c]</name>
+        <formula>C5H8O14P3</formula>
+        <description>5-Phospho-alpha-D-ribose 1-diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ADSL2</id>
+        <name>adenylosuccinate lyase</name>
+        <reactant>25aics[c]</reactant>
+        <product>fum[c]</product>
+        <product>aicar[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AICART</id>
+        <name>phosphoribosylaminoimidazolecarboxamide formyltransferase</name>
+        <reactant>10fthf[c]</reactant>
+        <reactant>aicar[c]</reactant>
+        <product>fprica[c]</product>
+        <product>thf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AIRCr</id>
+        <name>phosphoribosylaminoimidazole carboxylase</name>
+        <reactant>co2[c]</reactant>
+        <reactant>air[c]</reactant>
+        <product>h[c]</product>
+        <product>5aizc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GARFT</id>
+        <name>phosphoribosylglycinamide formyltransferase</name>
+        <reactant>10fthf[c]</reactant>
+        <reactant>gar[c]</reactant>
+        <product>h[c]</product>
+        <product>thf[c]</product>
+        <product>fgam[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUPRT</id>
+        <name>glutamine phosphoribosyldiphosphate amidotransferase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>prpp[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>ppi[c]</product>
+        <product>pram[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>IMPC</id>
+        <name>IMP cyclohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>imp[c]</reactant>
+        <product>fprica[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRAGSr</id>
+        <name>phosphoribosylglycinamide synthase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gly[c]</reactant>
+        <reactant>pram[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>gar[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRASCS</id>
+        <name>phosphoribosylaminoimidazolesuccinocarboxamide synthase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>asp_L[c]</reactant>
+        <reactant>5aizc[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>25aics[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRFGS</id>
+        <name>phosphoribosylformylglycinamidine synthase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <reactant>fgam[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>glu_L[c]</product>
+        <product>fpram[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0666</id>
+        <name>2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming) Purine metabolism EC:6.3.3.1</name>
+        <reactant>atp[c]</reactant>
+        <reactant>fpram[c]</reactant>
+        <product>adp[c]</product>
+        <product>2 h[c]</product>
+        <product>pi[c]</product>
+        <product>air[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNK3</id>
+        <name>adenosine kinase</name>
+        <reactant>adn[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <product>gdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNK4</id>
+        <name>adenosine kinase</name>
+        <reactant>adn[c]</reactant>
+        <reactant>dgtp[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <product>dgdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>INSK</id>
+        <name>insosine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>ins[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>imp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine synthesis</subsystem>
+    </reaction>
+</reactions>

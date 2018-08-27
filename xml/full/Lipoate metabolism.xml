@@ -1,0 +1,65 @@
+<metabolites>
+    <metabolite>
+        <name>CE2102[c]</name>
+        <formula>C14H26N2O3S2</formula>
+        <description>lipoyllysine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5656[c]</name>
+        <formula>C18H25N5O8PS2</formula>
+        <description>lipoyl-AMP(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lipoate[c]</name>
+        <formula>C8H14O2S2</formula>
+        <description>lipoate</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>RE1944C</id>
+        <name>RE1944</name>
+        <reactant>atp[c]</reactant>
+        <reactant>lipoate[c]</reactant>
+        <product>ppi[c]</product>
+        <product>CE5656[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Lipoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2459C</id>
+        <name>RE2459</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>CE2102[c]</reactant>
+        <product>lys_L[c]</product>
+        <product>lipoate[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Lipoate metabolism</subsystem>
+    </reaction>
+</reactions>

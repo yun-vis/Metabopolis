@@ -1,0 +1,192 @@
+<metabolites>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[e]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[m]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[n]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[x]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[e]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[n]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[e]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[n]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>CATm</id>
+        <name>catalase</name>
+        <reactant>2 h2o2[m]</reactant>
+        <product>o2[m]</product>
+        <product>2 h2o[m]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPODM</id>
+        <name>superoxide dismutase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 o2s[c]</reactant>
+        <product>o2[c]</product>
+        <product>h2o2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPODMe</id>
+        <name>superoxide dismutase, extracellular</name>
+        <reactant>2 h[e]</reactant>
+        <reactant>2 o2s[e]</reactant>
+        <product>h2o2[e]</product>
+        <product>o2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPODMm</id>
+        <name>superoxide dismutase</name>
+        <reactant>2 h[m]</reactant>
+        <reactant>2 o2s[m]</reactant>
+        <product>o2[m]</product>
+        <product>h2o2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPODMn</id>
+        <name>superoxide dismutase, nuclear</name>
+        <reactant>2 h[n]</reactant>
+        <reactant>2 o2s[n]</reactant>
+        <product>h2o2[n]</product>
+        <product>o2[n]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPODMx</id>
+        <name>superoxide dismutase, peroxisome</name>
+        <reactant>2 h[x]</reactant>
+        <reactant>2 o2s[x]</reactant>
+        <product>o2[x]</product>
+        <product>h2o2[x]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0010</id>
+        <name>hydrogen-peroxide:hydrogen-peroxide oxidoreductase EC:1.11.1.6</name>
+        <reactant>2 h2o2[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>o2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>ROS detoxification</subsystem>
+    </reaction>
+</reactions>

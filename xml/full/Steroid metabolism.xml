@@ -1,0 +1,1564 @@
+<metabolites>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtsl[m]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtsl[r]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[m]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[r]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgnlone[c]</name>
+        <formula>C21H32O3</formula>
+        <description>17alpha-hydroxypregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgnlone[g]</name>
+        <formula>C21H32O3</formula>
+        <description>17alpha-hydroxypregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgnlone[l]</name>
+        <formula>C21H32O3</formula>
+        <description>17alpha-hydroxypregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgnlone[m]</name>
+        <formula>C21H32O3</formula>
+        <description>17alpha-hydroxypregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgnlone[r]</name>
+        <formula>C21H32O3</formula>
+        <description>17alpha-hydroxypregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgstrn[c]</name>
+        <formula>C21H30O3</formula>
+        <description>17alpha-hydroxyprogesterone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgstrn[m]</name>
+        <formula>C21H30O3</formula>
+        <description>17alpha-hydroxyprogesterone</description>
+    </metabolite>
+    <metabolite>
+        <name>17ahprgstrn[r]</name>
+        <formula>C21H30O3</formula>
+        <description>17alpha-hydroxyprogesterone</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mptnl[m]</name>
+        <formula>C6H12O</formula>
+        <description>4-methylpentanal</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststerone[c]</name>
+        <formula>C19H30O2</formula>
+        <description>17beta-hydroxy-5alpha-androstan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststerone[r]</name>
+        <formula>C19H30O2</formula>
+        <description>17beta-hydroxy-5alpha-androstan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststeroneglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>5alpha-Dihydrotestosterone glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststerones[c]</name>
+        <formula>C19H29O5S</formula>
+        <description>5alpha-Dihydrotestosterone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>6htststerone[r]</name>
+        <formula>C19H28O3</formula>
+        <description>6 beta hydroxy testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>C05284[c]</name>
+        <formula>C19H26O3</formula>
+        <description>11beta-Hydroxyandrost-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>C05284[m]</name>
+        <formula>C19H26O3</formula>
+        <description>11beta-Hydroxyandrost-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>C05284[r]</name>
+        <formula>C19H26O3</formula>
+        <description>11beta-Hydroxyandrost-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1352[c]</name>
+        <formula>C21H31O6S</formula>
+        <description>17alpha-hydroxypregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1352[g]</name>
+        <formula>C21H31O6S</formula>
+        <description>17alpha-hydroxypregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1352[l]</name>
+        <formula>C21H31O6S</formula>
+        <description>17alpha-hydroxypregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1352[r]</name>
+        <formula>C21H31O6S</formula>
+        <description>17alpha-hydroxypregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[m]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[r]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[r]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>ahandrostan[r]</name>
+        <formula>C19H30O2</formula>
+        <description>3alpha-hydroxy-5beta-androstan-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>ahandrostanglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>3alpha-hydroxy-5beta-androstan-17-one 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>aldstrn[m]</name>
+        <formula>C21H28O5</formula>
+        <description>aldosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstandn[r]</name>
+        <formula>C19H28O2</formula>
+        <description>5alpha-androstane-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstndn[c]</name>
+        <formula>C19H26O2</formula>
+        <description>androst-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstndn[m]</name>
+        <formula>C19H26O2</formula>
+        <description>androst-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstndn[r]</name>
+        <formula>C19H26O2</formula>
+        <description>androst-4-ene-3,17-dione</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrn[r]</name>
+        <formula>C19H30O2</formula>
+        <description>androsterone</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrnglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>androsterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>aprgstrn[c]</name>
+        <formula>C21H32O2</formula>
+        <description>(20S)-20-hydroxypregn-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>bildglcur[r]</name>
+        <formula>C45H50N4O18</formula>
+        <description>bis(beta-glucosyluronate)bilirubin</description>
+    </metabolite>
+    <metabolite>
+        <name>bilglcur[r]</name>
+        <formula>C39H44N4O12</formula>
+        <description>mono(glucosyluronic acid)bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bilirub[r]</name>
+        <formula>C33H34N4O6</formula>
+        <description>bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[g]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[l]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[m]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterols[c]</name>
+        <formula>C27H45O4S</formula>
+        <description>cholesterol sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterols[g]</name>
+        <formula>C27H45O4S</formula>
+        <description>cholesterol sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterols[l]</name>
+        <formula>C27H45O4S</formula>
+        <description>cholesterol sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterols[r]</name>
+        <formula>C27H45O4S</formula>
+        <description>cholesterol sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>cortsn[r]</name>
+        <formula>C21H28O5</formula>
+        <description>cortisone</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[c]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[m]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[r]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtstrn[m]</name>
+        <formula>C21H30O4</formula>
+        <description>corticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>dhea[c]</name>
+        <formula>C19H28O2</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>dhea[m]</name>
+        <formula>C19H28O2</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>dhea[r]</name>
+        <formula>C19H28O2</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>dheas[c]</name>
+        <formula>C19H27O5S</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one 3-sulfate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dheas[r]</name>
+        <formula>C19H27O5S</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one 3-sulfate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>eandrstrn[r]</name>
+        <formula>C19H28O3</formula>
+        <description>16alpha-hydroxydehydroepiandrosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiol[c]</name>
+        <formula>C18H24O2</formula>
+        <description>estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiol[r]</name>
+        <formula>C18H24O2</formula>
+        <description>estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiolglc[r]</name>
+        <formula>C24H32O8</formula>
+        <description>17beta-estradiol 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>estriol[r]</name>
+        <formula>C18H24O3</formula>
+        <description>estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estriolglc[r]</name>
+        <formula>C24H32O9</formula>
+        <description>16-Glucuronide-estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estrone[c]</name>
+        <formula>C18H22O2</formula>
+        <description>estrone</description>
+    </metabolite>
+    <metabolite>
+        <name>estrone[r]</name>
+        <formula>C18H22O2</formula>
+        <description>estrone</description>
+    </metabolite>
+    <metabolite>
+        <name>estroneglc[r]</name>
+        <formula>C24H30O8</formula>
+        <description>estrone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>estrones[c]</name>
+        <formula>C18H21O5S</formula>
+        <description>estrone 3-sulfate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>estrones[r]</name>
+        <formula>C18H21O5S</formula>
+        <description>estrone 3-sulfate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>for[r]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hestratriol[r]</name>
+        <formula>C18H24O3</formula>
+        <description>4,17 dihydroxy estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[c]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[g]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[l]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[m]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[r]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlones[c]</name>
+        <formula>C21H31O5S</formula>
+        <description>pregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlones[g]</name>
+        <formula>C21H31O5S</formula>
+        <description>pregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlones[l]</name>
+        <formula>C21H31O5S</formula>
+        <description>pregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlones[r]</name>
+        <formula>C21H31O5S</formula>
+        <description>pregnenolone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgstrn[c]</name>
+        <formula>C21H30O2</formula>
+        <description>progesterone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgstrn[r]</name>
+        <formula>C21H30O2</formula>
+        <description>progesterone</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[g]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[r]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>tststerone[c]</name>
+        <formula>C19H28O2</formula>
+        <description>testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>tststerone[r]</name>
+        <formula>C19H28O2</formula>
+        <description>testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>tststeroneglc[r]</name>
+        <formula>C25H36O8</formula>
+        <description>testosterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>tststerones[c]</name>
+        <formula>C19H27O5S</formula>
+        <description>testosterone sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>whtststerone[r]</name>
+        <formula>C19H28O3</formula>
+        <description>w hydroxy testosterone</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>5ADTSTSTERONESULT</id>
+        <name>5alpha-Dihydrotestosterone sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>5adtststerone[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>5adtststerones[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKR1C1</id>
+        <name>aldo-keto reductase family 1, member C1 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>prgstrn[c]</reactant>
+        <product>nadp[c]</product>
+        <product>aprgstrn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLSULT</id>
+        <name>steroid sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>chsterol[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>chsterols[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHEASULT</id>
+        <name>Dehydroepiandrosterone sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>dhea[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>dheas[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTSULT</id>
+        <name>Estrogen sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>estrone[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>estrones[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD11B1r</id>
+        <name>11-beta-hydroxysteroid dehydrogenase type 1</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>cortsn[r]</reactant>
+        <product>nadp[r]</product>
+        <product>crtsl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD11B2r</id>
+        <name>11-beta-hydroxysteroid dehydrogenase type 2</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>cortsn[r]</reactant>
+        <product>nad[r]</product>
+        <product>crtsl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B1</id>
+        <name>testicular 17-beta-hydroxysteroid dehydrogenase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>estrone[c]</reactant>
+        <product>nadp[c]</product>
+        <product>estradiol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B2r</id>
+        <name>17-beta-hydroxysteroid dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>andrstndn[r]</reactant>
+        <product>nad[r]</product>
+        <product>tststerone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B7r</id>
+        <name>testicular 17-beta-hydroxysteroid dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>estrone[r]</reactant>
+        <product>nadp[r]</product>
+        <product>estradiol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B8r</id>
+        <name>17-beta-hydroxysteroid dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>estrone[r]</reactant>
+        <product>nad[r]</product>
+        <product>estradiol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B9r</id>
+        <name>17-beta-hydroxysteroid dehydrogenase (type 7)</name>
+        <reactant>1.5 o2[r]</reactant>
+        <reactant>andrstrn[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>eandrstrn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3A1r</id>
+        <name>3 alpha-hydroxysteroid dehydrogenase (type 3)</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>andrstandn[r]</reactant>
+        <product>andrstrn[r]</product>
+        <product>nad[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3A2r</id>
+        <name>3 alpha-hydroxysteroid dehydrogenase (type 3)</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>andrstandn[r]</reactant>
+        <product>andrstrn[r]</product>
+        <product>nadp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B11</id>
+        <name>3 beta-hydroxysteroid dehydrogenase/delta 5--&gt;4-isomerase type I</name>
+        <reactant>nad[c]</reactant>
+        <reactant>prgnlone[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>prgstrn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B11r</id>
+        <name>3 beta-hydroxysteroid dehydrogenase/delta 5--&gt;4-isomerase type I</name>
+        <reactant>nad[r]</reactant>
+        <reactant>prgnlone[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>prgstrn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B12r</id>
+        <name>3 beta-hydroxysteroid dehydrogenase/delta 5--&gt;4-isomerase type I</name>
+        <reactant>nad[r]</reactant>
+        <reactant>dhea[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>andrstndn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B13</id>
+        <name>3 beta-hydroxysteroid dehydrogenase/delta 5--&gt;4-isomerase type I</name>
+        <reactant>nad[c]</reactant>
+        <reactant>17ahprgnlone[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>17ahprgstrn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B13r</id>
+        <name>3 beta-hydroxysteroid dehydrogenase/delta 5--&gt;4-isomerase type I</name>
+        <reactant>nad[r]</reactant>
+        <reactant>17ahprgnlone[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>17ahprgstrn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B2r</id>
+        <name>3 beta-hydroxysteroid dehydrogenase type 1</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>eandrstrn[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nad[r]</product>
+        <product>andrstandn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B3r</id>
+        <name>3 beta-hydroxysteroid dehydrogenase type 1</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>eandrstrn[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>andrstandn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45011A1m</id>
+        <name>Cytochrome P450 11A1, mitochondrial [Precursor]</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>2 o2[m]</reactant>
+        <reactant>chsterol[m]</reactant>
+        <product>2 h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>4mptnl[m]</product>
+        <product>prgnlone[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45011B11m</id>
+        <name>Steroid 11-beta-hydroxylase</name>
+        <reactant>11docrtstrn[m]</reactant>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>crtstrn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45011B12m</id>
+        <name>Steroid 11-beta-hydroxylase</name>
+        <reactant>11docrtsl[m]</reactant>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>crtsl[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45011B21m</id>
+        <name>Steroid 11-beta-hydroxylase</name>
+        <reactant>11docrtstrn[m]</reactant>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>2 o2[m]</reactant>
+        <product>2 h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>aldstrn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45017A1r</id>
+        <name>Cytochrome P450 17A1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>prgnlone[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>17ahprgnlone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45017A2r</id>
+        <name>Cytochrome P450 17A1</name>
+        <reactant>0.5 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>17ahprgnlone[r]</reactant>
+        <product>acald[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>dhea[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45017A3r</id>
+        <name>Cytochrome P450 17A1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>prgstrn[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>17ahprgstrn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45017A4r</id>
+        <name>Cytochrome P450 17A1</name>
+        <reactant>0.5 o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>17ahprgstrn[r]</reactant>
+        <product>acald[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>andrstndn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45019A1r</id>
+        <name>aromatase</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>andrstndn[r]</reactant>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>estrone[r]</product>
+        <product>for[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45019A2r</id>
+        <name>aromatase</name>
+        <reactant>2 o2[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>tststerone[r]</reactant>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>estradiol[r]</product>
+        <product>for[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4501B1r</id>
+        <name>cytochrome P450 1B1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>estradiol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>hestratriol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45021A1r</id>
+        <name>Steroid 21-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>prgstrn[r]</reactant>
+        <product>11docrtstrn[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45021A2r</id>
+        <name>Steroid 21-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>17ahprgstrn[r]</reactant>
+        <product>11docrtsl[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4503A43r</id>
+        <name>cytochrome p450 P450 3A43</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>tststerone[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>whtststerone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4503A7r</id>
+        <name>cytochrome p450 P450 3A7</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>tststerone[r]</reactant>
+        <product>6htststerone[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRGNLONESULT</id>
+        <name>steroid sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>prgnlone[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>prgnlones[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SR5AR2r</id>
+        <name>3-oxo-5-alpha-steroid 4-dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>andrstndn[r]</reactant>
+        <product>nadp[r]</product>
+        <product>andrstandn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SR5ARr</id>
+        <name>3-oxo-5-alpha-steroid 4-dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>tststerone[r]</reactant>
+        <product>5adtststerone[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>STS1</id>
+        <name>Steryl-sulfatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dheas[c]</reactant>
+        <product>h[c]</product>
+        <product>dhea[c]</product>
+        <product>so4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>STS1r</id>
+        <name>Steryl-sulfatase</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>dheas[r]</reactant>
+        <product>h[r]</product>
+        <product>dhea[r]</product>
+        <product>so4[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>STS2</id>
+        <name>Steryl-sulfatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>estrones[c]</reactant>
+        <product>h[c]</product>
+        <product>estrone[c]</product>
+        <product>so4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>STS2r</id>
+        <name>Steryl-sulfatase</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>estrones[r]</reactant>
+        <product>h[r]</product>
+        <product>estrone[r]</product>
+        <product>so4[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TSTSTERONESULT</id>
+        <name>testosterone sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>tststerone[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>tststerones[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A10r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>bilirub[r]</reactant>
+        <reactant>2 h[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>bilglcur[r]</product>
+        <product>udp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A1r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>estrone[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>estroneglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A2r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>bilirub[r]</reactant>
+        <reactant>2 udpglcur[r]</reactant>
+        <product>bildglcur[r]</product>
+        <product>2 udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A3r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>andrstrn[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>andrstrnglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A4r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>tststerone[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>udp[r]</product>
+        <product>tststeroneglc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A6r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>estradiol[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>estradiolglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A7r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>ahandrostan[r]</reactant>
+        <product>ahandrostanglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A8r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>estriol[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>estriolglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGT1A9r</id>
+        <name>UDP-glucuronosyltransferase 1-10 precursor, microsomal</name>
+        <reactant>5adtststerone[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>5adtststeroneglc[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1096C</id>
+        <name>RE1096</name>
+        <reactant>o2[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>17ahprgstrn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>ac[c]</product>
+        <product>andrstndn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1096M</id>
+        <name>RE1096</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>17ahprgstrn[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>ac[m]</product>
+        <product>andrstndn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1096R</id>
+        <name>RE1096</name>
+        <reactant>o2[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>17ahprgstrn[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>andrstndn[r]</product>
+        <product>ac[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1099C</id>
+        <name>RE1099</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE1352[c]</reactant>
+        <product>h[c]</product>
+        <product>so4[c]</product>
+        <product>17ahprgnlone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1099G</id>
+        <name>RE1099</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>CE1352[g]</reactant>
+        <product>h[g]</product>
+        <product>so4[g]</product>
+        <product>17ahprgnlone[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1099L</id>
+        <name>RE1099</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>CE1352[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>17ahprgnlone[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1099R</id>
+        <name>RE1099</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE1352[r]</reactant>
+        <product>h[r]</product>
+        <product>17ahprgnlone[r]</product>
+        <product>so4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1100C</id>
+        <name>RE1100</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>chsterols[c]</reactant>
+        <product>h[c]</product>
+        <product>chsterol[c]</product>
+        <product>so4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1100G</id>
+        <name>RE1100</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>chsterols[g]</reactant>
+        <product>h[g]</product>
+        <product>chsterol[g]</product>
+        <product>so4[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1100L</id>
+        <name>RE1100</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>chsterols[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>chsterol[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1100R</id>
+        <name>RE1100</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>chsterols[r]</reactant>
+        <product>h[r]</product>
+        <product>chsterol[r]</product>
+        <product>so4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1134C</id>
+        <name>RE1134</name>
+        <reactant>o2[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>17ahprgnlone[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>ac[c]</product>
+        <product>dhea[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1134M</id>
+        <name>RE1134</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>17ahprgnlone[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>ac[m]</product>
+        <product>dhea[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1134R</id>
+        <name>RE1134</name>
+        <reactant>o2[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>17ahprgnlone[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>dhea[r]</product>
+        <product>ac[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1135C</id>
+        <name>RE1135</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>prgnlones[c]</reactant>
+        <product>h[c]</product>
+        <product>so4[c]</product>
+        <product>prgnlone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1135G</id>
+        <name>RE1135</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>prgnlones[g]</reactant>
+        <product>h[g]</product>
+        <product>so4[g]</product>
+        <product>prgnlone[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1135L</id>
+        <name>RE1135</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>prgnlones[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>prgnlone[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1135R</id>
+        <name>RE1135</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>prgnlones[r]</reactant>
+        <product>h[r]</product>
+        <product>prgnlone[r]</product>
+        <product>so4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2766C</id>
+        <name>RE2766</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>tststerone[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>andrstndn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2768C</id>
+        <name>RE2768</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>crtsl[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>ac[c]</product>
+        <product>C05284[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2768M</id>
+        <name>RE2768</name>
+        <reactant>h[m]</reactant>
+        <reactant>2 nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>crtsl[m]</reactant>
+        <product>2 h2o[m]</product>
+        <product>2 nadp[m]</product>
+        <product>ac[m]</product>
+        <product>C05284[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2768R</id>
+        <name>RE2768</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>crtsl[r]</reactant>
+        <product>acald[r]</product>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>C05284[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B3r</id>
+        <name>testicular 17-beta-hydroxysteroid dehydrogenase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>andrstndn[r]</reactant>
+        <product>nadp[r]</product>
+        <product>tststerone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Steroid metabolism</subsystem>
+    </reaction>
+</reactions>

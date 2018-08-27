@@ -1,0 +1,64 @@
+<metabolites>
+    <metabolite>
+        <name>34dhcinm[c]</name>
+        <formula>C9H7O4</formula>
+        <description>trans-caffeate</description>
+    </metabolite>
+    <metabolite>
+        <name>T4hcinnm[c]</name>
+        <formula>C9H7O3</formula>
+        <description>trans-4-coumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>2coum[c]</name>
+        <formula>C9H7O3</formula>
+        <description>cis-2-coumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>bdg2hc[c]</name>
+        <formula>C15H18O8</formula>
+        <description>cis-beta-D-Glucosyl-2-hydroxycinnamate</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>BDG2HCGHD</id>
+        <name>beta-D-Glucosyl-2-coumarinate glucohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>bdg2hc[c]</reactant>
+        <product>h[c]</product>
+        <product>2coum[c]</product>
+        <product>glc_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Stilbene, coumarine and lignin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>T4HCINNOX</id>
+        <name>4-Coumarate:oxygen oxidoreductase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 T4hcinnm[c]</reactant>
+        <product>2 34dhcinm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Stilbene, coumarine and lignin synthesis</subsystem>
+    </reaction>
+</reactions>

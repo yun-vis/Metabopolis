@@ -1,0 +1,875 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2amac[c]</name>
+        <formula>C3H5NO2</formula>
+        <description>2-aminoacrylic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>2aobut[m]</name>
+        <formula>C4H7NO3</formula>
+        <description>L-2-amino-3-oxobutanoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>2mbcoa[m]</name>
+        <formula>C26H40N7O17P3S</formula>
+        <description>2-methylbutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[c]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mb2coa[m]</name>
+        <formula>C26H38N7O17P3S</formula>
+        <description>3-methylbut-2-enoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3pg[c]</name>
+        <formula>C3H4O7P</formula>
+        <description>3-Phospho-D-glycerate</description>
+    </metabolite>
+    <metabolite>
+        <name>3php[c]</name>
+        <formula>C3H2O7P</formula>
+        <description>3-phosphonatooxypyruvate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>5aop[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>5-Amino-4-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2020[m]</name>
+        <formula>C22H34NO3</formula>
+        <description>N-arachidonoylglycinate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2026[m]</name>
+        <formula>C7H10NO3</formula>
+        <description>3-methylcrotonoylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4968[m]</name>
+        <formula>C7H12NO3</formula>
+        <description>isovalerylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4969[m]</name>
+        <formula>C6H10NO3</formula>
+        <description>isobutyrylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4970[m]</name>
+        <formula>C7H12NO3</formula>
+        <description>2-methylbutyrylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>aact[c]</name>
+        <formula>C3H8NO</formula>
+        <description>ammonioacetone</description>
+    </metabolite>
+    <metabolite>
+        <name>aact[m]</name>
+        <formula>C3H8NO</formula>
+        <description>ammonioacetone</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[x]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>alpam[m]</name>
+        <formula>C9H21N2OS2</formula>
+        <description>S-aminomethyldihydrolipoamide</description>
+    </metabolite>
+    <metabolite>
+        <name>alpro[m]</name>
+        <formula>CH6NS2X</formula>
+        <description>S-Aminomethyldihydrolipoylprotein</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcoa[m]</name>
+        <formula>C41H62N7O17P3S</formula>
+        <description>arachidonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>betald[c]</name>
+        <formula>C5H12NO</formula>
+        <description>betaine aldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>betald[m]</name>
+        <formula>C5H12NO</formula>
+        <description>betaine aldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[m]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dhlam[m]</name>
+        <formula>C8H17NOS2</formula>
+        <description>dihydrolipoamide</description>
+    </metabolite>
+    <metabolite>
+        <name>dhlpro[m]</name>
+        <formula>H2S2X</formula>
+        <description>Dihydrolipolprotein</description>
+    </metabolite>
+    <metabolite>
+        <name>dmgly[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>N,N-dimethylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>dmgly[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>N,N-dimethylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[m]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[x]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[x]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[m]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[x]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyb[c]</name>
+        <formula>C5H11NO2</formula>
+        <description>glycine betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyb[m]</name>
+        <formula>C5H11NO2</formula>
+        <description>glycine betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hcys_L[c]</name>
+        <formula>C4H9NO2S</formula>
+        <description>L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[c]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[x]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>ibcoa[m]</name>
+        <formula>C25H38N7O17P3S</formula>
+        <description>isobutyryl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ivcoa[m]</name>
+        <formula>C26H40N7O17P3S</formula>
+        <description>Isovaleryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>lpam[m]</name>
+        <formula>C8H15NOS2</formula>
+        <description>lipoamide</description>
+    </metabolite>
+    <metabolite>
+        <name>lpro[m]</name>
+        <formula>S2X</formula>
+        <description>Lipoylprotein</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[c]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[c]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[m]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>mthgxl[c]</name>
+        <formula>C3H4O2</formula>
+        <description>methylglyoxal</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[m]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>phom[c]</name>
+        <formula>C4H8NO6P</formula>
+        <description>O-phosphonato-L-homoserine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>pser_L[c]</name>
+        <formula>C3H5NO6P</formula>
+        <description>O-Phospho-L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[x]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[x]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[m]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[x]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>succoa[m]</name>
+        <formula>C25H35N7O19P3S</formula>
+        <description>Succinyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[m]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thr_L[c]</name>
+        <formula>C4H9NO3</formula>
+        <description>L-threonine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>2AMACHYD</id>
+        <name>2-Aminoacrylate hydrolysis</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2amac[c]</reactant>
+        <product>nh4[c]</product>
+        <product>pyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AACTOOR</id>
+        <name>Aminoacetone:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>aact[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALASm</id>
+        <name>5-aminolevulinate synthase</name>
+        <reactant>h[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <reactant>succoa[m]</reactant>
+        <product>coa[m]</product>
+        <product>co2[m]</product>
+        <product>5aop[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AOBUTDsm</id>
+        <name>L-2-amino-3-oxobutanoate decarboxylation, mitochondrial (spontaneous)</name>
+        <reactant>h[m]</reactant>
+        <reactant>2aobut[m]</reactant>
+        <product>co2[m]</product>
+        <product>aact[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BETALDHxm</id>
+        <name>betaine-aldehyde dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>betald[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>glyb[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BHMT</id>
+        <name>betaine-homocysteine S-methyltransferase</name>
+        <reactant>hcys_L[c]</reactant>
+        <reactant>glyb[c]</reactant>
+        <product>dmgly[c]</product>
+        <product>met_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLD2m</id>
+        <name>choline dehydrogenase (FAD acceptor), mitochondrial</name>
+        <reactant>fad[m]</reactant>
+        <reactant>chol[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>betald[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DMGDHm</id>
+        <name>dimethylglycine dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>fad[m]</reactant>
+        <reactant>dmgly[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>fald[m]</product>
+        <product>sarcs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCC2am</id>
+        <name>glycine-cleavage complex (lipoamide), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <reactant>lpam[m]</reactant>
+        <product>co2[m]</product>
+        <product>alpam[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCC2bim</id>
+        <name>glycine-cleavage system (lipoamide) irreversible, mitochondrial</name>
+        <reactant>thf[m]</reactant>
+        <reactant>alpam[m]</reactant>
+        <product>nh4[m]</product>
+        <product>dhlam[m]</product>
+        <product>mlthf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCC2cm</id>
+        <name>glycine-cleavage complex (lipoamide), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>dhlam[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>lpam[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCCam</id>
+        <name>glycine-cleavage complex (lipoylprotein), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <reactant>lpro[m]</reactant>
+        <product>co2[m]</product>
+        <product>alpro[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCCbim</id>
+        <name>glycine-cleavage complex (lipoylprotein) irreversible, mitochondrial</name>
+        <reactant>thf[m]</reactant>
+        <reactant>alpro[m]</reactant>
+        <product>nh4[m]</product>
+        <product>mlthf[m]</product>
+        <product>dhlpro[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCCcm</id>
+        <name>glycine-cleavage complex (lipoylprotein), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>dhlpro[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>lpro[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GHMT2r</id>
+        <name>glycine hydroxymethyltransferase, reversible</name>
+        <reactant>thf[c]</reactant>
+        <reactant>ser_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>gly[c]</product>
+        <product>mlthf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GHMT2rm</id>
+        <name>glycine hydroxymethyltransferase, reversible, mitochondrial</name>
+        <reactant>thf[m]</reactant>
+        <reactant>ser_L[m]</reactant>
+        <product>h2o[m]</product>
+        <product>gly[m]</product>
+        <product>mlthf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYATm</id>
+        <name>glycine C-acetyltransferase</name>
+        <reactant>accoa[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <product>coa[m]</product>
+        <product>2aobut[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYOp</id>
+        <name>glycine oxidase, perixosomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>gly[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>glx[x]</product>
+        <product>nh4[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GNMT</id>
+        <name>glycine N-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>gly[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>sarcs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OBDHc</id>
+        <name>2-Oxobutanoate dehydrogenase, cytosolic</name>
+        <reactant>nad[c]</reactant>
+        <reactant>2obut[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <product>nadh[c]</product>
+        <product>co2[c]</product>
+        <product>ppcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGCD</id>
+        <name>phosphoglycerate dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>3pg[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>3php[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSERT</id>
+        <name>phosphoserine transaminase</name>
+        <reactant>glu_L[c]</reactant>
+        <reactant>3php[c]</reactant>
+        <product>h[c]</product>
+        <product>akg[c]</product>
+        <product>pser_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSP_L</id>
+        <name>phosphoserine phosphatase (L-serine)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>pser_L[c]</reactant>
+        <product>pi[c]</product>
+        <product>ser_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SARCOXp</id>
+        <name>sarcosine oxidase, peroxisomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>sarcs[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>gly[x]</product>
+        <product>fald[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SERHL</id>
+        <name>L-Serine hydro-lyase</name>
+        <reactant>ser_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2amac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPTix</id>
+        <name>serine-pyruvate aminotransferase (irreversible), peroxisomal</name>
+        <reactant>pyr[x]</reactant>
+        <reactant>ser_L[x]</reactant>
+        <product>ala_L[x]</product>
+        <product>hpyr[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THRD_L</id>
+        <name>L-threonine deaminase</name>
+        <reactant>thr_L[c]</reactant>
+        <product>nh4[c]</product>
+        <product>2obut[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THRS</id>
+        <name>threonine synthase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>phom[c]</reactant>
+        <product>pi[c]</product>
+        <product>thr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0160</id>
+        <name>L-Serine:pyruvate aminotransferase Glycine, serine and threonine metabolism EC:2.6.1.51</name>
+        <reactant>pyr[c]</reactant>
+        <reactant>ser_L[c]</reactant>
+        <product>ala_L[c]</product>
+        <product>hpyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0295</id>
+        <name>glycine synthase Nitrogen metabolism EC:2.1.2.10</name>
+        <reactant>co2[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>nh4[m]</reactant>
+        <reactant>mlthf[m]</reactant>
+        <product>nad[m]</product>
+        <product>gly[m]</product>
+        <product>thf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0552</id>
+        <name>p-cumic alcohol:NAD+ oxidoreductase Glycine, serine and threonine metabolism EC:1.2.1.8</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>betald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>glyb[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0553</id>
+        <name>p-Cumic alcohol:NADP+ oxidoreductase Glycine, serine and threonine metabolism EC:1.2.1.8</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>betald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>glyb[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2111M</id>
+        <name>RE2111</name>
+        <reactant>3mb2coa[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE2026[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2117M</id>
+        <name>RE2117</name>
+        <reactant>gly[m]</reactant>
+        <reactant>arachdcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE2020[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2427M</id>
+        <name>RE2427</name>
+        <reactant>ivcoa[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE4968[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2428M</id>
+        <name>RE2428</name>
+        <reactant>2mbcoa[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE4970[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2429M</id>
+        <name>RE2429</name>
+        <reactant>ibcoa[m]</reactant>
+        <reactant>gly[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE4969[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycine, serine, alanine and threonine metabolism</subsystem>
+    </reaction>
+</reactions>

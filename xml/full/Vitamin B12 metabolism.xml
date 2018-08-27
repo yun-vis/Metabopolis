@@ -1,0 +1,118 @@
+<metabolites>
+    <metabolite>
+        <name>aqcobal[c]</name>
+        <formula>C62H93CoN13O15P</formula>
+        <description>Aquacob(III)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>cbl2[c]</name>
+        <formula>C62H92CoN13O14P</formula>
+        <description>Cob(II)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>C06453[c]</name>
+        <formula>C63CoH91N13O14P</formula>
+        <description>Methylcobalamin</description>
+    </metabolite>
+    <metabolite>
+        <name>adocbl[m]</name>
+        <formula>C72H100CoN18O17P</formula>
+        <description>Adenosylcobalamin</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cbl1[m]</name>
+        <formula>C62H88CoN13O14P</formula>
+        <description>Cob(I)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>cbl2[c]</name>
+        <formula>C62H92CoN13O14P</formula>
+        <description>Cob(II)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>pppi[m]</name>
+        <formula>HO10P3</formula>
+        <description>triphosphate(5-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>CBL2OR</id>
+        <name>NADH:cob(III)alamine oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>2 aqcobal[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>2 cbl2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B12 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBLATm</id>
+        <name>cob(I)alamin adenosyltransferase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>cbl1[m]</reactant>
+        <product>adocbl[m]</product>
+        <product>pppi[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin B12 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2493C</id>
+        <name>RE2493</name>
+        <reactant>amet[c]</reactant>
+        <reactant>cbl2[c]</reactant>
+        <product>4 h[c]</product>
+        <product>ahcys[c]</product>
+        <product>C06453[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B12 metabolism</subsystem>
+    </reaction>
+</reactions>

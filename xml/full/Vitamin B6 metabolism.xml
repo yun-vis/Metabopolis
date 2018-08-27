@@ -1,0 +1,197 @@
+<metabolites>
+    <metabolite>
+        <name>4pyrdx[c]</name>
+        <formula>C8H9NO4</formula>
+        <description>4-pyridoxate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pdx5p[c]</name>
+        <formula>C8H10NO6P</formula>
+        <description>Pyridoxine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyam5p[c]</name>
+        <formula>C8H12N2O5P</formula>
+        <description>Pyridoxamine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pydam[c]</name>
+        <formula>C8H13N2O2</formula>
+        <description>Pyridoxamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pydx5p[c]</name>
+        <formula>C8H8NO6P</formula>
+        <description>Pyridoxal 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pydx[c]</name>
+        <formula>C8H9NO3</formula>
+        <description>Pyridoxal</description>
+    </metabolite>
+    <metabolite>
+        <name>pydxn[c]</name>
+        <formula>C8H11NO3</formula>
+        <description>Pyridoxine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>HYPOE</id>
+        <name>hypothetical enyme</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pyam5p[c]</reactant>
+        <product>pi[c]</product>
+        <product>pydam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDX5PO</id>
+        <name>pyridoxine 5&apos;-phosphate oxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>pdx5p[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>pydx5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PDXPP</id>
+        <name>Pyridoxine 5-phosphate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pdx5p[c]</reactant>
+        <product>pi[c]</product>
+        <product>pydxn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYAM5POr</id>
+        <name>pyridoxamine 5&apos;-phosphate oxidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>pyam5p[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>pydx5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDAMK</id>
+        <name>pyridoxamine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pydam[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pyam5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDXDH</id>
+        <name>pyridoxal dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>pydx[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>4pyrdx[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDXK</id>
+        <name>pyridoxal kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pydx[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pydx5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDXNK</id>
+        <name>pyridoxine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pydxn[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pdx5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDXPP</id>
+        <name>Pyridoxal 5-phosphate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pydx5p[c]</reactant>
+        <product>pi[c]</product>
+        <product>pydx[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0388</id>
+        <name>Pyridoxamine:oxygen oxidoreductase (deaminating) Vitamin B6 metabolism EC:1.4.3.5</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>pydam[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>pydx[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0389</id>
+        <name>Pyridoxine:oxygen oxidoreductase (deaminating) Vitamin B6 metabolism EC:1.1.3.12</name>
+        <reactant>o2[c]</reactant>
+        <reactant>pydxn[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>pydx[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin B6 metabolism</subsystem>
+    </reaction>
+</reactions>

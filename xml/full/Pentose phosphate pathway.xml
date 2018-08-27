@@ -1,0 +1,764 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>xu5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-xylulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2dr1p[c]</name>
+        <formula>C5H9O7P</formula>
+        <description>2-Deoxy-D-ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>2dr5p[c]</name>
+        <formula>C5H9O7P</formula>
+        <description>2-deoxy-D-ribose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgc[c]</name>
+        <formula>C6H10O10P</formula>
+        <description>6-Phospho-D-gluconate</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgl[c]</name>
+        <formula>C6H9O9P</formula>
+        <description>6-phospho-D-glucono-1,5-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3dhguln[c]</name>
+        <formula>C6H9O7</formula>
+        <description>3-dehydro-L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgc[c]</name>
+        <formula>C6H10O10P</formula>
+        <description>6-Phospho-D-gluconate</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgc[r]</name>
+        <formula>C6H10O10P</formula>
+        <description>6-Phospho-D-gluconate</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgl[c]</name>
+        <formula>C6H9O9P</formula>
+        <description>6-phospho-D-glucono-1,5-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>6pgl[r]</name>
+        <formula>C6H9O9P</formula>
+        <description>6-phospho-D-glucono-1,5-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>abt[c]</name>
+        <formula>C5H12O5</formula>
+        <description>L-arabinitol</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>arab_L[c]</name>
+        <formula>C5H10O5</formula>
+        <description>L-arabinose</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>drib[c]</name>
+        <formula>C5H10O4</formula>
+        <description>2-deoxy-D-ribose</description>
+    </metabolite>
+    <metabolite>
+        <name>e4p[c]</name>
+        <formula>C4H7O7P</formula>
+        <description>D-Erythrose 4-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>f6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Fructose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g3p[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Glyceraldehyde 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[r]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcn[c]</name>
+        <formula>C6H11O7</formula>
+        <description>D-gluconate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur1p[c]</name>
+        <formula>C6H8O10P</formula>
+        <description>D-Glucuronate 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[c]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[r]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyphe[c]</name>
+        <formula>C11H14N2O3</formula>
+        <description>Glycylphenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>guln[c]</name>
+        <formula>C6H11O7</formula>
+        <description>L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>guln[r]</name>
+        <formula>C6H11O7</formula>
+        <description>L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[c]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prpp[c]</name>
+        <formula>C5H8O14P3</formula>
+        <description>5-Phospho-alpha-D-ribose 1-diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r1p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[r]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>rbl_D[c]</name>
+        <formula>C5H10O5</formula>
+        <description>D-ribulose</description>
+    </metabolite>
+    <metabolite>
+        <name>rbt[c]</name>
+        <formula>C5H12O5</formula>
+        <description>D-ribitol</description>
+    </metabolite>
+    <metabolite>
+        <name>rib_D[c]</name>
+        <formula>C5H10O5</formula>
+        <description>D-ribose</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[r]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>s7p[c]</name>
+        <formula>C7H13O10P</formula>
+        <description>Sedoheptulose 7-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>xu5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-xylulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>xylt[c]</name>
+        <formula>C5H12O5</formula>
+        <description>xylitol</description>
+    </metabolite>
+    <metabolite>
+        <name>xylu_D[c]</name>
+        <formula>C5H10O5</formula>
+        <description>D-xylulose</description>
+    </metabolite>
+    <metabolite>
+        <name>xylu_L[c]</name>
+        <formula>C5H10O5</formula>
+        <description>L-xylulose</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ABTD</id>
+        <name>L-arabinitol 4-dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>abt[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xylu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARABR</id>
+        <name>arabinose reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>arab_L[c]</reactant>
+        <product>nadp[c]</product>
+        <product>abt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGULND</id>
+        <name>dehydro-L-gulonate decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>3dhguln[c]</reactant>
+        <product>co2[c]</product>
+        <product>xylu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>DRBK</id>
+        <name>Deoxyribokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>drib[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>2dr5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>DRPA</id>
+        <name>deoxyribose-phosphate aldolase</name>
+        <reactant>2dr5p[c]</reactant>
+        <product>acald[c]</product>
+        <product>g3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6PDH1rer</id>
+        <name>glucose-6-phosphate dehydrogenase, endoplasmic reticulum</name>
+        <reactant>nad[r]</reactant>
+        <reactant>g6p[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>6pgl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6PDH2r</id>
+        <name>glucose 6-phosphate dehydrogenase</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>g6p[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>6pgl[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6PDH2rer</id>
+        <name>glucose 6-phosphate dehydrogenase, endoplasmic reticulum</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>g6p[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>6pgl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GND</id>
+        <name>phosphogluconate dehydrogenase</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>6pgc[c]</reactant>
+        <product>nadph[c]</product>
+        <product>co2[c]</product>
+        <product>ru5p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GNDer</id>
+        <name>phosphogluconate dehydrogenase, endoplasmic reticulum</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>6pgc[r]</reactant>
+        <product>nadph[r]</product>
+        <product>co2[r]</product>
+        <product>ru5p_D[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GULN3D</id>
+        <name>L-gulonate 3-dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>guln[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>3dhguln[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GULNDer</id>
+        <name>gulonate dehydrogenase, endoplasmic reticulum</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>glcur[r]</reactant>
+        <product>nadp[r]</product>
+        <product>guln[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUR1PP</id>
+        <name>Glucuronate 1-phosphate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>glcur1p[c]</reactant>
+        <product>pi[c]</product>
+        <product>glcur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGL</id>
+        <name>6-phosphogluconolactonase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>6pgl[c]</reactant>
+        <product>h[c]</product>
+        <product>6pgc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGLer</id>
+        <name>6-phosphogluconolactonase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>6pgl[r]</reactant>
+        <product>h[r]</product>
+        <product>6pgc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPM</id>
+        <name>phosphopentomutase</name>
+        <reactant>r1p[c]</reactant>
+        <product>r5p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRPPS</id>
+        <name>phosphoribosylpyrophosphate synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>r5p[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <product>prpp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RBK</id>
+        <name>ribokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>rib_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>r5p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RBK_D</id>
+        <name>D-ribulokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>rbl_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>ru5p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RPE</id>
+        <name>ribulose 5-phosphate 3-epimerase</name>
+        <reactant>ru5p_D[c]</reactant>
+        <product>xu5p_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RPI</id>
+        <name>ribose-5-phosphate isomerase</name>
+        <reactant>r5p[c]</reactant>
+        <product>ru5p_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>TALA</id>
+        <name>transaldolase</name>
+        <reactant>g3p[c]</reactant>
+        <reactant>s7p[c]</reactant>
+        <product>f6p[c]</product>
+        <product>e4p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>TKT1</id>
+        <name>transketolase</name>
+        <reactant>r5p[c]</reactant>
+        <reactant>xu5p_D[c]</reactant>
+        <product>g3p[c]</product>
+        <product>s7p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>TKT2</id>
+        <name>transketolase</name>
+        <reactant>xu5p_D[c]</reactant>
+        <reactant>e4p[c]</reactant>
+        <product>g3p[c]</product>
+        <product>f6p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPG1P</id>
+        <name>UDPglucuronate uridine-monophosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>udpglcur[c]</reactant>
+        <product>2 h[c]</product>
+        <product>ump[c]</product>
+        <product>glcur1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGNP</id>
+        <name>UDPglucuronate uridine-diphosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>udpglcur[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>glcur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>XYLK</id>
+        <name>xylulokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>xylu_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>xu5p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>XYLTD_Dr</id>
+        <name>xylitol dehydrogenase (D-xyulose-forming)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>xylt[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xylu_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>XYLUR</id>
+        <name>xylulose reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xylu_L[c]</reactant>
+        <product>nadp[c]</product>
+        <product>xylt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0249</id>
+        <name>D-Ribose-5-phosphate ketol-isomerase Pentose phosphate pathway EC:5.3.1.6</name>
+        <reactant>r5p[r]</reactant>
+        <product>ru5p_D[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0570</id>
+        <name>2-Deoxy-D-ribose 1-phosphate 1,5-phosphomutase Pentose phosphate pathway EC:5.4.2.7</name>
+        <reactant>2dr1p[c]</reactant>
+        <product>2dr5p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0784</id>
+        <name>xylitol:NAD oxidoreductase Pentose and glucuronate interconversions EC:1.1.1.15</name>
+        <reactant>nad[c]</reactant>
+        <reactant>xylt[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xylu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0796</id>
+        <name>Ribitol:NAD+ 2-oxidoreductase Pentose and glucuronate interconversions EC:1.1.1.56</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>rib_D[c]</reactant>
+        <product>nad[c]</product>
+        <product>rbt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0124C</id>
+        <name>RE0124</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glcn[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>6pgc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6PDH2c</id>
+        <name>glucose 6-phosphate dehydrogenase</name>
+        <reactant>3 nadp[c]</reactant>
+        <reactant>3 g6p[c]</reactant>
+        <product>3 h[c]</product>
+        <product>3 nadph[c]</product>
+        <product>3 6pgl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYPHEHYc</id>
+        <name>hydrolysis of glycylphenylalanine</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>glyphe[c]</reactant>
+        <product>gly[c]</product>
+        <product>phe_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GNDc</id>
+        <name>phosphogluconate dehydrogenase</name>
+        <reactant>3 nadp[c]</reactant>
+        <reactant>3 6pgc[c]</reactant>
+        <product>3 nadph[c]</product>
+        <product>3 co2[c]</product>
+        <product>3 ru5p_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGLc</id>
+        <name>6-phosphogluconolactonase</name>
+        <reactant>3 h2o[c]</reactant>
+        <reactant>3 6pgl[c]</reactant>
+        <product>3 h[c]</product>
+        <product>3 6pgc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>RPEc</id>
+        <name>ribulose 5-phosphate 3-epimerase</name>
+        <reactant>2 ru5p_D[c]</reactant>
+        <product>2 xu5p_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose phosphate pathway</subsystem>
+    </reaction>
+</reactions>

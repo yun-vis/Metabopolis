@@ -1,0 +1,328 @@
+<metabolites>
+    <metabolite>
+        <name>5aop[c]</name>
+        <formula>C5H9NO3</formula>
+        <description>5-Amino-4-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[e]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>fe3[e]</name>
+        <formula>Fe</formula>
+        <description>Fe3+</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ppp9[m]</name>
+        <formula>C34H32N4O4</formula>
+        <description>Protoporphyrin</description>
+    </metabolite>
+    <metabolite>
+        <name>pppg9[m]</name>
+        <formula>C34H38N4O4</formula>
+        <description>Protoporphyrinogen IX</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>ppbng[c]</name>
+        <formula>C10H13N2O4</formula>
+        <description>Porphobilinogen</description>
+    </metabolite>
+    <metabolite>
+        <name>5aop[c]</name>
+        <formula>C5H9NO3</formula>
+        <description>5-Amino-4-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>5aop[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>5-Amino-4-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>C02469[c]</name>
+        <formula>C40H30N4O16</formula>
+        <description>Uroporphyrin III</description>
+    </metabolite>
+    <metabolite>
+        <name>C05767[c]</name>
+        <formula>C40H30N4O16</formula>
+        <description>Uroporphyrin I</description>
+    </metabolite>
+    <metabolite>
+        <name>C05769[c]</name>
+        <formula>C36H34N4O8</formula>
+        <description>Coproporphyrin I</description>
+    </metabolite>
+    <metabolite>
+        <name>C05770[c]</name>
+        <formula>C36H34N4O8</formula>
+        <description>Coproporphyrin III</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[e]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>cpppg1[c]</name>
+        <formula>C36H40N4O8</formula>
+        <description>Coproporphyrinogen I</description>
+    </metabolite>
+    <metabolite>
+        <name>cpppg3[c]</name>
+        <formula>C36H40N4O8</formula>
+        <description>Coproporphyrinogen III</description>
+    </metabolite>
+    <metabolite>
+        <name>dhdascb[e]</name>
+        <formula>C6H6O6</formula>
+        <description>dehydroascorbide(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[m]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hmbil[c]</name>
+        <formula>C40H38N4O17</formula>
+        <description>Hydroxymethylbilane</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pheme[m]</name>
+        <formula>C34H30FeN4O4</formula>
+        <description>Protoheme</description>
+    </metabolite>
+    <metabolite>
+        <name>ppbng[c]</name>
+        <formula>C10H13N2O4</formula>
+        <description>Porphobilinogen</description>
+    </metabolite>
+    <metabolite>
+        <name>ppp9[m]</name>
+        <formula>C34H32N4O4</formula>
+        <description>Protoporphyrin</description>
+    </metabolite>
+    <metabolite>
+        <name>pppg9[c]</name>
+        <formula>C34H38N4O4</formula>
+        <description>Protoporphyrinogen IX</description>
+    </metabolite>
+    <metabolite>
+        <name>pppg9[m]</name>
+        <formula>C34H38N4O4</formula>
+        <description>Protoporphyrinogen IX</description>
+    </metabolite>
+    <metabolite>
+        <name>uppg3[c]</name>
+        <formula>C40H36N4O16</formula>
+        <description>Uroporphyrinogen III</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>5AOPtm</id>
+        <name>5-Aminolevulinate mitochondrial transport</name>
+        <reactant>5aop[c]</reactant>
+        <product>5aop[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CPPPGO</id>
+        <name>coproporphyrinogen oxidase (O2 required)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>cpppg3[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 co2[c]</product>
+        <product>pppg9[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FCLTm</id>
+        <name>Ferrochelatase, mitochondrial</name>
+        <reactant>fe2[m]</reactant>
+        <reactant>ppp9[m]</reactant>
+        <product>2 h[m]</product>
+        <product>pheme[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FE3R2e</id>
+        <name>Fe(III) reduction (ascorbate)</name>
+        <reactant>ascb_L[e]</reactant>
+        <reactant>2 fe3[e]</reactant>
+        <product>h[e]</product>
+        <product>dhdascb[e]</product>
+        <product>2 fe2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMBS</id>
+        <name>hydroxymethylbilane synthase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>4 ppbng[c]</reactant>
+        <product>4 nh4[c]</product>
+        <product>hmbil[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPBNGS</id>
+        <name>porphobilinogen synthase</name>
+        <reactant>2 5aop[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>h[c]</product>
+        <product>ppbng[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPPG9tm</id>
+        <name>protoporphyrinogen IX mitochondrial transport</name>
+        <reactant>pppg9[c]</reactant>
+        <product>pppg9[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPPGOm</id>
+        <name>protoporphyrinogen oxidase, mitochondrial</name>
+        <reactant>3 o2[m]</reactant>
+        <reactant>2 pppg9[m]</reactant>
+        <product>6 h2o[m]</product>
+        <product>2 ppp9[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>UPP3S</id>
+        <name>uroporphyrinogen-III synthase</name>
+        <reactant>hmbil[c]</reactant>
+        <product>h2o[c]</product>
+        <product>uppg3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>UPPDC1</id>
+        <name>uroporphyrinogen decarboxylase (uroporphyrinogen III)</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>uppg3[c]</reactant>
+        <product>4 co2[c]</product>
+        <product>cpppg3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3051C</id>
+        <name>RE3051</name>
+        <reactant>cpppg1[c]</reactant>
+        <product>6 h[c]</product>
+        <product>C05769[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3052C</id>
+        <name>RE3052</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>cpppg3[c]</reactant>
+        <product>C05770[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3053C</id>
+        <name>RE3053</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>uppg3[c]</reactant>
+        <product>C02469[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3637C</id>
+        <name>RE3637</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>uppg3[c]</reactant>
+        <product>C05767[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme synthesis</subsystem>
+    </reaction>
+</reactions>

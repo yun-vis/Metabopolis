@@ -1,0 +1,125 @@
+<metabolites>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>bildglcur[r]</name>
+        <formula>C45H50N4O18</formula>
+        <description>bis(beta-glucosyluronate)bilirubin</description>
+    </metabolite>
+    <metabolite>
+        <name>bilglcur[r]</name>
+        <formula>C39H44N4O12</formula>
+        <description>mono(glucosyluronic acid)bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bilirub[c]</name>
+        <formula>C33H34N4O6</formula>
+        <description>bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>biliverd[c]</name>
+        <formula>C33H32N4O6</formula>
+        <description>biliverdin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>co[c]</name>
+        <formula>CO</formula>
+        <description>carbon monoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[c]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>pheme[c]</name>
+        <formula>C34H30FeN4O4</formula>
+        <description>Protoheme</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>BILIRED</id>
+        <name>Nad(p)h biliverdin reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>biliverd[c]</reactant>
+        <product>nadp[c]</product>
+        <product>bilirub[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HOXG</id>
+        <name>Heme oxygenase 1</name>
+        <reactant>3 o2[c]</reactant>
+        <reactant>5 h[c]</reactant>
+        <reactant>3 nadph[c]</reactant>
+        <reactant>pheme[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>3 nadp[c]</product>
+        <product>biliverd[c]</product>
+        <product>co[c]</product>
+        <product>fe2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>BIDGLCURr</id>
+        <name>bilirubin di-glucuronide production</name>
+        <reactant>bilglcur[r]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>bildglcur[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Heme degradation</subsystem>
+    </reaction>
+</reactions>

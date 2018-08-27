@@ -1,0 +1,74 @@
+<metabolites>
+    <metabolite>
+        <name>ade[c]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gua[c]</name>
+        <formula>C5H5N5O</formula>
+        <description>Guanine</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[c]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[c]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prpp[c]</name>
+        <formula>C5H8O14P3</formula>
+        <description>5-Phospho-alpha-D-ribose 1-diphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ADPT</id>
+        <name>adenine phosphoribosyltransferase</name>
+        <reactant>ade[c]</reactant>
+        <reactant>prpp[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide salvage pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUAPRT</id>
+        <name>guanine phosphoribosyltransferase</name>
+        <reactant>prpp[c]</reactant>
+        <reactant>gua[c]</reactant>
+        <product>ppi[c]</product>
+        <product>gmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide salvage pathway</subsystem>
+    </reaction>
+    <reaction>
+        <id>HXPRT</id>
+        <name>hypoxanthine phosphoribosyltransferase (Hypoxanthine)</name>
+        <reactant>prpp[c]</reactant>
+        <reactant>hxan[c]</reactant>
+        <product>ppi[c]</product>
+        <product>imp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide salvage pathway</subsystem>
+    </reaction>
+</reactions>

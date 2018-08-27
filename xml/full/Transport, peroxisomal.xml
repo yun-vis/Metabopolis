@@ -1,0 +1,2256 @@
+<metabolites>
+    <metabolite>
+        <name>HC01007[c]</name>
+        <formula>C15H29NO4</formula>
+        <description>L-Octanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01007[x]</name>
+        <formula>C15H29NO4</formula>
+        <description>L-Octanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10855[c]</name>
+        <formula></formula>
+        <description>linoleic-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10855[x]</name>
+        <formula></formula>
+        <description>linoleic-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[c]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[x]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[c]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[x]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[c]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[x]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[x]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[c]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[x]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>adhap_hs[c]</name>
+        <formula>C3H4O6PFULLRCO</formula>
+        <description>acyl-dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adhap_hs[x]</name>
+        <formula>C3H4O6PFULLRCO</formula>
+        <description>acyl-dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[r]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[x]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adrncoa[c]</name>
+        <formula>C43H66N7O17P3S</formula>
+        <description>adrenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>adrncoa[x]</name>
+        <formula>C43H66N7O17P3S</formula>
+        <description>adrenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>akdhap_hs[c]</name>
+        <formula>C3H4O6PFULLRC2H4</formula>
+        <description>1-alkyldihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>akdhap_hs[x]</name>
+        <formula>C3H4O6PFULLRC2H4</formula>
+        <description>1-alkyldihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[x]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[x]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[c]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[x]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[x]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcoa[c]</name>
+        <formula>C41H62N7O17P3S</formula>
+        <description>arachidonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcoa[x]</name>
+        <formula>C41H62N7O17P3S</formula>
+        <description>arachidonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcrn[c]</name>
+        <formula>C27H45NO4</formula>
+        <description>C20:4 carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcrn[r]</name>
+        <formula>C27H45NO4</formula>
+        <description>C20:4 carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_D[c]</name>
+        <formula>C4H6NO4</formula>
+        <description>D-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_D[x]</name>
+        <formula>C4H6NO4</formula>
+        <description>D-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[x]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>btcoa[x]</name>
+        <formula>C25H38N7O17P3S</formula>
+        <description>Butanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>c226coa[c]</name>
+        <formula>C43H62N7O17P3S</formula>
+        <description>cervonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>c226coa[x]</name>
+        <formula>C43H62N7O17P3S</formula>
+        <description>cervonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>c4crn[c]</name>
+        <formula>C11H21NO4</formula>
+        <description>butyryl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>c4crn[x]</name>
+        <formula>C11H21NO4</formula>
+        <description>butyryl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>c6crn[c]</name>
+        <formula>C13H25NO4</formula>
+        <description>hexanoyl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>c6crn[x]</name>
+        <formula>C13H25NO4</formula>
+        <description>hexanoyl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[c]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[x]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoar[r]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoar[x]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>clpndcoa[c]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>clupanodonyl CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>clpndcoa[x]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>clupanodonyl CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[x]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[c]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[r]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[x]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[c]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[x]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcsptn1coa[c]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>docosa-4,7,10,13,16-pentaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dcsptn1coa[x]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>docosa-4,7,10,13,16-pentaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dgchol[c]</name>
+        <formula>C26H43NO5</formula>
+        <description>glycochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>dgchol[x]</name>
+        <formula>C26H43NO5</formula>
+        <description>glycochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[x]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[c]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[m]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[x]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[r]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[x]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dmnoncoa[c]</name>
+        <formula>C32H54N7O17P3S</formula>
+        <description>4,8 dimethylnonanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dmnoncoa[x]</name>
+        <formula>C32H54N7O17P3S</formula>
+        <description>4,8 dimethylnonanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dmnoncrn[c]</name>
+        <formula>C18H37NO4</formula>
+        <description>4,8-dimethylnonanoyl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>dmnoncrn[m]</name>
+        <formula>C18H37NO4</formula>
+        <description>4,8-dimethylnonanoyl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>dmnoncrn[x]</name>
+        <formula>C18H37NO4</formula>
+        <description>4,8-dimethylnonanoyl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>doco13ecoa[c]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>13-docosenoylcoa</description>
+    </metabolite>
+    <metabolite>
+        <name>doco13ecoa[x]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>13-docosenoylcoa</description>
+    </metabolite>
+    <metabolite>
+        <name>docoscoa[c]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoylcoa</description>
+    </metabolite>
+    <metabolite>
+        <name>docoscoa[x]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoylcoa</description>
+    </metabolite>
+    <metabolite>
+        <name>etoh[c]</name>
+        <formula>C2H6O</formula>
+        <description>ethanol</description>
+    </metabolite>
+    <metabolite>
+        <name>etoh[x]</name>
+        <formula>C2H6O</formula>
+        <description>ethanol</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[x]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[x]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>formcoa[c]</name>
+        <formula>C22H32N7O17P3S</formula>
+        <description>formyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>formcoa[x]</name>
+        <formula>C22H32N7O17P3S</formula>
+        <description>formyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[c]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[r]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[x]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gchola[c]</name>
+        <formula>C26H43NO6</formula>
+        <description>glycocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>gchola[x]</name>
+        <formula>C26H43NO6</formula>
+        <description>glycocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[c]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[x]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[x]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[c]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[x]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyclt[c]</name>
+        <formula>C2H3O3</formula>
+        <description>glycolate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyclt[x]</name>
+        <formula>C2H3O3</formula>
+        <description>glycolate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[c]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[x]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdd2coa[c]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>trans-Hexadec-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hdd2coa[x]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>trans-Hexadec-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hexccoa[c]</name>
+        <formula>C47H82N7O17P3S</formula>
+        <description>Hexacosanoyl-CoA (n-C26:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>hexccoa[x]</name>
+        <formula>C47H82N7O17P3S</formula>
+        <description>Hexacosanoyl-CoA (n-C26:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[c]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[x]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[c]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>hpyr[x]</name>
+        <formula>C3H3O4</formula>
+        <description>3-hydroxypyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[c]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[x]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>hxcoa[x]</name>
+        <formula>C27H42N7O17P3S</formula>
+        <description>Hexanoyl-CoA (n-C6:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[c]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[m]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[x]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[x]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[c]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[x]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lanost[r]</name>
+        <formula>C30H50O</formula>
+        <description>lanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>lanost[x]</name>
+        <formula>C30H50O</formula>
+        <description>lanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>lgnccoa[c]</name>
+        <formula>C45H78N7O17P3S</formula>
+        <description>lignocericyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lgnccoa[x]</name>
+        <formula>C45H78N7O17P3S</formula>
+        <description>lignocericyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlccoa[c]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoleic coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlccoa[x]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoleic coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[x]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[c]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[x]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[c]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[x]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[c]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[x]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nrvnccoa[c]</name>
+        <formula>C45H76N7O17P3S</formula>
+        <description>nervonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>nrvnccoa[x]</name>
+        <formula>C45H76N7O17P3S</formula>
+        <description>nervonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[x]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>occoa[c]</name>
+        <formula>C29H46N7O17P3S</formula>
+        <description>Octanoyl-CoA (n-C8:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>occoa[x]</name>
+        <formula>C29H46N7O17P3S</formula>
+        <description>Octanoyl-CoA (n-C8:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[c]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[x]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[c]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[x]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pcrn[c]</name>
+        <formula>C10H19NO4</formula>
+        <description>propionyl-carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>pcrn[x]</name>
+        <formula>C10H19NO4</formula>
+        <description>propionyl-carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>phytcoa[c]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>phytanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>phytcoa[x]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>phytanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[x]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[c]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[x]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[c]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[x]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[x]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[x]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prist[c]</name>
+        <formula>C19H37O2</formula>
+        <description>pristanic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>prist[x]</name>
+        <formula>C19H37O2</formula>
+        <description>pristanic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>pristanal[c]</name>
+        <formula>C19H38O</formula>
+        <description>pristanal</description>
+    </metabolite>
+    <metabolite>
+        <name>pristanal[x]</name>
+        <formula>C19H38O</formula>
+        <description>pristanal</description>
+    </metabolite>
+    <metabolite>
+        <name>pristcoa[c]</name>
+        <formula>C40H68N7O17P3S</formula>
+        <description>pristanoyl coa</description>
+    </metabolite>
+    <metabolite>
+        <name>pristcoa[x]</name>
+        <formula>C40H68N7O17P3S</formula>
+        <description>pristanoyl coa</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[x]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[x]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[c]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[x]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnccoa[c]</name>
+        <formula>C39H58N7O17P3S</formula>
+        <description>stearidonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnccoa[x]</name>
+        <formula>C39H58N7O17P3S</formula>
+        <description>stearidonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[c]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[x]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[c]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[x]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>tchola[c]</name>
+        <formula>C26H45NO7S</formula>
+        <description>taurocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tchola[x]</name>
+        <formula>C26H45NO7S</formula>
+        <description>taurocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tdchola[c]</name>
+        <formula>C26H45NO6S</formula>
+        <description>taurochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tdchola[x]</name>
+        <formula>C26H45NO6S</formula>
+        <description>taurochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tethex3coa[c]</name>
+        <formula>C45H66N7O17P3S</formula>
+        <description>tetracosahexaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tethex3coa[x]</name>
+        <formula>C45H66N7O17P3S</formula>
+        <description>tetracosahexaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tetpent3coa[c]</name>
+        <formula>C45H68N7O17P3S</formula>
+        <description>tetracosapentaenoyl coenzyme A, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>tetpent3coa[x]</name>
+        <formula>C45H68N7O17P3S</formula>
+        <description>tetracosapentaenoyl coenzyme A, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>tetpent6coa[c]</name>
+        <formula>C45H68N7O17P3S</formula>
+        <description>tetracosapentaenoyl coenzyme A, n-6</description>
+    </metabolite>
+    <metabolite>
+        <name>tetpent6coa[x]</name>
+        <formula>C45H68N7O17P3S</formula>
+        <description>tetracosapentaenoyl coenzyme A, n-6</description>
+    </metabolite>
+    <metabolite>
+        <name>tettet6coa[c]</name>
+        <formula>C45H70N7O17P3S</formula>
+        <description>tetracosatetraenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tettet6coa[x]</name>
+        <formula>C45H70N7O17P3S</formula>
+        <description>tetracosatetraenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[c]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[m]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[x]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thp2c[c]</name>
+        <formula>C6H8NO2</formula>
+        <description>1-piperideine-6-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>thp2c[x]</name>
+        <formula>C6H8NO2</formula>
+        <description>1-piperideine-6-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>tmndnccoa[c]</name>
+        <formula>C41H60N7O17P3S</formula>
+        <description>timnodonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tmndnccoa[x]</name>
+        <formula>C41H60N7O17P3S</formula>
+        <description>timnodonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[c]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[x]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>xan[c]</name>
+        <formula>C5H4N4O2</formula>
+        <description>Xanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>xan[x]</name>
+        <formula>C5H4N4O2</formula>
+        <description>Xanthine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACACtx</id>
+        <name>acetoacetate intracellular transport unknown mechanism</name>
+        <reactant>acac[c]</reactant>
+        <product>acac[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACALDtx</id>
+        <name>acetaldehyde peroxisomal diffusion</name>
+        <reactant>acald[x]</reactant>
+        <product>acald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADHAPtx</id>
+        <name>intracellular transport (peroxisome)</name>
+        <reactant>adhap_hs[c]</reactant>
+        <product>adhap_hs[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADPtx</id>
+        <name>ADP transporter, peroxisomal</name>
+        <reactant>adp[c]</reactant>
+        <product>adp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADRNCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>adrncoa[c]</reactant>
+        <product>adrncoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGPex</id>
+        <name>alkyl glycerol phosphate transport</name>
+        <reactant>akdhap_hs[c]</reactant>
+        <product>akdhap_hs[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKGtp</id>
+        <name>AKG transporter, peroxisome</name>
+        <reactant>akg[c]</reactant>
+        <product>akg[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMPtp</id>
+        <name>AMP transporter, peroxisome</name>
+        <reactant>amp[c]</reactant>
+        <product>amp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARACHCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>arachcoa[c]</reactant>
+        <product>arachcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARACHDCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>arachdcoa[c]</reactant>
+        <product>arachdcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ASPDxt</id>
+        <name>D-aspartate transport, peroxisomal</name>
+        <reactant>asp_D[x]</reactant>
+        <product>asp_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPtx</id>
+        <name>ATP transporter, peroxisomal</name>
+        <reactant>atp[c]</reactant>
+        <product>atp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C226COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>c226coa[c]</reactant>
+        <product>c226coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CLPNDCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>clpndcoa[c]</reactant>
+        <product>clpndcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CO2tp</id>
+        <name>CO2 peroxisomal transport</name>
+        <reactant>co2[c]</reactant>
+        <product>co2[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtp</id>
+        <name>coenzyme A transport, peroxisomal</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRNCAR3tp</id>
+        <name>carnitine-propcarnitine carrier, peroxisomal</name>
+        <reactant>crn[c]</reactant>
+        <reactant>pcrn[x]</reactant>
+        <product>crn[x]</product>
+        <product>pcrn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRNCARtp</id>
+        <name>carnitine-acetylcarnitine carrier, peroxisomal</name>
+        <reactant>crn[c]</reactant>
+        <reactant>acrn[x]</reactant>
+        <product>acrn[c]</product>
+        <product>crn[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRNtx</id>
+        <name>carnitine transport peroxisome to mitochondria</name>
+        <reactant>dmnoncrn[x]</reactant>
+        <product>dmnoncrn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCSPTN1COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>dcsptn1coa[c]</reactant>
+        <product>dcsptn1coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGCHOLtx</id>
+        <name>bile acid intracellular transport</name>
+        <reactant>dgchol[x]</reactant>
+        <product>dgchol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCHOLESTANATEtm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>dhcholestanate[m]</reactant>
+        <product>dhcholestanate[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ETOHtx</id>
+        <name>ethanol reversible peroxisomal transport</name>
+        <reactant>etoh[c]</reactant>
+        <product>etoh[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADH2tx</id>
+        <name>FADH2 transporter, peroxisomal</name>
+        <reactant>fadh2[c]</reactant>
+        <product>fadh2[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADtx</id>
+        <name>FAD transporter, peroxisomal</name>
+        <reactant>fad[c]</reactant>
+        <product>fad[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FORMCOAtx</id>
+        <name>formyl coa transport</name>
+        <reactant>formcoa[x]</reactant>
+        <product>formcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FRDPtc</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>frdp[x]</reactant>
+        <product>frdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FRDPtr</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>frdp[x]</reactant>
+        <product>frdp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GCHOLAtx</id>
+        <name>bile acid intracellular transport</name>
+        <reactant>gchola[x]</reactant>
+        <product>gchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLXtp</id>
+        <name>glyoxylate transport, peroxisomal</name>
+        <reactant>glx[c]</reactant>
+        <product>glx[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCLTtp</id>
+        <name>glycolate transport into peroxisome</name>
+        <reactant>glyclt[c]</reactant>
+        <product>glyclt[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYtp</id>
+        <name>glycine passive transport to peroxisome</name>
+        <reactant>gly[c]</reactant>
+        <product>gly[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2O2tp</id>
+        <name>hydrogen peroxide peroxisomal transport via diffusion</name>
+        <reactant>h2o2[c]</reactant>
+        <product>h2o2[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Otp</id>
+        <name>H2O transport, peroxisomal</name>
+        <reactant>h2o[c]</reactant>
+        <product>h2o[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HDD2COAtx</id>
+        <name>hdd2coa intracellular transport</name>
+        <reactant>hdd2coa[c]</reactant>
+        <product>hdd2coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HEXCCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>hexccoa[c]</reactant>
+        <product>hexccoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOAtx</id>
+        <name>Hydroxymethylglutaryl-CoA reversible peroxisomal transport</name>
+        <reactant>hmgcoa[c]</reactant>
+        <product>hmgcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPYRtp</id>
+        <name>hydroxypyruate transport, peroxisomal</name>
+        <reactant>hpyr[c]</reactant>
+        <product>hpyr[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>Htx</id>
+        <name>H transporter, peroxisome</name>
+        <reactant>h[c]</reactant>
+        <product>h[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HXANtx</id>
+        <name>hypoxanthine diffusion in peroxisome</name>
+        <reactant>hxan[c]</reactant>
+        <product>hxan[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>IPDPtx</id>
+        <name>Isopentenyl diphosphate transport (peroxisome)</name>
+        <reactant>ipdp[x]</reactant>
+        <product>ipdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>LGNCCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>lgnccoa[c]</reactant>
+        <product>lgnccoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYStip</id>
+        <name>L-lysine transport, peroxisomal (irreversible)</name>
+        <reactant>lys_L[c]</reactant>
+        <product>lys_L[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADHtpu</id>
+        <name>NADH transporter, peroxisome</name>
+        <reactant>nadh[c]</reactant>
+        <product>nadh[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPHtxu</id>
+        <name>NADPH transporter, peroxisome</name>
+        <reactant>nadph[c]</reactant>
+        <product>nadph[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPtxu</id>
+        <name>NADP transporter, peroxisome</name>
+        <reactant>nadp[x]</reactant>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADtpu</id>
+        <name>NAD transporter, peroxisome</name>
+        <reactant>nadh[x]</reactant>
+        <product>nadh[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAtx</id>
+        <name>sodium transport via diffusion (perioxisome)</name>
+        <reactant>na1[c]</reactant>
+        <product>na1[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NH4tp</id>
+        <name>ammonia peroxisomal transport</name>
+        <reactant>nh4[c]</reactant>
+        <product>nh4[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NRVNCCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>nrvnccoa[c]</reactant>
+        <product>nrvnccoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2Stx</id>
+        <name>superoxide anion transport via diffusion (peroxisome)</name>
+        <reactant>o2s[c]</reactant>
+        <product>o2s[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2tp</id>
+        <name>O2 transport, peroxisomal</name>
+        <reactant>o2[c]</reactant>
+        <product>o2[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>OCCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>occoa[c]</reactant>
+        <product>occoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ODECOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>odecoa[c]</reactant>
+        <product>odecoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>OXAtp</id>
+        <name>oxalate transport out of peroxisome</name>
+        <reactant>oxa[x]</reactant>
+        <product>oxa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PItx</id>
+        <name>Phosphate transporter, peroxisome</name>
+        <reactant>pi[c]</reactant>
+        <product>pi[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMTCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>pmtcoa[c]</reactant>
+        <product>pmtcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPItx</id>
+        <name>Diphosphate transporter, peroxisome</name>
+        <reactant>ppi[c]</reactant>
+        <product>ppi[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRISTANALtx</id>
+        <name>pristanal peroxisomal transport</name>
+        <reactant>pristanal[x]</reactant>
+        <product>pristanal[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRISTCOAtx</id>
+        <name>pristcoa peroxisomal transport</name>
+        <reactant>pristcoa[x]</reactant>
+        <product>pristcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRISTtx</id>
+        <name>prist peroxisomal transport</name>
+        <reactant>prist[x]</reactant>
+        <product>prist[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>Rtotaltp</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>Rtotal[c]</reactant>
+        <product>Rtotal[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SARCStp</id>
+        <name>Sarcosine transport (peroxisomal)</name>
+        <reactant>sarcs[c]</reactant>
+        <product>sarcs[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SCP21x</id>
+        <name>Sterol carrier protein 2</name>
+        <reactant>phytcoa[c]</reactant>
+        <product>phytcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SCP22x</id>
+        <name>Sterol carrier protein 2</name>
+        <reactant>dmnoncoa[c]</reactant>
+        <product>dmnoncoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SERtp</id>
+        <name>L-serine transport, peroxisomal</name>
+        <reactant>ser_L[c]</reactant>
+        <product>ser_L[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>STCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>stcoa[c]</reactant>
+        <product>stcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCCtp</id>
+        <name>succinate transporter, peroxisome</name>
+        <reactant>succ[c]</reactant>
+        <product>succ[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TCHOLAtx</id>
+        <name>bile acid intracellular transport</name>
+        <reactant>tchola[x]</reactant>
+        <product>tchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TDCHOLAtx</id>
+        <name>bile acid intracellular transport</name>
+        <reactant>tdchola[x]</reactant>
+        <product>tdchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TETHEX3COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>tethex3coa[c]</reactant>
+        <product>tethex3coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TETPENT3COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>tetpent3coa[c]</reactant>
+        <product>tetpent3coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TETPENT6COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>tetpent6coa[c]</reactant>
+        <product>tetpent6coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TETTET6COAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>tettet6coa[c]</reactant>
+        <product>tettet6coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>THCHOLSTOICtm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>thcholstoic[m]</reactant>
+        <product>thcholstoic[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>THP2Ctp</id>
+        <name>2,3,4,5-Tetrahydropyridine-2-carboxylate transport, peroxisomal</name>
+        <reactant>thp2c[c]</reactant>
+        <product>thp2c[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMNDNCCOAtx</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>tmndnccoa[c]</reactant>
+        <product>tmndnccoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>URATEtx</id>
+        <name>urate export from peroxisome</name>
+        <reactant>urate[x]</reactant>
+        <product>urate[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>XANtx</id>
+        <name>xanthine diffusion in peroxisome</name>
+        <reactant>xan[c]</reactant>
+        <product>xan[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0934</id>
+        <name>Neurotransmitter:Sodium Symporter (NSS) TCDB:2.A.22.3.3</name>
+        <reactant>taur[c]</reactant>
+        <product>taur[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0954</id>
+        <name>MCT 1 Transport reaction</name>
+        <reactant>mev_R[c]</reactant>
+        <product>mev_R[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0988</id>
+        <name>Postulated transport reaction</name>
+        <reactant>lanost[r]</reactant>
+        <product>lanost[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0990</id>
+        <name>Postulated transport reaction</name>
+        <reactant>cholcoa[x]</reactant>
+        <product>cholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0997</id>
+        <name>COT Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC01007[x]</reactant>
+        <product>crn[x]</product>
+        <product>HC01007[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0999</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>pmtcrn[x]</reactant>
+        <product>pmtcrn[c]</product>
+        <product>crn[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1003</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10855[x]</reactant>
+        <product>crn[x]</product>
+        <product>HC10855[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1006</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[x]</reactant>
+        <reactant>HC10859[c]</reactant>
+        <product>crn[c]</product>
+        <product>HC10859[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1007</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>arachdcrn[r]</reactant>
+        <product>arachdcrn[c]</product>
+        <product>crn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1012</id>
+        <name>Postulated transport reaction</name>
+        <reactant>dhcholestancoa[r]</reactant>
+        <reactant>h2o[r]</reactant>
+        <reactant>atp[r]</reactant>
+        <product>dhcholestancoa[x]</product>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1014</id>
+        <name>Postulated transport reaction</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>cholcoar[r]</reactant>
+        <reactant>atp[r]</reactant>
+        <product>cholcoar[x]</product>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1019</id>
+        <name>Postulated transport reaction</name>
+        <reactant>dcholcoa[x]</reactant>
+        <product>dcholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1147</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>akg[c]</reactant>
+        <reactant>icit[m]</reactant>
+        <product>akg[m]</product>
+        <product>icit[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1148</id>
+        <name>Active transport</name>
+        <reactant>akg[c]</reactant>
+        <reactant>icit[x]</reactant>
+        <product>icit[c]</product>
+        <product>akg[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1292</id>
+        <name>Postulated transport reaction</name>
+        <reactant>ppcoa[c]</reactant>
+        <product>ppcoa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1428</id>
+        <name>Free diffusion</name>
+        <reactant>dhap[c]</reactant>
+        <product>dhap[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1429</id>
+        <name>Free diffusion</name>
+        <reactant>glyc3p[c]</reactant>
+        <product>glyc3p[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2497</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>arachd[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2498</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>hdca[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>hdca[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2499</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>ppcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>ppcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2501</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>cholcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>cholcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2502</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>lnlccoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>lnlccoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2503</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>arachdcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>arachdcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2516</id>
+        <name>Major Facilitator(MFS) TCDB:2.A.1.13.1</name>
+        <reactant>h[x]</reactant>
+        <reactant>lac_L[x]</reactant>
+        <product>h[c]</product>
+        <product>lac_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2517</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>thcholstoic[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>thcholstoic[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2518</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.203.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>dhcholestanate[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>dhcholestanate[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C16txc</id>
+        <name>transport of palmitoylcoa into peroxisomes</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>pmtcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>pmtcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C2tcx</id>
+        <name>transport of acetylcarnitine from peroxisomes to cytosol</name>
+        <reactant>acrn[x]</reactant>
+        <product>acrn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4tcx</id>
+        <name>transport of bytyrylcarnitine from peroxisomes</name>
+        <reactant>c4crn[x]</reactant>
+        <product>c4crn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4x</id>
+        <name>esterification of butyrylcoa to butyrylcarnitine for transport</name>
+        <reactant>crn[x]</reactant>
+        <reactant>btcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>c4crn[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C6COAt</id>
+        <name>esterification of of hexanoylcoa for transport into cytosol</name>
+        <reactant>crn[x]</reactant>
+        <reactant>hxcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>c6crn[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C6CRNtcx</id>
+        <name>transport of hexanoylcarnitine into cytosol</name>
+        <reactant>c6crn[x]</reactant>
+        <product>c6crn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>C9BRxtc</id>
+        <name>transport of dimethylnonanoylcarnitine from peroxisomes to cytosol</name>
+        <reactant>dmnoncrn[x]</reactant>
+        <product>dmnoncrn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCSPTN1COAtxc</id>
+        <name>transport of docosapentenoylcoa into peroxisomes.</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>dcsptn1coa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>dcsptn1coa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOCO13ECOAtxc</id>
+        <name>transport of 13-docosenoylcoa into peroxisomes</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>doco13ecoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>doco13ecoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOCOSCOAtxc</id>
+        <name>transport of behenoylcoa into peroxisomes</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>docoscoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>docoscoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>LGNCCOAtcx</id>
+        <name>transport of lignocericyl coenzyme A from cytosol to peroxisome.</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>lgnccoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>lgnccoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NRVNCCOAtxc</id>
+        <name>transport of nervonylcoa into peroxisomes</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>nrvnccoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>nrvnccoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRISTCOAtcx</id>
+        <name>transport of pristanoylcoa from cytosol to peroxisomes.</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>pristcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>pristcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SCP21cx</id>
+        <name>transport of phytanoylcoa from cytosol to peroxisomes.</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>phytcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>phytcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>STCOATxc</id>
+        <name>transport of Stearoyl-CoA from cytosol to peroxisomes</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>stcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>STRDNCCOAtxc</id>
+        <name>transport of stearidonylcoa into peroxisomes.</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>strdnccoa[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>strdnccoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRNrtx</id>
+        <name>reversible transport of L-Carnitine in peroxisome</name>
+        <reactant>crn[c]</reactant>
+        <product>crn[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLY3Pt</id>
+        <name>Glycerol phopshate exit into cytosol</name>
+        <reactant>glyc3p[x]</reactant>
+        <product>glyc3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>LACLt</id>
+        <name>Lactate transport</name>
+        <reactant>lac_L[x]</reactant>
+        <product>lac_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAL_Ltx</id>
+        <name>Transport reaction for malate</name>
+        <reactant>mal_L[x]</reactant>
+        <product>mal_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADtx</id>
+        <name>transport of NAD into peroxisome</name>
+        <reactant>nad[c]</reactant>
+        <product>nad[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, peroxisomal</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,1378 @@
+<metabolites>
+    <metabolite>
+        <name>accoa[x]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[r]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[r]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>20ahchsterol[m]</name>
+        <formula>C27H46O2</formula>
+        <description>20-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>44mctr[c]</name>
+        <formula>C29H46O</formula>
+        <description>4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>C05109[c]</name>
+        <formula>C30H52O</formula>
+        <description>24,25-Dihydrolanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2313[c]</name>
+        <formula>C29H48O</formula>
+        <description>4,4-dimethylcholesta-8(9),14-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lanost[c]</name>
+        <formula>C30H50O</formula>
+        <description>lanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5049[c]</name>
+        <formula>CH2</formula>
+        <description>one carbon unit</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>44mctr[c]</name>
+        <formula>C29H46O</formula>
+        <description>4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>44mctr[r]</name>
+        <formula>C29H46O</formula>
+        <description>4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>44mzym[r]</name>
+        <formula>C29H48O</formula>
+        <description>14-demethyllanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>4mzym_int1[r]</name>
+        <formula>C29H46O3</formula>
+        <description>4-Methylzymosterol intermediate 1</description>
+    </metabolite>
+    <metabolite>
+        <name>4mzym_int2[r]</name>
+        <formula>C28H44O</formula>
+        <description>4-Methylzymosterol intermediate 2</description>
+    </metabolite>
+    <metabolite>
+        <name>5dpmev[x]</name>
+        <formula>C6H10O10P2</formula>
+        <description>(R)-5-Diphosphomevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>5pmev[x]</name>
+        <formula>C6H10O7P</formula>
+        <description>(R)-5-phosphonatomevalonate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhchsterol[c]</name>
+        <formula>C27H44O</formula>
+        <description>cholesta-5,7-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhchsterol[r]</name>
+        <formula>C27H44O</formula>
+        <description>cholesta-5,7-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>C05109[c]</name>
+        <formula>C30H52O</formula>
+        <description>24,25-Dihydrolanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1293[c]</name>
+        <formula>C27H44O2</formula>
+        <description>27alpha-hydroxy-7-dehydrocholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2313[c]</name>
+        <formula>C29H48O</formula>
+        <description>4,4-dimethylcholesta-8(9),14-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2313[r]</name>
+        <formula>C29H48O</formula>
+        <description>4,4-dimethylcholesta-8(9),14-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2314[c]</name>
+        <formula>C29H50O</formula>
+        <description>4,4-dimethylcholesta-8(9)-en-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2314[r]</name>
+        <formula>C29H50O</formula>
+        <description>4,4-dimethylcholesta-8(9)-en-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2315[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesta-8(9)-en-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2321[c]</name>
+        <formula>C27H42O</formula>
+        <description>cholesta-5,7,24-trien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2321[n]</name>
+        <formula>C27H42O</formula>
+        <description>cholesta-5,7,24-trien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5956[c]</name>
+        <formula>C20H33O7P2</formula>
+        <description>trans,trans,cis-geranyl-geranyl-PP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01118[r]</name>
+        <formula>C30H49O7P2</formula>
+        <description>presqualene diphosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>R1coa_hs[c]</name>
+        <formula>XCO2C21H31N7O15P3S</formula>
+        <description>R group 1 Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>R1coa_hs[r]</name>
+        <formula>XCO2C21H31N7O15P3S</formula>
+        <description>R group 1 Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>R2coa_hs[c]</name>
+        <formula>XCO2C21H31N7O15P3S</formula>
+        <description>R group 2 Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>R2coa_hs[r]</name>
+        <formula>XCO2C21H31N7O15P3S</formula>
+        <description>R group 2 Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotalcoa[c]</name>
+        <formula>CO2FULLRC21H31N7O15P3S</formula>
+        <description>R total Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Ssq23epx[r]</name>
+        <formula>C30H50O</formula>
+        <description>(S)-2,3-epoxysqualene</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[c]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[m]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>aacoa[x]</name>
+        <formula>C25H36N7O18P3S</formula>
+        <description>Acetoacetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[m]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[x]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[x]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[x]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[x]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>chlstol[r]</name>
+        <formula>C27H44O</formula>
+        <description>5alpha-cholesta-7,24-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[m]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[n]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[x]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[r]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ddsmsterol[r]</name>
+        <formula>C27H42O</formula>
+        <description>7-dehydrodesmosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>dmpp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Dimethylallyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dmpp[x]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Dimethylallyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dsmsterol[c]</name>
+        <formula>C27H44O</formula>
+        <description>desmosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>dsmsterol[n]</name>
+        <formula>C27H44O</formula>
+        <description>desmosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>dsmsterol[r]</name>
+        <formula>C27H44O</formula>
+        <description>desmosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[r]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[r]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[r]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[c]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[x]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ggdp[c]</name>
+        <formula>C20H33O7P2</formula>
+        <description>2-trans,6-trans,10-trans-geranylgeranyl diphosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>grdp[c]</name>
+        <formula>C10H17O7P2</formula>
+        <description>Geranyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>grdp[x]</name>
+        <formula>C10H17O7P2</formula>
+        <description>Geranyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[c]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[m]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[r]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[x]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[x]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>lanost[c]</name>
+        <formula>C30H50O</formula>
+        <description>lanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>lanost[r]</name>
+        <formula>C30H50O</formula>
+        <description>lanosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>lthstrl[c]</name>
+        <formula>C27H46O</formula>
+        <description>5alpha-cholest-7-en-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>lthstrl[r]</name>
+        <formula>C27H46O</formula>
+        <description>5alpha-cholest-7-en-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[c]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[r]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[x]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[n]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[n]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[x]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[r]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[x]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sql[r]</name>
+        <formula>C30H50</formula>
+        <description>squalene</description>
+    </metabolite>
+    <metabolite>
+        <name>xolest2_hs[c]</name>
+        <formula>C27H45FULLR2CO2</formula>
+        <description>cholesterol ester</description>
+    </metabolite>
+    <metabolite>
+        <name>xolest_hs[c]</name>
+        <formula>C27H45XCO2</formula>
+        <description>cholesterol ester</description>
+    </metabolite>
+    <metabolite>
+        <name>xolest_hs[r]</name>
+        <formula>C27H45XCO2</formula>
+        <description>cholesterol ester</description>
+    </metabolite>
+    <metabolite>
+        <name>zym_int2[r]</name>
+        <formula>C27H42O</formula>
+        <description>zymosterol intermediate 2</description>
+    </metabolite>
+    <metabolite>
+        <name>zymst[r]</name>
+        <formula>C27H44O</formula>
+        <description>zymosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>zymstnl[r]</name>
+        <formula>C27H46O</formula>
+        <description>5alpha-cholest-8-en-3beta-ol</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACACT1x</id>
+        <name>acetyl-CoA C-acetyltransferase, mitochondrial</name>
+        <reactant>2 accoa[x]</reactant>
+        <product>aacoa[x]</product>
+        <product>coa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C14STRr</id>
+        <name>C-14 sterol reductase</name>
+        <reactant>h[r]</reactant>
+        <reactant>44mctr[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>44mzym[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C3STDH1Pr</id>
+        <name>C-3 sterol dehydrogenase (4-methylzymosterol)</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>4mzym_int1[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>4mzym_int2[r]</product>
+        <product>co2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C3STDH1r</id>
+        <name>C-3 sterol dehydrogenase (4-methylzymosterol)</name>
+        <reactant>4mzym_int1[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <product>h[r]</product>
+        <product>4mzym_int2[r]</product>
+        <product>co2[r]</product>
+        <product>nadh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C3STKR2r</id>
+        <name>C-3 sterol keto reductase (zymosterol)</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>zym_int2[r]</reactant>
+        <product>nadp[r]</product>
+        <product>zymst[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4STMO1r</id>
+        <name>C-4 sterol methyl oxidase (4,4-dimethylzymosterol)</name>
+        <reactant>3 o2[r]</reactant>
+        <reactant>3 h[r]</reactant>
+        <reactant>3 nadph[r]</reactant>
+        <reactant>44mzym[r]</reactant>
+        <product>4 h2o[r]</product>
+        <product>3 nadp[r]</product>
+        <product>4mzym_int1[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4STMO2Pr</id>
+        <name>C-4 methyl sterol oxidase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>nadp[r]</reactant>
+        <reactant>4mzym_int2[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>co2[r]</product>
+        <product>zym_int2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4STMO2r</id>
+        <name>C-4 methyl sterol oxidase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>4mzym_int2[r]</reactant>
+        <reactant>nad[r]</reactant>
+        <product>h[r]</product>
+        <product>co2[r]</product>
+        <product>nadh[r]</product>
+        <product>zym_int2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCR241r</id>
+        <name>24-dehydrocholesterol reductase [Precursor]</name>
+        <reactant>zymst[r]</reactant>
+        <reactant>fadh2[r]</reactant>
+        <product>fad[r]</product>
+        <product>zymstnl[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCR242r</id>
+        <name>24-dehydrocholesterol reductase [Precursor]</name>
+        <reactant>fadh2[r]</reactant>
+        <reactant>chlstol[r]</reactant>
+        <product>fad[r]</product>
+        <product>lthstrl[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCR243r</id>
+        <name>24-dehydrocholesterol reductase [Precursor]</name>
+        <reactant>fadh2[r]</reactant>
+        <reactant>dsmsterol[r]</reactant>
+        <product>chsterol[r]</product>
+        <product>fad[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCR71r</id>
+        <name>7-dehydrocholesterol reductase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>ddsmsterol[r]</reactant>
+        <product>nadp[r]</product>
+        <product>dsmsterol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCR72r</id>
+        <name>7-dehydrocholesterol reductase</name>
+        <reactant>7dhchsterol[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <product>nadp[r]</product>
+        <product>chsterol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DMATT</id>
+        <name>dimethylallyltranstransferase</name>
+        <reactant>dmpp[c]</reactant>
+        <reactant>ipdp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>grdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DMATTx</id>
+        <name>dimethylallyltranstransferase</name>
+        <reactant>dmpp[x]</reactant>
+        <reactant>ipdp[x]</reactant>
+        <product>grdp[x]</product>
+        <product>ppi[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DPMVDx</id>
+        <name>diphosphomevalonate decarboxylase</name>
+        <reactant>atp[x]</reactant>
+        <reactant>5dpmev[x]</reactant>
+        <product>adp[x]</product>
+        <product>co2[x]</product>
+        <product>ipdp[x]</product>
+        <product>pi[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EBP1r</id>
+        <name>3-beta-hydroxysteroid-delta(8),delta(7)-isomerase</name>
+        <reactant>zymst[r]</reactant>
+        <product>chlstol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EBP2r</id>
+        <name>3-beta-hydroxysteroid-delta(8),delta(7)-isomerase</name>
+        <reactant>zymstnl[r]</reactant>
+        <product>lthstrl[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FRTT</id>
+        <name>farnesyltranstransferase</name>
+        <reactant>ipdp[c]</reactant>
+        <reactant>frdp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>ggdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GRTT</id>
+        <name>geranyltranstransferase</name>
+        <reactant>ipdp[c]</reactant>
+        <reactant>grdp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>frdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GRTTx</id>
+        <name>geranyltranstransferase</name>
+        <reactant>ipdp[x]</reactant>
+        <reactant>grdp[x]</reactant>
+        <product>ppi[x]</product>
+        <product>frdp[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOARr</id>
+        <name>Hydroxymethylglutaryl CoA reductase (ir)</name>
+        <reactant>2 h[r]</reactant>
+        <reactant>2 nadph[r]</reactant>
+        <reactant>hmgcoa[r]</reactant>
+        <product>2 nadp[r]</product>
+        <product>coa[r]</product>
+        <product>mev_R[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOASi</id>
+        <name>Hydroxymethylglutaryl CoA synthase (ir)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>aacoa[c]</reactant>
+        <reactant>accoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>hmgcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOASim</id>
+        <name>Hydroxymethylglutaryl CoA synthase (ir)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>accoa[m]</reactant>
+        <reactant>aacoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>hmgcoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGLm</id>
+        <name>hydroxymethylglutaryl-CoA lyase</name>
+        <reactant>hmgcoa[m]</reactant>
+        <product>accoa[m]</product>
+        <product>acac[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGLx</id>
+        <name>hydroxymethylglutaryl-CoA lyase</name>
+        <reactant>hmgcoa[x]</reactant>
+        <product>accoa[x]</product>
+        <product>acac[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IPDDIx</id>
+        <name>isopentenyl-diphosphate D-isomerase</name>
+        <reactant>ipdp[x]</reactant>
+        <product>dmpp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LNS14DM</id>
+        <name>cytochrome P450 lanosterol 14-alpha-demethylase (NADP)</name>
+        <reactant>3 o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>3 nadph[c]</reactant>
+        <reactant>lanost[c]</reactant>
+        <product>4 h2o[c]</product>
+        <product>3 nadp[c]</product>
+        <product>for[c]</product>
+        <product>44mctr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LNSTLSr</id>
+        <name>lanosterol synthase</name>
+        <reactant>Ssq23epx[r]</reactant>
+        <product>lanost[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LSTO1r</id>
+        <name>Lathosterol oxidase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>chlstol[r]</reactant>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>ddsmsterol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LSTO2r</id>
+        <name>Lathosterol oxidase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>lthstrl[r]</reactant>
+        <product>7dhchsterol[r]</product>
+        <product>2 h2o[r]</product>
+        <product>nadp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MEVK1x</id>
+        <name>mevalonate kinase (atp)</name>
+        <reactant>atp[x]</reactant>
+        <reactant>mev_R[x]</reactant>
+        <product>h[x]</product>
+        <product>adp[x]</product>
+        <product>5pmev[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P450SCC1m</id>
+        <name>cholesterol monooxygenase</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>chsterol[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>20ahchsterol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMEVKx</id>
+        <name>phosphomevalonate kinase</name>
+        <reactant>atp[x]</reactant>
+        <reactant>5pmev[x]</reactant>
+        <product>adp[x]</product>
+        <product>5dpmev[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SOAT11</id>
+        <name>sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1</name>
+        <reactant>R1coa_hs[c]</reactant>
+        <reactant>chsterol[c]</reactant>
+        <product>coa[c]</product>
+        <product>xolest_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SOAT11r</id>
+        <name>sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1</name>
+        <reactant>chsterol[r]</reactant>
+        <reactant>R1coa_hs[r]</reactant>
+        <product>coa[r]</product>
+        <product>xolest_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SOAT12</id>
+        <name>sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1</name>
+        <reactant>R2coa_hs[c]</reactant>
+        <reactant>chsterol[c]</reactant>
+        <product>coa[c]</product>
+        <product>xolest_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SOAT12r</id>
+        <name>sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1</name>
+        <reactant>chsterol[r]</reactant>
+        <reactant>R2coa_hs[r]</reactant>
+        <product>coa[r]</product>
+        <product>xolest_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SQLEr</id>
+        <name>Squalene epoxidase, endoplasmic reticular (NADP)</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>sql[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>Ssq23epx[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SQLSr</id>
+        <name>Squalene synthase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>2 frdp[r]</reactant>
+        <product>nadp[r]</product>
+        <product>2 ppi[r]</product>
+        <product>sql[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0170</id>
+        <name>Farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase Biosynthesis of steroids EC:2.5.1.21</name>
+        <reactant>2 frdp[r]</reactant>
+        <product>ppi[r]</product>
+        <product>HC01118[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0321</id>
+        <name>Acetoacetate:CoA ligase (AMP-forming) Butanoate metabolism EC:6.2.1.16</name>
+        <reactant>coa[m]</reactant>
+        <reactant>acac[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>aacoa[m]</product>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0463</id>
+        <name>(S)-3-Hydroxy-3-methylglutaryl-CoA acetoacetyl-CoA-lyase (CoA-acetylating) Synthesis and degradation of ketone bodies / Valine, leucine and isoleucine degradation / Butanoate metabolism EC:2.3.3.10</name>
+        <reactant>h[x]</reactant>
+        <reactant>coa[x]</reactant>
+        <reactant>hmgcoa[x]</reactant>
+        <product>accoa[x]</product>
+        <product>aacoa[x]</product>
+        <product>h2o[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0488</id>
+        <name>(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating) Biosynthesis of steroids EC:1.1.1.34</name>
+        <reactant>2 nadp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>mev_R[c]</reactant>
+        <product>2 h[c]</product>
+        <product>2 nadph[c]</product>
+        <product>hmgcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0575</id>
+        <name>Presqualene diphosphate:farnesyl-diphosphate farnesyltransferase Biosynthesis of steroids EC:2.5.1.21</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>HC01118[r]</reactant>
+        <product>nadp[r]</product>
+        <product>ppi[r]</product>
+        <product>sql[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0780</id>
+        <name>4,4-dimethyl-5a-cholesta-8,24-dien-3b-ol:NADP+ D14-oxidoreductase Biosynthesis of steroids EC:1.3.1.70</name>
+        <reactant>44mzym[r]</reactant>
+        <reactant>nadp[r]</reactant>
+        <product>h[r]</product>
+        <product>44mctr[r]</product>
+        <product>nadph[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0781</id>
+        <name>Lanosterol,NADPH:oxygen oxidoreductase (14-methyl cleaving) Biosynthesis of steroids EC:1.14.13.70</name>
+        <reactant>3 o2[r]</reactant>
+        <reactant>2 h[r]</reactant>
+        <reactant>3 nadph[r]</reactant>
+        <reactant>lanost[r]</reactant>
+        <product>4 h2o[r]</product>
+        <product>44mctr[r]</product>
+        <product>3 nadp[r]</product>
+        <product>for[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0783</id>
+        <name>lanosterol D24-reductase Biosynthesis of steroids EC:1.3.1.72</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>lthstrl[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>chlstol[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1380</id>
+        <name>delta24-sterol reductase Biosynthesis of steroids EC:1.3.1.72</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>zymst[r]</reactant>
+        <product>nadp[r]</product>
+        <product>zymstnl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1381</id>
+        <name>5alpha-Cholest-7-en-3beta-ol delta7-delta8-isomerase Biosynthesis of steroids EC:5.3.3.5</name>
+        <reactant>lthstrl[r]</reactant>
+        <product>zymstnl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2220C</id>
+        <name>RE2220</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>7dhchsterol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nad[c]</product>
+        <product>CE1293[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2407C</id>
+        <name>RE2407</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>lanost[c]</reactant>
+        <product>nadp[c]</product>
+        <product>C05109[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2410C</id>
+        <name>RE2410</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2321[c]</reactant>
+        <product>nadp[c]</product>
+        <product>dsmsterol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2410N</id>
+        <name>RE2410</name>
+        <reactant>h[n]</reactant>
+        <reactant>nadph[n]</reactant>
+        <reactant>CE2321[n]</reactant>
+        <product>nadp[n]</product>
+        <product>dsmsterol[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3129N</id>
+        <name>RE3129</name>
+        <reactant>h[n]</reactant>
+        <reactant>nadph[n]</reactant>
+        <reactant>dsmsterol[n]</reactant>
+        <product>nadp[n]</product>
+        <product>chsterol[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3134C</id>
+        <name>RE3134</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2313[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2314[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3134R</id>
+        <name>RE3134</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE2313[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE2314[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3136C</id>
+        <name>RE3136</name>
+        <reactant>CE2315[c]</reactant>
+        <product>lthstrl[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3180C</id>
+        <name>RE3180</name>
+        <reactant>co2[c]</reactant>
+        <reactant>3 C05109[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>3 CE2313[c]</product>
+        <product>4 CE5049[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3181C</id>
+        <name>RE3181</name>
+        <reactant>co2[c]</reactant>
+        <reactant>3 lanost[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>3 44mctr[c]</product>
+        <product>4 CE5049[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3372C</id>
+        <name>RE3372</name>
+        <reactant>dmpp[c]</reactant>
+        <reactant>frdp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>CE5956[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLESACATc</id>
+        <name>esterification of cholesterol to cholesterol ester within enterocytes</name>
+        <reactant>Rtotalcoa[c]</reactant>
+        <reactant>chsterol[c]</reactant>
+        <product>coa[c]</product>
+        <product>xolest2_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cholesterol metabolism</subsystem>
+    </reaction>
+</reactions>

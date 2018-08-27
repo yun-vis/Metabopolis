@@ -1,0 +1,880 @@
+<metabolites>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ficytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferricytochrome c</description>
+    </metabolite>
+    <metabolite>
+        <name>focytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferrocytochrome C</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hyptaur[e]</name>
+        <formula>C2H7NO2S</formula>
+        <description>Hypotaurine</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[e]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>2amac[c]</name>
+        <formula>C3H5NO2</formula>
+        <description>2-aminoacrylic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[c]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3sala[c]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>3sala[m]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>3snpyr[c]</name>
+        <formula>C3H2O5S</formula>
+        <description>3-Sulfinopyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>3snpyr[m]</name>
+        <formula>C3H2O5S</formula>
+        <description>3-Sulfinopyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>3spyr[c]</name>
+        <formula>C3H2O6S</formula>
+        <description>3-sulfonatopyruvate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3spyr[m]</name>
+        <formula>C3H2O6S</formula>
+        <description>3-sulfonatopyruvate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>4abutn[e]</name>
+        <formula>C4H10NO</formula>
+        <description>4-Aminobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>5mta[c]</name>
+        <formula>C11H15N5O3S</formula>
+        <description>5-Methylthioadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>5mthf[c]</name>
+        <formula>C20H24N7O6</formula>
+        <description>5-Methyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02712[c]</name>
+        <formula>C7H12NO3S</formula>
+        <description>N-Acetylmethionine</description>
+    </metabolite>
+    <metabolite>
+        <name>C02712[m]</name>
+        <formula>C7H12NO3S</formula>
+        <description>N-Acetylmethionine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1310[m]</name>
+        <formula>C5H8NO3S</formula>
+        <description>N-acetyl-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1401[c]</name>
+        <formula>C4H8NOS</formula>
+        <description>homocysteine thiolactone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5082[m]</name>
+        <formula>C9H15N2O5S</formula>
+        <description>N-acetyl-L-cystathionine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00250[c]</name>
+        <formula>HS</formula>
+        <description>hydrosulfide</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02119[c]</name>
+        <formula></formula>
+        <description>Adenosylmethioninamine-potential</description>
+    </metabolite>
+    <metabolite>
+        <name>Lcyst[c]</name>
+        <formula>C3H6NO5S</formula>
+        <description>L-cysteate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Lcyst[m]</name>
+        <formula>C3H6NO5S</formula>
+        <description>L-cysteate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Lcystin[c]</name>
+        <formula>C6H12N2O4S2</formula>
+        <description>L-cystine</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[n]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[n]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>ametam[c]</name>
+        <formula>C14H24N6O3S</formula>
+        <description>S-Adenosylmethioninamine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>cyan[c]</name>
+        <formula>CHN</formula>
+        <description>hydrogen cyanide</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[m]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cyst_L[c]</name>
+        <formula>C7H14N2O4S</formula>
+        <description>L-cystathionine</description>
+    </metabolite>
+    <metabolite>
+        <name>cyst_L[m]</name>
+        <formula>C7H14N2O4S</formula>
+        <description>L-cystathionine</description>
+    </metabolite>
+    <metabolite>
+        <name>dna5mtc[n]</name>
+        <formula>C11H19O8PR2</formula>
+        <description>DNA 5-methylcytosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dna[n]</name>
+        <formula>C10H17O8PR2</formula>
+        <description>DNA</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[c]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[e]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hcys_L[c]</name>
+        <formula>C4H9NO2S</formula>
+        <description>L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>mercplac[c]</name>
+        <formula>C3H5O3S</formula>
+        <description>3-Mercaptolactate</description>
+    </metabolite>
+    <metabolite>
+        <name>mercplaccys[c]</name>
+        <formula>C6H10O5S2N</formula>
+        <description>3-mercaptolactate-cysteine disulfide</description>
+    </metabolite>
+    <metabolite>
+        <name>mercppyr[c]</name>
+        <formula>C3H3O3S</formula>
+        <description>3-mercaptopyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>mercppyr[m]</name>
+        <formula>C3H3O3S</formula>
+        <description>3-mercaptopyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[c]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[m]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[e]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[e]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[e]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>sl_L[c]</name>
+        <formula>C3H4O6S</formula>
+        <description>(S)-3-sulfonatolactate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>sl_L[e]</name>
+        <formula>C3H4O6S</formula>
+        <description>(S)-3-sulfonatolactate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>sl_L[m]</name>
+        <formula>C3H4O6S</formula>
+        <description>(S)-3-sulfonatolactate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>slfcys[c]</name>
+        <formula>C3H8NO5S2</formula>
+        <description>S-Sulfo-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>so3[c]</name>
+        <formula>O3S</formula>
+        <description>Sulfite</description>
+    </metabolite>
+    <metabolite>
+        <name>so3[m]</name>
+        <formula>O3S</formula>
+        <description>Sulfite</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[m]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>tcynt[c]</name>
+        <formula>CNS</formula>
+        <description>thiocyanate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcys[c]</name>
+        <formula>C3H7NO2S2</formula>
+        <description>3-disulfanyl-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>trdox[c]</name>
+        <formula>X</formula>
+        <description>Oxidized thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>trdrd[c]</name>
+        <formula>XH2</formula>
+        <description>Reduced thioredoxin</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>2AMACSULT</id>
+        <name>2-Aminoacrylate sulfotransferase</name>
+        <reactant>2amac[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>paps[c]</reactant>
+        <product>Lcyst[c]</product>
+        <product>nadp[c]</product>
+        <product>pap[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SALATAi</id>
+        <name>3-sulfino-alanine transaminase (irreversible)</name>
+        <reactant>h[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <reactant>3sala[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>3snpyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SALATAim</id>
+        <name>3-sulfino-alanine transaminase (irreversible), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>akg[m]</reactant>
+        <reactant>3sala[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>3snpyr[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SPYRSP</id>
+        <name>3-sulfinopyruvate hydrolase (spotaneous reaction)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>3snpyr[c]</reactant>
+        <product>h[c]</product>
+        <product>pyr[c]</product>
+        <product>so3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SPYRSPm</id>
+        <name>3-sulfinopyruvate hydrolase (spotaneous reaction), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>3snpyr[m]</reactant>
+        <product>h[m]</product>
+        <product>pyr[m]</product>
+        <product>so3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHC</id>
+        <name>adenosylhomocysteinase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ahcys[c]</reactant>
+        <product>adn[c]</product>
+        <product>hcys_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSGLTH</id>
+        <name>Glutathione:cystine oxidoreductase</name>
+        <reactant>Lcystin[c]</reactant>
+        <reactant>2 gthrd[c]</reactant>
+        <product>2 cys_L[c]</product>
+        <product>gthox[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSLYSL</id>
+        <name>L-Cystine Lysteine-lyase (deaminating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>Lcystin[c]</reactant>
+        <product>nh4[c]</product>
+        <product>pyr[c]</product>
+        <product>thcys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSTA</id>
+        <name>cysteine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>mercppyr[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSTAm</id>
+        <name>cysteine transaminase (mitochondrial)</name>
+        <reactant>akg[m]</reactant>
+        <reactant>cys_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>mercppyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSTGL</id>
+        <name>cystathionine g-lyase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cyst_L[c]</reactant>
+        <product>nh4[c]</product>
+        <product>2obut[c]</product>
+        <product>cys_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSTS</id>
+        <name>cystathionine beta-synthase</name>
+        <reactant>hcys_L[c]</reactant>
+        <reactant>ser_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>cyst_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNAMTn</id>
+        <name>DNA (cytosine-5-)-methyltransferase, nucleus</name>
+        <reactant>amet[n]</reactant>
+        <reactant>dna[n]</reactant>
+        <product>ahcys[n]</product>
+        <product>h[n]</product>
+        <product>dna5mtc[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCYSTAT</id>
+        <name>L-Cysteate:2-oxoglutarate aminotransferase</name>
+        <reactant>Lcyst[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>3spyr[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCYSTATm</id>
+        <name>L-Cysteate:2-oxoglutarate aminotransferase, mitochondrial</name>
+        <reactant>akg[m]</reactant>
+        <reactant>Lcyst[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>3spyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MCLACCYSR</id>
+        <name>3-mercaptolactate:cysteine reductase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <reactant>mercplac[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>mercplaccys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MCLOR</id>
+        <name>3-Mercaptolactate:NAD+ oxidoreductase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>mercplac[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>mercppyr[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MCPST</id>
+        <name>3-mercaptopyruvate sulfurtransferase</name>
+        <reactant>cyan[c]</reactant>
+        <reactant>mercppyr[c]</reactant>
+        <product>h[c]</product>
+        <product>pyr[c]</product>
+        <product>tcynt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>METAT</id>
+        <name>methionine adenosyltransferase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>met_L[c]</reactant>
+        <product>pi[c]</product>
+        <product>amet[c]</product>
+        <product>ppi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>METS</id>
+        <name>methionine synthase</name>
+        <reactant>5mthf[c]</reactant>
+        <reactant>hcys_L[c]</reactant>
+        <product>h[c]</product>
+        <product>thf[c]</product>
+        <product>met_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SLDt</id>
+        <name>L-sulfolactate transport (cytosol to extracellular)</name>
+        <reactant>sl_L[c]</reactant>
+        <product>sl_L[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SLDx</id>
+        <name>L-sulfolactate dehydrogenase (NAD+)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>sl_L[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>3spyr[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SLDxm</id>
+        <name>L-sulfolactate dehydrogenase (NAD+), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>sl_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>3spyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SULFOX</id>
+        <name>sulfite oxidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>so3[c]</reactant>
+        <reactant>2 ficytC[m]</reactant>
+        <product>2 h[c]</product>
+        <product>2 focytC[m]</product>
+        <product>so4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0001</id>
+        <name>Virtual reaction/potential definition</name>
+        <reactant>ametam[c]</reactant>
+        <product>5mta[c]</product>
+        <product>HC02119[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0027</id>
+        <name>NADPH:CoA-glutathione oxidoreductase EC:1.8.1.9</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>2 cys_L[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>Lcystin[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0142</id>
+        <name>Sulfite:oxygen oxidoreductase Sulfur metabolism EC:1.8.3.1</name>
+        <reactant>o2[m]</reactant>
+        <reactant>h2o[m]</reactant>
+        <reactant>so3[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>so4[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0210</id>
+        <name>L-Serine hydro-lyase (adding homocysteine) Glycine, serine and threonine metabolism EC:4.2.1.22</name>
+        <reactant>h[c]</reactant>
+        <reactant>ser_L[c]</reactant>
+        <reactant>HC00250[c]</reactant>
+        <product>h2o[c]</product>
+        <product>cys_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0281</id>
+        <name>Putrescine:oxygen oxidoreductase (deaminating) Urea cycle and metabolism of amino groups EC:1.4.3.6</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>o2[e]</reactant>
+        <reactant>ptrc[e]</reactant>
+        <product>nh4[e]</product>
+        <product>h2o2[e]</product>
+        <product>4abutn[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1933C</id>
+        <name>RE1933</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE1401[c]</reactant>
+        <product>h[c]</product>
+        <product>hcys_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2030M</id>
+        <name>RE2030</name>
+        <reactant>accoa[m]</reactant>
+        <reactant>met_L[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>C02712[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2156M</id>
+        <name>RE2156</name>
+        <reactant>accoa[m]</reactant>
+        <reactant>cyst_L[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE5082[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2223M</id>
+        <name>RE2223</name>
+        <reactant>accoa[m]</reactant>
+        <reactant>cys_L[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>CE1310[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2640C</id>
+        <name>RE2640</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C02712[c]</reactant>
+        <product>ac[c]</product>
+        <product>met_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3009C</id>
+        <name>RE3009</name>
+        <reactant>paps[c]</reactant>
+        <reactant>trdrd[c]</reactant>
+        <product>2 h[c]</product>
+        <product>pap[c]</product>
+        <product>so3[c]</product>
+        <product>trdox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HYPTROXe</id>
+        <name>HYPTROXe</name>
+        <reactant>o2[e]</reactant>
+        <reactant>2 hyptaur[e]</reactant>
+        <product>2 taur[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SFCYSc</id>
+        <name>Formation of sulfocysteine</name>
+        <reactant>h[c]</reactant>
+        <reactant>so3[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <product>slfcys[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Methionine and cysteine metabolism</subsystem>
+    </reaction>
+</reactions>

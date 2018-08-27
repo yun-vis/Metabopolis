@@ -1,0 +1,4757 @@
+<metabolites>
+    <metabolite>
+        <name>10fthf5glu[c]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf5glu[m]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[c]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[m]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[c]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[m]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[c]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[m]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtsl[c]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtsl[m]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[c]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[m]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd2[c]</name>
+        <formula>C28H44O3</formula>
+        <description>24R,25-Dihyoxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd2[m]</name>
+        <formula>C28H44O3</formula>
+        <description>24R,25-Dihyoxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd3[c]</name>
+        <formula>C27H44O3</formula>
+        <description>(24R)-24,25-dihydroxycalciol</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd3[m]</name>
+        <formula>C27H44O3</formula>
+        <description>(24R)-24,25-dihydroxycalciol</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd2[c]</name>
+        <formula>C28H44O2</formula>
+        <description>25-Hydroxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd2[m]</name>
+        <formula>C28H44O2</formula>
+        <description>25-Hydroxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd3[c]</name>
+        <formula>C27H44O2</formula>
+        <description>calcidiol</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd3[m]</name>
+        <formula>C27H44O2</formula>
+        <description>calcidiol</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[c]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>2obut[m]</name>
+        <formula>C4H5O3</formula>
+        <description>2-Oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>(S)-3-aminoisobutyric acid</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>(S)-3-aminoisobutyric acid</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib_D[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>D-3-Amino-isobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib_D[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>D-3-Amino-isobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mob[c]</name>
+        <formula>C5H7O3</formula>
+        <description>3-methyl-2-oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mob[m]</name>
+        <formula>C5H7O3</formula>
+        <description>3-methyl-2-oxobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mop[c]</name>
+        <formula>C6H9O3</formula>
+        <description>3-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mop[m]</name>
+        <formula>C6H9O3</formula>
+        <description>3-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3pg[c]</name>
+        <formula>C3H4O7P</formula>
+        <description>3-Phospho-D-glycerate</description>
+    </metabolite>
+    <metabolite>
+        <name>3pg[m]</name>
+        <formula>C3H4O7P</formula>
+        <description>3-Phospho-D-glycerate</description>
+    </metabolite>
+    <metabolite>
+        <name>3sala[c]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>3sala[m]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mop[c]</name>
+        <formula>C6H9O3</formula>
+        <description>4-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mop[m]</name>
+        <formula>C6H9O3</formula>
+        <description>4-methyl-2-oxopentanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mptnl[c]</name>
+        <formula>C6H12O</formula>
+        <description>4-methylpentanal</description>
+    </metabolite>
+    <metabolite>
+        <name>4mptnl[m]</name>
+        <formula>C6H12O</formula>
+        <description>4-methylpentanal</description>
+    </metabolite>
+    <metabolite>
+        <name>56dthm[c]</name>
+        <formula>C5H8N2O2</formula>
+        <description>5,6-dihydrothymine</description>
+    </metabolite>
+    <metabolite>
+        <name>56dthm[m]</name>
+        <formula>C5H8N2O2</formula>
+        <description>5,6-dihydrothymine</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[c]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[m]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[c]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[m]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[c]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[m]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[c]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[m]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[c]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[m]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00319[c]</name>
+        <formula>C3H2O4</formula>
+        <description>Malonate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00319[m]</name>
+        <formula>C3H2O4</formula>
+        <description>Malonate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00342[c]</name>
+        <formula>C6H3O6</formula>
+        <description>cis-aconitate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00342[m]</name>
+        <formula>C6H3O6</formula>
+        <description>cis-aconitate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01007[c]</name>
+        <formula>C15H29NO4</formula>
+        <description>L-Octanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01007[m]</name>
+        <formula>C15H29NO4</formula>
+        <description>L-Octanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02110[r]</name>
+        <formula>C28H46O</formula>
+        <description>4alpha-Methylzymosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02147[c]</name>
+        <formula></formula>
+        <description>L-Oleoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02147[m]</name>
+        <formula></formula>
+        <description>L-Oleoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02149[c]</name>
+        <formula>C10H19NO4</formula>
+        <description>O-Propanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02149[m]</name>
+        <formula>C10H19NO4</formula>
+        <description>O-Propanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02150[c]</name>
+        <formula></formula>
+        <description>O-Butanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02150[m]</name>
+        <formula></formula>
+        <description>O-Butanoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10852[c]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>palmitoleyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10852[m]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>palmitoleyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10854[c]</name>
+        <formula></formula>
+        <description>palmitoleoyl-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10854[m]</name>
+        <formula></formula>
+        <description>palmitoleoyl-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[c]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[m]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp6sa[c]</name>
+        <formula>C6H11NO3</formula>
+        <description>L-allysine</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp6sa[m]</name>
+        <formula>C6H11NO3</formula>
+        <description>L-allysine</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp[c]</name>
+        <formula>C6H10NO4</formula>
+        <description>L-2-aminoadipate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp[m]</name>
+        <formula>C6H10NO4</formula>
+        <description>L-2-aminoadipate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Nacasp[c]</name>
+        <formula>C6H7NO5</formula>
+        <description>N-acetyl-L-aspartate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Nacasp[m]</name>
+        <formula>C6H7NO5</formula>
+        <description>N-acetyl-L-aspartate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>aact[c]</name>
+        <formula>C3H8NO</formula>
+        <description>ammonioacetone</description>
+    </metabolite>
+    <metabolite>
+        <name>aact[m]</name>
+        <formula>C3H8NO</formula>
+        <description>ammonioacetone</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[m]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[c]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[m]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[m]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>acetone[c]</name>
+        <formula>C3H6O</formula>
+        <description>acetone</description>
+    </metabolite>
+    <metabolite>
+        <name>acetone[e]</name>
+        <formula>C3H6O</formula>
+        <description>acetone</description>
+    </metabolite>
+    <metabolite>
+        <name>acetone[m]</name>
+        <formula>C3H6O</formula>
+        <description>acetone</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[c]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[m]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[m]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[m]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_B[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>beta-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_B[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>beta-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>aldstrn[c]</name>
+        <formula>C21H28O5</formula>
+        <description>aldosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>aldstrn[m]</name>
+        <formula>C21H28O5</formula>
+        <description>aldosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[m]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcrn[c]</name>
+        <formula>C27H45NO4</formula>
+        <description>C20:4 carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcrn[x]</name>
+        <formula>C27H45NO4</formula>
+        <description>C20:4 carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[c]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[m]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[c]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[m]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[c]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[m]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>bhb[c]</name>
+        <formula>C4H7O3</formula>
+        <description>(R)-3-hydroxybutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>bhb[m]</name>
+        <formula>C4H7O3</formula>
+        <description>(R)-3-hydroxybutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[c]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[m]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>but[c]</name>
+        <formula>C4H7O2</formula>
+        <description>butyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>but[m]</name>
+        <formula>C4H7O2</formula>
+        <description>butyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>c4crn[c]</name>
+        <formula>C11H21NO4</formula>
+        <description>butyryl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>c4crn[m]</name>
+        <formula>C11H21NO4</formula>
+        <description>butyryl carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>cbl2[c]</name>
+        <formula>C62H92CoN13O14P</formula>
+        <description>Cob(II)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>cbl2[m]</name>
+        <formula>C62H92CoN13O14P</formula>
+        <description>Cob(II)alamin</description>
+    </metabolite>
+    <metabolite>
+        <name>cca_d3[c]</name>
+        <formula>C22H33O4</formula>
+        <description>Calcitroic acid (D3)</description>
+    </metabolite>
+    <metabolite>
+        <name>cca_d3[m]</name>
+        <formula>C22H33O4</formula>
+        <description>Calcitroic acid (D3)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpdag_hs[c]</name>
+        <formula>C12H17N3O11P2FULLRCO2FULLR2CO2</formula>
+        <description>CDP-diacylglycerol(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpdag_hs[m]</name>
+        <formula>C12H17N3O11P2FULLRCO2FULLR2CO2</formula>
+        <description>CDP-diacylglycerol(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[c]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[m]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[l]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[m]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>cit[c]</name>
+        <formula>C6H5O7</formula>
+        <description>Citrate</description>
+    </metabolite>
+    <metabolite>
+        <name>cit[m]</name>
+        <formula>C6H5O7</formula>
+        <description>Citrate</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[c]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[m]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[c]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[m]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[x]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[c]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[m]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtstrn[c]</name>
+        <formula>C21H30O4</formula>
+        <description>corticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>crtstrn[m]</name>
+        <formula>C21H30O4</formula>
+        <description>corticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>cyan[c]</name>
+        <formula>CHN</formula>
+        <description>hydrogen cyanide</description>
+    </metabolite>
+    <metabolite>
+        <name>cyan[m]</name>
+        <formula>CHN</formula>
+        <description>hydrogen cyanide</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[m]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[c]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[m]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[c]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[m]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[c]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[m]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[c]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcdp[m]</name>
+        <formula>C9H12N3O10P2</formula>
+        <description>dCDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[c]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dctp[m]</name>
+        <formula>C9H12N3O13P3</formula>
+        <description>dCTP</description>
+    </metabolite>
+    <metabolite>
+        <name>decdp[c]</name>
+        <formula>C50H81O7P2</formula>
+        <description>all trans Decaprenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>decdp[m]</name>
+        <formula>C50H81O7P2</formula>
+        <description>all trans Decaprenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgdp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>dGDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[m]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[m]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[c]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[m]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[c]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[m]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dmgly[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>N,N-dimethylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>dmgly[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>N,N-dimethylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[c]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[m]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[c]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[m]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[c]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[m]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[c]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dudp[m]</name>
+        <formula>C9H11N2O11P2</formula>
+        <description>dUDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[c]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[m]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[c]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[m]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[c]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>fe2[m]</name>
+        <formula>Fe</formula>
+        <description>Fe2+</description>
+    </metabolite>
+    <metabolite>
+        <name>fol[c]</name>
+        <formula>C19H18N7O6</formula>
+        <description>Folate</description>
+    </metabolite>
+    <metabolite>
+        <name>fol[m]</name>
+        <formula>C19H18N7O6</formula>
+        <description>Folate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[m]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[c]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[m]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[m]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[m]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5sa[c]</name>
+        <formula>C5H9NO3</formula>
+        <description>L-Glutamate 5-semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5sa[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>L-Glutamate 5-semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[c]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[m]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[m]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyb[c]</name>
+        <formula>C5H11NO2</formula>
+        <description>glycine betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyb[m]</name>
+        <formula>C5H11NO2</formula>
+        <description>glycine betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[c]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[m]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[c]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[m]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[c]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[m]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[m]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hco3[c]</name>
+        <formula>CHO3</formula>
+        <description>Bicarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>hco3[m]</name>
+        <formula>CHO3</formula>
+        <description>Bicarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[c]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[m]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[c]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[m]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[c]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>icit[m]</name>
+        <formula>C6H5O7</formula>
+        <description>Isocitrate</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[m]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[c]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[m]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_D[c]</name>
+        <formula>C3H5O3</formula>
+        <description>(R)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_D[m]</name>
+        <formula>C3H5O3</formula>
+        <description>(R)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[c]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[m]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[m]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[m]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[c]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[m]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[c]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[m]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[m]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[c]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>o2s[m]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>occoa[c]</name>
+        <formula>C29H46N7O17P3S</formula>
+        <description>Octanoyl-CoA (n-C8:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>occoa[m]</name>
+        <formula>C29H46N7O17P3S</formula>
+        <description>Octanoyl-CoA (n-C8:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[c]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[m]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[c]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[m]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[c]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>oxa[m]</name>
+        <formula>C2O4</formula>
+        <description>oxalate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[m]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[c]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[m]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pep[c]</name>
+        <formula>C3H2O6P</formula>
+        <description>Phosphoenolpyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pep[m]</name>
+        <formula>C3H2O6P</formula>
+        <description>Phosphoenolpyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[c]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[m]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>pheme[c]</name>
+        <formula>C34H30FeN4O4</formula>
+        <description>Protoheme</description>
+    </metabolite>
+    <metabolite>
+        <name>pheme[m]</name>
+        <formula>C34H30FeN4O4</formula>
+        <description>Protoheme</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[c]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[m]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[c]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[m]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[m]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[c]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[m]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[c]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[m]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[c]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[m]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[c]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[m]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptth[c]</name>
+        <formula>C11H22N2O4S</formula>
+        <description>pantetheine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptth[m]</name>
+        <formula>C11H22N2O4S</formula>
+        <description>pantetheine</description>
+    </metabolite>
+    <metabolite>
+        <name>pyam5p[c]</name>
+        <formula>C8H12N2O5P</formula>
+        <description>Pyridoxamine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyam5p[m]</name>
+        <formula>C8H12N2O5P</formula>
+        <description>Pyridoxamine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pydx5p[c]</name>
+        <formula>C8H8NO6P</formula>
+        <description>Pyridoxal 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pydx5p[m]</name>
+        <formula>C8H8NO6P</formula>
+        <description>Pyridoxal 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[c]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[c]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[m]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>sarcs[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>Sarcosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[m]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>so3[c]</name>
+        <formula>O3S</formula>
+        <description>Sulfite</description>
+    </metabolite>
+    <metabolite>
+        <name>so3[m]</name>
+        <formula>O3S</formula>
+        <description>Sulfite</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[m]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[c]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[m]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>tcynt[c]</name>
+        <formula>CNS</formula>
+        <description>thiocyanate</description>
+    </metabolite>
+    <metabolite>
+        <name>tcynt[m]</name>
+        <formula>CNS</formula>
+        <description>thiocyanate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[m]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thm[c]</name>
+        <formula>C12H17N4OS</formula>
+        <description>Thiamin</description>
+    </metabolite>
+    <metabolite>
+        <name>thm[m]</name>
+        <formula>C12H17N4OS</formula>
+        <description>Thiamin</description>
+    </metabolite>
+    <metabolite>
+        <name>thmmp[c]</name>
+        <formula>C12H16N4O4PS</formula>
+        <description>Thiamin monophosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmmp[m]</name>
+        <formula>C12H16N4O4PS</formula>
+        <description>Thiamin monophosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmpp[c]</name>
+        <formula>C12H16N4O7P2S</formula>
+        <description>Thiamine diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmpp[m]</name>
+        <formula>C12H16N4O7P2S</formula>
+        <description>Thiamine diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thr_L[c]</name>
+        <formula>C4H9NO3</formula>
+        <description>L-threonine</description>
+    </metabolite>
+    <metabolite>
+        <name>thr_L[m]</name>
+        <formula>C4H9NO3</formula>
+        <description>L-threonine</description>
+    </metabolite>
+    <metabolite>
+        <name>thym[c]</name>
+        <formula>C5H6N2O2</formula>
+        <description>Thymine</description>
+    </metabolite>
+    <metabolite>
+        <name>thym[m]</name>
+        <formula>C5H6N2O2</formula>
+        <description>Thymine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[c]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[m]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>trdrd[c]</name>
+        <formula>XH2</formula>
+        <description>Reduced thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>trdrd[m]</name>
+        <formula>XH2</formula>
+        <description>Reduced thioredoxin</description>
+    </metabolite>
+    <metabolite>
+        <name>tsul[c]</name>
+        <formula>O3S2</formula>
+        <description>thiosulfate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>tsul[m]</name>
+        <formula>O3S2</formula>
+        <description>thiosulfate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[m]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[c]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[m]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[c]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[m]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd2[c]</name>
+        <formula>C28H44O</formula>
+        <description>vitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd2[m]</name>
+        <formula>C28H44O</formula>
+        <description>vitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd3[c]</name>
+        <formula>C27H44O</formula>
+        <description>calciol</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd3[m]</name>
+        <formula>C27H44O</formula>
+        <description>calciol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol27oh[m]</name>
+        <formula>C27H46O2</formula>
+        <description>26-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol27oh[r]</name>
+        <formula>C27H46O2</formula>
+        <description>26-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[c]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[m]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah3[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,26-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah3[m]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,26-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[m]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>zymst[r]</name>
+        <formula>C27H44O</formula>
+        <description>zymosterol</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>10FTHF5GLUtm</id>
+        <name>5-glutamyl-10FTHF transport, mitochondrial</name>
+        <reactant>10fthf5glu[m]</reactant>
+        <product>10fthf5glu[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHF6GLUtm</id>
+        <name>6-glutamyl-10FTHF transport, mitochondrial</name>
+        <reactant>10fthf6glu[m]</reactant>
+        <product>10fthf6glu[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHF7GLUtm</id>
+        <name>7-glutamyl-10FTHF transport, mitochondrial</name>
+        <reactant>10fthf7glu[m]</reactant>
+        <product>10fthf7glu[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHFtm</id>
+        <name>10-Formyltetrahydrofolate mitochondrial transport via diffusion</name>
+        <reactant>10fthf[c]</reactant>
+        <product>10fthf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>11DOCRTSLtm</id>
+        <name>11-deoxycortisol intracellular transport</name>
+        <reactant>11docrtsl[c]</reactant>
+        <product>11docrtsl[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>11DOCRTSTRNtm</id>
+        <name>11-deoxycorticosterone intracellular transport</name>
+        <reactant>11docrtstrn[c]</reactant>
+        <product>11docrtstrn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>24_25DHVITD2tm</id>
+        <name>24,25-Dihydroxyvitamin D2 transport from mitochondria</name>
+        <reactant>2425dhvitd2[m]</reactant>
+        <product>2425dhvitd2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>24_25DHVITD3tm</id>
+        <name>24,25-Dihydroxyvitamin D3 transport from mitochondria</name>
+        <reactant>2425dhvitd3[m]</reactant>
+        <product>2425dhvitd3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>25HVITD2tin_m</id>
+        <name>25-hydroxyvitamin D2 transport in mitochondria</name>
+        <reactant>25hvitd2[c]</reactant>
+        <product>25hvitd2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>25HVITD2tm</id>
+        <name>25-hydroxyvitamin D2 transport from mitochondria</name>
+        <reactant>25hvitd2[m]</reactant>
+        <product>25hvitd2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>25HVITD3tin_m</id>
+        <name>25-hydroxyvitamin D3 transport in mitochondria</name>
+        <reactant>25hvitd3[c]</reactant>
+        <product>25hvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>25HVITD3tm</id>
+        <name>25-hydroxyvitamin D3 transport from mitochondria</name>
+        <reactant>25hvitd3[m]</reactant>
+        <product>25hvitd3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>3AIBtm</id>
+        <name>3-amino-isobutyrate transport, mitochondrial</name>
+        <reactant>3aib[m]</reactant>
+        <product>3aib[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>3MOBt2im</id>
+        <name>3-methyl-2-oxobutanoate mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>3mob[c]</reactant>
+        <product>h[m]</product>
+        <product>3mob[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>3MOPt2im</id>
+        <name>3-Methyl-2-oxopentanoate mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>3mop[c]</reactant>
+        <product>h[m]</product>
+        <product>3mop[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SALAASPm</id>
+        <name>cysteinesulfinate-aspartate mitochondrial shuttle</name>
+        <reactant>3sala[m]</reactant>
+        <reactant>asp_L[c]</reactant>
+        <product>3sala[c]</product>
+        <product>asp_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>4ABUTtm</id>
+        <name>4-aminobutanoate mitochondrial transport via diffusion</name>
+        <reactant>4abut[c]</reactant>
+        <product>4abut[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>4MOPt2im</id>
+        <name>4-methyl-2-oxopentanoate mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>4mop[c]</reactant>
+        <product>h[m]</product>
+        <product>4mop[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>4MPTNLtm</id>
+        <name>4-methylpentanal transport (mitochondria)</name>
+        <reactant>4mptnl[c]</reactant>
+        <product>4mptnl[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>5THFtm</id>
+        <name>5-glutamyl-THF transport,m mitochondrial</name>
+        <reactant>5thf[m]</reactant>
+        <product>5thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>6DHFtm</id>
+        <name>6-glutamyl-DHF transport,m mitochondrial</name>
+        <reactant>6dhf[m]</reactant>
+        <product>6dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>6THFtm</id>
+        <name>6-glutamyl-THF transport,m mitochondrial</name>
+        <reactant>6thf[m]</reactant>
+        <product>6thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>7DHFtm</id>
+        <name>7-glutamyl-DHF transport,m mitochondrial</name>
+        <reactant>7dhf[m]</reactant>
+        <product>7dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>7THFtm</id>
+        <name>7-glutamyl-THF transport,m mitochondrial</name>
+        <reactant>7thf[m]</reactant>
+        <product>7thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>AACTtm</id>
+        <name>Aminoacetone transport (mitochondrial)</name>
+        <reactant>aact[m]</reactant>
+        <product>aact[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACACt2m</id>
+        <name>Acetoacetate mitochondrial transport via H+ symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>acac[c]</reactant>
+        <product>h[m]</product>
+        <product>acac[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACALDtm</id>
+        <name>acetaldehyde mitochondrial diffusion</name>
+        <reactant>acald[m]</reactant>
+        <product>acald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACETONEt2m</id>
+        <name>acetone mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>acetone[c]</reactant>
+        <product>h[m]</product>
+        <product>acetone[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACRNtm</id>
+        <name>O-acetylcarnintine transport into mitochondria via diffusion</name>
+        <reactant>acrn[c]</reactant>
+        <product>acrn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACt2m</id>
+        <name>acetate mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>ac[c]</reactant>
+        <product>h[m]</product>
+        <product>ac[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNtm</id>
+        <name>adenosine facilated transport in mitochondria</name>
+        <reactant>adn[c]</reactant>
+        <product>adn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKGMALtm</id>
+        <name>alpha-ketoglutarate/malate transporter</name>
+        <reactant>akg[m]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>akg[c]</product>
+        <product>mal_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALDSTRNtm</id>
+        <name>aldosterone intracellular transport</name>
+        <reactant>aldstrn[c]</reactant>
+        <product>aldstrn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMETt2m</id>
+        <name>S-Adenosyl-L-methionine reversible transport, mitochondrial</name>
+        <reactant>amet[c]</reactant>
+        <reactant>ahcys[m]</reactant>
+        <product>ahcys[c]</product>
+        <product>amet[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARGtm</id>
+        <name>arginine mitochondrial transport via ornithine carrier</name>
+        <reactant>h[m]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>h[c]</product>
+        <product>arg_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ASNtm</id>
+        <name>L-asparagine transport, mitochondrial</name>
+        <reactant>asn_L[c]</reactant>
+        <product>asn_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ASPGLUm</id>
+        <name>aspartate-glutamate mitochondrial shuttle</name>
+        <reactant>h[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>asp_L[m]</reactant>
+        <product>h[m]</product>
+        <product>glu_L[m]</product>
+        <product>asp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPtm</id>
+        <name>ADP/ATP transporter, mitochondrial</name>
+        <reactant>adp[c]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>atp[c]</product>
+        <product>adp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>BALAtmr</id>
+        <name>Beta-alanine reversible mitochondrial transport (diffusion)</name>
+        <reactant>ala_B[c]</reactant>
+        <product>ala_B[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>BHBtm</id>
+        <name>(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>bhb[c]</reactant>
+        <product>h[m]</product>
+        <product>bhb[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNt2m</id>
+        <name>Biotin reversible transport via proton symport, mitochondria</name>
+        <reactant>h[c]</reactant>
+        <reactant>btn[c]</reactant>
+        <product>h[m]</product>
+        <product>btn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>BUTt2m</id>
+        <name>Butyrate mitochondrial transport via proton symport, reversible</name>
+        <reactant>h[c]</reactant>
+        <reactant>but[c]</reactant>
+        <product>h[m]</product>
+        <product>but[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBL2tm</id>
+        <name>Cob(II)alamine transport, mitochondrial</name>
+        <reactant>cbl2[c]</reactant>
+        <product>cbl2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CCA_D3tm</id>
+        <name>Calcitroic acid transport from mitochondria</name>
+        <reactant>cca_d3[m]</reactant>
+        <product>cca_d3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CDPDAGtm</id>
+        <name>intracellular transport</name>
+        <reactant>cdpdag_hs[c]</reactant>
+        <product>cdpdag_hs[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHLtm</id>
+        <name>choline transport via diffusion (cytosol to mitochondria)</name>
+        <reactant>chol[c]</reactant>
+        <product>chol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLt1</id>
+        <name>cholesterol intracellular transport</name>
+        <reactant>chsterol[l]</reactant>
+        <product>chsterol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLt2</id>
+        <name>cholesterol intracellular transport</name>
+        <reactant>chsterol[r]</reactant>
+        <product>chsterol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLt3</id>
+        <name>cholesterol intracellular transport</name>
+        <reactant>chsterol[c]</reactant>
+        <product>chsterol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CITRtm</id>
+        <name>citrulline mitochondrial transport via proton antiport</name>
+        <reactant>citr_L[m]</reactant>
+        <product>citr_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CITtam</id>
+        <name>citrate transport, mitochondrial</name>
+        <reactant>cit[c]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>cit[m]</product>
+        <product>mal_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CITtbm</id>
+        <name>citrate transport, mitochondrial</name>
+        <reactant>cit[c]</reactant>
+        <reactant>pep[m]</reactant>
+        <product>pep[c]</product>
+        <product>cit[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CO2tm</id>
+        <name>CO2 transport (diffusion), mitochondrial</name>
+        <reactant>co2[c]</reactant>
+        <product>co2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtm</id>
+        <name>CoA transporter</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRNtim</id>
+        <name>L-carnitine transport out of mitochondria via diffusion</name>
+        <reactant>crn[m]</reactant>
+        <product>crn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRTSLtm</id>
+        <name>cortisol intracellular transport</name>
+        <reactant>crtsl[c]</reactant>
+        <product>crtsl[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRTSTRNtm</id>
+        <name>corticosterone intracellular transport</name>
+        <reactant>crtstrn[c]</reactant>
+        <product>crtstrn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYANtm</id>
+        <name>Cyanide transport via diffusion (mitochondrial)</name>
+        <reactant>cyan[c]</reactant>
+        <product>cyan[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDtm</id>
+        <name>cytidine facilated transport in mitochondria</name>
+        <reactant>cytd[c]</reactant>
+        <product>cytd[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DECDPtm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>decdp[c]</reactant>
+        <product>decdp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGSNtm</id>
+        <name>deoyguanosine transport in mitochondria</name>
+        <reactant>dgsn[c]</reactant>
+        <product>dgsn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHFtm</id>
+        <name>dihydrofolate reversible mitochondrial transport</name>
+        <reactant>dhf[c]</reactant>
+        <product>dhf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>D_LACtm</id>
+        <name>D-lactate transport, mitochondrial</name>
+        <reactant>h[c]</reactant>
+        <reactant>lac_D[c]</reactant>
+        <product>h[m]</product>
+        <product>lac_D[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DMGtm</id>
+        <name>dimethylglycine transport via diffusion (cytosol to mitochondria)</name>
+        <reactant>dmgly[c]</reactant>
+        <product>dmgly[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt10m</id>
+        <name>dADP transport via dCDP antiport</name>
+        <reactant>dadp[c]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>dcdp[c]</product>
+        <product>dadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt11m</id>
+        <name>dADP transport via dGDP antiport</name>
+        <reactant>dadp[c]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>dgdp[c]</product>
+        <product>dadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt12m</id>
+        <name>dADP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dadp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt13m</id>
+        <name>dADP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dadp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt14m</id>
+        <name>dUDP transport via dTDP antiport</name>
+        <reactant>dtdp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>dtdp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt15m</id>
+        <name>dUDP transport via dGDP antiport</name>
+        <reactant>dgdp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>dgdp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt16m</id>
+        <name>dUDP transport via dADP antiport</name>
+        <reactant>dadp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt17m</id>
+        <name>dUDP transport via dCDP antiport</name>
+        <reactant>dcdp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>dcdp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt18m</id>
+        <name>dUDP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt19m</id>
+        <name>dUDP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dudp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dudp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt1m</id>
+        <name>dATP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>datp[c]</reactant>
+        <product>adp[c]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt20m</id>
+        <name>dTDP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dtdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt21m</id>
+        <name>dTDP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dtdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt22m</id>
+        <name>dTDP transport via dUDP antiport</name>
+        <reactant>dtdp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dtdp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt23m</id>
+        <name>dTDP transport via dGTP antiport</name>
+        <reactant>dgdp[m]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>dgdp[c]</product>
+        <product>dtdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt24m</id>
+        <name>dTDP transport via dADP antiport</name>
+        <reactant>dadp[m]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>dtdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt25m</id>
+        <name>dTDP transport via dCDP antiport</name>
+        <reactant>dcdp[m]</reactant>
+        <reactant>dtdp[c]</reactant>
+        <product>dcdp[c]</product>
+        <product>dtdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt26m</id>
+        <name>dCDP transport via dUDP antiport</name>
+        <reactant>dcdp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dcdp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt27m</id>
+        <name>dCDP transport via dTDP antiport</name>
+        <reactant>dcdp[c]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>dcdp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt28m</id>
+        <name>dCDP transport via dGDP antiport</name>
+        <reactant>dcdp[c]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>dgdp[c]</product>
+        <product>dcdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt29m</id>
+        <name>dCDP transport via dADP antiport</name>
+        <reactant>dcdp[c]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>dadp[c]</product>
+        <product>dcdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt2m</id>
+        <name>dATP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>datp[c]</reactant>
+        <product>atp[c]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt30m</id>
+        <name>dCDP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dcdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dcdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt31m</id>
+        <name>dCDP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dcdp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dcdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt32m</id>
+        <name>dGDP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dgdp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dgdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt33m</id>
+        <name>dGDP transport via dUDP antiport</name>
+        <reactant>dgdp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dgdp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt34m</id>
+        <name>dGDP transport via dTDP antiport</name>
+        <reactant>dgdp[c]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>dgdp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt35m</id>
+        <name>dGDP transport via dADP antiport</name>
+        <reactant>dgdp[c]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>dadp[c]</product>
+        <product>dgdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt36m</id>
+        <name>dGDP transport via dCDP antiport</name>
+        <reactant>dgdp[c]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>dcdp[c]</product>
+        <product>dgdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt37m</id>
+        <name>dUTP transport via dTDP antiport</name>
+        <reactant>dtdp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>dtdp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt38m</id>
+        <name>dUTP transport via dUDP antiport</name>
+        <reactant>dudp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>dudp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt39m</id>
+        <name>dUTP transport via dGDP antiport</name>
+        <reactant>dgdp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>dgdp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt3m</id>
+        <name>dATP transport via dCDP antiport</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>dcdp[c]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt40m</id>
+        <name>dUTP transport via dADP antiport</name>
+        <reactant>dadp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt41m</id>
+        <name>dUTP transport via dCDP antiport</name>
+        <reactant>dcdp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>dcdp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt42m</id>
+        <name>dUTP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt43m</id>
+        <name>dUTP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dutp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt44m</id>
+        <name>dTTP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt45m</id>
+        <name>dTTP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt46m</id>
+        <name>dTTP transport via dUDP antiport</name>
+        <reactant>dudp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>dttp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt47m</id>
+        <name>dTTP transport via dTDP antiport</name>
+        <reactant>dtdp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>dttp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt48m</id>
+        <name>dTTP transport via dGDP antiport</name>
+        <reactant>dgdp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>dgdp[c]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt49m</id>
+        <name>dTTP transport via dADP antiport</name>
+        <reactant>dadp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>dadp[c]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt4m</id>
+        <name>dATP transport via dUDP antiport</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>datp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt50m</id>
+        <name>dTTP transport via dCDP antiport</name>
+        <reactant>dcdp[m]</reactant>
+        <reactant>dttp[c]</reactant>
+        <product>dcdp[c]</product>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt51m</id>
+        <name>dCTP transport via dCDP antiport</name>
+        <reactant>dctp[c]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>dcdp[c]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt52m</id>
+        <name>dCTP transport via dUDP antiport</name>
+        <reactant>dctp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dctp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt53m</id>
+        <name>dCTP transport via dGDP antiport</name>
+        <reactant>dctp[c]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>dgdp[c]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt54m</id>
+        <name>dCTP transport via dADP antiport</name>
+        <reactant>dctp[c]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>dadp[c]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt55m</id>
+        <name>dCTP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dctp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt56m</id>
+        <name>dCTP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dctp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt57m</id>
+        <name>dGTP transport via ATP antiport</name>
+        <reactant>atp[m]</reactant>
+        <reactant>dgtp[c]</reactant>
+        <product>atp[c]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt58m</id>
+        <name>dGTP transport via ADP antiport</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dgtp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt59m</id>
+        <name>dGTP transport via dADP antiport</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>dadp[c]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt5m</id>
+        <name>dATP transport via dTDP antiport</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>datp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt60m</id>
+        <name>dGTP transport via dUDP antiport</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dgtp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt61m</id>
+        <name>dGTP transport via dTDP antiport</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>dgtp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt62m</id>
+        <name>dGTP transport via dGDP antiport</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>dgdp[c]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt63m</id>
+        <name>dGTP transport via dCDP antiport</name>
+        <reactant>dgtp[c]</reactant>
+        <reactant>dcdp[m]</reactant>
+        <product>dcdp[c]</product>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt6m</id>
+        <name>dATP transport via dGDP antiport</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dgdp[m]</reactant>
+        <product>dgdp[c]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt7m</id>
+        <name>dATP transport via dADP antiport</name>
+        <reactant>datp[c]</reactant>
+        <reactant>dadp[m]</reactant>
+        <product>dadp[c]</product>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt8m</id>
+        <name>dADP transport via dUDP antiport</name>
+        <reactant>dadp[c]</reactant>
+        <reactant>dudp[m]</reactant>
+        <product>dadp[m]</product>
+        <product>dudp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DNDPt9m</id>
+        <name>dADP transport via dTDP antiport</name>
+        <reactant>dadp[c]</reactant>
+        <reactant>dtdp[m]</reactant>
+        <product>dadp[m]</product>
+        <product>dtdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FALDtm</id>
+        <name>formaldehyde transport via diffusion (mitochondrial)</name>
+        <reactant>fald[m]</reactant>
+        <product>fald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FE2tm</id>
+        <name>iron (II) transport</name>
+        <reactant>h[c]</reactant>
+        <reactant>fe2[c]</reactant>
+        <product>h[m]</product>
+        <product>fe2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FORt2m</id>
+        <name>formate mitochondrial transport</name>
+        <reactant>for[m]</reactant>
+        <product>for[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMSO3tm</id>
+        <name>Fumarate:sulfite antiport, mitochondrial</name>
+        <reactant>so3[m]</reactant>
+        <reactant>fum[c]</reactant>
+        <product>so3[c]</product>
+        <product>fum[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMSO4tm</id>
+        <name>Fumarate:sulfate antiport, mitochondrial</name>
+        <reactant>fum[c]</reactant>
+        <reactant>so4[m]</reactant>
+        <product>fum[m]</product>
+        <product>so4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMtm</id>
+        <name>fumarate transport, mitochondrial</name>
+        <reactant>pi[m]</reactant>
+        <reactant>fum[c]</reactant>
+        <product>pi[c]</product>
+        <product>fum[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMTSULtm</id>
+        <name>Fumarate:thiosulfate antiport, mitochondrial</name>
+        <reactant>fum[c]</reactant>
+        <reactant>tsul[m]</reactant>
+        <product>fum[m]</product>
+        <product>tsul[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLNtm</id>
+        <name>L-glutamine transport via electroneutral transporter</name>
+        <reactant>gln_L[c]</reactant>
+        <product>gln_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUt2m</id>
+        <name>L-glutamate reversible transport via proton symport, mitochondrial</name>
+        <reactant>h[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <product>h[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLXtm</id>
+        <name>glyoxylate transport, mitochondrial</name>
+        <reactant>glx[c]</reactant>
+        <product>glx[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYBtm</id>
+        <name>Glycine betaine transport via diffusion (mitochondria to cytosol)</name>
+        <reactant>glyb[m]</reactant>
+        <product>glyb[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYC3Ptm</id>
+        <name>glycerol-3-phosphate shuttle</name>
+        <reactant>glyc3p[c]</reactant>
+        <product>glyc3p[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYCtm</id>
+        <name>glycerol transport</name>
+        <reactant>glyc[c]</reactant>
+        <product>glyc[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYtm</id>
+        <name>glycine passive transport to mitochondria</name>
+        <reactant>gly[c]</reactant>
+        <product>gly[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GSNtm</id>
+        <name>guanosine facilated transport in mitochondria</name>
+        <reactant>gsn[c]</reactant>
+        <product>gsn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2O2tm</id>
+        <name>hydrogen peroxide mitochondrial transport</name>
+        <reactant>h2o2[c]</reactant>
+        <product>h2o2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Otm</id>
+        <name>H2O transport, mitochondrial</name>
+        <reactant>h2o[c]</reactant>
+        <product>h2o[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOAtm</id>
+        <name>Hydroxymethylglutaryl-CoA reversible mitochondrial transport</name>
+        <reactant>hmgcoa[c]</reactant>
+        <product>hmgcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>Htm</id>
+        <name>Uncoupling protein</name>
+        <reactant>h[c]</reactant>
+        <product>h[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ILEt5m</id>
+        <name>Isoleucine mitochondrial transport</name>
+        <reactant>ile_L[c]</reactant>
+        <product>ile_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>INStm</id>
+        <name>inosine facilated transport in mitochondria</name>
+        <reactant>ins[c]</reactant>
+        <product>ins[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUt5m</id>
+        <name>leucine mitochondrial transport</name>
+        <reactant>leu_L[c]</reactant>
+        <product>leu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>L_LACtcm</id>
+        <name>L-lactate transport via diffusion (cytosol to mitochondria)</name>
+        <reactant>lac_L[c]</reactant>
+        <product>lac_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>L_LACtm</id>
+        <name>L-lactate transport, mitochondrial</name>
+        <reactant>h[c]</reactant>
+        <reactant>lac_L[c]</reactant>
+        <product>h[m]</product>
+        <product>lac_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYStm</id>
+        <name>Lysine mitochondrial transport via ornithine carrier</name>
+        <reactant>h[m]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <product>h[c]</product>
+        <product>lys_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>MALSO3tm</id>
+        <name>Malate:sulfite antiport, mitochondrial</name>
+        <reactant>so3[m]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>so3[c]</product>
+        <product>mal_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>MALSO4tm</id>
+        <name>Malate:sulfate antiport, mitochondrial</name>
+        <reactant>mal_L[c]</reactant>
+        <reactant>so4[m]</reactant>
+        <product>mal_L[m]</product>
+        <product>so4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>MALtm</id>
+        <name>malate transport, mitochondrial</name>
+        <reactant>pi[m]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>pi[c]</product>
+        <product>mal_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>MALTSULtm</id>
+        <name>Malate:thiosulfate antiport, mitochondrial</name>
+        <reactant>mal_L[c]</reactant>
+        <reactant>tsul[m]</reactant>
+        <product>mal_L[m]</product>
+        <product>tsul[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACASPtm</id>
+        <name>N-acetyl-L-aspartate transport (mitochondria to cytosol)</name>
+        <reactant>Nacasp[m]</reactant>
+        <product>Nacasp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2Stm</id>
+        <name>superoxide anion transport via diffusion (mitochondria)</name>
+        <reactant>o2s[c]</reactant>
+        <product>o2s[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2tm</id>
+        <name>O2 transport (diffusion)</name>
+        <reactant>o2[c]</reactant>
+        <product>o2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>OCCOAtm</id>
+        <name>Octanoyl-CoA transport, diffusion</name>
+        <reactant>occoa[c]</reactant>
+        <product>occoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORNt3m</id>
+        <name>ornithine mitochondrial transport via proton antiport</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORNt4m</id>
+        <name>ornithine mitochondrial transport exchange with citruline</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCFLOPm</id>
+        <name>phosphatidylcholine flippase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>pchol_hs[m]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>pchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PE_HStm</id>
+        <name>phosphatidylethanolamine scramblase</name>
+        <reactant>pe_hs[c]</reactant>
+        <product>pe_hs[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PEFLIPm</id>
+        <name>phosphatidylethanolamine flippase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>pe_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>pe_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHEMEtm</id>
+        <name>Heme transport to cytosol</name>
+        <reactant>pheme[m]</reactant>
+        <product>pheme[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIt2m</id>
+        <name>phosphate transporter, mitochondrial</name>
+        <reactant>h[c]</reactant>
+        <reactant>pi[c]</reactant>
+        <product>h[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPAtm</id>
+        <name>Propionate transport, diffusion</name>
+        <reactant>ppa[c]</reactant>
+        <product>ppa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRGNLONEtm</id>
+        <name>pregnenolone intracellular transport</name>
+        <reactant>prgnlone[c]</reactant>
+        <product>prgnlone[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROtm</id>
+        <name>L-proline transport, mitochondrial</name>
+        <reactant>pro_L[c]</reactant>
+        <product>pro_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSFLIPm</id>
+        <name>phosphatidylserine flippase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>ps_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>ps_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYAM5Ptm</id>
+        <name>Pyridoxamine 5&apos;-phosphate transport via diffusion, mitochondrial</name>
+        <reactant>pyam5p[c]</reactant>
+        <product>pyam5p[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYDX5Ptm</id>
+        <name>Pyridoxal 5&apos;-phosphate transport via diffusion, mitochondrial</name>
+        <reactant>pydx5p[c]</reactant>
+        <product>pydx5p[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYRt2m</id>
+        <name>pyruvate mitochondrial transport via proton symport</name>
+        <reactant>h[c]</reactant>
+        <reactant>pyr[c]</reactant>
+        <product>h[m]</product>
+        <product>pyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>SARCStm</id>
+        <name>Sarcosine transport (mitochondrial)</name>
+        <reactant>sarcs[c]</reactant>
+        <product>sarcs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>SUCCt2m</id>
+        <name>succinate transport, mitochondrial</name>
+        <reactant>pi[m]</reactant>
+        <reactant>succ[c]</reactant>
+        <product>pi[c]</product>
+        <product>succ[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>TCYNTtm</id>
+        <name>Thiocyanate transport via diffusion (mitochondrial)</name>
+        <reactant>tcynt[m]</reactant>
+        <product>tcynt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>THFtm</id>
+        <name>5,6,7,8-Tetrahydrofolate transport, diffusion, mitochondrial</name>
+        <reactant>thf[c]</reactant>
+        <product>thf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>THMMPtm</id>
+        <name>Thiamine monophosphate transport, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>thmmp[c]</reactant>
+        <product>h2o[c]</product>
+        <product>thmmp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>THMPPtm</id>
+        <name>Thiamine diphosphate transport in via anion antiport, mitochondria</name>
+        <reactant>2 h2o[m]</reactant>
+        <reactant>thmpp[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>thmpp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>THMt2m</id>
+        <name>Thiamine transport in via proton symport, mitochondrial</name>
+        <reactant>h[c]</reactant>
+        <reactant>thm[c]</reactant>
+        <product>h[m]</product>
+        <product>thm[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>THYMDtm</id>
+        <name>thymd transport</name>
+        <reactant>thymd[c]</reactant>
+        <product>thymd[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>Uritm</id>
+        <name>uridine facilated transport in mitochondria</name>
+        <reactant>uri[c]</reactant>
+        <product>uri[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>VALt5m</id>
+        <name>Valine reversible mitochondrial transport</name>
+        <reactant>val_L[c]</reactant>
+        <product>val_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>VITD2tm</id>
+        <name>Vitamin D2 transport from mitochondria</name>
+        <reactant>vitd2[m]</reactant>
+        <product>vitd2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>VITD3tm</id>
+        <name>Vitamin D3 transport from mitochondria</name>
+        <reactant>vitd3[m]</reactant>
+        <product>vitd3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>VITD3tm3</id>
+        <name>Vitamin D3 transport in mitochondria</name>
+        <reactant>vitd3[c]</reactant>
+        <product>vitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOL27OHtm</id>
+        <name>27 hydroxy cholesterol transport</name>
+        <reactant>xol27oh[r]</reactant>
+        <product>xol27oh[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOL7AH2tm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xol7ah2[c]</reactant>
+        <product>xol7ah2[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLTRIOLtm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xoltriol[c]</reactant>
+        <product>xoltriol[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0801</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.21.1</name>
+        <reactant>gtp[c]</reactant>
+        <reactant>gdp[m]</reactant>
+        <product>gdp[c]</product>
+        <product>gtp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0819</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>akg[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>akg[m]</product>
+        <product>succ[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0821</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>fum[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>succ[c]</product>
+        <product>fum[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0822</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>fum[c]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>mal_L[c]</product>
+        <product>fum[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0829</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>succ[c]</reactant>
+        <reactant>so4[m]</reactant>
+        <product>so4[c]</product>
+        <product>succ[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0830</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>so3[m]</reactant>
+        <reactant>succ[c]</reactant>
+        <product>so3[c]</product>
+        <product>succ[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0834</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>pi[m]</reactant>
+        <reactant>HC00319[c]</reactant>
+        <product>pi[c]</product>
+        <product>HC00319[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0835</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>so4[m]</reactant>
+        <reactant>HC00319[c]</reactant>
+        <product>so4[c]</product>
+        <product>HC00319[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0836</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.2</name>
+        <reactant>so3[m]</reactant>
+        <reactant>HC00319[c]</reactant>
+        <product>so3[c]</product>
+        <product>HC00319[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0838</id>
+        <name>Free diffusion</name>
+        <reactant>nh4[c]</reactant>
+        <product>nh4[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0885</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.7</name>
+        <reactant>pi[m]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>pi[c]</product>
+        <product>gthrd[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0907</id>
+        <name>Active transport</name>
+        <reactant>ptrc[m]</reactant>
+        <product>ptrc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0911</id>
+        <name>Facilitated diffusion</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>pro_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>pro_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0913</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>icit[m]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>icit[c]</product>
+        <product>mal_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0915</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>cit[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>cit[m]</product>
+        <product>succ[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0917</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>cit[c]</reactant>
+        <reactant>icit[m]</reactant>
+        <product>icit[c]</product>
+        <product>cit[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0921</id>
+        <name>Postulated transport reaction</name>
+        <reactant>thym[c]</reactant>
+        <product>thym[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0926</id>
+        <name>Postulated transport reaction</name>
+        <reactant>3pg[m]</reactant>
+        <product>3pg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0927</id>
+        <name>Free diffusion</name>
+        <reactant>acetone[m]</reactant>
+        <product>acetone[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0941</id>
+        <name>Free diffusion</name>
+        <reactant>hco3[c]</reactant>
+        <product>hco3[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0947</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>orn[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>orn[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0950</id>
+        <name>Facilitated diffusion</name>
+        <reactant>dgmp[m]</reactant>
+        <product>dgmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0962</id>
+        <name>Facilitated diffusion</name>
+        <reactant>fol[c]</reactant>
+        <product>fol[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0973</id>
+        <name>Facilitated diffusion</name>
+        <reactant>ptth[m]</reactant>
+        <product>ptth[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0975</id>
+        <name>Facilitated diffusion</name>
+        <reactant>56dthm[m]</reactant>
+        <product>56dthm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1001</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10854[m]</reactant>
+        <product>crn[m]</product>
+        <product>HC10854[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1005</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10859[m]</reactant>
+        <product>crn[m]</product>
+        <product>HC10859[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1008</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>arachdcrn[x]</reactant>
+        <product>arachdcrn[c]</product>
+        <product>crn[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1020</id>
+        <name>Postulated transport reaction</name>
+        <reactant>xol7ah3[m]</reactant>
+        <product>xol7ah3[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1021</id>
+        <name>Postulated transport reaction</name>
+        <reactant>dhcholoylcoa[m]</reactant>
+        <product>dhcholoylcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1078</id>
+        <name>Vesicular transport</name>
+        <reactant>tyr_L[c]</reactant>
+        <product>tyr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1117</id>
+        <name>Facilitated diffusion</name>
+        <reactant>dtmp[c]</reactant>
+        <product>dtmp[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1146</id>
+        <name>Biosynthesis of steroids Enzyme catalyzed</name>
+        <reactant>2 h2o[r]</reactant>
+        <reactant>HC02110[r]</reactant>
+        <product>co2[r]</product>
+        <product>zymst[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1155</id>
+        <name>TCDB:2.A.1.13.5 TCDB:2.A.1.13.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>2obut[c]</reactant>
+        <product>h[m]</product>
+        <product>2obut[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1291</id>
+        <name>Postulated transport reaction</name>
+        <reactant>ppcoa[c]</reactant>
+        <product>ppcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1427</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1434</id>
+        <name>Transport reaction</name>
+        <reactant>ala_L[c]</reactant>
+        <product>ala_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1435</id>
+        <name>Transport reaction</name>
+        <reactant>ser_L[c]</reactant>
+        <product>ser_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1436</id>
+        <name>Transport reaction</name>
+        <reactant>met_L[c]</reactant>
+        <product>met_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1437</id>
+        <name>Transport reaction</name>
+        <reactant>cys_L[c]</reactant>
+        <product>cys_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1440</id>
+        <name>Transport reaction</name>
+        <reactant>thr_L[c]</reactant>
+        <product>thr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1441</id>
+        <name>Active transport</name>
+        <reactant>trdrd[c]</reactant>
+        <product>trdrd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1454</id>
+        <name>TCDB:2.A.1.13.5 TCDB:2.A.1.13.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>2obut[m]</reactant>
+        <product>h[m]</product>
+        <product>2obut[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1455</id>
+        <name>Transport reaction</name>
+        <reactant>h[c]</reactant>
+        <reactant>phe_L[c]</reactant>
+        <product>h[m]</product>
+        <product>phe_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1456</id>
+        <name>Transport reaction</name>
+        <reactant>h[c]</reactant>
+        <reactant>phe_L[m]</reactant>
+        <product>h[m]</product>
+        <product>phe_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1464</id>
+        <name>Active transport</name>
+        <reactant>pyr[m]</reactant>
+        <reactant>acac[c]</reactant>
+        <product>pyr[c]</product>
+        <product>acac[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1467</id>
+        <name>Postulated transport reaction</name>
+        <reactant>odecoa[c]</reactant>
+        <product>odecoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1468</id>
+        <name>Postulated transport reaction</name>
+        <reactant>HC10852[c]</reactant>
+        <product>HC10852[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2371</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>cit[m]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <product>cit[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2372</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>icit[m]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <product>icit[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2373</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>akg[c]</reactant>
+        <reactant>cit[m]</reactant>
+        <product>akg[m]</product>
+        <product>cit[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2374</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>cit[m]</reactant>
+        <reactant>oxa[c]</reactant>
+        <product>cit[c]</product>
+        <product>oxa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2375</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>icit[m]</reactant>
+        <reactant>succ[c]</reactant>
+        <product>icit[c]</product>
+        <product>succ[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2376</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>icit[m]</reactant>
+        <reactant>oxa[c]</reactant>
+        <product>icit[c]</product>
+        <product>oxa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2377</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>akg[c]</reactant>
+        <reactant>HC00342[m]</reactant>
+        <product>akg[m]</product>
+        <product>HC00342[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2378</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>succ[c]</reactant>
+        <reactant>HC00342[m]</reactant>
+        <product>succ[m]</product>
+        <product>HC00342[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2379</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>mal_L[c]</reactant>
+        <reactant>HC00342[m]</reactant>
+        <product>mal_L[m]</product>
+        <product>HC00342[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2380</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>oxa[c]</reactant>
+        <reactant>HC00342[m]</reactant>
+        <product>HC00342[c]</product>
+        <product>oxa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2381</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>akg[m]</reactant>
+        <reactant>cit[c]</reactant>
+        <product>h[m]</product>
+        <product>akg[c]</product>
+        <product>cit[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2382</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>cit[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>h[m]</product>
+        <product>cit[m]</product>
+        <product>succ[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2384</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>cit[c]</reactant>
+        <reactant>oxa[m]</reactant>
+        <product>h[m]</product>
+        <product>cit[m]</product>
+        <product>oxa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2385</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>akg[m]</reactant>
+        <reactant>icit[c]</reactant>
+        <product>h[m]</product>
+        <product>akg[c]</product>
+        <product>icit[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2386</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>icit[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <product>h[m]</product>
+        <product>icit[m]</product>
+        <product>succ[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2387</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>icit[c]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>h[m]</product>
+        <product>icit[m]</product>
+        <product>mal_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2388</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>icit[c]</reactant>
+        <reactant>oxa[m]</reactant>
+        <product>h[m]</product>
+        <product>icit[m]</product>
+        <product>oxa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2389</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>akg[m]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <product>h[m]</product>
+        <product>akg[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2390</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>succ[m]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <product>h[m]</product>
+        <product>succ[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2391</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <product>h[m]</product>
+        <product>mal_L[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2392</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>HC00342[c]</reactant>
+        <reactant>oxa[m]</reactant>
+        <product>h[m]</product>
+        <product>oxa[c]</product>
+        <product>HC00342[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2393</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>pep[c]</reactant>
+        <reactant>icit[m]</reactant>
+        <product>icit[c]</product>
+        <product>pep[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2394</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.7.2</name>
+        <reactant>pep[c]</reactant>
+        <reactant>HC00342[m]</reactant>
+        <product>pep[m]</product>
+        <product>HC00342[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2395</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[c]</product>
+        <product>arg_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2396</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[c]</product>
+        <product>orn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2397</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[c]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2398</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2399</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[m]</product>
+        <product>arg_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2400</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[c]</product>
+        <product>orn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2401</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[c]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2402</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2403</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <product>lys_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2404</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <product>arg_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2405</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2406</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2407</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2408</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2409</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>citr_L[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2410</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2411</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2412</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2413</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>citr_L[c]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2416</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2419</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.7</name>
+        <reactant>akg[c]</reactant>
+        <reactant>pi[m]</reactant>
+        <product>pi[c]</product>
+        <product>akg[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2420</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.7</name>
+        <reactant>pi[m]</reactant>
+        <reactant>oxa[c]</reactant>
+        <product>pi[c]</product>
+        <product>oxa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2425</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.16.1</name>
+        <reactant>adp[m]</reactant>
+        <reactant>dgdp[c]</reactant>
+        <product>adp[c]</product>
+        <product>dgdp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2433</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>acrn[c]</reactant>
+        <reactant>crn[m]</reactant>
+        <product>acrn[m]</product>
+        <product>crn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2434</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[m]</reactant>
+        <reactant>HC01007[c]</reactant>
+        <product>crn[c]</product>
+        <product>HC01007[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2435</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[m]</reactant>
+        <reactant>pmtcrn[c]</reactant>
+        <product>crn[c]</product>
+        <product>pmtcrn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2436</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[m]</reactant>
+        <reactant>HC02147[c]</reactant>
+        <product>crn[c]</product>
+        <product>HC02147[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2437</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[m]</reactant>
+        <reactant>HC02149[c]</reactant>
+        <product>crn[c]</product>
+        <product>HC02149[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2438</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[m]</reactant>
+        <reactant>HC02150[c]</reactant>
+        <product>crn[c]</product>
+        <product>HC02150[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2472</id>
+        <name>Major Facilitator(MFS) TCDB:2.A.1.4.7</name>
+        <reactant>pi[m]</reactant>
+        <reactant>glyc3p[c]</reactant>
+        <product>pi[c]</product>
+        <product>glyc3p[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2520</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.2.1</name>
+        <reactant>akg[m]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>akg[c]</product>
+        <product>gthrd[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2539</id>
+        <name>Postulated transport reaction</name>
+        <reactant>L2aadp[m]</reactant>
+        <reactant>L2aadp6sa[c]</reactant>
+        <product>L2aadp[c]</product>
+        <product>L2aadp6sa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>C4tmc</id>
+        <name>transport of bytyrylcarnitine into mitochondrial matrix</name>
+        <reactant>c4crn[c]</reactant>
+        <product>c4crn[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>3AIB_Dtm</id>
+        <name>transport of 3aib_D into mitochondria</name>
+        <reactant>3aib_D[c]</reactant>
+        <product>3aib_D[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHCYStd</id>
+        <name>diffusion of S-Adenosyl-L-homocysteine</name>
+        <reactant>ahcys[m]</reactant>
+        <product>ahcys[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMETtd</id>
+        <name>diffusion of S-Adenosyl-L-methionine</name>
+        <reactant>amet[c]</reactant>
+        <product>amet[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DATPtm</id>
+        <name>transport of dATP into mitochondria</name>
+        <reactant>datp[c]</reactant>
+        <product>datp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCTPtm</id>
+        <name>transport of dCTP into mitochondria</name>
+        <reactant>dctp[c]</reactant>
+        <product>dctp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGTPtm</id>
+        <name>transport of dGTP into mitochondria</name>
+        <reactant>dgtp[c]</reactant>
+        <product>dgtp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHAPtc</id>
+        <name>transport of DHAP into cytosol</name>
+        <reactant>dhap[m]</reactant>
+        <product>dhap[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>DTTPtm</id>
+        <name>transport of dTTP into mitochondria</name>
+        <reactant>dttp[c]</reactant>
+        <product>dttp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADtm</id>
+        <name>Transport of fad into mitochondria</name>
+        <reactant>fad[c]</reactant>
+        <product>fad[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLU5SAtmc</id>
+        <name>glutamate semi-aldehyde transport, mitochondrial</name>
+        <reactant>glu5sa[m]</reactant>
+        <product>glu5sa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYC3Ptmc</id>
+        <name>glycerol-3-phopshate transport, cytoplasm</name>
+        <reactant>glyc3p[m]</reactant>
+        <product>glyc3p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADtm</id>
+        <name>transport of NAD into mitochondria</name>
+        <reactant>nad[c]</reactant>
+        <product>nad[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPItm</id>
+        <name>diphopshate transporter, mitochondrial</name>
+        <reactant>ppi[c]</reactant>
+        <product>ppi[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>q10h2tc</id>
+        <name>transport of ubiquinol into cytosol</name>
+        <reactant>q10h2[m]</reactant>
+        <product>q10h2[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>q10tm</id>
+        <name>transport of ubiquinone into mitochondria</name>
+        <reactant>q10[c]</reactant>
+        <product>q10[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,2544 @@
+<metabolites>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>20ahchsterol[m]</name>
+        <formula>C27H46O2</formula>
+        <description>20-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[x]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>dgcholcoa[x]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>Chenodeoxyglycocholoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[x]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[x]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[c]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[m]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[r]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[x]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02592[x]</name>
+        <formula>C26H44NO5S</formula>
+        <description>Taurolithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C03990[r]</name>
+        <formula>C24H39O3</formula>
+        <description>lithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C03990[x]</name>
+        <formula>C24H39O3</formula>
+        <description>lithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04483[c]</name>
+        <formula>C24H39O4</formula>
+        <description>deoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04483[r]</name>
+        <formula>C24H39O4</formula>
+        <description>deoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C05463[c]</name>
+        <formula>C26H44NO6S</formula>
+        <description>taurodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C05463[x]</name>
+        <formula>C26H44NO6S</formula>
+        <description>taurodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0233[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,27-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0233[m]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,27-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1272[c]</name>
+        <formula>C27H48O4</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,25-tetrol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1272[r]</name>
+        <formula>C27H48O4</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,25-tetrol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1273[c]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,24S,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1273[r]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,24S,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1274[c]</name>
+        <formula>C27H46O5</formula>
+        <description>3alpha,7alpha,12alpha,25-tetrahydroxy-5beta-cholestane-24-one</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1274[r]</name>
+        <formula>C27H46O5</formula>
+        <description>3alpha,7alpha,12alpha,25-tetrahydroxy-5beta-cholestane-24-one</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1277[c]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,23,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1277[r]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,23,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1278[c]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,25,27-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1278[r]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,25,27-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1279[c]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,24R,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1279[r]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,24R,25-pentol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1292[c]</name>
+        <formula>C27H43O3</formula>
+        <description>3beta-hydroxy-5-cholestene-27-oate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1292[m]</name>
+        <formula>C27H43O3</formula>
+        <description>3beta-hydroxy-5-cholestene-27-oate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1298[c]</name>
+        <formula>C27H44O2</formula>
+        <description>3beta-hydroxy-5-cholestenal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1298[m]</name>
+        <formula>C27H44O2</formula>
+        <description>3beta-hydroxy-5-cholestenal</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1589[c]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>deoxycholoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1589[r]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>deoxycholoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1589[x]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>deoxycholoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2345[c]</name>
+        <formula>C27H41O4</formula>
+        <description>7alpha-hydroxy-3-oxo-4-cholestenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2345[m]</name>
+        <formula>C27H41O4</formula>
+        <description>7alpha-hydroxy-3-oxo-4-cholestenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3038[c]</name>
+        <formula>C27H43O4</formula>
+        <description>3beta,7alpha-dihydroxy-5-cholestenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3038[m]</name>
+        <formula>C27H43O4</formula>
+        <description>3beta,7alpha-dihydroxy-5-cholestenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4872[c]</name>
+        <formula>C27H46O4</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4872[m]</name>
+        <formula>C27H46O4</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4872[r]</name>
+        <formula>C27H46O4</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4874[c]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,27,27-pentaol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4874[m]</name>
+        <formula>C27H48O5</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,27,27-pentaol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5530[m]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,27-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5560[x]</name>
+        <formula>C26H42NO4</formula>
+        <description>glycolithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01459[x]</name>
+        <formula>C48H76N7O21P3S</formula>
+        <description>3alpha,7alpha,12alpha,24-Tetrahydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02191[c]</name>
+        <formula>C24H39O3</formula>
+        <description>lithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02192[c]</name>
+        <formula>C26H44NO5S</formula>
+        <description>taurolithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02193[c]</name>
+        <formula>C26H42NO4</formula>
+        <description>glycolithocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[r]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[r]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[x]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[x]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[c]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[m]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[r]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[x]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[c]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[m]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[r]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[x]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoads[x]</name>
+        <formula>C48H74N7O20P3S</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoaone[x]</name>
+        <formula>C48H74N7O21P3S</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoar[r]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoar[x]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoas[r]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA(S)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoas[x]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA(S)</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[m]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[r]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[c]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[m]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[r]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[x]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dgchol[c]</name>
+        <formula>C26H43NO5</formula>
+        <description>glycochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>dgchol[x]</name>
+        <formula>C26H43NO5</formula>
+        <description>glycochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>dgcholcoa[x]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>Chenodeoxyglycocholoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[c]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[m]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[r]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[x]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[c]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[m]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[r]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestancoa[x]</name>
+        <formula>C48H76N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[c]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[r]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholoylcoa[x]</name>
+        <formula>C48H74N7O19P3S</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[x]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[x]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>gchola[c]</name>
+        <formula>C26H43NO6</formula>
+        <description>glycocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>gchola[x]</name>
+        <formula>C26H43NO6</formula>
+        <description>glycocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[x]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[c]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[m]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppa[x]</name>
+        <formula>C3H5O2</formula>
+        <description>propionate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[c]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[m]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppcoa[x]</name>
+        <formula>C24H36N7O17P3S</formula>
+        <description>Propanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[r]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[x]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[c]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[x]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>tchola[c]</name>
+        <formula>C26H45NO7S</formula>
+        <description>taurocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tchola[x]</name>
+        <formula>C26H45NO7S</formula>
+        <description>taurocholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tdchola[c]</name>
+        <formula>C26H45NO6S</formula>
+        <description>taurochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>tdchola[x]</name>
+        <formula>C26H45NO6S</formula>
+        <description>taurochenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholoylcoa[x]</name>
+        <formula>C48H76N7O20P3S</formula>
+        <description>3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholst[c]</name>
+        <formula>C27H46O4</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholst[m]</name>
+        <formula>C27H46O4</formula>
+        <description>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[c]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[m]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[r]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[x]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>xmp[c]</name>
+        <formula>C10H11N4O9P</formula>
+        <description>Xanthosine 5&apos;-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>xol24oh[r]</name>
+        <formula>C27H46O2</formula>
+        <description>(24S)-24-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol25oh[r]</name>
+        <formula>C27H46O2</formula>
+        <description>25-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol27oh[c]</name>
+        <formula>C27H46O2</formula>
+        <description>26-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol27oh[m]</name>
+        <formula>C27H46O2</formula>
+        <description>26-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol27oh[r]</name>
+        <formula>C27H46O2</formula>
+        <description>26-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7a[c]</name>
+        <formula>C27H46O2</formula>
+        <description>20-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7a[r]</name>
+        <formula>C27H46O2</formula>
+        <description>20-hydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[c]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[m]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2al[c]</name>
+        <formula>C27H46O3</formula>
+        <description>3alpha,7alpha-dihydroxy-5beta-cholestan-26-al</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2al[m]</name>
+        <formula>C27H46O3</formula>
+        <description>3alpha,7alpha-dihydroxy-5beta-cholestan-26-al</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah3[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,26-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah3[m]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,26-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah[c]</name>
+        <formula>C27H46O2</formula>
+        <description>7alpha-hydroxy-5beta-cholestan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7aone[c]</name>
+        <formula>C27H44O2</formula>
+        <description>7alpha-hydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7aone[m]</name>
+        <formula>C27H44O2</formula>
+        <description>7alpha-hydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7aone[r]</name>
+        <formula>C27H44O2</formula>
+        <description>7alpha-hydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldiolone[c]</name>
+        <formula>C27H44O3</formula>
+        <description>7alpha,12alpha-Dihydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldiolone[r]</name>
+        <formula>C27H44O3</formula>
+        <description>7alpha,12alpha-Dihydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldioloneh[c]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,12alpha-dihydroxy-5beta-cholestan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltetrol[c]</name>
+        <formula>C27H48O4</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltetrol[m]</name>
+        <formula>C27H48O4</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri24[r]</name>
+        <formula>C27H46O3</formula>
+        <description>(24S)-7alpha,24-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri25[r]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,25-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri27[c]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,26-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri27[r]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,26-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[m]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[r]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACOX22x</id>
+        <name>acyl-Coenzyme A oxidase 2, branched chain</name>
+        <reactant>0.5 o2[x]</reactant>
+        <reactant>dhcholoylcoa[x]</reactant>
+        <reactant>fadh2[x]</reactant>
+        <product>fad[x]</product>
+        <product>thcholoylcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACOX2x</id>
+        <name>acyl-Coenzyme A oxidase 2, branched chain</name>
+        <reactant>o2[x]</reactant>
+        <reactant>fadh2[x]</reactant>
+        <reactant>cholcoas[x]</reactant>
+        <product>fad[x]</product>
+        <product>2 h2o[x]</product>
+        <product>cholcoads[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKR1C41</id>
+        <name>aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>xol7ah[c]</reactant>
+        <product>nad[c]</product>
+        <product>xol7ah2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKR1C42</id>
+        <name>aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>xoldioloneh[c]</reactant>
+        <product>nad[c]</product>
+        <product>xoltriol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKR1D</id>
+        <name>aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xol7aone[c]</reactant>
+        <product>nadp[c]</product>
+        <product>xol7ah[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AKR1D2</id>
+        <name>aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xoldiolone[c]</reactant>
+        <product>nadp[c]</product>
+        <product>xoldioloneh[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMACR2p</id>
+        <name>alpha-methylacyl-CoA racemase (reductase)</name>
+        <reactant>0.5 o2[x]</reactant>
+        <reactant>dhcholestancoa[x]</reactant>
+        <product>dhcholoylcoa[x]</product>
+        <product>h2o[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMACR2r</id>
+        <name>alpha-methylacyl-CoA racemase (reductase)</name>
+        <reactant>dhcholestancoa[r]</reactant>
+        <reactant>0.5 o2[r]</reactant>
+        <product>dhcholoylcoa[r]</product>
+        <product>h2o[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMACRp</id>
+        <name>alpha-methylacyl-CoA racemase</name>
+        <reactant>cholcoar[x]</reactant>
+        <product>cholcoas[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMACRr</id>
+        <name>alpha-methylacyl-CoA racemase</name>
+        <reactant>cholcoar[r]</reactant>
+        <product>cholcoas[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>BAAT1x</id>
+        <name>bile acid Coenzyme A: amino acid N-acyltransferase</name>
+        <reactant>gly[x]</reactant>
+        <reactant>cholcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>gchola[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>BAAT2x</id>
+        <name>bile acid Coenzyme A: amino acid N-acyltransferase</name>
+        <reactant>cholcoa[x]</reactant>
+        <reactant>taur[x]</reactant>
+        <product>coa[x]</product>
+        <product>tchola[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>BAAT3x</id>
+        <name>bile acid Coenzyme A: amino acid N-acyltransferase</name>
+        <reactant>gly[x]</reactant>
+        <reactant>dgcholcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>dgchol[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>BAAT4x</id>
+        <name>bile acid Coenzyme A: amino acid N-acyltransferase</name>
+        <reactant>gly[x]</reactant>
+        <reactant>dcholcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>dgchol[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CH25H</id>
+        <name>cholesterol 25-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>chsterol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xol25oh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B42x</id>
+        <name>hydroxysteroid (17-beta) dehydrogenase 4</name>
+        <reactant>2 h[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>thcholoylcoa[x]</reactant>
+        <reactant>2 nadph[x]</reactant>
+        <product>dhcholoylcoa[x]</product>
+        <product>3 h2o[x]</product>
+        <product>2 nadp[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD17B4x</id>
+        <name>hydroxysteroid (17-beta) dehydrogenase 4</name>
+        <reactant>h[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>cholcoads[x]</reactant>
+        <reactant>nadph[x]</reactant>
+        <product>h2o[x]</product>
+        <product>nadp[x]</product>
+        <product>cholcoaone[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSD3B7P</id>
+        <name>hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>xol7a[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>xol7aone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A11m</id>
+        <name>5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 27-hydroxylase</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xoltriol[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>xoltetrol[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A12m</id>
+        <name>5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 27-hydroxylase</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>xoltetrol[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>thcholst[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A13m</id>
+        <name>5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 27-hydroxylase</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>thcholst[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>thcholstoic[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A14m</id>
+        <name>5-beta-cytochrome P450, family 27, subfamily A, polypeptide 1</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xol7ah2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>xol7ah3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A15m</id>
+        <name>5-beta-cytochrome P450, family 27, subfamily A, polypeptide 1</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xol7ah3[m]</reactant>
+        <product>2 h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>xol7ah2al[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A16m</id>
+        <name>Cytochrome P450 27</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xol7ah2al[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>dhcholestanate[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45027A1m</id>
+        <name>Cytochrome P450 27</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>chsterol[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>xol27oh[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45039A1r</id>
+        <name>oxysterol 7-alpha-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>xol24oh[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xoltri24[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P45046A1r</id>
+        <name>cytochrome P450, family 46, subfamily A, polypeptide 1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>chsterol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xol24oh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4507A1r</id>
+        <name>cytochrome P450, family 7, subfamily A, polypeptide 1</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>chsterol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xol7a[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4507B11r</id>
+        <name>oxysterol 7alpha-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>xol25oh[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xoltri25[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4507B12r</id>
+        <name>oxysterol 7alpha-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>xol27oh[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xoltri27[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4508B11r</id>
+        <name>sterol 12-alpha-hydroxylase</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>xol7aone[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>xoldiolone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4508B13r</id>
+        <name>sterol 12-alpha-hydroxylase (nadh)</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>xol7aone[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nad[r]</product>
+        <product>xoldiolone[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>SCP2x</id>
+        <name>peroxisomal thiolase 2</name>
+        <reactant>8 coa[x]</reactant>
+        <reactant>7 dhcholoylcoa[x]</reactant>
+        <reactant>2 h2o[x]</reactant>
+        <reactant>3 co2[x]</reactant>
+        <product>7 dgcholcoa[x]</product>
+        <product>8 ppcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>SCPx</id>
+        <name>peroxisomal thiolase 2</name>
+        <reactant>coa[x]</reactant>
+        <reactant>cholcoaone[x]</reactant>
+        <product>cholcoa[x]</product>
+        <product>ppcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>VLCS2p</id>
+        <name>Very-long-chain-fatty-acid-CoA ligase</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>dhcholestanate[x]</reactant>
+        <product>dhcholestancoa[x]</product>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>VLCS2r</id>
+        <name>Very-long-chain-fatty-acid-CoA ligase</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>dhcholestanate[r]</reactant>
+        <product>dhcholestancoa[r]</product>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>VLCSp</id>
+        <name>Very-long-chain-fatty-acid-CoA ligase</name>
+        <reactant>coa[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>thcholstoic[x]</reactant>
+        <product>cholcoar[x]</product>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>VLCSr</id>
+        <name>Very-long-chain-fatty-acid-CoA ligase</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>thcholstoic[r]</reactant>
+        <product>cholcoar[r]</product>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0301</id>
+        <name>Xanthosine-5-phosphate:ammonia ligase (AMP-forming) Purine metabolism EC:6.3.4.1</name>
+        <reactant>nh4[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>xmp[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>gmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0573</id>
+        <name>Cholate:CoA ligase (AMP-forming) Bile acid biosynthesis EC:6.2.1.7</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>cholate[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>cholcoa[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0625</id>
+        <name>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al:NAD+ 26-oxidoreductase Bile acid biosynthesis EC:1.2.1.40</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>thcholst[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>thcholstoic[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0626</id>
+        <name>5beta-Cholestane-3alpha,7alpha,12alpha,26-tetraol:NAD+ 26-oxidoreductase Bile acid biosynthesis EC:1.1.1.161</name>
+        <reactant>nad[c]</reactant>
+        <reactant>dhcholoylcoa[c]</reactant>
+        <product>nadh[c]</product>
+        <product>thcholst[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0629</id>
+        <name>Choloyl-CoA:glycine N-choloyltransferase Bile acid biosynthesis / Taurine and hypotaurine metabolism EC:2.3.1.65</name>
+        <reactant>gly[c]</reactant>
+        <reactant>cholcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>gchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0630</id>
+        <name>Choloyl-CoA:glycine N-choloyltransferase Bile acid biosynthesis / Taurine and hypotaurine metabolism EC:2.3.1.65</name>
+        <reactant>taur[c]</reactant>
+        <reactant>cholcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>tchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0650</id>
+        <name>Chenodeoxycholate:CoA ligase (AMP-forming) Bile acid biosynthesis EC:6.2.1.7</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>C02528[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>dcholcoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0651</id>
+        <name>Chenodeoxycholate:CoA ligase (AMP-forming) Bile acid biosynthesis EC:6.2.1.7</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>C02528[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>dcholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0672</id>
+        <name>Cholest-5-ene-3beta,7alpha-diol:NAD+ 3-oxidoreductase Bile acid biosynthesis EC:1.1.1.181</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>xol25oh[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>xol7aone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0688</id>
+        <name>3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al:NAD+ oxidoreductase Bile acid biosynthesis EC:1.2.1.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>xol7ah2al[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>dhcholestanate[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0698</id>
+        <name>Propanoyl-CoA:acetyl-CoA C-acyltransferase Bile acid biosynthesis EC:2.3.1.16</name>
+        <reactant>4 h[x]</reactant>
+        <reactant>dcholcoa[x]</reactant>
+        <reactant>ppcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>h2o[x]</product>
+        <product>dhcholestancoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0706</id>
+        <name>acyl-Coenzyme A dehydrogenase family, member 9 Bile acid biosynthesis EC:1.3.3.6</name>
+        <reactant>o2[x]</reactant>
+        <reactant>cholcoar[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>cholcoads[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0739</id>
+        <name>alcohol dehydrogenase Bile acid biosynthesis EC:1.1.1.1</name>
+        <reactant>nad[c]</reactant>
+        <reactant>xol7ah3[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xol7ah2al[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0741</id>
+        <name>5beta-Cholestane-3alpha,7alpha,12alpha-triol,NADPH:oxygen oxidoreductase (26-hydroxylating) Bile acid biosynthesis EC:1.14.13.15</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xoltriol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>xoltetrol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0743</id>
+        <name>hydroxysteroid (17-beta) dehydrogenase 4 Bile acid biosynthesis EC:1.1.1.35</name>
+        <reactant>nad[x]</reactant>
+        <reactant>HC01459[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>cholcoaone[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0744</id>
+        <name>(24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl- CoA hydro-lyase Bile acid biosynthesis EC:4.2.1.107</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>cholcoads[x]</reactant>
+        <product>HC01459[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0747</id>
+        <name>3alpha,7alpha-Dihydroxy-5beta-cholestane:NADP+ oxidoreductase (B-specific); 3alpha,7alpha-Dihydroxy-5beta-cholestane:NADP+ oxidoreductase Bile acid biosynthesis EC:1.1.1.50</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>xol7ah2[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>xol7ah[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0750</id>
+        <name>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane:NADP+ oxidoreductase (B-specific); 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane:NADP+ oxidoreductase Bile acid biosynthesis EC:1.1.1.50</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>xoltriol[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>xoldioloneh[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0797</id>
+        <name>glycine N-choloyltransferase EC:2.3.1.65</name>
+        <reactant>gly[c]</reactant>
+        <reactant>dcholcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>dgchol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1025</id>
+        <name>Active transport</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>atp[r]</reactant>
+        <reactant>xoldiolone[r]</reactant>
+        <product>xoldiolone[c]</product>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1796C</id>
+        <name>RE1796</name>
+        <reactant>nad[c]</reactant>
+        <reactant>xol7a[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xol7aone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1796M</id>
+        <name>RE1796</name>
+        <reactant>nad[m]</reactant>
+        <reactant>20ahchsterol[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>xol7aone[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1796R</id>
+        <name>RE1796</name>
+        <reactant>nad[r]</reactant>
+        <reactant>xol7a[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>xol7aone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1803C</id>
+        <name>RE1803</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xol27oh[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>xoltri27[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1804C</id>
+        <name>RE1804</name>
+        <reactant>nad[c]</reactant>
+        <reactant>CE0233[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>xol7ah2al[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1804M</id>
+        <name>RE1804</name>
+        <reactant>nad[m]</reactant>
+        <reactant>xol7ah3[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>xol7ah2al[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1806C</id>
+        <name>RE1806</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xoltriol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE1272[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1806R</id>
+        <name>RE1806</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>xoltriol[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1272[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1807C</id>
+        <name>RE1807</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>xol7ah2al[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>dhcholestanate[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1807M</id>
+        <name>RE1807</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>xol7ah2al[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>dhcholestanate[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1808R</id>
+        <name>RE1808</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE1272[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1273[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1809C</id>
+        <name>RE1809</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE1272[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE1277[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1809R</id>
+        <name>RE1809</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE1272[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1277[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1810M</id>
+        <name>RE1810</name>
+        <reactant>2 nadp[m]</reactant>
+        <reactant>xol7ah2[m]</reactant>
+        <product>2 h[m]</product>
+        <product>2 nadph[m]</product>
+        <product>xol7aone[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1811C</id>
+        <name>RE1811</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE1272[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE1279[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1811R</id>
+        <name>RE1811</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE1272[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1279[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1812C</id>
+        <name>RE1812</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE1272[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE1278[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1812R</id>
+        <name>RE1812</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE1272[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE1278[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1826C</id>
+        <name>RE1826</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xol7ah2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE0233[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1826M</id>
+        <name>RE1826</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xol7ah2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE0233[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1827C</id>
+        <name>RE1827</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>xol27oh[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE1298[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1827M</id>
+        <name>RE1827</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>xol27oh[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE1298[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1828C</id>
+        <name>RE1828</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE1292[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE3038[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1828M</id>
+        <name>RE1828</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>CE1292[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE3038[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1829C</id>
+        <name>RE1829</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE3038[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE2345[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1829M</id>
+        <name>RE1829</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>CE3038[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE2345[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1830C</id>
+        <name>RE1830</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE1298[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE1292[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1830M</id>
+        <name>RE1830</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>CE1298[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE1292[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1834C</id>
+        <name>RE1834</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cholcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>cholate[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1834M</id>
+        <name>RE1834</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>cholcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>cholate[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1834X</id>
+        <name>RE1834</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>cholcoa[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>cholate[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1835C</id>
+        <name>RE1835</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dcholcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>C02528[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1835M</id>
+        <name>RE1835</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>dcholcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>C02528[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1835X</id>
+        <name>RE1835</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>dcholcoa[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>C02528[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1836C</id>
+        <name>RE1836</name>
+        <reactant>o2[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>dhcholestancoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>ppcoa[c]</product>
+        <product>dcholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1836M</id>
+        <name>RE1836</name>
+        <reactant>o2[m]</reactant>
+        <reactant>coa[m]</reactant>
+        <reactant>dhcholestancoa[m]</reactant>
+        <product>h2o[m]</product>
+        <product>ppcoa[m]</product>
+        <product>dcholcoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1836X</id>
+        <name>RE1836</name>
+        <reactant>coa[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>dhcholestancoa[x]</reactant>
+        <product>h2o[x]</product>
+        <product>dcholcoa[x]</product>
+        <product>ppcoa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1845C</id>
+        <name>RE1845</name>
+        <reactant>taur[c]</reactant>
+        <reactant>dcholcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>tdchola[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1845X</id>
+        <name>RE1845</name>
+        <reactant>taur[x]</reactant>
+        <reactant>dcholcoa[x]</reactant>
+        <product>coa[x]</product>
+        <product>tdchola[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1846C</id>
+        <name>RE1846</name>
+        <reactant>taur[c]</reactant>
+        <reactant>CE1589[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>C05463[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1846X</id>
+        <name>RE1846</name>
+        <reactant>taur[x]</reactant>
+        <reactant>CE1589[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>C05463[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2112C</id>
+        <name>RE2112</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>cholate[c]</reactant>
+        <product>o2[c]</product>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>C04483[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2112R</id>
+        <name>RE2112</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>nadp[r]</reactant>
+        <reactant>cholate[r]</reactant>
+        <product>o2[r]</product>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>C04483[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2625C</id>
+        <name>RE2625</name>
+        <reactant>nad[c]</reactant>
+        <reactant>xoltetrol[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>CE4872[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2625M</id>
+        <name>RE2625</name>
+        <reactant>nad[m]</reactant>
+        <reactant>xoltetrol[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>CE4872[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2626C</id>
+        <name>RE2626</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE4872[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>thcholstoic[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2626M</id>
+        <name>RE2626</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>CE4872[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>thcholstoic[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2632C</id>
+        <name>RE2632</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>xoltri27[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>CE3038[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2632M</id>
+        <name>RE2632</name>
+        <reactant>h[m]</reactant>
+        <reactant>2 nadph[m]</reactant>
+        <reactant>2 o2[m]</reactant>
+        <reactant>CE5530[m]</reactant>
+        <product>3 h2o[m]</product>
+        <product>2 nadp[m]</product>
+        <product>CE3038[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2633C</id>
+        <name>RE2633</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>CE1273[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE1274[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2633R</id>
+        <name>RE2633</name>
+        <reactant>nadp[r]</reactant>
+        <reactant>CE1273[r]</reactant>
+        <product>h[r]</product>
+        <product>nadph[r]</product>
+        <product>CE1274[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2635C</id>
+        <name>RE2635</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>C04483[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>CE1589[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2635R</id>
+        <name>RE2635</name>
+        <reactant>atp[r]</reactant>
+        <reactant>coa[r]</reactant>
+        <reactant>C04483[r]</reactant>
+        <product>amp[r]</product>
+        <product>ppi[r]</product>
+        <product>CE1589[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2636C</id>
+        <name>RE2636</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>HC02191[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>C04483[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2636R</id>
+        <name>RE2636</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>C03990[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>C04483[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2637C</id>
+        <name>RE2637</name>
+        <reactant>atp[c]</reactant>
+        <reactant>taur[c]</reactant>
+        <reactant>HC02191[c]</reactant>
+        <product>2 h[c]</product>
+        <product>coa[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>HC02192[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2637X</id>
+        <name>RE2637</name>
+        <reactant>atp[x]</reactant>
+        <reactant>taur[x]</reactant>
+        <reactant>C03990[x]</reactant>
+        <product>h[x]</product>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>C02592[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2638C</id>
+        <name>RE2638</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gly[c]</reactant>
+        <reactant>HC02191[c]</reactant>
+        <product>2 h[c]</product>
+        <product>coa[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>HC02193[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2638X</id>
+        <name>RE2638</name>
+        <reactant>gly[x]</reactant>
+        <reactant>atp[x]</reactant>
+        <reactant>C03990[x]</reactant>
+        <product>h[x]</product>
+        <product>amp[x]</product>
+        <product>ppi[x]</product>
+        <product>CE5560[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2649C</id>
+        <name>RE2649</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ppcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>ppa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2649M</id>
+        <name>RE2649</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>ppcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>ppa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2649X</id>
+        <name>RE2649</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>ppcoa[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>ppa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2814M</id>
+        <name>RE2814</name>
+        <reactant>nad[m]</reactant>
+        <reactant>xol27oh[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>xol7aone[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2814R</id>
+        <name>RE2814</name>
+        <reactant>nad[r]</reactant>
+        <reactant>xol27oh[r]</reactant>
+        <product>h[r]</product>
+        <product>nadh[r]</product>
+        <product>xol7aone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3251C</id>
+        <name>RE3251</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>xoltetrol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE4874[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3251M</id>
+        <name>RE3251</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>xoltetrol[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE4874[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3252C</id>
+        <name>RE3252</name>
+        <reactant>CE4874[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE4872[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3346C</id>
+        <name>RE3346</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>thcholstoic[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nad[c]</product>
+        <product>CE4872[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3346M</id>
+        <name>RE3346</name>
+        <reactant>2 h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>thcholstoic[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nad[m]</product>
+        <product>CE4872[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3346R</id>
+        <name>RE3346</name>
+        <reactant>2 h[r]</reactant>
+        <reactant>nadh[r]</reactant>
+        <reactant>thcholstoic[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nad[r]</product>
+        <product>CE4872[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Bile acid synthesis</subsystem>
+    </reaction>
+</reactions>

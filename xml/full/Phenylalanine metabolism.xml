@@ -1,0 +1,278 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2hyoxplac[c]</name>
+        <formula>C8H7O3</formula>
+        <description>2-Hydroxyphenylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pac[c]</name>
+        <formula>C8H7O2</formula>
+        <description>phenylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>pacald[c]</name>
+        <formula>C8H8O</formula>
+        <description>phenylacetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>peamn[c]</name>
+        <formula>C8H12N</formula>
+        <description>2-phenylethanaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>phaccoa[c]</name>
+        <formula>C29H38N7O17P3S</formula>
+        <description>phenylacetyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[c]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[m]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>pheacgln[c]</name>
+        <formula>C13H16N2O4</formula>
+        <description>(2S)-4-carbamoyl-2-(2-phenylacetamido)butanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>phpyr[c]</name>
+        <formula>C9H7O3</formula>
+        <description>keto-phenylpyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>phpyr[m]</name>
+        <formula>C9H7O3</formula>
+        <description>keto-phenylpyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt4acam[c]</name>
+        <formula>C9H15N5O4</formula>
+        <description>4a-hydroxytetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt[c]</name>
+        <formula>C9H15N5O3</formula>
+        <description>5,6,7,8-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>PACCOAL</id>
+        <name>phenylacetate-CoA ligase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>coa[c]</reactant>
+        <reactant>pac[c]</reactant>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <product>phaccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PEAMNO</id>
+        <name>Phenethylamine oxidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>peamn[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>pacald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHACCOAGLNAC</id>
+        <name>Phenylacetyl-CoA:L-glutamine alpha-N-phenylacetyltransferase</name>
+        <reactant>gln_L[c]</reactant>
+        <reactant>phaccoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>pheacgln[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHETA1</id>
+        <name>phenylalanine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>phe_L[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>phpyr[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHETA1m</id>
+        <name>phenylalanine transaminase (m)</name>
+        <reactant>akg[m]</reactant>
+        <reactant>phe_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>phpyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHETHPTOX2</id>
+        <name>L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>thbpt[c]</reactant>
+        <reactant>phe_L[c]</reactant>
+        <product>tyr_L[c]</product>
+        <product>thbpt4acam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHYCBOXL</id>
+        <name>L-Phenylalanine carboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>phe_L[c]</reactant>
+        <product>co2[c]</product>
+        <product>peamn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPOR</id>
+        <name>Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>phpyr[c]</reactant>
+        <product>co2[c]</product>
+        <product>2hyoxplac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0545</id>
+        <name>Phenylacetaldehyde:NAD+ oxidoreductase Phenylalanine metabolism / Styrene degradation EC:1.2.1.5 EC:1.2.1.39</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>pacald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>pac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0547</id>
+        <name>Aldehyde:NADP+ oxidoreductase Phenylalanine metabolism EC:1.2.1.5</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>pacald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>pac[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phenylalanine metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,1469 @@
+<metabolites>
+    <metabolite>
+        <name>15HPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>15(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>15HPET[n]</name>
+        <formula>C20H31O4</formula>
+        <description>15(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>15HPET[r]</name>
+        <formula>C20H31O4</formula>
+        <description>15(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[c]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[m]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[n]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[r]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[x]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[c]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[n]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0347[c]</name>
+        <formula>C20H31O3</formula>
+        <description>12-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0347[n]</name>
+        <formula>C20H31O3</formula>
+        <description>12-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0347[r]</name>
+        <formula>C20H31O3</formula>
+        <description>12-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[c]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[m]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[x]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7096[c]</name>
+        <formula>C20H31O4</formula>
+        <description>5,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7096[n]</name>
+        <formula>C20H31O4</formula>
+        <description>5,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[m]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[x]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7172[c]</name>
+        <formula>C20H31O4</formula>
+        <description>14,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7172[n]</name>
+        <formula>C20H31O4</formula>
+        <description>14,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[c]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[m]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[n]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[r]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[x]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[c]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[m]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[r]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04805[x]</name>
+        <formula>C20H31O3</formula>
+        <description>5(S)-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>C04843[c]</name>
+        <formula>C20H33O5</formula>
+        <description>(5Z,9E,12S,14Z)-8,11,12-trihydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04843[r]</name>
+        <formula>C20H33O5</formula>
+        <description>(5Z,9E,12S,14Z)-8,11,12-trihydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04843[x]</name>
+        <formula>C20H33O5</formula>
+        <description>(5Z,9E,12S,14Z)-8,11,12-trihydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[c]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[e]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[m]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[n]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[r]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C04849[x]</name>
+        <formula>C20H31O4</formula>
+        <description>(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoate</description>
+    </metabolite>
+    <metabolite>
+        <name>C05965[c]</name>
+        <formula>C20H31O4</formula>
+        <description>12(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C05965[e]</name>
+        <formula>C20H31O4</formula>
+        <description>12(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C05965[m]</name>
+        <formula>C20H31O4</formula>
+        <description>12(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C05965[n]</name>
+        <formula>C20H31O4</formula>
+        <description>12(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C06314[c]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06314[r]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06314[x]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[c]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[n]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[r]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>C06315[x]</name>
+        <formula>C20H31O5</formula>
+        <description>Lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>C13856[c]</name>
+        <formula>C23H38O4</formula>
+        <description>2-Arachidonoylglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>C14768[c]</name>
+        <formula>C20H31O3</formula>
+        <description>5,6-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14768[r]</name>
+        <formula>C20H31O3</formula>
+        <description>5,6-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14769[c]</name>
+        <formula>C20H31O3</formula>
+        <description>8,9-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14769[r]</name>
+        <formula>C20H31O3</formula>
+        <description>8,9-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14770[c]</name>
+        <formula>C20H31O3</formula>
+        <description>11,12-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14770[r]</name>
+        <formula>C20H31O3</formula>
+        <description>11,12-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14771[c]</name>
+        <formula>C20H31O3</formula>
+        <description>14,15-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>C14771[r]</name>
+        <formula>C20H31O3</formula>
+        <description>14,15-EET</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0347[c]</name>
+        <formula>C20H31O3</formula>
+        <description>12-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0347[r]</name>
+        <formula>C20H31O3</formula>
+        <description>12-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[c]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[m]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2084[x]</name>
+        <formula>C20H29O3</formula>
+        <description>5-oxo-(6E,8Z,11Z,14Z)-eicosatetraenoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2565[n]</name>
+        <formula>C20H31O3</formula>
+        <description>15(R)-Hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2565[r]</name>
+        <formula>C20H31O3</formula>
+        <description>15(R)-Hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2566[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2566[n]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2566[r]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2566[x]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(R)-hydroxyeicosatetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2567[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(S)-hydroxy-7E,9E,11Z,13E-eicosatetraenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2567[n]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(S)-hydroxy-7E,9E,11Z,13E-eicosatetraenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2567[r]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(S)-hydroxy-7E,9E,11Z,13E-eicosatetraenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2567[x]</name>
+        <formula>C20H29O4</formula>
+        <description>5(S),6(S)-epoxy-15(S)-hydroxy-7E,9E,11Z,13E-eicosatetraenoic acid anion</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2568[c]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2568[r]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2568[x]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2569[c]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2569[r]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2569[x]</name>
+        <formula>C20H31O5</formula>
+        <description>15-epi-lipoxin B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5178[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-6-trans-leukotriene B4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5661[c]</name>
+        <formula>C20H29O5</formula>
+        <description>15-oxo-lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5662[c]</name>
+        <formula>C20H31O5</formula>
+        <description>13,14-dihydro-15-oxo-lipoxin A4</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5815[c]</name>
+        <formula>C20H31O4</formula>
+        <description>20-hydroxy-5S-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5815[r]</name>
+        <formula>C20H31O4</formula>
+        <description>20-hydroxy-5S-HETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6247[c]</name>
+        <formula>C20H31O5</formula>
+        <description>5,12,20-TriHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6247[r]</name>
+        <formula>C20H31O5</formula>
+        <description>5,12,20-TriHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6248[c]</name>
+        <formula>C20H31O5</formula>
+        <description>20-OH-hepoxilin A3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6248[r]</name>
+        <formula>C20H31O5</formula>
+        <description>20-OH-hepoxilin A3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6250[c]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>hepoxilin A3-C</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6250[m]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>hepoxilin A3-C</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6250[r]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>hepoxilin A3-C</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6250[x]</name>
+        <formula>C30H47N3O10S</formula>
+        <description>hepoxilin A3-C</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6251[c]</name>
+        <formula>C20H31O4</formula>
+        <description>12,20-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6251[r]</name>
+        <formula>C20H31O4</formula>
+        <description>12,20-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[c]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[m]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7097[x]</name>
+        <formula>C20H29O4</formula>
+        <description>5-oxo-12(S)-hydroxy-eicosa-6E,8Z,10E,14Z-tetraenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7172[c]</name>
+        <formula>C20H31O4</formula>
+        <description>14,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7172[n]</name>
+        <formula>C20H31O4</formula>
+        <description>14,15-DiHETE</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[r]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[r]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[r]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[c]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[r]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[x]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[n]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[r]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[c]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[n]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[c]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[m]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[r]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[x]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[n]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[x]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[n]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[x]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[n]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>RE1952C</id>
+        <name>RE1952</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2566[c]</reactant>
+        <product>CE2568[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1952R</id>
+        <name>RE1952</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2566[r]</reactant>
+        <product>CE2568[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1952X</id>
+        <name>RE1952</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE2566[x]</reactant>
+        <product>CE2568[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1954C</id>
+        <name>RE1954</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5661[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5662[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1956C</id>
+        <name>RE1956</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2566[c]</reactant>
+        <product>CE2569[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1956R</id>
+        <name>RE1956</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2566[r]</reactant>
+        <product>CE2569[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1956X</id>
+        <name>RE1956</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE2566[x]</reactant>
+        <product>CE2569[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2048N</id>
+        <name>RE2048</name>
+        <reactant>o2[n]</reactant>
+        <reactant>CE2565[n]</reactant>
+        <product>h2o[n]</product>
+        <product>CE2566[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2048R</id>
+        <name>RE2048</name>
+        <reactant>o2[r]</reactant>
+        <reactant>CE2565[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE2566[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2563C</id>
+        <name>RE2563</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C13856[c]</reactant>
+        <product>h[c]</product>
+        <product>arachd[c]</product>
+        <product>glyc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3033C</id>
+        <name>RE3033</name>
+        <reactant>o2[c]</reactant>
+        <reactant>15HPET[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE2567[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3033N</id>
+        <name>RE3033</name>
+        <reactant>o2[n]</reactant>
+        <reactant>15HPET[n]</reactant>
+        <product>h2o2[n]</product>
+        <product>CE2567[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3033R</id>
+        <name>RE3033</name>
+        <reactant>o2[r]</reactant>
+        <reactant>15HPET[r]</reactant>
+        <product>CE2567[r]</product>
+        <product>h2o2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3036C</id>
+        <name>RE3036</name>
+        <reactant>15HPET[c]</reactant>
+        <product>CE7172[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3036N</id>
+        <name>RE3036</name>
+        <reactant>15HPET[n]</reactant>
+        <product>CE7172[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3038C</id>
+        <name>RE3038</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2567[c]</reactant>
+        <product>C06315[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3038N</id>
+        <name>RE3038</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>CE2567[n]</reactant>
+        <product>C06315[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3038R</id>
+        <name>RE3038</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2567[r]</reactant>
+        <product>C06315[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3038X</id>
+        <name>RE3038</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE2567[x]</reactant>
+        <product>C06315[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3040C</id>
+        <name>RE3040</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2567[c]</reactant>
+        <product>C06314[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3040R</id>
+        <name>RE3040</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2567[r]</reactant>
+        <product>C06314[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3040X</id>
+        <name>RE3040</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE2567[x]</reactant>
+        <product>C06314[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3041C</id>
+        <name>RE3041</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>leuktrA4[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2567[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3041N</id>
+        <name>RE3041</name>
+        <reactant>h[n]</reactant>
+        <reactant>o2[n]</reactant>
+        <reactant>nadph[n]</reactant>
+        <reactant>leuktrA4[n]</reactant>
+        <product>h2o[n]</product>
+        <product>nadp[n]</product>
+        <product>CE2567[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3044C</id>
+        <name>RE3044</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 CE7172[c]</reactant>
+        <product>2 C06315[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3044N</id>
+        <name>RE3044</name>
+        <reactant>o2[n]</reactant>
+        <reactant>2 CE7172[n]</reactant>
+        <product>2 C06315[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3286C</id>
+        <name>RE3286</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <reactant>fadh2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>fad[c]</product>
+        <product>C14768[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3286R</id>
+        <name>RE3286</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>fadh2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>fad[r]</product>
+        <product>C14768[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3287C</id>
+        <name>RE3287</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <reactant>fadh2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>fad[c]</product>
+        <product>C14770[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3287R</id>
+        <name>RE3287</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>fadh2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>fad[r]</product>
+        <product>C14770[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3288C</id>
+        <name>RE3288</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <reactant>fadh2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>fad[c]</product>
+        <product>C14769[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3288R</id>
+        <name>RE3288</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>fadh2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>fad[r]</product>
+        <product>C14769[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3289C</id>
+        <name>RE3289</name>
+        <reactant>o2[c]</reactant>
+        <reactant>arachd[c]</reactant>
+        <reactant>fadh2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>fad[c]</product>
+        <product>C14771[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3289R</id>
+        <name>RE3289</name>
+        <reactant>o2[r]</reactant>
+        <reactant>arachd[r]</reactant>
+        <reactant>fadh2[r]</reactant>
+        <product>h2o[r]</product>
+        <product>fad[r]</product>
+        <product>C14771[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3469C</id>
+        <name>RE3469</name>
+        <reactant>CE7097[c]</reactant>
+        <product>CE5178[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3470C</id>
+        <name>RE3470</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>leuktrB4[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE7097[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3470M</id>
+        <name>RE3470</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>leuktrB4[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE7097[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3470X</id>
+        <name>RE3470</name>
+        <reactant>nadp[x]</reactant>
+        <reactant>leuktrB4[x]</reactant>
+        <product>h[x]</product>
+        <product>nadph[x]</product>
+        <product>CE7097[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3474C</id>
+        <name>RE3474</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>C04805[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5815[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3474R</id>
+        <name>RE3474</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>C04805[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE5815[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3475C</id>
+        <name>RE3475</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 C04805[c]</reactant>
+        <product>2 CE7096[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3475N</id>
+        <name>RE3475</name>
+        <reactant>o2[n]</reactant>
+        <reactant>2 C04805[n]</reactant>
+        <product>2 CE7096[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3476C</id>
+        <name>RE3476</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>C04805[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>CE2084[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3476M</id>
+        <name>RE3476</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>C04805[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>CE2084[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3476X</id>
+        <name>RE3476</name>
+        <reactant>nadp[x]</reactant>
+        <reactant>C04805[x]</reactant>
+        <product>h[x]</product>
+        <product>nadph[x]</product>
+        <product>CE2084[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3513C</id>
+        <name>RE3513</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 CE0347[c]</reactant>
+        <product>2 leuktrB4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3513N</id>
+        <name>RE3513</name>
+        <reactant>o2[n]</reactant>
+        <reactant>2 CE0347[n]</reactant>
+        <product>2 leuktrB4[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3513R</id>
+        <name>RE3513</name>
+        <reactant>o2[r]</reactant>
+        <reactant>2 CE0347[r]</reactant>
+        <product>2 leuktrB4[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3514C</id>
+        <name>RE3514</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>leuktrB4[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE6247[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3514R</id>
+        <name>RE3514</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>leuktrB4[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE6247[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3518C</id>
+        <name>RE3518</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>C04849[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE6248[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3518R</id>
+        <name>RE3518</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>C04849[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE6248[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3519C</id>
+        <name>RE3519</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C04849[c]</reactant>
+        <product>C04843[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3519R</id>
+        <name>RE3519</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>C04849[r]</reactant>
+        <product>C04843[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3519X</id>
+        <name>RE3519</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>C04849[x]</reactant>
+        <product>C04843[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3520C</id>
+        <name>RE3520</name>
+        <reactant>C05965[c]</reactant>
+        <product>C04849[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3520E</id>
+        <name>RE3520</name>
+        <reactant>C05965[e]</reactant>
+        <product>C04849[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3520M</id>
+        <name>RE3520</name>
+        <reactant>C05965[m]</reactant>
+        <product>C04849[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3520N</id>
+        <name>RE3520</name>
+        <reactant>C05965[n]</reactant>
+        <product>C04849[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3521C</id>
+        <name>RE3521</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>C04849[c]</reactant>
+        <product>CE6250[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3521M</id>
+        <name>RE3521</name>
+        <reactant>gthrd[m]</reactant>
+        <reactant>C04849[m]</reactant>
+        <product>CE6250[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3521R</id>
+        <name>RE3521</name>
+        <reactant>gthrd[r]</reactant>
+        <reactant>C04849[r]</reactant>
+        <product>CE6250[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3521X</id>
+        <name>RE3521</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>C04849[x]</reactant>
+        <product>CE6250[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3522C</id>
+        <name>RE3522</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE0347[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE6251[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3522R</id>
+        <name>RE3522</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE0347[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>CE6251[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3525C</id>
+        <name>RE3525</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 C04805[c]</reactant>
+        <product>2 leuktrB4[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3525M</id>
+        <name>RE3525</name>
+        <reactant>o2[m]</reactant>
+        <reactant>2 C04805[m]</reactant>
+        <product>2 leuktrB4[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3525N</id>
+        <name>RE3525</name>
+        <reactant>o2[n]</reactant>
+        <reactant>2 C04805[n]</reactant>
+        <product>2 leuktrB4[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3525R</id>
+        <name>RE3525</name>
+        <reactant>o2[r]</reactant>
+        <reactant>2 C04805[r]</reactant>
+        <product>2 leuktrB4[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3525X</id>
+        <name>RE3525</name>
+        <reactant>o2[x]</reactant>
+        <reactant>2 C04805[x]</reactant>
+        <product>2 leuktrB4[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3526C</id>
+        <name>RE3526</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 CE2084[c]</reactant>
+        <product>2 CE7097[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3526M</id>
+        <name>RE3526</name>
+        <reactant>o2[m]</reactant>
+        <reactant>2 CE2084[m]</reactant>
+        <product>2 CE7097[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3526X</id>
+        <name>RE3526</name>
+        <reactant>o2[x]</reactant>
+        <reactant>2 CE2084[x]</reactant>
+        <product>2 CE7097[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Arachidonic acid metabolism</subsystem>
+    </reaction>
+</reactions>

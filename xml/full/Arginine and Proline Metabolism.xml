@@ -1,0 +1,951 @@
+<metabolites>
+    <metabolite>
+        <name>1p2cbxl[x]</name>
+        <formula>C5H6NO2</formula>
+        <description>1-pyrroline-2-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>1p3h5c[c]</name>
+        <formula>C5H6NO3</formula>
+        <description>L-1-Pyrroline-3-hydroxy-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>1p3h5c[m]</name>
+        <formula>C5H6NO3</formula>
+        <description>L-1-Pyrroline-3-hydroxy-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>1pyr5c[c]</name>
+        <formula>C5H6NO2</formula>
+        <description>1-Pyrroline-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>1pyr5c[m]</name>
+        <formula>C5H6NO2</formula>
+        <description>1-Pyrroline-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[c]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>no[c]</name>
+        <formula>NO</formula>
+        <description>Nitric oxide</description>
+    </metabolite>
+    <metabolite>
+        <name>nwharg[c]</name>
+        <formula>C6H15N4O3</formula>
+        <description>N-(omega)-Hydroxyarginine</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>2kmb[c]</name>
+        <formula>C5H7O3S</formula>
+        <description>2-keto-4-methylthiobutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>4aabutn[c]</name>
+        <formula>C6H10NO3</formula>
+        <description>4-acetamidobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4aabutn[m]</name>
+        <formula>C6H10NO3</formula>
+        <description>4-acetamidobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abutn[c]</name>
+        <formula>C4H10NO</formula>
+        <description>4-Aminobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>4h2oglt[c]</name>
+        <formula>C5H4O6</formula>
+        <description>4-hydroxy-2-oxoglutarate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>4h2oglt[m]</name>
+        <formula>C5H4O6</formula>
+        <description>4-hydroxy-2-oxoglutarate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>4hglusa[m]</name>
+        <formula>C5H9NO4</formula>
+        <description>L-4-hydroxyglutamic semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>4hpro_LT[c]</name>
+        <formula>C5H9NO3</formula>
+        <description>trans-4-hydroxy-L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>4hpro_LT[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>trans-4-hydroxy-L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>4hpro_LT[r]</name>
+        <formula>C5H9NO3</formula>
+        <description>trans-4-hydroxy-L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>5a2opntn[x]</name>
+        <formula>C5H9NO3</formula>
+        <description>5-amino-2-oxopentanoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>5g2oxpt[x]</name>
+        <formula>C6H11N3O3</formula>
+        <description>5-guanidino-2-oxopentanoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>5mdr1p[c]</name>
+        <formula>C6H11O7PS</formula>
+        <description>5-Methylthio-5-deoxy-D-ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>5mdru1p[c]</name>
+        <formula>C6H11O7PS</formula>
+        <description>5-Methylthio-5-deoxy-D-ribulose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>5mta[c]</name>
+        <formula>C11H15N5O3S</formula>
+        <description>5-Methylthioadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[c]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>agm[m]</name>
+        <formula>C5H16N4</formula>
+        <description>agmatinium(2+)</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[r]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>ametam[c]</name>
+        <formula>C14H24N6O3S</formula>
+        <description>S-Adenosylmethioninamine</description>
+    </metabolite>
+    <metabolite>
+        <name>aprut[c]</name>
+        <formula>C6H15N2O</formula>
+        <description>N-acetylputrescinium</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_D[x]</name>
+        <formula>C6H15N4O2</formula>
+        <description>D-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[c]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[m]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[m]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[c]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dkmpp[c]</name>
+        <formula>C6H9O6PS</formula>
+        <description>2,3-diketo-5-methylthio-1-phosphopentane</description>
+    </metabolite>
+    <metabolite>
+        <name>e4hglu[c]</name>
+        <formula>C5H8NO5</formula>
+        <description>erythro-4-hydroxy-L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>e4hglu[m]</name>
+        <formula>C5H8NO5</formula>
+        <description>erythro-4-hydroxy-L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu5sa[m]</name>
+        <formula>C5H9NO3</formula>
+        <description>L-Glutamate 5-semialdehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glx[m]</name>
+        <formula>C2H1O3</formula>
+        <description>glyoxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[c]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>n4abutn[c]</name>
+        <formula>C6H11NO2</formula>
+        <description>4-acetamidobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>n4abutn[m]</name>
+        <formula>C6H11NO2</formula>
+        <description>4-acetamidobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>no[c]</name>
+        <formula>NO</formula>
+        <description>Nitric oxide</description>
+    </metabolite>
+    <metabolite>
+        <name>nwharg[c]</name>
+        <formula>C6H15N4O3</formula>
+        <description>N-(omega)-Hydroxyarginine</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[m]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>orn_D[x]</name>
+        <formula>C5H13N2O2</formula>
+        <description>D-ornithinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_D[x]</name>
+        <formula>C5H9NO2</formula>
+        <description>D-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[c]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[m]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[r]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[c]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>ptrc[m]</name>
+        <formula>C4H14N2</formula>
+        <description>Putrescine</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[r]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[m]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>4HGLSDm</id>
+        <name>L-4-hydroxyglutamate semialdehyde dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>4hglusa[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>e4hglu[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADMDC</id>
+        <name>adenosylmethionine decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>amet[c]</reactant>
+        <product>co2[c]</product>
+        <product>ametam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGMTm</id>
+        <name>agmatinase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>agm[m]</reactant>
+        <product>ptrc[m]</product>
+        <product>urea[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>APRTO2</id>
+        <name>N-acetylputrescine: oxygen oxireductase (deaminating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>aprut[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>n4abutn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARGDCm</id>
+        <name>arginine decarboxylase (m)</name>
+        <reactant>h[m]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <product>co2[m]</product>
+        <product>agm[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DARGOp</id>
+        <name>D-arginine oxidase, perixosomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>arg_D[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>5g2oxpt[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DDPGAm</id>
+        <name>2-dehydro-3-deoxy-phosphogluconate aldolase, mitochondrial</name>
+        <reactant>4h2oglt[m]</reactant>
+        <product>pyr[m]</product>
+        <product>glx[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DKMPPD</id>
+        <name>2,3-diketo-5-methylthio-1-phosphopentane degradation reaction</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>dkmpp[c]</reactant>
+        <product>2 h[c]</product>
+        <product>pi[c]</product>
+        <product>for[c]</product>
+        <product>2kmb[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DORNOp</id>
+        <name>D-ornithine oxidase, perixosomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>orn_D[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>5a2opntn[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DPROOp</id>
+        <name>D-proline oxidase, perixosomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>pro_D[x]</reactant>
+        <product>h[x]</product>
+        <product>h2o2[x]</product>
+        <product>1p2cbxl[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EHGLAT</id>
+        <name>L-erythro-4-Hydroxyglutamate:2-oxoglutarate aminotransferase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>e4hglu[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>4h2oglt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EHGLAT2m</id>
+        <name>L-erythro-4-Hydroxyglutamate:2-oxoglutarate aminotransferase 2, mitochondrial</name>
+        <reactant>e4hglu[m]</reactant>
+        <reactant>oaa[m]</reactant>
+        <product>asp_L[m]</product>
+        <product>4h2oglt[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EHGLATm</id>
+        <name>L-erythro-4-Hydroxyglutamate:2-oxoglutarate aminotransferase, mitochondrial</name>
+        <reactant>akg[m]</reactant>
+        <reactant>e4hglu[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>4h2oglt[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>G5SADrm</id>
+        <name>L-glutamate 5-semialdehyde dehydratase, reversible, mitochondrial</name>
+        <reactant>glu5sa[m]</reactant>
+        <product>h[m]</product>
+        <product>h2o[m]</product>
+        <product>1pyr5c[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MDRPD</id>
+        <name>5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase</name>
+        <reactant>5mdru1p[c]</reactant>
+        <product>h2o[c]</product>
+        <product>dkmpp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTAP</id>
+        <name>5&apos;-methylthioadenosine phosphorylase</name>
+        <reactant>pi[c]</reactant>
+        <reactant>5mta[c]</reactant>
+        <product>ade[c]</product>
+        <product>5mdr1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTRI</id>
+        <name>5-methylthioribose-1-phosphate isomerase</name>
+        <reactant>5mdr1p[c]</reactant>
+        <product>5mdru1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NABTNO</id>
+        <name>N4-Acetylaminobutanal:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>n4abutn[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>4aabutn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NABTNOm</id>
+        <name>N4-Acetylaminobutanal:NAD+ oxidoreductase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>n4abutn[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>4aabutn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NOS1</id>
+        <name>Nitric Oxide Synthase (intermediate forming)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>nwharg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NOS2</id>
+        <name>Nitric Oxide Synthase (NO forming)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>nwharg[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>nadp[c]</product>
+        <product>citr_L[c]</product>
+        <product>no[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P5CRm</id>
+        <name>pyrroline-5-carboxylate reductase (m)</name>
+        <reactant>2 h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>1pyr5c[m]</reactant>
+        <product>nadp[m]</product>
+        <product>pro_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P5CRxm</id>
+        <name>pyrroline-5-carboxylate reductase (m)</name>
+        <reactant>2 h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>1pyr5c[m]</reactant>
+        <product>nad[m]</product>
+        <product>pro_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHCDm</id>
+        <name>L-1-pyrroline-3-hydroxy-5-carboxylate dehydrogenase</name>
+        <reactant>2 h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>1p3h5c[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>e4hglu[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PHCHGSm</id>
+        <name>L-1-Pyrroline-3-hydroxy-5-carboxylate spontaneous conversion to L-4-Hydroxyglutamate semialdehyde, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>h2o[m]</reactant>
+        <reactant>1p3h5c[m]</reactant>
+        <product>4hglusa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRO1xm</id>
+        <name>proline oxidase (NAD), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>pro_L[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>1pyr5c[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROAKGOX1r</id>
+        <name>L-Proline,2-oxoglutarate:oxygen oxidoreductase (4-hydroxylating) (ER)</name>
+        <reactant>o2[r]</reactant>
+        <reactant>akg[r]</reactant>
+        <reactant>pro_L[r]</reactant>
+        <product>co2[r]</product>
+        <product>4hpro_LT[r]</product>
+        <product>succ[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROD2</id>
+        <name>Proline dehydrogenase</name>
+        <reactant>fad[c]</reactant>
+        <reactant>pro_L[c]</reactant>
+        <product>h[c]</product>
+        <product>fadh2[c]</product>
+        <product>1pyr5c[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROD2m</id>
+        <name>Proline dehydrogenase (m)</name>
+        <reactant>fad[m]</reactant>
+        <reactant>pro_L[m]</reactant>
+        <product>h[m]</product>
+        <product>fadh2[m]</product>
+        <product>1pyr5c[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PTRCAT1</id>
+        <name>Putrescine acetyltransferase</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>ptrc[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>aprut[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PTRCOX1</id>
+        <name>Putrescine:oxygen oxidoreductase (deaminating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>ptrc[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>4abutn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UNK2</id>
+        <name>2-keto-4-methylthiobutyrate transamination</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <reactant>2kmb[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>met_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UNK3</id>
+        <name>2-keto-4-methylthiobutyrate transamination</name>
+        <reactant>glu_L[c]</reactant>
+        <reactant>2kmb[c]</reactant>
+        <product>akg[c]</product>
+        <product>met_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0024</id>
+        <name>N-(omega)-Hydroxyarginine,NADPH:oxygen oxidoreductase (nitric-oxide-forming) Arginine and proline metabolism EC:1.14.13.39</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 nwharg[c]</reactant>
+        <product>2 citr_L[c]</product>
+        <product>2 no[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0145</id>
+        <name>L-Arginine,NADPH:oxygen oxidoreductase (nitric-oxide-forming) Arginine and proline metabolism EC:1.14.13.39</name>
+        <reactant>2 o2[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>citr_L[c]</product>
+        <product>no[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0615</id>
+        <name>trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase Arginine and proline metabolism EC:1.5.1.2</name>
+        <reactant>nad[c]</reactant>
+        <reactant>4hpro_LT[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>1p3h5c[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0616</id>
+        <name>trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase Arginine and proline metabolism EC:1.5.1.2</name>
+        <reactant>nad[m]</reactant>
+        <reactant>4hpro_LT[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>1p3h5c[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0617</id>
+        <name>trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase Arginine and proline metabolism EC:1.5.1.2</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>4hpro_LT[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>1p3h5c[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0618</id>
+        <name>trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase Arginine and proline metabolism EC:1.5.1.2</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>4hpro_LT[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>1p3h5c[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0686</id>
+        <name>L-1-Pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase Arginine and proline metabolism EC:1.5.1.12</name>
+        <reactant>2 h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>1p3h5c[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>e4hglu[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P5CR</id>
+        <name>pyrroline-5-carboxylate reductase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>1pyr5c[c]</reactant>
+        <product>nadp[c]</product>
+        <product>pro_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Arginine and Proline Metabolism</subsystem>
+    </reaction>
+</reactions>

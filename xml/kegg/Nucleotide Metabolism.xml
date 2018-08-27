@@ -1,0 +1,1321 @@
+<metabolites>
+    <metabolite>
+        <name>(-)-Ureidoglycolate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>(5R)-Dihydrothymine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>(S)-Allantoin</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>3-Oxopropanoate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>3-Ureidopropanoate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>5-Hydroxyisourate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>ADP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>AICAR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>AIR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>AMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>ATP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Adenine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Adenosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Adenylosuccinate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Allantoate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Aminoacrylate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00438</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01205</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C03090</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C04640</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C04751</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C12248</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C15667</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C20231</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C20249</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C21029</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Carbamoyl_phosphate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Cytidine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Cytosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>DNA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Deoxyadenosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Deoxyguanosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Deoxyinosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>FAICAR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>GAR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>GDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>GMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>GTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Glyoxalate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Guanine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Guanosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Hydracrylic_acid</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Hydrouracil</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>IMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Inosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>L-Dihydroorotate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>N-Formyl-GAR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>NH3</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Orotate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Orotidylic_acid</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>PRPP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Purine-6-ol</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>RNA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>SAICAR</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>TTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Thymidine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Thymine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>UDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>UMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>UTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Uracil</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Urate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Urea</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Uridine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>XMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Xanthine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Xanthosine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>beta-Alanine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dADP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dAMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dATP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dCDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dCMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dCTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dGDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dGMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dGTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dTDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dTMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dUDP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dUMP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>dUTP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>R01072</id>
+        <name>rn:R01072</name>
+        <reactant>C03090</reactant>
+        <product>PRPP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04144</id>
+        <name>rn:R04144</name>
+        <reactant>C03090</reactant>
+        <product>GAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04325</id>
+        <name>rn:R04325</name>
+        <reactant>GAR</reactant>
+        <product>N-Formyl-GAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04463</id>
+        <name>rn:R04463</name>
+        <reactant>N-Formyl-GAR</reactant>
+        <product>C04640</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04208</id>
+        <name>rn:R04208</name>
+        <reactant>C04640</reactant>
+        <product>AIR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04209</id>
+        <name>rn:R04209</name>
+        <reactant>C04751</reactant>
+        <product>AIR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04591</id>
+        <name>rn:R04591</name>
+        <reactant>C04751</reactant>
+        <product>SAICAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04559</id>
+        <name>rn:R04559</name>
+        <reactant>SAICAR</reactant>
+        <product>AICAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04560</id>
+        <name>rn:R04560 rn:R06975</name>
+        <reactant>AICAR</reactant>
+        <product>FAICAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01127</id>
+        <name>rn:R01127</name>
+        <reactant>IMP</reactant>
+        <product>FAICAR</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01126</id>
+        <name>rn:R01126</name>
+        <reactant>IMP</reactant>
+        <product>Inosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01863</id>
+        <name>rn:R01863</name>
+        <reactant>Inosine</reactant>
+        <product>Purine-6-ol</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01128</id>
+        <name>rn:R01128 rn:R01132</name>
+        <reactant>IMP</reactant>
+        <product>Purine-6-ol</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01135</id>
+        <name>rn:R01135</name>
+        <reactant>Adenylosuccinate</reactant>
+        <product>IMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01083</id>
+        <name>rn:R01083</name>
+        <reactant>AMP</reactant>
+        <product>Adenylosuccinate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00183</id>
+        <name>rn:R00183 rn:R00185</name>
+        <reactant>AMP</reactant>
+        <product>Adenosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00190</id>
+        <name>rn:R00190</name>
+        <reactant>Adenine</reactant>
+        <product>AMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00127</id>
+        <name>rn:R00127</name>
+        <reactant>ADP</reactant>
+        <product>AMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02017</id>
+        <name>rn:R02017</name>
+        <reactant>ADP</reactant>
+        <product>dADP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00124</id>
+        <name>rn:R00124 rn:R00200</name>
+        <reactant>ATP</reactant>
+        <product>ADP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02014</id>
+        <name>rn:R02014 rn:R11634</name>
+        <reactant>ATP</reactant>
+        <product>dATP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01137</id>
+        <name>rn:R01137 rn:R01138</name>
+        <reactant>dATP</reactant>
+        <product>dADP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01560</id>
+        <name>rn:R01560</name>
+        <reactant>Adenosine</reactant>
+        <product>Inosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01130</id>
+        <name>rn:R01130</name>
+        <reactant>IMP</reactant>
+        <product>XMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02719</id>
+        <name>rn:R02719</name>
+        <reactant>XMP</reactant>
+        <product>Xanthosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02297</id>
+        <name>rn:R02297</name>
+        <reactant>Xanthosine</reactant>
+        <product>Xanthine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01768</id>
+        <name>rn:R01768 rn:R01769</name>
+        <reactant>Purine-6-ol</reactant>
+        <product>Xanthine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01230</id>
+        <name>rn:R01230 rn:R01231</name>
+        <reactant>XMP</reactant>
+        <product>GMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01227</id>
+        <name>rn:R01227</name>
+        <reactant>GMP</reactant>
+        <product>Guanosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02147</id>
+        <name>rn:R02147</name>
+        <reactant>Guanosine</reactant>
+        <product>Guanine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01676</id>
+        <name>rn:R01676</name>
+        <reactant>Xanthine</reactant>
+        <product>Guanine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01229</id>
+        <name>rn:R01229</name>
+        <reactant>Guanine</reactant>
+        <product>GMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00332</id>
+        <name>rn:R00332</name>
+        <reactant>GMP</reactant>
+        <product>GDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00330</id>
+        <name>rn:R00330 rn:R00430</name>
+        <reactant>GDP</reactant>
+        <product>GTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02019</id>
+        <name>rn:R02019</name>
+        <reactant>GDP</reactant>
+        <product>dGDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01857</id>
+        <name>rn:R01857 rn:R01858</name>
+        <reactant>dGDP</reactant>
+        <product>dGTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02020</id>
+        <name>rn:R02020 rn:R11633</name>
+        <reactant>GTP</reactant>
+        <product>dGTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02103</id>
+        <name>rn:R02103 rn:R02107</name>
+        <reactant>Xanthine</reactant>
+        <product>Urate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02106</id>
+        <name>rn:R02106 rn:R09514</name>
+        <reactant>5-Hydroxyisourate</reactant>
+        <product>Urate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R06601</id>
+        <name>rn:R06601</name>
+        <reactant>5-Hydroxyisourate</reactant>
+        <product>C12248</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R06604</id>
+        <name>rn:R06604</name>
+        <reactant>C12248</reactant>
+        <product>(S)-Allantoin</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02425</id>
+        <name>rn:R02425</name>
+        <reactant>(S)-Allantoin</reactant>
+        <product>Allantoate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01397</id>
+        <name>rn:R01397</name>
+        <reactant>C00438</reactant>
+        <product>Carbamoyl_phosphate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01993</id>
+        <name>rn:R01993</name>
+        <reactant>L-Dihydroorotate</reactant>
+        <product>C00438</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01867</id>
+        <name>rn:R01867 rn:R01868 rn:R01869</name>
+        <reactant>Orotate</reactant>
+        <product>L-Dihydroorotate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01870</id>
+        <name>rn:R01870</name>
+        <reactant>Orotate</reactant>
+        <reactant>PRPP</reactant>
+        <product>Orotidylic_acid</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00158</id>
+        <name>rn:R00158</name>
+        <reactant>UDP</reactant>
+        <product>UMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00156</id>
+        <name>rn:R00156</name>
+        <reactant>UTP</reactant>
+        <product>UDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00571</id>
+        <name>rn:R00571 rn:R00573</name>
+        <reactant>UTP</reactant>
+        <product>CTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00570</id>
+        <name>rn:R00570</name>
+        <reactant>CTP</reactant>
+        <product>CDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00512</id>
+        <name>rn:R00512</name>
+        <reactant>CDP</reactant>
+        <product>CMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00513</id>
+        <name>rn:R00513 rn:R00516 rn:R00517 rn:R00962 rn:R01548 rn:R02091 rn:R02096 rn:R02371 rn:R02372</name>
+        <reactant>CMP</reactant>
+        <product>Cytidine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00964</id>
+        <name>rn:R00964 rn:R00967 rn:R00968 rn:R00970 rn:R01549 rn:R01880 rn:R02097 rn:R02327 rn:R02332</name>
+        <reactant>UMP</reactant>
+        <product>Uridine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01878</id>
+        <name>rn:R01878</name>
+        <reactant>Cytidine</reactant>
+        <product>Uridine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01876</id>
+        <name>rn:R01876</name>
+        <reactant>Uridine</reactant>
+        <product>Uracil</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00974</id>
+        <name>rn:R00974</name>
+        <reactant>Uracil</reactant>
+        <product>Cytosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02137</id>
+        <name>rn:R02137 rn:R02296</name>
+        <reactant>Cytidine</reactant>
+        <product>Cytosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00977</id>
+        <name>rn:R00977 rn:R00978</name>
+        <reactant>Uracil</reactant>
+        <product>Hydrouracil</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02269</id>
+        <name>rn:R02269</name>
+        <reactant>Hydrouracil</reactant>
+        <product>3-Ureidopropanoate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00905</id>
+        <name>rn:R00905</name>
+        <reactant>3-Ureidopropanoate</reactant>
+        <product>beta-Alanine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02022</id>
+        <name>rn:R02022 rn:R11636</name>
+        <reactant>CTP</reactant>
+        <product>dCTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02024</id>
+        <name>rn:R02024</name>
+        <reactant>CDP</reactant>
+        <product>dCDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02325</id>
+        <name>rn:R02325</name>
+        <reactant>dCTP</reactant>
+        <product>dUTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02100</id>
+        <name>rn:R02100</name>
+        <reactant>dUTP</reactant>
+        <product>dUMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02101</id>
+        <name>rn:R02101</name>
+        <reactant>dUMP</reactant>
+        <product>dTMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02094</id>
+        <name>rn:R02094</name>
+        <reactant>dTMP</reactant>
+        <product>dTDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02093</id>
+        <name>rn:R02093</name>
+        <reactant>dTDP</reactant>
+        <product>TTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02326</id>
+        <name>rn:R02326</name>
+        <reactant>dCTP</reactant>
+        <product>dCDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00377</id>
+        <name>rn:R00377</name>
+        <reactant>dCTP</reactant>
+        <product>DNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00378</id>
+        <name>rn:R00378</name>
+        <reactant>TTP</reactant>
+        <product>DNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00375</id>
+        <name>rn:R00375</name>
+        <reactant>DNA</reactant>
+        <product>dATP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00376</id>
+        <name>rn:R00376</name>
+        <reactant>dGTP</reactant>
+        <product>DNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00443</id>
+        <name>rn:R00443</name>
+        <reactant>UTP</reactant>
+        <product>RNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00442</id>
+        <name>rn:R00442</name>
+        <reactant>CTP</reactant>
+        <product>RNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00435</id>
+        <name>rn:R00435</name>
+        <reactant>ATP</reactant>
+        <product>RNA</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00965</id>
+        <name>rn:R00965</name>
+        <reactant>Orotidylic_acid</reactant>
+        <product>UMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01567</id>
+        <name>rn:R01567 rn:R01569</name>
+        <reactant>Thymidine</reactant>
+        <product>dTMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01570</id>
+        <name>rn:R01570 rn:R02806</name>
+        <reactant>Thymine</reactant>
+        <product>Thymidine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01415</id>
+        <name>rn:R01415 rn:R11026</name>
+        <reactant>(5R)-Dihydrothymine</reactant>
+        <product>Thymine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03055</id>
+        <name>rn:R03055</name>
+        <reactant>(5R)-Dihydrothymine</reactant>
+        <product>C21029</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04666</id>
+        <name>rn:R04666</name>
+        <reactant>C21029</reactant>
+        <product>C01205</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01245</id>
+        <name>rn:R01245 rn:R01561</name>
+        <reactant>Adenosine</reactant>
+        <product>Adenine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01244</id>
+        <name>rn:R01244</name>
+        <reactant>Purine-6-ol</reactant>
+        <product>Adenine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00181</id>
+        <name>rn:R00181</name>
+        <reactant>IMP</reactant>
+        <product>AMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01547</id>
+        <name>rn:R01547</name>
+        <reactant>dADP</reactant>
+        <product>dAMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02088</id>
+        <name>rn:R02088 rn:R02089</name>
+        <reactant>dAMP</reactant>
+        <product>Deoxyadenosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02556</id>
+        <name>rn:R02556</name>
+        <reactant>Deoxyadenosine</reactant>
+        <product>Deoxyinosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02748</id>
+        <name>rn:R02748</name>
+        <reactant>Purine-6-ol</reactant>
+        <product>Deoxyinosine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02090</id>
+        <name>rn:R02090</name>
+        <reactant>dGDP</reactant>
+        <product>dGMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01967</id>
+        <name>rn:R01967 rn:R01968</name>
+        <reactant>Deoxyguanosine</reactant>
+        <product>dGMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01969</id>
+        <name>rn:R01969</name>
+        <reactant>Deoxyguanosine</reactant>
+        <product>Guanine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02142</id>
+        <name>rn:R02142</name>
+        <reactant>Xanthine</reactant>
+        <product>XMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02557</id>
+        <name>rn:R02557</name>
+        <reactant>Deoxyadenosine</reactant>
+        <product>Adenine</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00662</id>
+        <name>rn:R00662</name>
+        <reactant>UMP</reactant>
+        <product>UTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00966</id>
+        <name>rn:R00966</name>
+        <reactant>Uracil</reactant>
+        <product>UMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01665</id>
+        <name>rn:R01665 rn:R01667</name>
+        <reactant>dCDP</reactant>
+        <product>dCMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01663</id>
+        <name>rn:R01663</name>
+        <reactant>dUMP</reactant>
+        <product>dCMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00441</id>
+        <name>rn:R00441</name>
+        <reactant>RNA</reactant>
+        <product>GTP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02422</id>
+        <name>rn:R02422</name>
+        <reactant>Allantoate</reactant>
+        <product>Urea</product>
+        <product>(-)-Ureidoglycolate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00469</id>
+        <name>rn:R00469</name>
+        <reactant>(-)-Ureidoglycolate</reactant>
+        <product>NH3</product>
+        <product>Glyoxalate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02331</id>
+        <name>rn:R02331</name>
+        <reactant>dUTP</reactant>
+        <product>dUDP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02098</id>
+        <name>rn:R02098</name>
+        <reactant>dUDP</reactant>
+        <product>dUMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R07404</id>
+        <name>rn:R07404</name>
+        <reactant>AIR</reactant>
+        <product>C15667</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R07405</id>
+        <name>rn:R07405</name>
+        <reactant>C15667</reactant>
+        <product>C04751</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09983</id>
+        <name>rn:R09983</name>
+        <reactant>Aminoacrylate</reactant>
+        <product>3-Oxopropanoate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09982</id>
+        <name>rn:R09982</name>
+        <reactant>C20249</reactant>
+        <product>Aminoacrylate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09947</id>
+        <name>rn:R09947</name>
+        <reactant>C20231</reactant>
+        <product>C20249</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09936</id>
+        <name>rn:R09936</name>
+        <reactant>Uracil</reactant>
+        <product>C20231</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09289</id>
+        <name>rn:R09289</name>
+        <reactant>Hydracrylic_acid</reactant>
+        <product>3-Oxopropanoate</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01668</id>
+        <name>rn:R01668</name>
+        <reactant>dCTP</reactant>
+        <product>dCMP</product>
+        <reversible>false</reversible>
+        <subsystem>Nucleotide Metabolism</subsystem>
+    </reaction>
+</reactions>
+<subsystems>
+    <subsystem>
+        <id>10</id>
+        <name>Nucleotide Metabolism</name>
+        <color>#FF8080</color>
+        <x>2564</x>
+        <y>426</y>
+    </subsystem>
+</subsystems>

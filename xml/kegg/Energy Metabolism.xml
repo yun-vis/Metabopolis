@@ -1,0 +1,653 @@
+<metabolites>
+    <metabolite>
+        <name>(3S)-Citryl-CoA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>3-Phosphoglycerate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>5-Formyl-H4MPT</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>5-Methyl-THMPT</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>APS</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Acetyl-CoA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00118</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00199</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00231</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00279</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00354</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00447</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01080</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01182</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C04330</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C04377</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C05382</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CH3OH</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CH4</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CO2</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Citrate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CoB</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>CoM-S-S-CoB</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Coenzyme_F420</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Formalin</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Formate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Formylmethanofuran</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Glutamate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>H+</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>H2S</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Hyposulfite</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>L-Alanine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>L-Asp</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>L-Glutamine</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Malate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Methanofuran</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Methyl-CoM</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>N2</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>NH3</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Neuberg_ester</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Oxaloacetate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>PAPS</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>PEP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Pyruvate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Ribose_5-phosphate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Sulfate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Sulfite</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>R00253</id>
+        <name>rn:R00253 rn:R00256</name>
+        <reactant>Glutamate</reactant>
+        <product>L-Glutamine</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R05185</id>
+        <name>rn:R05185 rn:R05186</name>
+        <reactant>N2</reactant>
+        <product>NH3</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00024</id>
+        <name>rn:R00024</name>
+        <reactant>C01182</reactant>
+        <reactant>CO2</reactant>
+        <product>3-Phosphoglycerate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01523</id>
+        <name>rn:R01523</name>
+        <reactant>C00199</reactant>
+        <product>C01182</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01056</id>
+        <name>rn:R01056</name>
+        <reactant>Ribose_5-phosphate</reactant>
+        <product>C00199</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01641</id>
+        <name>rn:R01641</name>
+        <reactant>C05382</reactant>
+        <product>Ribose_5-phosphate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01845</id>
+        <name>rn:R01845</name>
+        <reactant>C05382</reactant>
+        <product>C00447</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01829</id>
+        <name>rn:R01829</name>
+        <reactant>C00279</reactant>
+        <product>C00447</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01067</id>
+        <name>rn:R01067</name>
+        <reactant>Neuberg_ester</reactant>
+        <product>C00279</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00762</id>
+        <name>rn:R00762</name>
+        <reactant>Neuberg_ester</reactant>
+        <product>C00354</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01068</id>
+        <name>rn:R01068</name>
+        <reactant>C00354</reactant>
+        <product>C00118</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01621</id>
+        <name>rn:R01621</name>
+        <reactant>C00118</reactant>
+        <product>C00231</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01529</id>
+        <name>rn:R01529</name>
+        <reactant>C00231</reactant>
+        <product>C00199</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00214</id>
+        <name>rn:R00214 rn:R00216</name>
+        <reactant>Malate</reactant>
+        <product>Pyruvate</product>
+        <product>CO2</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00206</id>
+        <name>rn:R00206</name>
+        <reactant>Pyruvate</reactant>
+        <product>PEP</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00345</id>
+        <name>rn:R00345</name>
+        <reactant>PEP</reactant>
+        <reactant>CO2</reactant>
+        <product>Oxaloacetate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00258</id>
+        <name>rn:R00258</name>
+        <reactant>Pyruvate</reactant>
+        <product>L-Alanine</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00342</id>
+        <name>rn:R00342</name>
+        <reactant>Malate</reactant>
+        <product>Oxaloacetate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01142</id>
+        <name>rn:R01142 rn:R09518</name>
+        <reactant>CH4</reactant>
+        <product>CH3OH</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00602</id>
+        <name>rn:R00602 rn:R00605 rn:R00608 rn:R01146</name>
+        <reactant>CH3OH</reactant>
+        <product>Formalin</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00604</id>
+        <name>rn:R00604</name>
+        <reactant>Formalin</reactant>
+        <product>Formate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00134</id>
+        <name>rn:R00134 rn:R00519 rn:R10797</name>
+        <reactant>Formate</reactant>
+        <product>H+</product>
+        <product>CO2</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00529</id>
+        <name>rn:R00529 rn:R00530 rn:R00531</name>
+        <reactant>Sulfate</reactant>
+        <product>APS</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R08553</id>
+        <name>rn:R08553</name>
+        <reactant>APS</reactant>
+        <product>Sulfite</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00858</id>
+        <name>rn:R00858 rn:R00859 rn:R00861 rn:R10146</name>
+        <reactant>Sulfite</reactant>
+        <product>H2S</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03015</id>
+        <name>rn:R03015</name>
+        <reactant>Formylmethanofuran</reactant>
+        <product>CO2</product>
+        <product>Methanofuran</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03390</id>
+        <name>rn:R03390</name>
+        <reactant>Formylmethanofuran</reactant>
+        <product>5-Formyl-H4MPT</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03464</id>
+        <name>rn:R03464</name>
+        <reactant>5-Formyl-H4MPT</reactant>
+        <product>C04330</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04456</id>
+        <name>rn:R04456 rn:R08059</name>
+        <reactant>C04330</reactant>
+        <product>C04377</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04464</id>
+        <name>rn:R04464</name>
+        <reactant>C01080</reactant>
+        <reactant>C04377</reactant>
+        <product>5-Methyl-THMPT</product>
+        <product>Coenzyme_F420</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03025</id>
+        <name>rn:R03025</name>
+        <reactant>C01080</reactant>
+        <product>Coenzyme_F420</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04347</id>
+        <name>rn:R04347</name>
+        <reactant>5-Methyl-THMPT</reactant>
+        <product>Methyl-CoM</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04541</id>
+        <name>rn:R04541</name>
+        <reactant>CoB</reactant>
+        <reactant>Methyl-CoM</reactant>
+        <product>CH4</product>
+        <product>CoM-S-S-CoB</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00134</id>
+        <name>rn:R00134 rn:R10797</name>
+        <reactant>Formate</reactant>
+        <product>CO2</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00355</id>
+        <name>rn:R00355</name>
+        <reactant>Oxaloacetate</reactant>
+        <product>L-Asp</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00341</id>
+        <name>rn:R00341</name>
+        <reactant>PEP</reactant>
+        <product>Oxaloacetate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00343</id>
+        <name>rn:R00343</name>
+        <reactant>Oxaloacetate</reactant>
+        <product>Malate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01641</id>
+        <name>rn:R01641</name>
+        <reactant>Ribose_5-phosphate</reactant>
+        <reactant>C00231</reactant>
+        <product>C00118</product>
+        <product>C05382</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01056</id>
+        <name>rn:R01056</name>
+        <reactant>C00199</reactant>
+        <product>Ribose_5-phosphate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01529</id>
+        <name>rn:R01529</name>
+        <reactant>C00199</reactant>
+        <product>C00231</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00355</id>
+        <name>rn:R00355</name>
+        <reactant>Glutamate</reactant>
+        <reactant>Oxaloacetate</reactant>
+        <product>L-Asp</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00253</id>
+        <name>rn:R00253 rn:R00256</name>
+        <reactant>NH3</reactant>
+        <product>L-Glutamine</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00508</id>
+        <name>rn:R00508 rn:R00509</name>
+        <reactant>PAPS</reactant>
+        <product>APS</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02021</id>
+        <name>rn:R02021</name>
+        <reactant>PAPS</reactant>
+        <product>Sulfite</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04540</id>
+        <name>rn:R04540 rn:R11928 rn:R11931 rn:R11943 rn:R11944</name>
+        <reactant>CoM-S-S-CoB</reactant>
+        <product>CoB</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01322</id>
+        <name>rn:R01322</name>
+        <reactant>Citrate</reactant>
+        <product>(3S)-Citryl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00354</id>
+        <name>rn:R00354</name>
+        <reactant>(3S)-Citryl-CoA</reactant>
+        <product>Oxaloacetate</product>
+        <product>Acetyl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R10151</id>
+        <name>rn:R10151</name>
+        <reactant>Hyposulfite</reactant>
+        <product>Sulfate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00528</id>
+        <name>rn:R00528 rn:R00533 rn:R11487</name>
+        <reactant>Sulfite</reactant>
+        <product>Sulfate</product>
+        <reversible>false</reversible>
+        <subsystem>Energy Metabolism</subsystem>
+    </reaction>
+</reactions>
+<subsystems>
+    <subsystem>
+        <id>7</id>
+        <name>Energy Metabolism</name>
+        <color>#CC99FF</color>
+        <x>1597</x>
+        <y>1491</y>
+    </subsystem>
+</subsystems>

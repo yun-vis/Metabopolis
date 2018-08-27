@@ -1,0 +1,185 @@
+<metabolites>
+    <metabolite>
+        <name>3sala[c]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>Lcyst[c]</name>
+        <formula>C3H6NO5S</formula>
+        <description>L-cysteate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hyptaur[c]</name>
+        <formula>C2H7NO2S</formula>
+        <description>Hypotaurine</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[c]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>3sala[c]</name>
+        <formula>C3H5NO4S</formula>
+        <description>3-Sulfino-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>Lcyst[c]</name>
+        <formula>C3H6NO5S</formula>
+        <description>L-cysteate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cysam[c]</name>
+        <formula>C2H8NS</formula>
+        <description>cysteaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hyptaur[c]</name>
+        <formula>C2H7NO2S</formula>
+        <description>Hypotaurine</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[c]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[x]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[c]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+    <metabolite>
+        <name>taur[x]</name>
+        <formula>C2H7NO3S</formula>
+        <description>Taurine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>3SALACBOXL</id>
+        <name>3-Sulfino-L-alanine carboxy-lyase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>3sala[c]</reactant>
+        <product>co2[c]</product>
+        <product>hyptaur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3SALAOX</id>
+        <name>cysteinesulfinic acid oxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 3sala[c]</reactant>
+        <product>2 Lcyst[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYSO</id>
+        <name>cysteine oxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <product>2 h[c]</product>
+        <product>3sala[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HYPTROX</id>
+        <name>Hypotaurine oxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 hyptaur[c]</reactant>
+        <product>2 taur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCYSTCBOXL</id>
+        <name>3-Sulfoalanine carboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>Lcyst[c]</reactant>
+        <product>co2[c]</product>
+        <product>taur[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TAURtcx</id>
+        <name>taurine transport (sodium symport) (cytosol to peroxisome)</name>
+        <reactant>na1[c]</reactant>
+        <reactant>taur[c]</reactant>
+        <product>taur[x]</product>
+        <product>na1[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0381</id>
+        <name>hypotaurine:NAD+ oxidoreductase Taurine and hypotaurine metabolism EC:1.8.1.3</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>hyptaur[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>taur[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0539</id>
+        <name>Cysteamine:oxygen oxidoreductase Taurine and hypotaurine metabolism EC:1.13.11.19</name>
+        <reactant>o2[c]</reactant>
+        <reactant>cysam[c]</reactant>
+        <product>h[c]</product>
+        <product>hyptaur[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Taurine and hypotaurine metabolism</subsystem>
+    </reaction>
+</reactions>

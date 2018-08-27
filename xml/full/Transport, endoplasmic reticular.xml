@@ -1,0 +1,2846 @@
+<metabolites>
+    <metabolite>
+        <name>11docrtsl[c]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtsl[r]</name>
+        <formula>C21H30O4</formula>
+        <description>11-deoxycortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[c]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>11docrtstrn[r]</name>
+        <formula>C21H30O3</formula>
+        <description>11-deoxycorticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retn[r]</name>
+        <formula>C20H27O2</formula>
+        <description>13-cis-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retnglc[c]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retnglc[e]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>13_cis_retnglc[r]</name>
+        <formula>C26H35O8</formula>
+        <description>13-cis-retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>5HPET[c]</name>
+        <formula>C20H31O4</formula>
+        <description>5(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>5HPET[r]</name>
+        <formula>C20H31O4</formula>
+        <description>5(S)-HPETE(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[c]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[r]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[c]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[r]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[c]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[r]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>4mptnl[c]</name>
+        <formula>C6H12O</formula>
+        <description>4-methylpentanal</description>
+    </metabolite>
+    <metabolite>
+        <name>4mptnl[r]</name>
+        <formula>C6H12O</formula>
+        <description>4-methylpentanal</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststerone[c]</name>
+        <formula>C19H30O2</formula>
+        <description>17beta-hydroxy-5alpha-androstan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststerone[r]</name>
+        <formula>C19H30O2</formula>
+        <description>17beta-hydroxy-5alpha-androstan-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststeroneglc[c]</name>
+        <formula>C25H38O8</formula>
+        <description>5alpha-Dihydrotestosterone glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>5adtststeroneglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>5alpha-Dihydrotestosterone glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>6htststerone[c]</name>
+        <formula>C19H28O3</formula>
+        <description>6 beta hydroxy testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>6htststerone[r]</name>
+        <formula>C19H28O3</formula>
+        <description>6 beta hydroxy testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhchsterol[c]</name>
+        <formula>C27H44O</formula>
+        <description>cholesta-5,7-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhchsterol[r]</name>
+        <formula>C27H44O</formula>
+        <description>cholesta-5,7-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>Asn_X_Ser_Thr[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked asparagine residue (N-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>Asn_X_Ser_Thr[r]</name>
+        <formula>XH</formula>
+        <description>protein-linked asparagine residue (N-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[c]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02528[r]</name>
+        <formula>C24H39O4</formula>
+        <description>chenodeoxycholate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00004[c]</name>
+        <formula></formula>
+        <description>ApoA1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00004[r]</name>
+        <formula></formula>
+        <description>ApoA1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00005[c]</name>
+        <formula></formula>
+        <description>ApoB100</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00005[r]</name>
+        <formula></formula>
+        <description>ApoB100</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00006[c]</name>
+        <formula></formula>
+        <description>ApoC1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00006[r]</name>
+        <formula></formula>
+        <description>ApoC1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00007[c]</name>
+        <formula></formula>
+        <description>ApoC2</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00007[r]</name>
+        <formula></formula>
+        <description>ApoC2</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00008[c]</name>
+        <formula></formula>
+        <description>ApoC3</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00008[r]</name>
+        <formula></formula>
+        <description>ApoC3</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00009[c]</name>
+        <formula></formula>
+        <description>ApoE</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00009[r]</name>
+        <formula></formula>
+        <description>ApoE</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01231[c]</name>
+        <formula>C12H21N2O6S</formula>
+        <description>N-[(R)-pantothenoyl]-L-cysteinate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01231[m]</name>
+        <formula>C12H21N2O6S</formula>
+        <description>N-[(R)-pantothenoyl]-L-cysteinate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02100[r]</name>
+        <formula>C20H33O2</formula>
+        <description>Dihomo-gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02198[c]</name>
+        <formula>C26H43NO8S2</formula>
+        <description>2-[(4R)-4-[(1S,2S,5R,7R,10R,11S,14R,15R)-2,15-dimethyl-5-(sulfonatooxy)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-yl]pentanamido]ethane-1-sulfonate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02198[e]</name>
+        <formula>C26H43NO8S2</formula>
+        <description>2-[(4R)-4-[(1S,2S,5R,7R,10R,11S,14R,15R)-2,15-dimethyl-5-(sulfonatooxy)tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadecan-14-yl]pentanamido]ethane-1-sulfonate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10854[c]</name>
+        <formula></formula>
+        <description>palmitoleoyl-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10854[r]</name>
+        <formula></formula>
+        <description>palmitoleoyl-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10855[c]</name>
+        <formula></formula>
+        <description>linoleic-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10855[r]</name>
+        <formula></formula>
+        <description>linoleic-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[c]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10859[r]</name>
+        <formula></formula>
+        <description>Malonyl-Carnitin</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[r]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[r]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[r]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acmana[e]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-mannosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acmana[r]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-mannosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[c]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>acrn[r]</name>
+        <formula>C9H17NO4</formula>
+        <description>O-acetylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[r]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ahandrostanglc[c]</name>
+        <formula>C25H38O8</formula>
+        <description>3alpha-hydroxy-5beta-androstan-17-one 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>ahandrostanglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>3alpha-hydroxy-5beta-androstan-17-one 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[r]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[r]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[r]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrn[c]</name>
+        <formula>C19H30O2</formula>
+        <description>androsterone</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrn[r]</name>
+        <formula>C19H30O2</formula>
+        <description>androsterone</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrnglc[c]</name>
+        <formula>C25H38O8</formula>
+        <description>androsterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>andrstrnglc[r]</name>
+        <formula>C25H38O8</formula>
+        <description>androsterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[l]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[r]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>bildglcur[c]</name>
+        <formula>C45H50N4O18</formula>
+        <description>bis(beta-glucosyluronate)bilirubin</description>
+    </metabolite>
+    <metabolite>
+        <name>bildglcur[r]</name>
+        <formula>C45H50N4O18</formula>
+        <description>bis(beta-glucosyluronate)bilirubin</description>
+    </metabolite>
+    <metabolite>
+        <name>bilglcur[c]</name>
+        <formula>C39H44N4O12</formula>
+        <description>mono(glucosyluronic acid)bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bilglcur[r]</name>
+        <formula>C39H44N4O12</formula>
+        <description>mono(glucosyluronic acid)bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bilirub[c]</name>
+        <formula>C33H34N4O6</formula>
+        <description>bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bilirub[r]</name>
+        <formula>C33H34N4O6</formula>
+        <description>bilirubin(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bz[c]</name>
+        <formula>C7H5O2</formula>
+        <description>benzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>bz[r]</name>
+        <formula>C7H5O2</formula>
+        <description>benzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>cbp[c]</name>
+        <formula>CH2NO5P</formula>
+        <description>Carbamoyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>cbp[r]</name>
+        <formula>CH2NO5P</formula>
+        <description>Carbamoyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpchol[c]</name>
+        <formula>C14H25N4O11P2</formula>
+        <description>CDPcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpchol[r]</name>
+        <formula>C14H25N4O11P2</formula>
+        <description>CDPcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[c]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[r]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[c]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholate[r]</name>
+        <formula>C24H39O5</formula>
+        <description>Cholate</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[c]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholcoa[r]</name>
+        <formula>C45H70N7O20P3S</formula>
+        <description>choloyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[l]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[c]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[r]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[r]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[c]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[r]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[c]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[r]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[c]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtsl[r]</name>
+        <formula>C21H30O5</formula>
+        <description>cortisol</description>
+    </metabolite>
+    <metabolite>
+        <name>crtstrn[c]</name>
+        <formula>C21H30O4</formula>
+        <description>corticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>crtstrn[r]</name>
+        <formula>C21H30O4</formula>
+        <description>corticosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[c]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[r]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[c]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dcholcoa[r]</name>
+        <formula>C45H70N7O19P3S</formula>
+        <description>chenodeoxycholoyl coenzyme a</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[c]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcholestanate[r]</name>
+        <formula>C27H45O4</formula>
+        <description>3alpha,7alpha-Dihydroxy-5beta-cholestanate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhea[c]</name>
+        <formula>C19H28O2</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>dhea[r]</name>
+        <formula>C19H28O2</formula>
+        <description>3beta-hydroxyandrost-5-en-17-one</description>
+    </metabolite>
+    <metabolite>
+        <name>dlnlcg[c]</name>
+        <formula>C20H33O2</formula>
+        <description>dihomo-gamma-linolenic acid (n-6)</description>
+    </metabolite>
+    <metabolite>
+        <name>dlnlcgcoa[c]</name>
+        <formula>C41H64N7O17P3S</formula>
+        <description>dihomo-gamma-linolenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dlnlcgcoa[r]</name>
+        <formula>C41H64N7O17P3S</formula>
+        <description>dihomo-gamma-linolenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastine[c]</name>
+        <formula>C32H39NO2</formula>
+        <description>ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastine[r]</name>
+        <formula>C32H39NO2</formula>
+        <description>ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastineoh[c]</name>
+        <formula>C32H39NO3</formula>
+        <description>hydroxylated ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastineoh[r]</name>
+        <formula>C32H39NO3</formula>
+        <description>hydroxylated ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiol[c]</name>
+        <formula>C18H24O2</formula>
+        <description>estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiol[r]</name>
+        <formula>C18H24O2</formula>
+        <description>estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiolglc[c]</name>
+        <formula>C24H32O8</formula>
+        <description>17beta-estradiol 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>estradiolglc[r]</name>
+        <formula>C24H32O8</formula>
+        <description>17beta-estradiol 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>estriol[c]</name>
+        <formula>C18H24O3</formula>
+        <description>estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estriol[r]</name>
+        <formula>C18H24O3</formula>
+        <description>estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estriolglc[c]</name>
+        <formula>C24H32O9</formula>
+        <description>16-Glucuronide-estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estriolglc[r]</name>
+        <formula>C24H32O9</formula>
+        <description>16-Glucuronide-estriol</description>
+    </metabolite>
+    <metabolite>
+        <name>estrone[c]</name>
+        <formula>C18H22O2</formula>
+        <description>estrone</description>
+    </metabolite>
+    <metabolite>
+        <name>estrone[r]</name>
+        <formula>C18H22O2</formula>
+        <description>estrone</description>
+    </metabolite>
+    <metabolite>
+        <name>estroneglc[c]</name>
+        <formula>C24H30O8</formula>
+        <description>estrone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>estroneglc[r]</name>
+        <formula>C24H30O8</formula>
+        <description>estrone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[r]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[r]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[r]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[c]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>frdp[r]</name>
+        <formula>C15H25O7P2</formula>
+        <description>Farnesyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>g6p[r]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Glucose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gacpail_hs[c]</name>
+        <formula>C31H58NO14PFULLRCO2FULLR2CO2</formula>
+        <description>glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>gacpail_hs[r]</name>
+        <formula>C31H58NO14PFULLRCO2FULLR2CO2</formula>
+        <description>glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>glac[c]</name>
+        <formula>C6H8O6</formula>
+        <description>D-glucurono-6,3-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>glac[r]</name>
+        <formula>C6H8O6</formula>
+        <description>D-glucurono-6,3-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[r]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[c]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[r]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[r]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[c]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[r]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[r]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gullac[c]</name>
+        <formula>C6H10O6</formula>
+        <description>L-gulono-1,4-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>gullac[r]</name>
+        <formula>C6H10O6</formula>
+        <description>L-gulono-1,4-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>guln[c]</name>
+        <formula>C6H11O7</formula>
+        <description>L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>guln[r]</name>
+        <formula>C6H11O7</formula>
+        <description>L-gulonate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[c]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[l]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[r]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcea[c]</name>
+        <formula>C16H29O2</formula>
+        <description>Hexadecenoate (n-C16:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcea[l]</name>
+        <formula>C16H29O2</formula>
+        <description>Hexadecenoate (n-C16:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcea[r]</name>
+        <formula>C16H29O2</formula>
+        <description>Hexadecenoate (n-C16:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>hestratriol[c]</name>
+        <formula>C18H24O3</formula>
+        <description>4,17 dihydroxy estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>hestratriol[r]</name>
+        <formula>C18H24O3</formula>
+        <description>4,17 dihydroxy estradiol</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[c]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[r]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[r]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[c]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrA4[r]</name>
+        <formula>C20H29O3</formula>
+        <description>leukotriene A4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[c]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrB4[r]</name>
+        <formula>C20H31O4</formula>
+        <description>leukotriene B4(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrD4[c]</name>
+        <formula>C25H39N2O6S</formula>
+        <description>Leukotriene D4</description>
+    </metabolite>
+    <metabolite>
+        <name>leuktrD4[r]</name>
+        <formula>C25H39N2O6S</formula>
+        <description>Leukotriene D4</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlc[c]</name>
+        <formula>C18H31O2</formula>
+        <description>linoleate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlc[r]</name>
+        <formula>C18H31O2</formula>
+        <description>linoleate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlccoa[c]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoleic coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlccoa[r]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoleic coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlnca[c]</name>
+        <formula>C18H29O2</formula>
+        <description>alpha-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlnca[r]</name>
+        <formula>C18H29O2</formula>
+        <description>alpha-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncg[c]</name>
+        <formula>C18H29O2</formula>
+        <description>gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncg[r]</name>
+        <formula>C18H29O2</formula>
+        <description>gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncgcoa[c]</name>
+        <formula>C39H60N7O17P3S</formula>
+        <description>gamma-linolenoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncgcoa[r]</name>
+        <formula>C39H60N7O17P3S</formula>
+        <description>gamma-linolenoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>man[r]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>meoh[c]</name>
+        <formula>CH4O1</formula>
+        <description>methanol</description>
+    </metabolite>
+    <metabolite>
+        <name>meoh[r]</name>
+        <formula>CH4O1</formula>
+        <description>methanol</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[c]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[r]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[r]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[r]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[c]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[r]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[r]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[r]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[c]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[r]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[c]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcrn[r]</name>
+        <formula>C23H45NO4</formula>
+        <description>L-palmitoylcarnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[r]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[c]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prgnlone[r]</name>
+        <formula>C21H32O2</formula>
+        <description>pregnenolone</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgi2[c]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin I2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>prostgi2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>prostaglandin I2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[c]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[r]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r5p[r]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 5-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[c]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>retn[r]</name>
+        <formula>C20H27O2</formula>
+        <description>all-trans-retinoate</description>
+    </metabolite>
+    <metabolite>
+        <name>retnglc[c]</name>
+        <formula>C26H35O8</formula>
+        <description>retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>retnglc[r]</name>
+        <formula>C26H35O8</formula>
+        <description>retinoyl glucuronide</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ru5p_D[r]</name>
+        <formula>C5H9O8P</formula>
+        <description>D-ribulose 5-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>sph1p[c]</name>
+        <formula>C18H39NO5P</formula>
+        <description>(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sph1p[r]</name>
+        <formula>C18H39NO5P</formula>
+        <description>(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sphgn[c]</name>
+        <formula>C18H40NO2</formula>
+        <description>sphinganine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphgn[r]</name>
+        <formula>C18H40NO2</formula>
+        <description>sphinganine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[c]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[r]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphs1p[c]</name>
+        <formula>C18H37NO5P</formula>
+        <description>sphingosine 1-phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphs1p[r]</name>
+        <formula>C18H37NO5P</formula>
+        <description>sphingosine 1-phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[c]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[l]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[r]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[c]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>thcholstoic[r]</name>
+        <formula>C27H45O5</formula>
+        <description>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>tmlys[c]</name>
+        <formula>C9H20N2O2</formula>
+        <description>N6,N6,N6-Trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>tmlys[r]</name>
+        <formula>C9H20N2O2</formula>
+        <description>N6,N6,N6-Trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>tststerone[c]</name>
+        <formula>C19H28O2</formula>
+        <description>testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>tststerone[r]</name>
+        <formula>C19H28O2</formula>
+        <description>testosterone</description>
+    </metabolite>
+    <metabolite>
+        <name>tststeroneglc[c]</name>
+        <formula>C25H36O8</formula>
+        <description>testosterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>tststeroneglc[r]</name>
+        <formula>C25H36O8</formula>
+        <description>testosterone 3-glucosiduronic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>txa2[c]</name>
+        <formula>C20H31O5</formula>
+        <description>thromboxane A2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>txa2[r]</name>
+        <formula>C20H31O5</formula>
+        <description>thromboxane A2(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[r]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[r]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[r]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[c]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[r]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[r]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[c]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7ah2[r]</name>
+        <formula>C27H48O2</formula>
+        <description>5beta-cholestane-3alpha,7alpha-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7aone[c]</name>
+        <formula>C27H44O2</formula>
+        <description>7alpha-hydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xol7aone[r]</name>
+        <formula>C27H44O2</formula>
+        <description>7alpha-hydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldiolone[c]</name>
+        <formula>C27H44O3</formula>
+        <description>7alpha,12alpha-Dihydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldiolone[m]</name>
+        <formula>C27H44O3</formula>
+        <description>7alpha,12alpha-Dihydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoldiolone[r]</name>
+        <formula>C27H44O3</formula>
+        <description>7alpha,12alpha-Dihydroxycholest-4-en-3-one</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri24[c]</name>
+        <formula>C27H46O3</formula>
+        <description>(24S)-7alpha,24-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri24[r]</name>
+        <formula>C27H46O3</formula>
+        <description>(24S)-7alpha,24-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri25[c]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,25-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri25[r]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,25-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri27[c]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,26-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltri27[r]</name>
+        <formula>C27H46O3</formula>
+        <description>7alpha,26-dihydroxycholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[c]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+    <metabolite>
+        <name>xoltriol[r]</name>
+        <formula>C27H48O3</formula>
+        <description>5beta-cholestane-3alpha,7alpha,12alpha-triol</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>11DOCRTSLtr</id>
+        <name>11-deoxycortisol intracellular transport</name>
+        <reactant>11docrtsl[c]</reactant>
+        <product>11docrtsl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>11DOCRTSTRNtr</id>
+        <name>11-deoxycorticosterone intracellular transport</name>
+        <reactant>11docrtstrn[c]</reactant>
+        <product>11docrtstrn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>4MPTNLtr</id>
+        <name>4-methylpentanal transport (ER)</name>
+        <reactant>4mptnl[c]</reactant>
+        <product>4mptnl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>5ADTSTSTERONEGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>5adtststeroneglc[c]</reactant>
+        <product>5adtststeroneglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>5ADTSTSTERONEtr</id>
+        <name>5 alpha dihydrotesterone intracellular transport</name>
+        <reactant>5adtststerone[r]</reactant>
+        <product>5adtststerone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>6HTSTSTERONEtr</id>
+        <name>hydroxylated testosterone transport</name>
+        <reactant>6htststerone[c]</reactant>
+        <product>6htststerone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>7DHCHSTEROLtr</id>
+        <name>cholesterol precursor intracellular transport</name>
+        <reactant>7dhchsterol[r]</reactant>
+        <product>7dhchsterol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACALDtr</id>
+        <name>acetaldehyde reversible transport (ER)</name>
+        <reactant>acald[r]</reactant>
+        <product>acald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACCOAtr</id>
+        <name>acetyl-coa transport</name>
+        <reactant>accoa[c]</reactant>
+        <product>accoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHANDROSTANGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>ahandrostanglc[c]</reactant>
+        <product>ahandrostanglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHCYStr</id>
+        <name>S-Adenosyl-L-homocysteine intracellular diffusion</name>
+        <reactant>ahcys[c]</reactant>
+        <product>ahcys[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMETr</id>
+        <name>S-Adenosyl-L-methionine intracellular diffusion</name>
+        <reactant>amet[c]</reactant>
+        <product>amet[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMPtr</id>
+        <name>AMP transporter, endoplasmic reticulum</name>
+        <reactant>amp[c]</reactant>
+        <product>amp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ANDRSTRNGLCtr</id>
+        <name>glucuronidated compound transport (ER)</name>
+        <reactant>andrstrnglc[c]</reactant>
+        <product>andrstrnglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ANDRSTRNtr</id>
+        <name>androsterone intracellular transport</name>
+        <reactant>andrstrn[r]</reactant>
+        <product>andrstrn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARACHDtr</id>
+        <name>intracellular transport</name>
+        <reactant>arachd[c]</reactant>
+        <product>arachd[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>Asn_X_Ser_Thrtr</id>
+        <name>Asn-X-Ser/Thr transport (from ER to lysosome)</name>
+        <reactant>Asn_X_Ser_Thr[r]</reactant>
+        <product>Asn_X_Ser_Thr[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATP1ter</id>
+        <name>ADP/ATP transporter, endoplasmic reticulum</name>
+        <reactant>atp[c]</reactant>
+        <reactant>adp[r]</reactant>
+        <product>adp[c]</product>
+        <product>atp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATP2ter</id>
+        <name>AMP/ATP transporter, endoplasmic reticulum</name>
+        <reactant>atp[c]</reactant>
+        <reactant>amp[r]</reactant>
+        <product>amp[c]</product>
+        <product>atp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>BILDGLCURtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>bildglcur[c]</reactant>
+        <product>bildglcur[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>BILGLCURtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>bilglcur[c]</reactant>
+        <product>bilglcur[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>BILIRUBtr</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>bilirub[c]</reactant>
+        <product>bilirub[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>BZtr</id>
+        <name>Benzene transporter, endoplasmic reticulum</name>
+        <reactant>bz[c]</reactant>
+        <product>bz[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBPter</id>
+        <name>carbamoyl phosphate transport, endoplasmic reticulum</name>
+        <reactant>pi[c]</reactant>
+        <reactant>ppi[c]</reactant>
+        <reactant>cbp[c]</reactant>
+        <product>cbp[r]</product>
+        <product>pi[r]</product>
+        <product>ppi[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CERT1rt</id>
+        <name>ceramide transport protein</name>
+        <reactant>crm_hs[c]</reactant>
+        <product>crm_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CERT2rt</id>
+        <name>ceramide transport protein</name>
+        <reactant>gluside_hs[c]</reactant>
+        <product>gluside_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLtr</id>
+        <name>choline intracellular transport</name>
+        <reactant>chol[r]</reactant>
+        <product>chol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CO2ter</id>
+        <name>CO2 endoplasmic reticular transport via diffusion</name>
+        <reactant>co2[c]</reactant>
+        <product>co2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtr</id>
+        <name>COA transporter, endoplasmic reticulum</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRTSLtr</id>
+        <name>cortisol intracellular transport</name>
+        <reactant>crtsl[c]</reactant>
+        <product>crtsl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CRTSTRNtr</id>
+        <name>corticosterone intracellular transport</name>
+        <reactant>crtstrn[c]</reactant>
+        <product>crtstrn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>DAG_HSter</id>
+        <name>diacylglycerol ER export</name>
+        <reactant>dag_hs[r]</reactant>
+        <product>dag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHEAtr</id>
+        <name>Dehydroepiandrosterone transport</name>
+        <reactant>dhea[r]</reactant>
+        <product>dhea[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>EBASTINEOHtr</id>
+        <name>xenobiotic transport</name>
+        <reactant>ebastineoh[r]</reactant>
+        <product>ebastineoh[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>EBASTINEtr</id>
+        <name>xenobiotic transport</name>
+        <reactant>ebastine[r]</reactant>
+        <product>ebastine[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRADIOLGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>estradiolglc[c]</reactant>
+        <product>estradiolglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRADIOLtr</id>
+        <name>estradiol intracellular transport</name>
+        <reactant>estradiol[r]</reactant>
+        <product>estradiol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRIOLGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>estriolglc[c]</reactant>
+        <product>estriolglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRIOLtr</id>
+        <name>estriol intracellular transport</name>
+        <reactant>estriol[r]</reactant>
+        <product>estriol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRONEGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>estroneglc[c]</reactant>
+        <product>estroneglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>ESTRONEtr</id>
+        <name>estrone intracellular transport</name>
+        <reactant>estrone[r]</reactant>
+        <product>estrone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADH2tru</id>
+        <name>FADH2 transporter, endoplasmic reticulum</name>
+        <reactant>fadh2[c]</reactant>
+        <product>fadh2[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADtru</id>
+        <name>FAD transporter, endoplasmic reticulum</name>
+        <reactant>fad[r]</reactant>
+        <product>fad[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>FORtr</id>
+        <name>FOR transporter, endoplasmic reticulum</name>
+        <reactant>for[c]</reactant>
+        <product>for[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6Pter</id>
+        <name>glucose 6-phosphate endoplasmic reticular transport via diffusion</name>
+        <reactant>g6p[c]</reactant>
+        <product>g6p[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GACPAILter</id>
+        <name>glucosaminyl-acylphosphatidylinositol ER flippase</name>
+        <reactant>gacpail_hs[c]</reactant>
+        <product>gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLACter</id>
+        <name>D-glucurono-6,3-lactone transport, endoplasmic reticulum</name>
+        <reactant>glac[c]</reactant>
+        <product>glac[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCter</id>
+        <name>glucose transport, endoplasmic reticulum</name>
+        <reactant>glc_D[c]</reactant>
+        <product>glc_D[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCURter</id>
+        <name>glucuronate endoplasmic reticular transport</name>
+        <reactant>glcur[c]</reactant>
+        <product>glcur[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUtr</id>
+        <name>intracellular transport</name>
+        <reactant>glu_L[c]</reactant>
+        <product>glu_L[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHRDtr</id>
+        <name>glutathione transport via diffusion</name>
+        <reactant>gthrd[c]</reactant>
+        <product>gthrd[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GULLACter</id>
+        <name>gulonolactone endoplasmic reticular transport</name>
+        <reactant>gullac[c]</reactant>
+        <product>gullac[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>GULNter</id>
+        <name>L-gulonate endoplasmic reticular export</name>
+        <reactant>guln[r]</reactant>
+        <product>guln[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Oter</id>
+        <name>H2O endoplasmic reticulum transport</name>
+        <reactant>h2o[c]</reactant>
+        <product>h2o[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>HDCAter</id>
+        <name>palmitate ER export</name>
+        <reactant>hdca[r]</reactant>
+        <product>hdca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>HESTRATRIOLtr</id>
+        <name>hydroxylated estrogen derivative transport</name>
+        <reactant>hestratriol[c]</reactant>
+        <product>hestratriol[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>Htr</id>
+        <name>H transporter, endoplasmic reticulum</name>
+        <reactant>h[c]</reactant>
+        <product>h[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>IPDPtr</id>
+        <name>Isopentenyl diphosphate transport (ER)</name>
+        <reactant>ipdp[r]</reactant>
+        <product>ipdp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUKTRA4tr</id>
+        <name>leukotriene intracellular transport</name>
+        <reactant>leuktrA4[c]</reactant>
+        <product>leuktrA4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUKTRB4tr</id>
+        <name>leukotriene intracellular transport</name>
+        <reactant>leuktrB4[c]</reactant>
+        <product>leuktrB4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>LEUKTRD4tr</id>
+        <name>leukotriene intracellular transport</name>
+        <reactant>leuktrD4[c]</reactant>
+        <product>leuktrD4[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>MANter</id>
+        <name>mannose efflux from endoplasmic reticulum</name>
+        <reactant>man[r]</reactant>
+        <product>man[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>MEOHtr</id>
+        <name>Methanol transporter, endoplasmic reticulum</name>
+        <reactant>meoh[c]</reactant>
+        <product>meoh[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADHtru</id>
+        <name>NADH transporter, endoplasmic reticulum</name>
+        <reactant>nadh[c]</reactant>
+        <product>nadh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPHtru</id>
+        <name>NADPH transporter, endoplasmic reticulum</name>
+        <reactant>nadph[c]</reactant>
+        <product>nadph[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPtru</id>
+        <name>NADP transporter, endoplasmic reticulum</name>
+        <reactant>nadp[r]</reactant>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADtru</id>
+        <name>NAD transporter, endoplasmic reticulum</name>
+        <reactant>nad[r]</reactant>
+        <product>nad[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>O2ter</id>
+        <name>O2 transport, endoplasmic reticulum</name>
+        <reactant>o2[c]</reactant>
+        <product>o2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PA_HSter</id>
+        <name>phosphatidate scramblase</name>
+        <reactant>pa_hs[c]</reactant>
+        <product>pa_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOL_HSter</id>
+        <name>phosphatidylcholine scramblase</name>
+        <reactant>pchol_hs[c]</reactant>
+        <product>pchol_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PE_HSter</id>
+        <name>phosphatidylethanolamine scramblase</name>
+        <reactant>pe_hs[c]</reactant>
+        <product>pe_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIter</id>
+        <name>phosphate transport, endoplasmic reticulum</name>
+        <reactant>pi[r]</reactant>
+        <product>pi[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPItr</id>
+        <name>Diphosphate transporter, endoplasmic reticulum</name>
+        <reactant>ppi[c]</reactant>
+        <product>ppi[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRGNLONEtr</id>
+        <name>pregnenolone intracellular transport</name>
+        <reactant>prgnlone[c]</reactant>
+        <product>prgnlone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROSTGI2tr</id>
+        <name>Prostaglandin I2 transport (ER)</name>
+        <reactant>prostgi2[c]</reactant>
+        <product>prostgi2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PS_HSter</id>
+        <name>phosphatidylserine scramblase</name>
+        <reactant>ps_hs[c]</reactant>
+        <product>ps_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNGLCt2</id>
+        <name>retinoyl glucuronide efflux (13-cis)</name>
+        <reactant>13_cis_retnglc[c]</reactant>
+        <product>13_cis_retnglc[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNGLCt2r</id>
+        <name>retinoyl glucuronide efflux (13-cis) from ER</name>
+        <reactant>13_cis_retnglc[r]</reactant>
+        <product>13_cis_retnglc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNGLCtr</id>
+        <name>retinoyl glucuronide efflux from ER</name>
+        <reactant>retnglc[r]</reactant>
+        <product>retnglc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNtr</id>
+        <name>retinoic acid transport in ER</name>
+        <reactant>retn[c]</reactant>
+        <product>retn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>RETNtr2</id>
+        <name>retinoic acid transport in ER (13-cis)</name>
+        <reactant>13_cis_retn[c]</reactant>
+        <product>13_cis_retn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPH1Ptr</id>
+        <name>sph1p intracellular transport</name>
+        <reactant>sph1p[c]</reactant>
+        <product>sph1p[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHGNtr</id>
+        <name>sphinganine intracellular transport</name>
+        <reactant>sphgn[r]</reactant>
+        <product>sphgn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHINGStr</id>
+        <name>sphingosine intracellular transport</name>
+        <reactant>sphings[c]</reactant>
+        <product>sphings[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHS1Ptr</id>
+        <name>sphingosine-1-phosphate transport</name>
+        <reactant>sphs1p[c]</reactant>
+        <product>sphs1p[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMLYSter</id>
+        <name>trimethyl-L-lysine transport (ER to cytosol)</name>
+        <reactant>tmlys[r]</reactant>
+        <product>tmlys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>TSTSTERONEGLCtr</id>
+        <name>glucuronidated compound transport</name>
+        <reactant>tststeroneglc[c]</reactant>
+        <product>tststeroneglc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>TSTSTERONEtr</id>
+        <name>testosterone intracellular transport</name>
+        <reactant>tststerone[r]</reactant>
+        <product>tststerone[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>TXA2tr</id>
+        <name>thromboxane A2 intracellular transport</name>
+        <reactant>txa2[c]</reactant>
+        <product>txa2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGLCAter</id>
+        <name>UDPGlcA endoplasmic reticulum transport via UMP antiport</name>
+        <reactant>ump[c]</reactant>
+        <reactant>udpglcur[r]</reactant>
+        <product>udpglcur[c]</product>
+        <product>ump[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGLCter</id>
+        <name>UDP-Glc endoplasmic reticulum transport via CMP antiport</name>
+        <reactant>udpg[c]</reactant>
+        <reactant>ump[r]</reactant>
+        <product>ump[c]</product>
+        <product>udpg[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPXYLter</id>
+        <name>UDP-Xyl endoplasmic reticular transport via CMP antiport</name>
+        <reactant>ump[r]</reactant>
+        <reactant>udpxyl[c]</reactant>
+        <product>ump[c]</product>
+        <product>udpxyl[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGALNACter</id>
+        <name>UDP-GalNAc endoplasmic reticulum transport via CMP antiport</name>
+        <reactant>ump[r]</reactant>
+        <reactant>udpacgal[c]</reactant>
+        <product>ump[c]</product>
+        <product>udpacgal[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>UMPtr</id>
+        <name>UMP transport (ER)</name>
+        <reactant>ump[c]</reactant>
+        <product>ump[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOL7AH2tr</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xol7ah2[c]</reactant>
+        <product>xol7ah2[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOL7AONEtr</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xol7aone[c]</reactant>
+        <product>xol7aone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLDIOLONEt</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xoldiolone[c]</reactant>
+        <product>xoldiolone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLDIOLONEtm</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xoldiolone[m]</reactant>
+        <product>xoldiolone[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLTRI24tc</id>
+        <name>24 trihydroxy cholesterol transport</name>
+        <reactant>xoltri24[r]</reactant>
+        <product>xoltri24[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLTRI25tc</id>
+        <name>25 trihydroxy cholesterol transport</name>
+        <reactant>xoltri25[r]</reactant>
+        <product>xoltri25[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLTRI27tc</id>
+        <name>27 trihydroxy cholesterol transport</name>
+        <reactant>xoltri27[r]</reactant>
+        <product>xoltri27[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>XOLTRIOLtr</id>
+        <name>lipid, flip-flop intracellular transport</name>
+        <reactant>xoltriol[c]</reactant>
+        <product>xoltriol[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0002</id>
+        <name>Active transport</name>
+        <reactant>crn[c]</reactant>
+        <product>crn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0826</id>
+        <name>Transport reaction</name>
+        <reactant>inost[c]</reactant>
+        <product>inost[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0840</id>
+        <name>Free diffusion</name>
+        <reactant>r5p[c]</reactant>
+        <product>r5p[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0841</id>
+        <name>Free diffusion</name>
+        <reactant>ru5p_D[c]</reactant>
+        <product>ru5p_D[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0842</id>
+        <name>Postulated transport reaction</name>
+        <reactant>udpg[c]</reactant>
+        <product>udpg[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0845</id>
+        <name>Drug/Metabolite Transporter (DMT) TCDB:2.A.7.12.7</name>
+        <reactant>uacgam[c]</reactant>
+        <reactant>ump[r]</reactant>
+        <product>ump[c]</product>
+        <product>uacgam[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0886</id>
+        <name>Postulated transport reaction</name>
+        <reactant>cmp[c]</reactant>
+        <product>cmp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0908</id>
+        <name>Postulated transport reaction</name>
+        <reactant>acgam[c]</reactant>
+        <product>acgam[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0909</id>
+        <name>Transport reaction</name>
+        <reactant>acgam[l]</reactant>
+        <product>acgam[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0931</id>
+        <name>Transport reaction</name>
+        <reactant>arachd[l]</reactant>
+        <product>arachd[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0936</id>
+        <name>Transport reaction</name>
+        <reactant>hdca[l]</reactant>
+        <product>hdca[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0960</id>
+        <name>Resistance-Nodulation-Cell Division (RND) TCDB:2.A.65.1.1</name>
+        <reactant>na1[c]</reactant>
+        <reactant>bilirub[c]</reactant>
+        <product>bilirub[r]</product>
+        <product>na1[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0968</id>
+        <name>Postulated transport reaction</name>
+        <reactant>acmana[r]</reactant>
+        <product>acmana[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0970</id>
+        <name>Active transport</name>
+        <reactant>cholate[c]</reactant>
+        <product>cholate[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0983</id>
+        <name>solute carrier family 27 (fatty acid transporter), member 5 TCDB:4.C.1.1.5 TCDB:4.C.1.1.8</name>
+        <reactant>strdnc[l]</reactant>
+        <product>strdnc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0989</id>
+        <name>Postulated transport reaction</name>
+        <reactant>cholcoa[r]</reactant>
+        <product>cholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0994</id>
+        <name>Facilitated diffusion</name>
+        <reactant>C02528[c]</reactant>
+        <product>C02528[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0995</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.8.3</name>
+        <reactant>crn[c]</reactant>
+        <reactant>acrn[r]</reactant>
+        <product>acrn[c]</product>
+        <product>crn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0998</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>pmtcrn[r]</reactant>
+        <product>pmtcrn[c]</product>
+        <product>crn[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1000</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10854[r]</reactant>
+        <product>crn[r]</product>
+        <product>HC10854[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1002</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10855[r]</reactant>
+        <product>crn[r]</product>
+        <product>HC10855[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1004</id>
+        <name>Facilitated diffusion</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC10859[r]</reactant>
+        <product>crn[r]</product>
+        <product>HC10859[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1010</id>
+        <name>Postulated transport reaction</name>
+        <reactant>HC01231[c]</reactant>
+        <product>HC01231[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1011</id>
+        <name>Transport reaction</name>
+        <reactant>dhcholestanate[c]</reactant>
+        <product>dhcholestanate[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1013</id>
+        <name>Transport reaction</name>
+        <reactant>thcholstoic[c]</reactant>
+        <product>thcholstoic[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1018</id>
+        <name>Transport reaction</name>
+        <reactant>dcholcoa[r]</reactant>
+        <product>dcholcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1024</id>
+        <name>Active transport</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>atp[r]</reactant>
+        <reactant>xol7aone[r]</reactant>
+        <product>xol7aone[c]</product>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pi[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1051</id>
+        <name>Vesicular transport</name>
+        <reactant>chsterol[l]</reactant>
+        <product>chsterol[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1127</id>
+        <name>Transport reaction</name>
+        <reactant>HC00005[c]</reactant>
+        <product>HC00005[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1128</id>
+        <name>Transport reaction</name>
+        <reactant>HC00009[c]</reactant>
+        <product>HC00009[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1129</id>
+        <name>Transport reaction</name>
+        <reactant>HC00004[c]</reactant>
+        <product>HC00004[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1131</id>
+        <name>Transport reaction</name>
+        <reactant>HC00006[c]</reactant>
+        <product>HC00006[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1132</id>
+        <name>Transport reaction</name>
+        <reactant>HC00007[c]</reactant>
+        <product>HC00007[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1133</id>
+        <name>Transport reaction</name>
+        <reactant>HC00008[c]</reactant>
+        <product>HC00008[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1159</id>
+        <name>Vesicular transport</name>
+        <reactant>cdpchol[c]</reactant>
+        <product>cdpchol[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1303</id>
+        <name>Vesicular transport</name>
+        <reactant>hdcea[l]</reactant>
+        <product>hdcea[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1318</id>
+        <name>Transport reaction</name>
+        <reactant>lnlccoa[c]</reactant>
+        <product>lnlccoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2473</id>
+        <name>Major Facilitator(MFS) TCDB:2.A.1.4.5</name>
+        <reactant>pi[r]</reactant>
+        <reactant>g6p[c]</reactant>
+        <product>pi[c]</product>
+        <product>g6p[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2505</id>
+        <name>ATP-binding Cassette (ABC) TCDB:3.A.1.208.8</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>HC02198[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>HC02198[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2506</id>
+        <name>Utilized transport</name>
+        <reactant>pi[c]</reactant>
+        <reactant>na1[c]</reactant>
+        <product>pi[r]</product>
+        <product>na1[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2507</id>
+        <name>Utilized transport</name>
+        <reactant>arachd[c]</reactant>
+        <reactant>crn[r]</reactant>
+        <product>crn[c]</product>
+        <product>arachd[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2508</id>
+        <name>Utilized transport</name>
+        <reactant>crn[r]</reactant>
+        <reactant>hdca[c]</reactant>
+        <product>crn[c]</product>
+        <product>hdca[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2509</id>
+        <name>Utilized transport</name>
+        <reactant>crn[r]</reactant>
+        <reactant>ocdcea[c]</reactant>
+        <product>crn[c]</product>
+        <product>ocdcea[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2510</id>
+        <name>Utilized transport</name>
+        <reactant>crn[r]</reactant>
+        <reactant>strdnc[c]</reactant>
+        <product>crn[c]</product>
+        <product>strdnc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2511</id>
+        <name>Utilized transport</name>
+        <reactant>crn[r]</reactant>
+        <reactant>lnlc[c]</reactant>
+        <product>crn[c]</product>
+        <product>lnlc[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2512</id>
+        <name>Utilized transport</name>
+        <reactant>crn[c]</reactant>
+        <reactant>lnlncg[r]</reactant>
+        <product>crn[r]</product>
+        <product>lnlncg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2513</id>
+        <name>Utilized transport</name>
+        <reactant>crn[c]</reactant>
+        <reactant>lnlnca[r]</reactant>
+        <product>crn[r]</product>
+        <product>lnlnca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2514</id>
+        <name>Utilized transport</name>
+        <reactant>crn[r]</reactant>
+        <reactant>hdcea[c]</reactant>
+        <product>crn[c]</product>
+        <product>hdcea[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2515</id>
+        <name>Utilized transport</name>
+        <reactant>crn[c]</reactant>
+        <reactant>HC02100[r]</reactant>
+        <product>crn[r]</product>
+        <product>dlnlcg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2519</id>
+        <name>Utilized transport</name>
+        <reactant>udpglcur[c]</reactant>
+        <product>udpglcur[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2521</id>
+        <name>Utilized transport</name>
+        <reactant>ppi[c]</reactant>
+        <reactant>pi[r]</reactant>
+        <product>pi[c]</product>
+        <product>ppi[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2537</id>
+        <name>Utilized transport</name>
+        <reactant>lnlncgcoa[c]</reactant>
+        <product>lnlncgcoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2538</id>
+        <name>Utilized transport</name>
+        <reactant>dlnlcgcoa[c]</reactant>
+        <product>dlnlcgcoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>HPETFABP1tc</id>
+        <name>transport of 5-HPETE into the enterocytes</name>
+        <reactant>2 5HPET[c]</reactant>
+        <product>2 5HPET[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>OCDEAFABP1tc</id>
+        <name>Transport of octadecenoyl coA into the enterocytes</name>
+        <reactant>2 ocdcea[c]</reactant>
+        <product>2 ocdcea[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PEHSFABPe</id>
+        <name>transport of lysophosphatidylethanolamine into the enterocytes</name>
+        <reactant>2 pe_hs[c]</reactant>
+        <product>2 pe_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMTCOAFABP1tc</id>
+        <name>transport of palmitoyl coA into the enterocytes</name>
+        <reactant>2 pmtcoa[c]</reactant>
+        <product>2 pmtcoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLtrc</id>
+        <name>transport of cholesterol into the cytosol</name>
+        <reactant>chsterol[r]</reactant>
+        <product>chsterol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+    <reaction>
+        <id>FRDPtcr</id>
+        <name>transport of Farnesyl diphosphate into the endoplasmic reticulum</name>
+        <reactant>frdp[c]</reactant>
+        <product>frdp[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, endoplasmic reticular</subsystem>
+    </reaction>
+</reactions>

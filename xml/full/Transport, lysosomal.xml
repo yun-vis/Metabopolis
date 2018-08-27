@@ -1,0 +1,1928 @@
+<metabolites>
+    <metabolite>
+        <name>10fthf5glu[c]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf5glu[l]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[c]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[l]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[c]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[l]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[c]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[l]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[l]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[c]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[l]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[c]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[l]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[c]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[l]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[c]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[l]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[c]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[l]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[c]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[l]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00004[e]</name>
+        <formula></formula>
+        <description>ApoA1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00004[l]</name>
+        <formula></formula>
+        <description>ApoA1</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02100[l]</name>
+        <formula>C20H33O2</formula>
+        <description>Dihomo-gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02100[r]</name>
+        <formula>C20H33O2</formula>
+        <description>Dihomo-gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[c]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[l]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[c]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[l]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[c]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[l]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[c]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[l]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[c]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[l]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[l]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_D[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>D-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_D[l]</name>
+        <formula>C3H7NO2</formula>
+        <description>D-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[l]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[c]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachd[l]</name>
+        <formula>C20H31O2</formula>
+        <description>arachidonate</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[c]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[l]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[c]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>asn_L[l]</name>
+        <formula>C4H8N2O3</formula>
+        <description>L-asparagine</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[c]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>asp_L[l]</name>
+        <formula>C4H6NO4</formula>
+        <description>L-aspartate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>carn[c]</name>
+        <formula>C9H14N4O3</formula>
+        <description>carnosine</description>
+    </metabolite>
+    <metabolite>
+        <name>carn[l]</name>
+        <formula>C9H14N4O3</formula>
+        <description>carnosine</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[c]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[l]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[l]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[l]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_a[e]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_a[l]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_b[e]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_b[l]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_c[e]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_c[l]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_d[e]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_d[l]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_e[e]</name>
+        <formula>C45H63N2O54S6X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_e[l]</name>
+        <formula>C45H63N2O54S6X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[l]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[c]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[l]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[c]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[l]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[c]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[l]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>dlnlcg[c]</name>
+        <formula>C20H33O2</formula>
+        <description>dihomo-gamma-linolenic acid (n-6)</description>
+    </metabolite>
+    <metabolite>
+        <name>dpcoa[c]</name>
+        <formula>C21H33N7O13P2S</formula>
+        <description>Dephospho-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>dpcoa[l]</name>
+        <formula>C21H33N7O13P2S</formula>
+        <description>Dephospho-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[c]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[l]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[c]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[l]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[c]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[l]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[c]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[l]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gbside_hs[c]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>gbside_hs[l]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[c]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[l]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[l]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[l]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[l]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[c]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[l]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[l]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ha[e]</name>
+        <formula>C28H40N2O22</formula>
+        <description>hyaluronan</description>
+    </metabolite>
+    <metabolite>
+        <name>ha[l]</name>
+        <formula>C28H40N2O22</formula>
+        <description>hyaluronan</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[c]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[l]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcea[c]</name>
+        <formula>C16H29O2</formula>
+        <description>Hexadecenoate (n-C16:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcea[l]</name>
+        <formula>C16H29O2</formula>
+        <description>Hexadecenoate (n-C16:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[c]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[l]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>hspg[e]</name>
+        <formula>C79H113N5O101S12X</formula>
+        <description>heparan sulfate proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>hspg[l]</name>
+        <formula>C79H113N5O101S12X</formula>
+        <description>heparan sulfate proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[c]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[l]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>idour[c]</name>
+        <formula>C6H9O7</formula>
+        <description>L-iduronate</description>
+    </metabolite>
+    <metabolite>
+        <name>idour[l]</name>
+        <formula>C6H9O7</formula>
+        <description>L-iduronate</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ile_L[l]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-isoleucine</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[c]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[l]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi[e]</name>
+        <formula>C247H393N17O213S12X</formula>
+        <description>keratan sulfate I</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi[l]</name>
+        <formula>C247H393N17O213S12X</formula>
+        <description>keratan sulfate I</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2[e]</name>
+        <formula>C81H129N6O67S3X</formula>
+        <description>keratan sulfate II (core 2-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2[l]</name>
+        <formula>C81H129N6O67S3X</formula>
+        <description>keratan sulfate II (core 2-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4[e]</name>
+        <formula>C89H142N7O72S3X</formula>
+        <description>keratan sulfate II (core 4-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4[l]</name>
+        <formula>C89H142N7O72S3X</formula>
+        <description>keratan sulfate II (core 4-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>lcts[c]</name>
+        <formula>C12H22O11</formula>
+        <description>Lactose</description>
+    </metabolite>
+    <metabolite>
+        <name>lcts[l]</name>
+        <formula>C12H22O11</formula>
+        <description>Lactose</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[c]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>leu_L[l]</name>
+        <formula>C6H13NO2</formula>
+        <description>L-leucine</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlc[c]</name>
+        <formula>C18H31O2</formula>
+        <description>linoleate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlc[l]</name>
+        <formula>C18H31O2</formula>
+        <description>linoleate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlc[r]</name>
+        <formula>C18H31O2</formula>
+        <description>linoleate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlnca[c]</name>
+        <formula>C18H29O2</formula>
+        <description>alpha-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlnca[l]</name>
+        <formula>C18H29O2</formula>
+        <description>alpha-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlnca[r]</name>
+        <formula>C18H29O2</formula>
+        <description>alpha-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncg[c]</name>
+        <formula>C18H29O2</formula>
+        <description>gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncg[l]</name>
+        <formula>C18H29O2</formula>
+        <description>gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncg[r]</name>
+        <formula>C18H29O2</formula>
+        <description>gamma-linolenate</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[l]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>man[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>meoh[c]</name>
+        <formula>CH4O1</formula>
+        <description>methanol</description>
+    </metabolite>
+    <metabolite>
+        <name>meoh[l]</name>
+        <formula>CH4O1</formula>
+        <description>methanol</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[c]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>met_L[l]</name>
+        <formula>C5H11NO2S</formula>
+        <description>L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmasn[e]</name>
+        <formula>C58H96N5O40X</formula>
+        <description>N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmasn[l]</name>
+        <formula>C58H96N5O40X</formula>
+        <description>N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[c]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[l]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[r]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[c]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>phe_L[l]</name>
+        <formula>C9H11NO2</formula>
+        <description>L-phenylalanine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[l]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_D[c]</name>
+        <formula>C5H9NO2</formula>
+        <description>D-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_D[l]</name>
+        <formula>C5H9NO2</formula>
+        <description>D-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[c]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>pro_L[l]</name>
+        <formula>C5H9NO2</formula>
+        <description>L-proline</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2fn2m2masn[e]</name>
+        <formula>C90H145N6O65X</formula>
+        <description>PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2fn2m2masn[l]</name>
+        <formula>C90H145N6O65X</formula>
+        <description>PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2masn[e]</name>
+        <formula>C84H135N6O61X</formula>
+        <description>de-Fuc form of PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2masn[l]</name>
+        <formula>C84H135N6O61X</formula>
+        <description>de-Fuc form of PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[l]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[c]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[l]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[c]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[l]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[c]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[l]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[c]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[l]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[l]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thr_L[c]</name>
+        <formula>C4H9NO3</formula>
+        <description>L-threonine</description>
+    </metabolite>
+    <metabolite>
+        <name>thr_L[l]</name>
+        <formula>C4H9NO3</formula>
+        <description>L-threonine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[c]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[l]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>trp_L[c]</name>
+        <formula>C11H12N2O2</formula>
+        <description>L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>trp_L[l]</name>
+        <formula>C11H12N2O2</formula>
+        <description>L-tryptophan</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[l]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[l]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[l]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[c]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[l]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[c]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+    <metabolite>
+        <name>val_L[l]</name>
+        <formula>C5H11NO2</formula>
+        <description>L-valine</description>
+    </metabolite>
+    <metabolite>
+        <name>xyl_D[c]</name>
+        <formula>C5H10O5</formula>
+        <description>aldehydo-D-xylose</description>
+    </metabolite>
+    <metabolite>
+        <name>xyl_D[l]</name>
+        <formula>C5H10O5</formula>
+        <description>aldehydo-D-xylose</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>10FTHF5GLUtl</id>
+        <name>5-glutamyl-10FTHF transport, lysosomal</name>
+        <reactant>10fthf5glu[c]</reactant>
+        <product>10fthf5glu[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHF6GLUtl</id>
+        <name>6-glutamyl-10FTHF transport, lysosomal</name>
+        <reactant>10fthf6glu[c]</reactant>
+        <product>10fthf6glu[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHF7GLUtl</id>
+        <name>7-glutamyl-10FTHF transport, lysosomal</name>
+        <reactant>10fthf7glu[c]</reactant>
+        <product>10fthf7glu[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>10FTHFtl</id>
+        <name>10-Formyltetrahydrofolate lysosomal transport via diffusion</name>
+        <reactant>10fthf[c]</reactant>
+        <product>10fthf[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>5DHFtl</id>
+        <name>5-glutamyl-DHF transport, lysosomal</name>
+        <reactant>5dhf[c]</reactant>
+        <product>5dhf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>5THFtl</id>
+        <name>5-glutamyl-THF transport, lysosomal</name>
+        <reactant>5thf[c]</reactant>
+        <product>5thf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>6DHFtl</id>
+        <name>6-glutamyl-DHF transport, lysosomal</name>
+        <reactant>6dhf[c]</reactant>
+        <product>6dhf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>6THFtl</id>
+        <name>6-glutamyl-THF transport, lysosomal</name>
+        <reactant>6thf[c]</reactant>
+        <product>6thf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>7DHFtl</id>
+        <name>7-glutamyl-DHF transport, lysosomal</name>
+        <reactant>7dhf[c]</reactant>
+        <product>7dhf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>7THFtl</id>
+        <name>7-glutamyl-THF transport, lysosomal</name>
+        <reactant>7thf[c]</reactant>
+        <product>7thf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ABUTt2rL</id>
+        <name>4-aminobutyrate reversible transport in via proton symport (lysosome)</name>
+        <reactant>4abut[l]</reactant>
+        <reactant>h[l]</reactant>
+        <product>h[c]</product>
+        <product>4abut[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAGBSIDEtl</id>
+        <name>acgagbside hs intracellular transport</name>
+        <reactant>acgagbside_hs[c]</reactant>
+        <product>acgagbside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGALtly</id>
+        <name>N-acetyl-galactosamine lysosomal efflux</name>
+        <reactant>acgal[l]</reactant>
+        <product>acgal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAMtly</id>
+        <name>N-acetyl-glucosamine lysosomal efflux</name>
+        <reactant>acgam[l]</reactant>
+        <product>acgam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGBGBSIDEtl</id>
+        <name>acgbgbside hs intracellular transport</name>
+        <reactant>acgbgbside_hs[c]</reactant>
+        <product>acgbgbside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNAMlt</id>
+        <name>N-acetylneuraminate transport into lysososme</name>
+        <reactant>h[c]</reactant>
+        <reactant>acnam[c]</reactant>
+        <product>h[l]</product>
+        <product>acnam[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADEtl</id>
+        <name>adenine facilated transport from lysosome</name>
+        <reactant>ade[l]</reactant>
+        <product>ade[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADNtl</id>
+        <name>adenosine facilated transport from lysosome</name>
+        <reactant>adn[l]</reactant>
+        <product>adn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALAt2rL</id>
+        <name>L-alanine reversible transport via proton symport (lysosome)</name>
+        <reactant>h[l]</reactant>
+        <reactant>ala_L[l]</reactant>
+        <product>h[c]</product>
+        <product>ala_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>ATPasel</id>
+        <name>V-type ATPase, H+ transporting, lysosomal</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <product>h[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLPtl</id>
+        <name>choline phosphate intracellular transport</name>
+        <reactant>cholp[c]</reactant>
+        <product>cholp[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtl</id>
+        <name>CoA transport in lysosome via diffusion</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSPG_Atly</id>
+        <name>chondroitin sulfate A transport, extracellular to lysosome</name>
+        <reactant>cspg_a[e]</reactant>
+        <product>cspg_a[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSPG_Btly</id>
+        <name>chondroitin sulfate B transport, extracellular to lysosome</name>
+        <reactant>cspg_b[e]</reactant>
+        <product>cspg_b[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSPG_Ctly</id>
+        <name>chondroitin sulfate C transport, extracellular to lysosome</name>
+        <reactant>cspg_c[e]</reactant>
+        <product>cspg_c[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSPG_Dtly</id>
+        <name>chondroitin sulfate D transport, extracellular to lysosome</name>
+        <reactant>cspg_d[e]</reactant>
+        <product>cspg_d[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSPG_Etly</id>
+        <name>chondroitin sulfate E transport, extracellular to lysosome</name>
+        <reactant>cspg_e[e]</reactant>
+        <product>cspg_e[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTDtl</id>
+        <name>Cytidine facilated transport from lysosome</name>
+        <reactant>cytd[l]</reactant>
+        <product>cytd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DALAt2rL</id>
+        <name>D-alanine transport via proton symport (lysosome)</name>
+        <reactant>h[l]</reactant>
+        <reactant>ala_D[l]</reactant>
+        <product>h[c]</product>
+        <product>ala_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHFtl</id>
+        <name>dihydrofolate reversible lysosomal transport</name>
+        <reactant>dhf[c]</reactant>
+        <product>dhf[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DIGALSIDEtl</id>
+        <name>digalside hs intracellular transport</name>
+        <reactant>digalside_hs[c]</reactant>
+        <product>digalside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>DPCOAtl</id>
+        <name>dephospho-CoA transport from lysosome via diffusion</name>
+        <reactant>dpcoa[l]</reactant>
+        <product>dpcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FALDtly</id>
+        <name>formaldehyde transport via diffusion (lysosomall)</name>
+        <reactant>fald[l]</reactant>
+        <product>fald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCtly</id>
+        <name>L-fucose efflux from lysosome</name>
+        <reactant>fuc_L[l]</reactant>
+        <product>fuc_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGLUSIDEtl</id>
+        <name>galgluside hs intracellular transport</name>
+        <reactant>galgluside_hs[c]</reactant>
+        <product>galgluside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALSIDEtl</id>
+        <name>galactocerebroside intracellular transport</name>
+        <reactant>galside_hs[c]</reactant>
+        <product>galside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALtly</id>
+        <name>galactose efflux from lysosome</name>
+        <reactant>gal[l]</reactant>
+        <product>gal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GBSIDEtl</id>
+        <name>globoside intracellular transport</name>
+        <reactant>gbside_hs[c]</reactant>
+        <product>gbside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCtly</id>
+        <name>glucose efflux from lysosome</name>
+        <reactant>glc_D[l]</reactant>
+        <product>glc_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCURtly</id>
+        <name>glucuronate transport into lysososme</name>
+        <reactant>h[c]</reactant>
+        <reactant>glcur[c]</reactant>
+        <product>h[l]</product>
+        <product>glcur[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUt7l</id>
+        <name>Glutamate transport, lysosomal</name>
+        <reactant>glu_L[l]</reactant>
+        <product>glu_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYt2rL</id>
+        <name>glycine reversible transport via proton symport (lysosome)</name>
+        <reactant>h[l]</reactant>
+        <reactant>gly[l]</reactant>
+        <product>h[c]</product>
+        <product>gly[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>GSNtl</id>
+        <name>guanosine facilated transport from lysosome</name>
+        <reactant>gsn[l]</reactant>
+        <product>gsn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2O2tly</id>
+        <name>hydrogen peroxide lysosomal transport via diffusion</name>
+        <reactant>h2o2[c]</reactant>
+        <product>h2o2[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Otly</id>
+        <name>H2O transport, lysosomal</name>
+        <reactant>h2o[c]</reactant>
+        <product>h2o[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HAtly</id>
+        <name>hyaluronan transport, extracellular to lysosome</name>
+        <reactant>ha[e]</reactant>
+        <product>ha[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSPGtly</id>
+        <name>heparan sulfate transport, extracellular to lysosome</name>
+        <reactant>hspg[e]</reactant>
+        <product>hspg[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HXANtl</id>
+        <name>hypoxanthine facilated transport from lysosome</name>
+        <reactant>hxan[l]</reactant>
+        <product>hxan[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDOURtly</id>
+        <name>iduronate transport into lysososme</name>
+        <reactant>h[c]</reactant>
+        <reactant>idour[c]</reactant>
+        <product>h[l]</product>
+        <product>idour[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>INStl</id>
+        <name>inosine facilated transport from lysosome</name>
+        <reactant>ins[l]</reactant>
+        <product>ins[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>KSII_CORE2tly</id>
+        <name>keratan sulfate II (core 2) transport, extracellular to lysosome</name>
+        <reactant>ksii_core2[e]</reactant>
+        <product>ksii_core2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>KSII_CORE4tly</id>
+        <name>keratan sulfate II (core 4) transport, extracellular to lysosome</name>
+        <reactant>ksii_core4[e]</reactant>
+        <product>ksii_core4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>KSItly</id>
+        <name>keratan sulfate I transport, extracellular to lysosome</name>
+        <reactant>ksi[e]</reactant>
+        <product>ksi[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCTStl</id>
+        <name>lactose transport from cytosol to lysosome (via autophagocytosis)</name>
+        <reactant>lcts[c]</reactant>
+        <product>lcts[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>MANtly</id>
+        <name>mannose efflux from lysosome</name>
+        <reactant>man[l]</reactant>
+        <product>man[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>MEOHtly</id>
+        <name>Methanol transporter, lysosome</name>
+        <reactant>meoh[c]</reactant>
+        <product>meoh[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>N2M2NMASNtly</id>
+        <name>n2m2nmasn transport, extracellular to lysosome</name>
+        <reactant>n2m2nmasn[e]</reactant>
+        <product>n2m2nmasn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PRODt2rL</id>
+        <name>D-proline reversible transport via proton symport (lysosome)</name>
+        <reactant>h[l]</reactant>
+        <reactant>pro_D[l]</reactant>
+        <product>h[c]</product>
+        <product>pro_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>PROt2rL</id>
+        <name>L-proline reversible transport via proton symport (lysosome)</name>
+        <reactant>h[l]</reactant>
+        <reactant>pro_L[l]</reactant>
+        <product>h[c]</product>
+        <product>pro_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>Rtotaltl</id>
+        <name>fatty acid intracellular transport</name>
+        <reactant>Rtotal[c]</reactant>
+        <product>Rtotal[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2L2FN2M2MASNtly</id>
+        <name>s2l2fn2m2masn transport, extracellular to lysosome</name>
+        <reactant>s2l2fn2m2masn[e]</reactant>
+        <product>s2l2fn2m2masn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2L2N2M2MASNtly</id>
+        <name>s2l2n2m2masn transport, extracellular to lysosome</name>
+        <reactant>s2l2n2m2masn[e]</reactant>
+        <product>s2l2n2m2masn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SGALSIDEtl</id>
+        <name>sgalside hs intracellular transport</name>
+        <reactant>sgalside_hs[c]</reactant>
+        <product>sgalside_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SO4tl</id>
+        <name>Sulfate transport (lysosome)</name>
+        <reactant>so4[l]</reactant>
+        <product>so4[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHINGStl</id>
+        <name>sphingosine intracellular transport</name>
+        <reactant>sphings[c]</reactant>
+        <product>sphings[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHMYLNtl</id>
+        <name>sphingomyelin intracellular transport</name>
+        <reactant>sphmyln_hs[c]</reactant>
+        <product>sphmyln_hs[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>THFtl</id>
+        <name>5,6,7,8-Tetrahydrofolate transport, diffusion, lysosomal</name>
+        <reactant>thf[c]</reactant>
+        <product>thf[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>THYMDtl</id>
+        <name>thymidine facilated transport from lysosome</name>
+        <reactant>thymd[l]</reactant>
+        <product>thymd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPACGALtl</id>
+        <name>udpacgal intracellular transport</name>
+        <reactant>udpacgal[c]</reactant>
+        <product>udpacgal[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPtl</id>
+        <name>udp intracellular transport</name>
+        <reactant>udp[c]</reactant>
+        <product>udp[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>Uritl</id>
+        <name>uridine facilated transport from lysosome</name>
+        <reactant>uri[l]</reactant>
+        <product>uri[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>XYLtly</id>
+        <name>Xylose efflux from lysosome</name>
+        <reactant>xyl_D[l]</reactant>
+        <product>xyl_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0825</id>
+        <name>Vesicular transport</name>
+        <reactant>ile_L[l]</reactant>
+        <product>ile_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0925</id>
+        <name>Vesicular transport</name>
+        <reactant>thr_L[l]</reactant>
+        <product>thr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0932</id>
+        <name>Transport reaction</name>
+        <reactant>arachd[l]</reactant>
+        <product>arachd[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0937</id>
+        <name>Transport reaction</name>
+        <reactant>hdca[l]</reactant>
+        <product>hdca[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0984</id>
+        <name>solute carrier family 27 (fatty acid transporter), member 5 TCDB:4.C.1.1.5 TCDB:4.C.1.1.8</name>
+        <reactant>strdnc[l]</reactant>
+        <product>strdnc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0986</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlc[l]</reactant>
+        <product>lnlc[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0987</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlc[l]</reactant>
+        <product>lnlc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1052</id>
+        <name>Vesicular transport</name>
+        <reactant>chsterol[l]</reactant>
+        <product>chsterol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1059</id>
+        <name>Major Facilitator(MFS) TCDB:2.A.18.6.7</name>
+        <reactant>arg_L[l]</reactant>
+        <product>arg_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1061</id>
+        <name>Vesicular transport</name>
+        <reactant>asn_L[l]</reactant>
+        <product>asn_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1062</id>
+        <name>Vesicular transport</name>
+        <reactant>asp_L[l]</reactant>
+        <product>asp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1063</id>
+        <name>Vesicular transport</name>
+        <reactant>cys_L[l]</reactant>
+        <product>cys_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1064</id>
+        <name>Postulated transport reaction</name>
+        <reactant>gln_L[l]</reactant>
+        <product>gln_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1067</id>
+        <name>Vesicular transport</name>
+        <reactant>his_L[l]</reactant>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1068</id>
+        <name>Vesicular transport</name>
+        <reactant>leu_L[l]</reactant>
+        <product>leu_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1071</id>
+        <name>Transport reaction</name>
+        <reactant>lys_L[l]</reactant>
+        <product>lys_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1073</id>
+        <name>Transport reaction</name>
+        <reactant>met_L[l]</reactant>
+        <product>met_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1074</id>
+        <name>Vesicular transport</name>
+        <reactant>phe_L[l]</reactant>
+        <product>phe_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1076</id>
+        <name>Postulated transport reaction</name>
+        <reactant>ser_L[l]</reactant>
+        <product>ser_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1077</id>
+        <name>Vesicular transport</name>
+        <reactant>trp_L[l]</reactant>
+        <product>trp_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1080</id>
+        <name>Vesicular transport</name>
+        <reactant>tyr_L[l]</reactant>
+        <product>tyr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1130</id>
+        <name>Transport reaction</name>
+        <reactant>HC00004[e]</reactant>
+        <product>HC00004[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1140</id>
+        <name>Vesicular transport</name>
+        <reactant>val_L[l]</reactant>
+        <product>val_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1150</id>
+        <name>Facilitated diffusion</name>
+        <reactant>pi[l]</reactant>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1298</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlncg[l]</reactant>
+        <product>lnlncg[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1299</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlncg[c]</reactant>
+        <product>lnlncg[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1301</id>
+        <name>Vesicular transport</name>
+        <reactant>ocdcea[l]</reactant>
+        <product>ocdcea[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1302</id>
+        <name>Vesicular transport</name>
+        <reactant>ocdcea[l]</reactant>
+        <product>ocdcea[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1304</id>
+        <name>Vesicular transport</name>
+        <reactant>hdcea[c]</reactant>
+        <product>hdcea[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1364</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlnca[l]</reactant>
+        <product>lnlnca[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1365</id>
+        <name>Vesicular transport</name>
+        <reactant>lnlnca[c]</reactant>
+        <product>lnlnca[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1367</id>
+        <name>Vesicular transport</name>
+        <reactant>HC02100[l]</reactant>
+        <product>HC02100[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1368</id>
+        <name>Vesicular transport</name>
+        <reactant>dlnlcg[c]</reactant>
+        <product>HC02100[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>CARhPTtc</id>
+        <name>Transport of L-Carnosine by hPT3 or hPT4 peptide transporter.</name>
+        <reactant>carn[l]</reactant>
+        <product>carn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+    <reaction>
+        <id>HIShPTtc</id>
+        <name>Transport of L-Histidine by hPT3 or hPT4 peptide transporters.</name>
+        <reactant>h[l]</reactant>
+        <reactant>his_L[l]</reactant>
+        <product>h[c]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, lysosomal</subsystem>
+    </reaction>
+</reactions>

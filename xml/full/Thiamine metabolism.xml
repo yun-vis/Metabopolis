@@ -1,0 +1,143 @@
+<metabolites>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thm[c]</name>
+        <formula>C12H17N4OS</formula>
+        <description>Thiamin</description>
+    </metabolite>
+    <metabolite>
+        <name>thmmp[c]</name>
+        <formula>C12H16N4O4PS</formula>
+        <description>Thiamin monophosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmmp[m]</name>
+        <formula>C12H16N4O4PS</formula>
+        <description>Thiamin monophosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmpp[c]</name>
+        <formula>C12H16N4O7P2S</formula>
+        <description>Thiamine diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmpp[m]</name>
+        <formula>C12H16N4O7P2S</formula>
+        <description>Thiamine diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thmtp[c]</name>
+        <formula>C12H16N4O10P3S</formula>
+        <description>thiamine(1+) triphosphate(4-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>TDP</id>
+        <name>thiamin pyrophosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>thmpp[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>thmmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TDPm</id>
+        <name>thiamin pyrophosphatase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>thmpp[m]</reactant>
+        <product>h[m]</product>
+        <product>pi[m]</product>
+        <product>thmmp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THMP</id>
+        <name>thiamin phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>thmmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>thm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THMTP</id>
+        <name>thiamine-triphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>thmtp[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>thmpp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDPK</id>
+        <name>Thiamin pyrophosphokinase (EC 2.7.6.2)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>thm[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <product>thmpp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDPPK</id>
+        <name>thiamine-diphosphate kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>thmpp[c]</reactant>
+        <product>adp[c]</product>
+        <product>thmtp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Thiamine metabolism</subsystem>
+    </reaction>
+</reactions>

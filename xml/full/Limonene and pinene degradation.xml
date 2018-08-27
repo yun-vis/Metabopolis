@@ -1,0 +1,243 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>3h26dm5coa[m]</name>
+        <formula>C31H48N7O18P3S</formula>
+        <description>3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>3h26dm5coa[x]</name>
+        <formula>C31H48N7O18P3S</formula>
+        <description>3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>apnnox[c]</name>
+        <formula>C10H16O</formula>
+        <description>alpha-pinene oxide</description>
+    </metabolite>
+    <metabolite>
+        <name>appnn[c]</name>
+        <formula>C10H16</formula>
+        <description>(+)-alpha-pinene</description>
+    </metabolite>
+    <metabolite>
+        <name>c2m26dcoa[m]</name>
+        <formula>C31H46N7O17P3S</formula>
+        <description>cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>c2m26dcoa[x]</name>
+        <formula>C31H46N7O17P3S</formula>
+        <description>cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>carveol[c]</name>
+        <formula>C10H16O</formula>
+        <description>(-)-trans-carveol</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>limnen[c]</name>
+        <formula>C10H16</formula>
+        <description>limonene</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>peracd[c]</name>
+        <formula>C10H13O2</formula>
+        <description>Perillic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>peracd[m]</name>
+        <formula>C10H13O2</formula>
+        <description>Perillic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>perillyl[c]</name>
+        <formula>C10H16O</formula>
+        <description>perillyl alcohol</description>
+    </metabolite>
+    <metabolite>
+        <name>pylald[c]</name>
+        <formula>C10H14O</formula>
+        <description>perillyl aldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>pylald[m]</name>
+        <formula>C10H14O</formula>
+        <description>perillyl aldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>t2m26dcoa[m]</name>
+        <formula>C31H46N7O17P3S</formula>
+        <description>trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>t2m26dcoa[x]</name>
+        <formula>C31H46N7O17P3S</formula>
+        <description>trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>C2M26DCOAHLm</id>
+        <name>cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>c2m26dcoa[m]</reactant>
+        <product>3h26dm5coa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>C2M26DCOAHLx</id>
+        <name>cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (x)</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>c2m26dcoa[x]</reactant>
+        <product>3h26dm5coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C92</id>
+        <name>cytochrome P450 2C9</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>limnen[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>carveol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C93</id>
+        <name>cytochrome P450 2C9</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>limnen[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>perillyl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C94</id>
+        <name>cytochrome P450 2C9</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>appnn[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>apnnox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYLALDOX</id>
+        <name>Perillyl aldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>pylald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>peracd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYLALDOXm</id>
+        <name>Perillyl aldehyde:NAD+ oxidoreductase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>pylald[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>peracd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>T2M26DCOAHLm</id>
+        <name>trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (m)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>t2m26dcoa[m]</reactant>
+        <product>3h26dm5coa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>T2M26DCOAHLx</id>
+        <name>trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (x)</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>t2m26dcoa[x]</reactant>
+        <product>3h26dm5coa[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Limonene and pinene degradation</subsystem>
+    </reaction>
+</reactions>

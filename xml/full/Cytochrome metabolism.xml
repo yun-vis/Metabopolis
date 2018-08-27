@@ -1,0 +1,412 @@
+<metabolites>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>24nph[c]</name>
+        <formula>C6H5NO4</formula>
+        <description>2-hydroxy-4-nitrophenolate</description>
+    </metabolite>
+    <metabolite>
+        <name>4hdebrisoquine[c]</name>
+        <formula>C10H14N3O</formula>
+        <description>4 hydroxy debrisoquine</description>
+    </metabolite>
+    <metabolite>
+        <name>4mtolbutamide[c]</name>
+        <formula>C12H18N2O4S</formula>
+        <description>4 hydroxy tolbutamide</description>
+    </metabolite>
+    <metabolite>
+        <name>4nph[c]</name>
+        <formula>C6H5NO3</formula>
+        <description>4-nitrophenolate</description>
+    </metabolite>
+    <metabolite>
+        <name>4nphsf[c]</name>
+        <formula>C6H4NO6S</formula>
+        <description>4-Nitrophenyl sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>5homeprazole[c]</name>
+        <formula>C17H19N3O4S</formula>
+        <description>5 hydroxy omeprazole</description>
+    </metabolite>
+    <metabolite>
+        <name>aflatoxin[c]</name>
+        <formula>C17H12O6</formula>
+        <description>aflatoxin B1</description>
+    </metabolite>
+    <metabolite>
+        <name>antipyrene[c]</name>
+        <formula>C11H12N2O</formula>
+        <description>antipyrine</description>
+    </metabolite>
+    <metabolite>
+        <name>coumarin[c]</name>
+        <formula>C9H6O2</formula>
+        <description>coumarin</description>
+    </metabolite>
+    <metabolite>
+        <name>ddca[c]</name>
+        <formula>C12H23O2</formula>
+        <description>laurate</description>
+    </metabolite>
+    <metabolite>
+        <name>debrisoquine[c]</name>
+        <formula>C10H14N3</formula>
+        <description>debrisoquine</description>
+    </metabolite>
+    <metabolite>
+        <name>dmantipyrine[c]</name>
+        <formula>C10H10N2O</formula>
+        <description>demethylated antipyrine</description>
+    </metabolite>
+    <metabolite>
+        <name>eaflatoxin[c]</name>
+        <formula>C17H12O7</formula>
+        <description>aflatoxin B1 exo-8,9-epoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastine[r]</name>
+        <formula>C32H39NO2</formula>
+        <description>ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>ebastineoh[r]</name>
+        <formula>C32H39NO3</formula>
+        <description>hydroxylated ebastine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hcoumarin[c]</name>
+        <formula>C9H6O3</formula>
+        <description>umbelliferone</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[c]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hnifedipine[c]</name>
+        <formula>C17H18N2O7</formula>
+        <description>hydroxy nifedipine</description>
+    </metabolite>
+    <metabolite>
+        <name>htaxol[c]</name>
+        <formula>C47H31NO15</formula>
+        <description>6 alpha hydroxy taxol/ 6 alpha hydroxy paclitaxel</description>
+    </metabolite>
+    <metabolite>
+        <name>meoh[c]</name>
+        <formula>CH4O1</formula>
+        <description>methanol</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nifedipine[c]</name>
+        <formula>C17H18N2O6</formula>
+        <description>nifedipine</description>
+    </metabolite>
+    <metabolite>
+        <name>npthl[c]</name>
+        <formula>C10H8</formula>
+        <description>naphthalene</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[r]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>omeprazole[c]</name>
+        <formula>C17H19N3O3S</formula>
+        <description>omeprazole</description>
+    </metabolite>
+    <metabolite>
+        <name>onpthl[c]</name>
+        <formula>C10H8O</formula>
+        <description>naphthalene epoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>taxol[c]</name>
+        <formula>C47H31NO14</formula>
+        <description>paclitaxel</description>
+    </metabolite>
+    <metabolite>
+        <name>tolbutamide[c]</name>
+        <formula>C12H18N2O3S</formula>
+        <description>tolbutamide</description>
+    </metabolite>
+    <metabolite>
+        <name>ttdca[c]</name>
+        <formula>C14H27O2</formula>
+        <description>tetradecanoate (n-C14:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>whddca[c]</name>
+        <formula>C12H23O3</formula>
+        <description>omega hydroxy dodecanoate (n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>whhdca[c]</name>
+        <formula>C16H31O3</formula>
+        <description>omega hydroxy hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>whttdca[c]</name>
+        <formula>C14H27O3</formula>
+        <description>omega hydroxy tetradecanoate (n-C14:0)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>4NPHSULT</id>
+        <name>4-Nitrophenol Sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>4nph[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>4nphsf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAH1</id>
+        <name>Fatty acid omega-hydroxylase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>ddca[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>whddca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAH2</id>
+        <name>Fatty acid omega-hydroxylase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>ttdca[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>whttdca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAH3</id>
+        <name>Fatty acid omega-hydroxylase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>hdca[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>whhdca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502A6</id>
+        <name>cytochrome P450 2A6</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>coumarin[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>hcoumarin[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C18</id>
+        <name>cytochrome P450 2C18</name>
+        <reactant>0.5 o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>antipyrene[c]</reactant>
+        <product>nadp[c]</product>
+        <product>meoh[c]</product>
+        <product>dmantipyrine[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C19</id>
+        <name>cytochrome P450 2C19</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>omeprazole[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>5homeprazole[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C8</id>
+        <name>cytochrome P450 2C8</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>taxol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>htaxol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502C9</id>
+        <name>cytochrome P450 2C9</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>tolbutamide[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>4mtolbutamide[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502D6</id>
+        <name>cytochrome P450 2D6</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>debrisoquine[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>4hdebrisoquine[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502E1</id>
+        <name>cytochrome P450 2E1</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>4nph[c]</reactant>
+        <product>h2o[c]</product>
+        <product>24nph[c]</product>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4502F1</id>
+        <name>cytochrome P450 2F1</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>npthl[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>onpthl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4503A4</id>
+        <name>cytochrome P450 3A4</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>nifedipine[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>hnifedipine[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4503A5</id>
+        <name>cytochrome P450 3A5</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>aflatoxin[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>eaflatoxin[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P4504F123r</id>
+        <name>cytochrome p450 4F12/4F2</name>
+        <reactant>o2[r]</reactant>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>ebastine[r]</reactant>
+        <product>h2o[r]</product>
+        <product>nadp[r]</product>
+        <product>ebastineoh[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Cytochrome metabolism</subsystem>
+    </reaction>
+</reactions>

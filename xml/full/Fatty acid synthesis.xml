@@ -1,0 +1,2506 @@
+<metabolites>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[c]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>3ohodcoa[c]</name>
+        <formula>C39H64N7O18P3S</formula>
+        <description>3-Oxooctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>3ohodcoa[l]</name>
+        <formula>C39H64N7O18P3S</formula>
+        <description>3-Oxooctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>3ohodcoa[r]</name>
+        <formula>C39H64N7O18P3S</formula>
+        <description>3-Oxooctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[c]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ACP[c]</name>
+        <formula>C11H21N2O7PRS</formula>
+        <description>acyl carrier protein</description>
+    </metabolite>
+    <metabolite>
+        <name>C08281[c]</name>
+        <formula>C22H43O2</formula>
+        <description>behenate</description>
+    </metabolite>
+    <metabolite>
+        <name>C08281[m]</name>
+        <formula>C22H43O2</formula>
+        <description>behenate</description>
+    </metabolite>
+    <metabolite>
+        <name>C08281[x]</name>
+        <formula>C22H43O2</formula>
+        <description>behenate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2242[c]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>trans-docos-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2242[n]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>trans-docos-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2243[c]</name>
+        <formula>C41H68N7O17P3S</formula>
+        <description>trans-eicos-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2245[c]</name>
+        <formula>C45H76N7O17P3S</formula>
+        <description>trans-tetracos-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2246[c]</name>
+        <formula>C43H74N7O18P3S</formula>
+        <description>3-hydroxydocosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2247[c]</name>
+        <formula>C41H70N7O18P3S</formula>
+        <description>3-hydroxyeicosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2248[c]</name>
+        <formula>C39H66N7O18P3S</formula>
+        <description>3-hydroxyoctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2248[n]</name>
+        <formula>C39H66N7O18P3S</formula>
+        <description>3-hydroxyoctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2248[r]</name>
+        <formula>C39H66N7O18P3S</formula>
+        <description>3-hydroxyoctadecanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2249[c]</name>
+        <formula>C45H78N7O18P3S</formula>
+        <description>3-hydroxytetracosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2250[c]</name>
+        <formula>C43H72N7O18P3S</formula>
+        <description>3-oxodocosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2250[e]</name>
+        <formula>C43H72N7O18P3S</formula>
+        <description>3-oxodocosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2251[c]</name>
+        <formula>C41H68N7O18P3S</formula>
+        <description>3-oxoeicosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2253[c]</name>
+        <formula>C45H76N7O18P3S</formula>
+        <description>3-oxotetracosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2253[n]</name>
+        <formula>C45H76N7O18P3S</formula>
+        <description>3-oxotetracosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2254[c]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2254[m]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2254[n]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2254[x]</name>
+        <formula>C43H74N7O17P3S</formula>
+        <description>docosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2257[c]</name>
+        <formula>C45H78N7O17P3S</formula>
+        <description>tetracosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2257[m]</name>
+        <formula>C45H78N7O17P3S</formula>
+        <description>tetracosanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2510[c]</name>
+        <formula>C20H37O2</formula>
+        <description>11-cis-eicosenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2512[c]</name>
+        <formula>C22H41O2</formula>
+        <description>13-docosenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2513[c]</name>
+        <formula>C24H45O2</formula>
+        <description>15-tetracosenoate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5144[c]</name>
+        <formula>C41H66N7O18P3S</formula>
+        <description>3-oxo-11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5144[r]</name>
+        <formula>C41H66N7O18P3S</formula>
+        <description>3-oxo-11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5148[c]</name>
+        <formula>C41H68N7O18P3S</formula>
+        <description>3(S)-hydroxy-11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5148[r]</name>
+        <formula>C41H68N7O18P3S</formula>
+        <description>3(S)-hydroxy-11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5150[c]</name>
+        <formula>C41H66N7O17P3S</formula>
+        <description>trans,cis-2,11-eicosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5150[r]</name>
+        <formula>C41H66N7O17P3S</formula>
+        <description>trans,cis-2,11-eicosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5151[c]</name>
+        <formula>C41H68N7O17P3S</formula>
+        <description>11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5151[r]</name>
+        <formula>C41H68N7O17P3S</formula>
+        <description>11-cis-eicosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5152[c]</name>
+        <formula>C43H70N7O18P3S</formula>
+        <description>3-oxo-13cis-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5152[r]</name>
+        <formula>C43H70N7O18P3S</formula>
+        <description>3-oxo-13cis-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5153[c]</name>
+        <formula>C43H72N7O18P3S</formula>
+        <description>3(S)-hydroxy-13cis-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5153[r]</name>
+        <formula>C43H72N7O18P3S</formula>
+        <description>3(S)-hydroxy-13cis-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5154[c]</name>
+        <formula>C43H70N7O17P3S</formula>
+        <description>trans,cis-2,13-docosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5154[r]</name>
+        <formula>C43H70N7O17P3S</formula>
+        <description>trans,cis-2,13-docosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5155[c]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>cis-13-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5155[r]</name>
+        <formula>C43H72N7O17P3S</formula>
+        <description>cis-13-docosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5156[c]</name>
+        <formula>C45H74N7O18P3S</formula>
+        <description>3-oxo-cis-15-tetracosaenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5156[r]</name>
+        <formula>C45H74N7O18P3S</formula>
+        <description>3-oxo-cis-15-tetracosaenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5157[c]</name>
+        <formula>C45H76N7O18P3S</formula>
+        <description>3(S)-hydroxy-cis-15-tetracosaenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5157[r]</name>
+        <formula>C45H76N7O18P3S</formula>
+        <description>3(S)-hydroxy-cis-15-tetracosaenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5158[c]</name>
+        <formula>C45H74N7O17P3S</formula>
+        <description>trans,cis-2,15-tetracosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5158[r]</name>
+        <formula>C45H74N7O17P3S</formula>
+        <description>trans,cis-2,15-tetracosadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5159[c]</name>
+        <formula>C45H76N7O17P3S</formula>
+        <description>cis-15-tetracosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5159[r]</name>
+        <formula>C45H76N7O17P3S</formula>
+        <description>cis-15-tetracosenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5160[c]</name>
+        <formula>C39H62N7O18P3S</formula>
+        <description>3-oxo-cis-9-octadecenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5160[r]</name>
+        <formula>C39H62N7O18P3S</formula>
+        <description>3-oxo-cis-9-octadecenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5161[c]</name>
+        <formula>C39H64N7O18P3S</formula>
+        <description>3(S)-hydroxy-cis-9-octadecenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5161[r]</name>
+        <formula>C39H64N7O18P3S</formula>
+        <description>3(S)-hydroxy-cis-9-octadecenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5162[c]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>trans,cis-2,9-octadecadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5162[r]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>trans,cis-2,9-octadecadienoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01255[c]</name>
+        <formula></formula>
+        <description>But-2-enoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01321[c]</name>
+        <formula></formula>
+        <description>(R)-3-Hydroxybutanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01322[c]</name>
+        <formula></formula>
+        <description>(R)-3-Hydroxydecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01323[c]</name>
+        <formula></formula>
+        <description>(R)-3-Hydroxyoctanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01326[c]</name>
+        <formula></formula>
+        <description>(R)-3-Hydroxypalmitoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01335[c]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10fthf5glu[c]</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01587[c]</name>
+        <formula></formula>
+        <description>Acetoacetyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01588[c]</name>
+        <formula></formula>
+        <description>Butyryl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01589[c]</name>
+        <formula></formula>
+        <description>3-Oxohexanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01590[c]</name>
+        <formula></formula>
+        <description>D-3-Hydroxyhexanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01591[c]</name>
+        <formula></formula>
+        <description>(2E)-Hexenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01592[c]</name>
+        <formula></formula>
+        <description>Hexanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01593[c]</name>
+        <formula></formula>
+        <description>3-Oxooctanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01594[c]</name>
+        <formula></formula>
+        <description>(2E)-Octenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01595[c]</name>
+        <formula>C8H15ORS</formula>
+        <description>Octanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01596[c]</name>
+        <formula></formula>
+        <description>3-Oxodecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01597[c]</name>
+        <formula></formula>
+        <description>(2E)-Decenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01598[c]</name>
+        <formula>C10H19ORS</formula>
+        <description>Decanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01599[c]</name>
+        <formula></formula>
+        <description>3-Oxododecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01600[c]</name>
+        <formula></formula>
+        <description>D-3-Hydroxydodecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01601[c]</name>
+        <formula></formula>
+        <description>(2E)-Dodecenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01602[c]</name>
+        <formula></formula>
+        <description>3-Oxotetradecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01603[c]</name>
+        <formula></formula>
+        <description>(2E)-Tetradecenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01605[c]</name>
+        <formula></formula>
+        <description>3-Oxohexadecanoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01606[c]</name>
+        <formula></formula>
+        <description>(2E)-Hexadecenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01988[c]</name>
+        <formula></formula>
+        <description>Stearoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02097[c]</name>
+        <formula></formula>
+        <description>3-Oxostearoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02098[c]</name>
+        <formula></formula>
+        <description>3-Hydroxystearoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02099[c]</name>
+        <formula></formula>
+        <description>(2E)-Octadecenoyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10852[c]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>palmitoleyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC10852[r]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>palmitoleyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acACP[c]</name>
+        <formula>C13H23N2O8PRS</formula>
+        <description>Acetyl-ACP</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adrncoa[c]</name>
+        <formula>C43H66N7O17P3S</formula>
+        <description>adrenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>adrncoa[x]</name>
+        <formula>C43H66N7O17P3S</formula>
+        <description>adrenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arach[c]</name>
+        <formula>C20H39O2</formula>
+        <description>arachidate</description>
+    </metabolite>
+    <metabolite>
+        <name>arach[m]</name>
+        <formula>C20H39O2</formula>
+        <description>arachidate</description>
+    </metabolite>
+    <metabolite>
+        <name>arach[x]</name>
+        <formula>C20H39O2</formula>
+        <description>arachidate</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[c]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[e]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[m]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachcoa[x]</name>
+        <formula>C41H70N7O17P3S</formula>
+        <description>arachidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>arachdcoa[c]</name>
+        <formula>C41H62N7O17P3S</formula>
+        <description>arachidonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>c226coa[x]</name>
+        <formula>C43H62N7O17P3S</formula>
+        <description>cervonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>clpndcoa[c]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>clupanodonyl CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>clpndcoa[x]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>clupanodonyl CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[e]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[l]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[n]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[r]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[e]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[l]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[n]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[r]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dcacoa[c]</name>
+        <formula>C31H50N7O17P3S</formula>
+        <description>Decanoyl-CoA (n-C10:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>dcsptn1coa[x]</name>
+        <formula>C43H64N7O17P3S</formula>
+        <description>docosa-4,7,10,13,16-pentaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ddcaACP[c]</name>
+        <formula>C23H43N2O8PRS</formula>
+        <description>Dodecanoyl-ACP (n-C12:0ACP)</description>
+    </metabolite>
+    <metabolite>
+        <name>ddcacoa[c]</name>
+        <formula>C33H54N7O17P3S</formula>
+        <description>Dodecanoyl-CoA (n-C12:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>dlnlcgcoa[c]</name>
+        <formula>C41H64N7O17P3S</formula>
+        <description>dihomo-gamma-linolenyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>eicostetcoa[c]</name>
+        <formula>C41H62N7O17P3S</formula>
+        <description>eicosatetranoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[c]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hdcoa[c]</name>
+        <formula>C37H60N7O17P3S</formula>
+        <description>Hexadecenoyl-CoA (n-C16:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>lgnc[c]</name>
+        <formula>C24H47O2</formula>
+        <description>lignocerate</description>
+    </metabolite>
+    <metabolite>
+        <name>lgnc[m]</name>
+        <formula>C24H47O2</formula>
+        <description>lignocerate</description>
+    </metabolite>
+    <metabolite>
+        <name>lgnc[x]</name>
+        <formula>C24H47O2</formula>
+        <description>lignocerate</description>
+    </metabolite>
+    <metabolite>
+        <name>lneldccoa[c]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoelaidyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlccoa[c]</name>
+        <formula>C39H62N7O17P3S</formula>
+        <description>linoleic coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncacoa[c]</name>
+        <formula>C39H60N7O17P3S</formula>
+        <description>alpha-Linolenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>lnlncgcoa[c]</name>
+        <formula>C39H60N7O17P3S</formula>
+        <description>gamma-linolenoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>malACP[c]</name>
+        <formula>C14H22N2O10PRS</formula>
+        <description>Malonyl-[acyl-carrier protein]</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[c]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[e]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[l]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[n]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>malcoa[r]</name>
+        <formula>C24H33N7O19P3S</formula>
+        <description>Malonyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>myrsACP[c]</name>
+        <formula>C25H47N2O8PRS</formula>
+        <description>Myristoyl-ACP (n-C14:0ACP)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[n]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[n]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>occoa[c]</name>
+        <formula>C29H46N7O17P3S</formula>
+        <description>Octanoyl-CoA (n-C8:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdca[c]</name>
+        <formula>C18H35O2</formula>
+        <description>octadecanoate (n-C18:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdca[m]</name>
+        <formula>C18H35O2</formula>
+        <description>octadecanoate (n-C18:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdca[x]</name>
+        <formula>C18H35O2</formula>
+        <description>octadecanoate (n-C18:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>ocdcea[c]</name>
+        <formula>C18H33O2</formula>
+        <description>octadecenoate (n-C18:1)</description>
+    </metabolite>
+    <metabolite>
+        <name>od2coa[c]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>trans-Octadec-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>od2coa[n]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>trans-Octadec-2-enoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[c]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>odecoa[r]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>Octadecenoyl-CoA (n-C18:1CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>palmACP[c]</name>
+        <formula>C27H51N2O8PRS</formula>
+        <description>Palmitoyl-ACP (n-C16:0ACP)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[c]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[l]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[r]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[c]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[m]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[n]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>stcoa[x]</name>
+        <formula>C39H66N7O17P3S</formula>
+        <description>Stearoyl-CoA (n-C18:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnc[c]</name>
+        <formula>C18H27O2</formula>
+        <description>stearidonic acid C18:4, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>strdnccoa[c]</name>
+        <formula>C39H58N7O17P3S</formula>
+        <description>stearidonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tdcoa[c]</name>
+        <formula>C35H58N7O17P3S</formula>
+        <description>Tetradecanoyl-CoA (n-C14:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>tethex3coa[c]</name>
+        <formula>C45H66N7O17P3S</formula>
+        <description>tetracosahexaenoyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>tetpent3coa[c]</name>
+        <formula>C45H68N7O17P3S</formula>
+        <description>tetracosapentaenoyl coenzyme A, n-3</description>
+    </metabolite>
+    <metabolite>
+        <name>tmndnccoa[c]</name>
+        <formula>C41H60N7O17P3S</formula>
+        <description>timnodonyl coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ttccoa[x]</name>
+        <formula>C45H78N7O17P3S</formula>
+        <description>tetracosanoyl-CoA (n-C24:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>vacccoa[c]</name>
+        <formula>C39H64N7O17P3S</formula>
+        <description>vaccenyl coenzyme A</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>DESAT16_2</id>
+        <name>palmitoyl-CoA desaturase (n-C16:0CoA -&gt; n-C16:1CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>pmtcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>hdcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_10</id>
+        <name>fatty acyl-CoA desaturase (n-C18:2CoA -&gt; n-C18:3CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>lnlncacoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>strdnccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_3</id>
+        <name>stearoyl-CoA desaturase (n-C18:0CoA -&gt; n-C18:1CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>odecoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_4</id>
+        <name>stearoyl-CoA desaturase (n-C18:0CoA -&gt; n-C18:1CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>vacccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_5</id>
+        <name>stearoyl-CoA desaturase (n-C18:0CoA -&gt; n-C18:1CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>od2coa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_6</id>
+        <name>fatty acyl-CoA desaturase (n-C18:1CoA -&gt; n-C18:2CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>odecoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>lneldccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_7</id>
+        <name>fatty acyl-CoA desaturase (n-C18:1CoA -&gt; n-C18:2CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>vacccoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>lneldccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_8</id>
+        <name>fatty acyl-CoA desaturase (n-C18:1CoA -&gt; n-C18:2CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>od2coa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>lneldccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT18_9</id>
+        <name>fatty acyl-CoA desaturase (n-C18:2CoA -&gt; n-C18:3CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>lnlccoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>lnlncgcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT20_1</id>
+        <name>fatty acyl-CoA desaturase (n-C20:3CoA -&gt; n-C20:4CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>dlnlcgcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>arachdcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT20_2</id>
+        <name>fatty acyl-CoA desaturase (n-C20:4CoA -&gt; n-C20:5CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>eicostetcoa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>tmndnccoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT22_1p</id>
+        <name>fatty acyl-CoA desaturase (n-C22:4CoA -&gt; n-C22:5CoA)</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>adrncoa[x]</reactant>
+        <product>nad[x]</product>
+        <product>2 h2o[x]</product>
+        <product>dcsptn1coa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT22_2p</id>
+        <name>fatty acyl-CoA desaturase (n-C22:5CoA -&gt; n-C22:6CoA)</name>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <reactant>clpndcoa[x]</reactant>
+        <product>nad[x]</product>
+        <product>2 h2o[x]</product>
+        <product>c226coa[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DESAT24_1</id>
+        <name>fatty acyl-CoA desaturase (n-C24:5CoA -&gt; n-C24:6CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>tetpent3coa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>tethex3coa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAEL183</id>
+        <name>fatty-acyl-CoA elongation (n-C18:3CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5 h[c]</reactant>
+        <reactant>4 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>lnlncgcoa[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>4 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>dlnlcgcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAEL184</id>
+        <name>fatty-acyl-CoA elongation (n-C20:4CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5 h[c]</reactant>
+        <reactant>4 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>strdnccoa[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>4 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>eicostetcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAEL204</id>
+        <name>fatty-acyl-CoA elongation (n-C20:4CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5 h[c]</reactant>
+        <reactant>4 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>arachdcoa[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>4 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>adrncoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAEL205</id>
+        <name>fatty-acyl-CoA elongation (n-C20:5CoA)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>5 h[c]</reactant>
+        <reactant>4 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>tmndnccoa[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>4 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>clpndcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS100COA</id>
+        <name>fatty acyl-CoA synthase (n-C10:0CoA)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>occoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>dcacoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS120COA</id>
+        <name>fatty-acyl-CoA synthase (n-C12:0CoA)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>dcacoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>ddcacoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS140COA</id>
+        <name>fatty-acyl-CoA synthase (n-C14:0CoA)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>ddcacoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>tdcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS160COA</id>
+        <name>fatty-acyl-CoA synthase (n-C16:0CoA)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>tdcoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>pmtcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS180COA</id>
+        <name>fatty-acyl-CoA synthase (n-C18:0CoA)</name>
+        <reactant>3 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>pmtcoa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2 nadp[c]</product>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>stcoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>FAS80COA_L</id>
+        <name>fatty acyl-CoA synthase (n-C8:0CoA), lumped reaction</name>
+        <reactant>9 h[c]</reactant>
+        <reactant>6 nadph[c]</reactant>
+        <reactant>accoa[c]</reactant>
+        <reactant>3 malcoa[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>6 nadp[c]</product>
+        <product>3 co2[c]</product>
+        <product>3 coa[c]</product>
+        <product>occoa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>KAS8</id>
+        <name>b-ketoacyl synthetase (palmitate, n-C16:0)</name>
+        <reactant>20 h[c]</reactant>
+        <reactant>14 nadph[c]</reactant>
+        <reactant>accoa[c]</reactant>
+        <reactant>7 malcoa[c]</reactant>
+        <product>6 h2o[c]</product>
+        <product>14 nadp[c]</product>
+        <product>7 co2[c]</product>
+        <product>8 coa[c]</product>
+        <product>hdca[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0678</id>
+        <name>Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>acACP[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01587[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0681</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01321[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01255[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0682</id>
+        <name>Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.1.3.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01588[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01255[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0691</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01321[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01587[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0692</id>
+        <name>(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01322[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01596[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0693</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01322[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01597[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0694</id>
+        <name>(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01323[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01593[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0695</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase; (3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01323[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01594[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0696</id>
+        <name>(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01326[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01605[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0697</id>
+        <name>(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01326[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01606[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0701</id>
+        <name>(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01335[c]</reactant>
+        <product>nadph[c]</product>
+        <product>HC01602[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0702</id>
+        <name>(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01335[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01603[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0712</id>
+        <name>Dodecanoyl-[acyl-carrier protein]: malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>ddcaACP[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01601[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0713</id>
+        <name>dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>ddcaACP[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01602[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0760</id>
+        <name>butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <reactant>HC01588[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01589[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0761</id>
+        <name>(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01590[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01589[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0762</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01590[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01591[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0763</id>
+        <name>Hexanoyl-[acyl-carrier protein]:oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01592[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01591[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0764</id>
+        <name>hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <reactant>HC01592[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01593[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0765</id>
+        <name>Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01595[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01594[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0766</id>
+        <name>Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <reactant>HC01595[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01596[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0767</id>
+        <name>Decanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01598[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01597[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0768</id>
+        <name>Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <reactant>HC01598[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01599[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0769</id>
+        <name>(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>HC01600[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01599[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0770</id>
+        <name>(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC01600[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC01601[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0771</id>
+        <name>Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>myrsACP[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01603[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0772</id>
+        <name>Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>myrsACP[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC01605[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0773</id>
+        <name>Hexadecanoyl-[acyl-carrier protein:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing and thioester-hydrolysing) Fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>palmACP[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>HC01606[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1313</id>
+        <name>3-oxoacyl-ACP synthase, mitochondrial Polyunsaturated fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>palmACP[c]</reactant>
+        <reactant>malACP[c]</reactant>
+        <product>co2[c]</product>
+        <product>ACP[c]</product>
+        <product>HC02097[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1314</id>
+        <name>fatty acid synthase Polyunsaturated fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>HC02097[c]</reactant>
+        <product>nadp[c]</product>
+        <product>HC02098[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1315</id>
+        <name>fatty acid synthase Polyunsaturated fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>HC02098[c]</reactant>
+        <product>h2o[c]</product>
+        <product>HC02099[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1316</id>
+        <name>fatty acid synthase Polyunsaturated fatty acid biosynthesis EC:2.3.1.85</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>HC02099[c]</reactant>
+        <product>nadp[c]</product>
+        <product>HC01988[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1317</id>
+        <name>oleoyl-ACP hydrolase EC:2.3.1.85</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>HC01988[c]</reactant>
+        <product>ACP[c]</product>
+        <product>strdnc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0344C</id>
+        <name>RE0344</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>ocdca[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0344M</id>
+        <name>RE0344</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>stcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>ocdca[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0344X</id>
+        <name>RE0344</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>stcoa[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>ocdca[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0565C</id>
+        <name>RE0565</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>stcoa[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE2251[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0566C</id>
+        <name>RE0566</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2251[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2247[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0567C</id>
+        <name>RE0567</name>
+        <reactant>CE2247[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2243[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0568C</id>
+        <name>RE0568</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2243[c]</reactant>
+        <product>nadp[c]</product>
+        <product>arachcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0569C</id>
+        <name>RE0569</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>arachcoa[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE2250[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0569E</id>
+        <name>RE0569</name>
+        <reactant>h[e]</reactant>
+        <reactant>malcoa[e]</reactant>
+        <reactant>arachcoa[e]</reactant>
+        <product>co2[e]</product>
+        <product>coa[e]</product>
+        <product>CE2250[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0570C</id>
+        <name>RE0570</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2250[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2246[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0571C</id>
+        <name>RE0571</name>
+        <reactant>CE2246[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2242[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0572N</id>
+        <name>RE0572</name>
+        <reactant>h[n]</reactant>
+        <reactant>nadph[n]</reactant>
+        <reactant>CE2242[n]</reactant>
+        <product>nadp[n]</product>
+        <product>CE2254[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0573N</id>
+        <name>RE0573</name>
+        <reactant>h[n]</reactant>
+        <reactant>CE2254[n]</reactant>
+        <reactant>malcoa[n]</reactant>
+        <product>coa[n]</product>
+        <product>co2[n]</product>
+        <product>CE2253[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0574C</id>
+        <name>RE0574</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2253[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2249[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0575C</id>
+        <name>RE0575</name>
+        <reactant>CE2249[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2245[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0576C</id>
+        <name>RE0576</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2245[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2257[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0577C</id>
+        <name>RE0577</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>arachcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>arach[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0577M</id>
+        <name>RE0577</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>arachcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>arach[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0577X</id>
+        <name>RE0577</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>arachcoa[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>arach[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0578C</id>
+        <name>RE0578</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2254[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>C08281[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0578M</id>
+        <name>RE0578</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE2254[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>C08281[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0578X</id>
+        <name>RE0578</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>CE2254[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>C08281[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0579C</id>
+        <name>RE0579</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2257[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>lgnc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0579M</id>
+        <name>RE0579</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>CE2257[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>lgnc[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0579X</id>
+        <name>RE0579</name>
+        <reactant>ttccoa[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <product>h[x]</product>
+        <product>coa[x]</product>
+        <product>lgnc[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0580L</id>
+        <name>RE0580</name>
+        <reactant>h[l]</reactant>
+        <reactant>pmtcoa[l]</reactant>
+        <reactant>malcoa[l]</reactant>
+        <product>coa[l]</product>
+        <product>co2[l]</product>
+        <product>3ohodcoa[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0580R</id>
+        <name>RE0580</name>
+        <reactant>h[r]</reactant>
+        <reactant>pmtcoa[r]</reactant>
+        <reactant>malcoa[r]</reactant>
+        <product>co2[r]</product>
+        <product>coa[r]</product>
+        <product>3ohodcoa[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0581C</id>
+        <name>RE0581</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>3ohodcoa[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE2248[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0581R</id>
+        <name>RE0581</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>3ohodcoa[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE2248[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0582N</id>
+        <name>RE0582</name>
+        <reactant>CE2248[n]</reactant>
+        <product>h2o[n]</product>
+        <product>od2coa[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0583C</id>
+        <name>RE0583</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>od2coa[c]</reactant>
+        <product>nadp[c]</product>
+        <product>stcoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0583N</id>
+        <name>RE0583</name>
+        <reactant>h[n]</reactant>
+        <reactant>nadph[n]</reactant>
+        <reactant>od2coa[n]</reactant>
+        <product>nadp[n]</product>
+        <product>stcoa[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3224C</id>
+        <name>RE3224</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>odecoa[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE5144[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3224R</id>
+        <name>RE3224</name>
+        <reactant>h[r]</reactant>
+        <reactant>malcoa[r]</reactant>
+        <reactant>odecoa[r]</reactant>
+        <product>co2[r]</product>
+        <product>coa[r]</product>
+        <product>CE5144[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3225C</id>
+        <name>RE3225</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>CE5151[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE5152[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3225R</id>
+        <name>RE3225</name>
+        <reactant>h[r]</reactant>
+        <reactant>malcoa[r]</reactant>
+        <reactant>CE5151[r]</reactant>
+        <product>co2[r]</product>
+        <product>coa[r]</product>
+        <product>CE5152[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3226C</id>
+        <name>RE3226</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>CE5155[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE5156[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3226R</id>
+        <name>RE3226</name>
+        <reactant>h[r]</reactant>
+        <reactant>malcoa[r]</reactant>
+        <reactant>CE5155[r]</reactant>
+        <product>co2[r]</product>
+        <product>coa[r]</product>
+        <product>CE5156[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3227C</id>
+        <name>RE3227</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5144[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5148[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3227R</id>
+        <name>RE3227</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5144[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5148[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3228C</id>
+        <name>RE3228</name>
+        <reactant>CE5148[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5150[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3228R</id>
+        <name>RE3228</name>
+        <reactant>CE5148[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE5150[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3229C</id>
+        <name>RE3229</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5150[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5151[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3229R</id>
+        <name>RE3229</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5150[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5151[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3230C</id>
+        <name>RE3230</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5152[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5153[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3230R</id>
+        <name>RE3230</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5152[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5153[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3231C</id>
+        <name>RE3231</name>
+        <reactant>CE5153[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5154[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3231R</id>
+        <name>RE3231</name>
+        <reactant>CE5153[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE5154[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3232C</id>
+        <name>RE3232</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5154[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5155[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3232R</id>
+        <name>RE3232</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5154[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5155[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3234C</id>
+        <name>RE3234</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5156[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5157[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3234R</id>
+        <name>RE3234</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5156[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5157[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3235C</id>
+        <name>RE3235</name>
+        <reactant>CE5157[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5158[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3235R</id>
+        <name>RE3235</name>
+        <reactant>CE5157[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE5158[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3236C</id>
+        <name>RE3236</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5158[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5159[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3236R</id>
+        <name>RE3236</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5158[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5159[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3237C</id>
+        <name>RE3237</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5159[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE2513[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3238C</id>
+        <name>RE3238</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5151[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE2510[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3239C</id>
+        <name>RE3239</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE5155[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE2512[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3241C</id>
+        <name>RE3241</name>
+        <reactant>h[c]</reactant>
+        <reactant>malcoa[c]</reactant>
+        <reactant>HC10852[c]</reactant>
+        <product>co2[c]</product>
+        <product>coa[c]</product>
+        <product>CE5160[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3241R</id>
+        <name>RE3241</name>
+        <reactant>h[r]</reactant>
+        <reactant>malcoa[r]</reactant>
+        <reactant>HC10852[r]</reactant>
+        <product>co2[r]</product>
+        <product>coa[r]</product>
+        <product>CE5160[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3242C</id>
+        <name>RE3242</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5160[c]</reactant>
+        <product>nadp[c]</product>
+        <product>CE5161[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3242R</id>
+        <name>RE3242</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5160[r]</reactant>
+        <product>nadp[r]</product>
+        <product>CE5161[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3243C</id>
+        <name>RE3243</name>
+        <reactant>CE5161[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5162[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3243R</id>
+        <name>RE3243</name>
+        <reactant>CE5161[r]</reactant>
+        <product>h2o[r]</product>
+        <product>CE5162[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3244C</id>
+        <name>RE3244</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE5162[c]</reactant>
+        <product>nadp[c]</product>
+        <product>odecoa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3244R</id>
+        <name>RE3244</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>CE5162[r]</reactant>
+        <product>nadp[r]</product>
+        <product>odecoa[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3245C</id>
+        <name>RE3245</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>odecoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>ocdcea[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fatty acid synthesis</subsystem>
+    </reaction>
+</reactions>

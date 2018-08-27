@@ -1,0 +1,1618 @@
+<metabolites>
+    <metabolite>
+        <name>12dgr120[e]</name>
+        <formula>C27H52O5</formula>
+        <description>1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>12dgr120[g]</name>
+        <formula>C27H52O5</formula>
+        <description>1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>12dgr120[m]</name>
+        <formula>C27H52O5</formula>
+        <description>1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>12dgr120[n]</name>
+        <formula>C27H52O5</formula>
+        <description>1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>12dgr120[r]</name>
+        <formula>C27H52O5</formula>
+        <description>1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>1ddecg3p[c]</name>
+        <formula>C15H29O7P1</formula>
+        <description>1-acyl-sn-glycerol 3-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2ameph[c]</name>
+        <formula>C2H7NO3P</formula>
+        <description>(2-Aminoethyl)phosphonate</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[m]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[r]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[m]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[r]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>C01241[c]</name>
+        <formula>C8H14NO8PR2</formula>
+        <description>Phosphatidyl-N-methylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>C01241[m]</name>
+        <formula>C8H14NO8PR2</formula>
+        <description>Phosphatidyl-N-methylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>C01241[r]</name>
+        <formula>C8H14NO8PR2</formula>
+        <description>Phosphatidyl-N-methylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>C01264[c]</name>
+        <formula>C5H8O7PR</formula>
+        <description>1-alkyl-2-acetyl-sn-glycerol 3-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C03372[c]</name>
+        <formula>C4H4O7PR</formula>
+        <description>1-acylglycerone 3-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C03820[c]</name>
+        <formula>C5H9O4R</formula>
+        <description>1-Alkyl-2-acetyl-sn-glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>C03968[c]</name>
+        <formula>C3H6O6PR</formula>
+        <description>1-alkyl-sn-glycerol 3-phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C04308[c]</name>
+        <formula>C9H15NO8PR2</formula>
+        <description>Phosphatidyl-N-dimethylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>C04308[m]</name>
+        <formula>C9H15NO8PR2</formula>
+        <description>Phosphatidyl-N-dimethylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>C04308[r]</name>
+        <formula>C9H15NO8PR2</formula>
+        <description>Phosphatidyl-N-dimethylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00718[c]</name>
+        <formula>C3H9NO4P</formula>
+        <description>N-methylethanolaminium phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[c]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[e]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[c]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[x]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[e]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[n]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ach[c]</name>
+        <formula>C7H16NO2</formula>
+        <description>acetylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ach[e]</name>
+        <formula>C7H16NO2</formula>
+        <description>acetylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ach[n]</name>
+        <formula>C7H16NO2</formula>
+        <description>acetylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>adhap_hs[x]</name>
+        <formula>C3H4O6PFULLRCO</formula>
+        <description>acyl-dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[n]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[m]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[r]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2g_hs[c]</name>
+        <formula>C5H10O2FULLRFULLR2CO2</formula>
+        <description>1-alkyl 2-acylglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2gchol_hs[c]</name>
+        <formula>C10H20O5NPFULLRFULLR2CO</formula>
+        <description>1-alkyl 2-acylglycerol 3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2gp_hs[c]</name>
+        <formula>C5H9O6PFULLRFULLR2CO</formula>
+        <description>1-alkyl 2-acylglycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2gpe_hs[c]</name>
+        <formula>C7H16O5NPFULLRFULLR2CO</formula>
+        <description>1-alkyl 2-acylglycerol 3-phosphoethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2lgchol_hs[c]</name>
+        <formula>C10H21O5NPFULLR</formula>
+        <description>1-alkyl 2-lysoglycerol 3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>ak2lgchol_hs[e]</name>
+        <formula>C10H21O5NPFULLR</formula>
+        <description>1-alkyl 2-lysoglycerol 3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>akdhap_hs[c]</name>
+        <formula>C3H4O6PFULLRC2H4</formula>
+        <description>1-alkyldihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>akdhap_hs[x]</name>
+        <formula>C3H4O6PFULLRC2H4</formula>
+        <description>1-alkyldihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>akgp_hs[c]</name>
+        <formula>C4H10O4PFULLRCO2</formula>
+        <description>O-alkylglycerone phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>alkylR1oh[x]</name>
+        <formula>C2H5OFULLR</formula>
+        <description>hydroxy alkyl chain</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[m]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[r]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpchol[c]</name>
+        <formula>C14H25N4O11P2</formula>
+        <description>CDPcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpdag_hs[c]</name>
+        <formula>C12H17N3O11P2FULLRCO2FULLR2CO2</formula>
+        <description>CDP-diacylglycerol(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpdag_hs[m]</name>
+        <formula>C12H17N3O11P2FULLRCO2FULLR2CO2</formula>
+        <description>CDP-diacylglycerol(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[c]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[e]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[g]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[m]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[n]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cdpea[r]</name>
+        <formula>C11H19N4O11P2</formula>
+        <description>CDP-ethanolamine(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[c]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[e]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[g]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[m]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[n]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[r]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[c]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>clpn_hs[c]</name>
+        <formula>C9H16O9P2FULLRCO2FULLR2CO2FULLRCO2FULLR2CO2</formula>
+        <description>cardiolipin</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp2amep[c]</name>
+        <formula>C11H19N4O10P2</formula>
+        <description>CMP-2-aminoethylphosphonate</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[c]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[e]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[m]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[n]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[r]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpntm2amep[c]</name>
+        <formula>C14H25N4O10P2</formula>
+        <description>CMP-N-trimethyl-2-aminoethylphosphonate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[n]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[c]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[m]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[c]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[n]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dak2gpe_hs[c]</name>
+        <formula>C7H14O5NPFULLRFULLR2CO</formula>
+        <description>1-alkenyl 2-acylglycerol 3-phosphoethanolamine plasmalogen</description>
+    </metabolite>
+    <metabolite>
+        <name>dha[c]</name>
+        <formula>C3H6O3</formula>
+        <description>glycerone</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>etha[c]</name>
+        <formula>C2H8NO</formula>
+        <description>etha[c]</description>
+    </metabolite>
+    <metabolite>
+        <name>ethamp[c]</name>
+        <formula>C2H7NO4P</formula>
+        <description>O-phosphonatoethanaminium(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>g3pc[c]</name>
+        <formula>C8H20NO6P</formula>
+        <description>sn-Glycero-3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>glyald[c]</name>
+        <formula>C3H6O3</formula>
+        <description>D-Glyceraldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[c]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[m]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[c]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[m]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hxdcal[c]</name>
+        <formula>C16H32O</formula>
+        <description>hexadecanal</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[c]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>lpchol_hs[c]</name>
+        <formula>C8H19NO5PFULLRCO2</formula>
+        <description>lysophosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>lpchol_hs[e]</name>
+        <formula>C8H19NO5PFULLRCO2</formula>
+        <description>lysophosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>ntm2amep[c]</name>
+        <formula>C5H13NO3P</formula>
+        <description>N-Trimethyl-2-aminoethylphosphonate</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[g]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[m]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[n]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[r]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paf_hs[c]</name>
+        <formula>C11H23O4NPFULLRCO2</formula>
+        <description>1-alkyl 2-acteylglycerol 3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>paf_hs[e]</name>
+        <formula>C11H23O4NPFULLRCO2</formula>
+        <description>1-alkyl 2-acteylglycerol 3-phosphocholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[c]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[e]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[g]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[m]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[r]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[c]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[e]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[g]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[m]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[n]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[r]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pglyc_hs[c]</name>
+        <formula>C6H12O6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylglycerol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pgp_hs[c]</name>
+        <formula>C6H11O9P2FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidyl glycerol phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[c]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[g]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[m]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[r]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[g]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[r]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>sph1p[c]</name>
+        <formula>C18H39NO5P</formula>
+        <description>(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACHEe</id>
+        <name>Acetylcholinesterase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>ach[e]</reactant>
+        <product>h[e]</product>
+        <product>ac[e]</product>
+        <product>chol[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPC</id>
+        <name>alkyl acylglycerol phosphocholine transferase</name>
+        <reactant>ak2g_hs[c]</reactant>
+        <reactant>cdpchol[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>ak2gchol_hs[c]</product>
+        <product>cmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPED</id>
+        <name>alkyl acyl glycerophosphoethanolamine desaturase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>ak2gpe_hs[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>dak2gpe_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPET</id>
+        <name>alkyl acylglycerol phosphoethanolamine transferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ak2g_hs[c]</reactant>
+        <reactant>cdpea[c]</reactant>
+        <product>h2o[c]</product>
+        <product>cmp[c]</product>
+        <product>ak2gpe_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPH</id>
+        <name>alkyl glycerol phosphate hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ak2gp_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>ak2g_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPR</id>
+        <name>alkyl glycerol phosphate reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>akdhap_hs[c]</reactant>
+        <product>nadp[c]</product>
+        <product>akgp_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGLPT</id>
+        <name>alkyl glycerol phosphate acyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>akgp_hs[c]</reactant>
+        <reactant>Rtotal2[c]</reactant>
+        <product>h2o[c]</product>
+        <product>ak2gp_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGPSx</id>
+        <name>alkylglycerone phosphate synthase</name>
+        <reactant>adhap_hs[x]</reactant>
+        <reactant>alkylR1oh[x]</reactant>
+        <product>h[x]</product>
+        <product>akdhap_hs[x]</product>
+        <product>Rtotal[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALKP</id>
+        <name>alkaline phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dhap[c]</reactant>
+        <product>pi[c]</product>
+        <product>dha[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CDIPTr</id>
+        <name>phosphatidylinositol synthase (Homo sapiens)</name>
+        <reactant>cdpdag_hs[c]</reactant>
+        <reactant>inost[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>pail_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CDS</id>
+        <name>phosphatidate cytidylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>pa_hs[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cdpdag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CDSm</id>
+        <name>phosphatidate cytidylyltransferase</name>
+        <reactant>h[m]</reactant>
+        <reactant>ctp[m]</reactant>
+        <reactant>pa_hs[m]</reactant>
+        <product>ppi[m]</product>
+        <product>cdpdag_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CEPTC</id>
+        <name>choline phosphotransferase</name>
+        <reactant>cdpchol[c]</reactant>
+        <reactant>dag_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>pchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CEPTE</id>
+        <name>ethanolamine phosphotransferase</name>
+        <reactant>cdpea[c]</reactant>
+        <reactant>dag_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>pe_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHAT</id>
+        <name>Choline O-acetyltransferase</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>chol[c]</reactant>
+        <product>coa[c]</product>
+        <product>ach[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHATn</id>
+        <name>Choline O-acetyltransferase</name>
+        <reactant>accoa[n]</reactant>
+        <reactant>chol[n]</reactant>
+        <product>ach[n]</product>
+        <product>coa[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHLP</id>
+        <name>choline phosphate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cholp[c]</reactant>
+        <product>pi[c]</product>
+        <product>chol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHLPCTD</id>
+        <name>choline phosphate cytididyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <reactant>cholp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cdpchol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLK</id>
+        <name>Choline kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>chol[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>cholp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CLS_hs</id>
+        <name>cardiolipin synthase (homo sapiens)</name>
+        <reactant>cdpdag_hs[c]</reactant>
+        <reactant>pglyc_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>clpn_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CPCTDTX</id>
+        <name>choline-phosphate cytidylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <reactant>ntm2amep[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cmpntm2amep[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DAGK_hs</id>
+        <name>Diacylglycerol phosphate kinase (homo sapiens)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dag_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pa_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DAGKn_hs</id>
+        <name>Diacylglycerol phosphate kinase (homo sapiens)</name>
+        <reactant>atp[n]</reactant>
+        <reactant>dag_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>pa_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>EPCTX</id>
+        <name>ethanolamine-phosphate cytidylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <reactant>2ameph[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cmp2amep[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ETHAK</id>
+        <name>Ethanolamine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>etha[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>ethamp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ETHP</id>
+        <name>ethanolamine phosphate phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ethamp[c]</reactant>
+        <product>pi[c]</product>
+        <product>etha[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>G3PD1</id>
+        <name>glycerol-3-phosphate dehydrogenase (NAD)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>glyc3p[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>dhap[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYK</id>
+        <name>glycerol kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glyc[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>glyc3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYKm</id>
+        <name>glycerol kinase</name>
+        <reactant>atp[m]</reactant>
+        <reactant>glyc[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>glyc3p[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPDDA1</id>
+        <name>Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>g3pc[c]</reactant>
+        <product>h[c]</product>
+        <product>chol[c]</product>
+        <product>glyc3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPASE</id>
+        <name>lysophospholipase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>lpchol_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal[c]</product>
+        <product>g3pc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAFH</id>
+        <name>Platelet-activating factor acetylhydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>paf_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>ac[c]</product>
+        <product>ak2lgchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAFHe</id>
+        <name>Platelet-activating factor acetylhydrolase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>paf_hs[e]</reactant>
+        <product>h[e]</product>
+        <product>ac[e]</product>
+        <product>ak2lgchol_hs[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAFS</id>
+        <name>alkyl glycerol phosphocholine acetyl transferase</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>ak2lgchol_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>paf_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOLP_hs</id>
+        <name>choline phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pchol_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>pa_hs[c]</product>
+        <product>chol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOLPg_hs</id>
+        <name>choline phosphatase</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>pchol_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>chol[g]</product>
+        <product>pa_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOLPm_hs</id>
+        <name>choline phosphatase</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>pchol_hs[m]</reactant>
+        <product>h[m]</product>
+        <product>pa_hs[m]</product>
+        <product>chol[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOLPr_hs</id>
+        <name>choline phosphatase</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>pchol_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>chol[r]</product>
+        <product>pa_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PETHCT</id>
+        <name>phosphoethanolamine cytidyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <reactant>ethamp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cdpea[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PETOHMm_hs</id>
+        <name>phosphatidylethanolamine N-methyltransferase</name>
+        <reactant>3 amet[m]</reactant>
+        <reactant>pe_hs[m]</reactant>
+        <product>3 h[m]</product>
+        <product>3 ahcys[m]</product>
+        <product>pchol_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PETOHMr_hs</id>
+        <name>phosphatidylethanolamine N-methyltransferase</name>
+        <reactant>3 amet[r]</reactant>
+        <reactant>pe_hs[r]</reactant>
+        <product>3 ahcys[r]</product>
+        <product>3 h[r]</product>
+        <product>pchol_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGPP_hs</id>
+        <name>Phosphatidylglycerol phosphate phosphatase (homo sapiens)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pgp_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pglyc_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PGPPT</id>
+        <name>phosphatidyl-CMP: glycerophosphate phosphatidyltransferase</name>
+        <reactant>cdpdag_hs[c]</reactant>
+        <reactant>glyc3p[c]</reactant>
+        <product>h[c]</product>
+        <product>cmp[c]</product>
+        <product>pgp_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PI4P5K</id>
+        <name>phosphatidylinositol 4-phosphate 5-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail4p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail45p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIK4</id>
+        <name>phosphatidylinositol 4-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pail4p_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PLA2</id>
+        <name>phospholipase A2</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ak2gchol_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>ak2lgchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PLA2_2</id>
+        <name>phospholipase A2</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pchol_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>lpchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PLA2_2e</id>
+        <name>phospholipase A2</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>pchol_hs[e]</reactant>
+        <product>h[e]</product>
+        <product>lpchol_hs[e]</product>
+        <product>Rtotal2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSDm_hs</id>
+        <name>Phosphatidylserine decarboxylase</name>
+        <reactant>h[m]</reactant>
+        <reactant>ps_hs[m]</reactant>
+        <product>co2[m]</product>
+        <product>pe_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSSA1_hs</id>
+        <name>Phosphatidylserine synthase homo sapiens</name>
+        <reactant>ser_L[c]</reactant>
+        <reactant>pchol_hs[c]</reactant>
+        <product>chol[c]</product>
+        <product>ps_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PSSA2_hs</id>
+        <name>Phosphatidylserine synthase homo sapiens</name>
+        <reactant>ser_L[c]</reactant>
+        <reactant>pe_hs[c]</reactant>
+        <product>etha[c]</product>
+        <product>ps_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0186</id>
+        <name>Ethanolamine-phosphate phospho-lyase (deaminating) EC:4.2.3.2</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ethamp[c]</reactant>
+        <product>nh4[c]</product>
+        <product>pi[c]</product>
+        <product>acald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0245</id>
+        <name>Glycerol:NADP+ oxidoreductase Glycerolipid metabolism EC:1.1.1.2 EC:1.1.1.72</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>glyc[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>glyald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0480</id>
+        <name>S-Adenosyl-L-methionine:ethanolamine-phosphate N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103</name>
+        <reactant>amet[c]</reactant>
+        <reactant>ethamp[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>HC00718[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0537</id>
+        <name>Sphinganine-1-phosphate pamlmitaldehyde-lyase Sphingolipid metabolism EC:4.1.2.27</name>
+        <reactant>ethamp[c]</reactant>
+        <reactant>hxdcal[c]</reactant>
+        <product>sph1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0066C</id>
+        <name>RE0066</name>
+        <reactant>amet[c]</reactant>
+        <reactant>C01241[c]</reactant>
+        <product>2 h[c]</product>
+        <product>ahcys[c]</product>
+        <product>C04308[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0066M</id>
+        <name>RE0066</name>
+        <reactant>amet[m]</reactant>
+        <reactant>C01241[m]</reactant>
+        <product>2 h[m]</product>
+        <product>ahcys[m]</product>
+        <product>C04308[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0066R</id>
+        <name>RE0066</name>
+        <reactant>amet[r]</reactant>
+        <reactant>C01241[r]</reactant>
+        <product>ahcys[r]</product>
+        <product>2 h[r]</product>
+        <product>C04308[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2911C</id>
+        <name>RE2911</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>C03372[c]</reactant>
+        <product>nadp[c]</product>
+        <product>1ddecg3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2977C</id>
+        <name>RE2977</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>akgp_hs[c]</reactant>
+        <product>nadp[c]</product>
+        <product>C03968[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3039C</id>
+        <name>RE3039</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>C03968[c]</reactant>
+        <product>coa[c]</product>
+        <product>C01264[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3045C</id>
+        <name>RE3045</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C01264[c]</reactant>
+        <product>pi[c]</product>
+        <product>C03820[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3267E</id>
+        <name>RE3267</name>
+        <reactant>cdpea[e]</reactant>
+        <reactant>12dgr120[e]</reactant>
+        <product>h[e]</product>
+        <product>cmp[e]</product>
+        <product>pe_hs[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3267G</id>
+        <name>RE3267</name>
+        <reactant>cdpea[g]</reactant>
+        <reactant>12dgr120[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>pe_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3267M</id>
+        <name>RE3267</name>
+        <reactant>cdpea[m]</reactant>
+        <reactant>12dgr120[m]</reactant>
+        <product>h[m]</product>
+        <product>cmp[m]</product>
+        <product>pe_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3267N</id>
+        <name>RE3267</name>
+        <reactant>cdpea[n]</reactant>
+        <reactant>12dgr120[n]</reactant>
+        <product>h[n]</product>
+        <product>cmp[n]</product>
+        <product>pe_hs[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3267R</id>
+        <name>RE3267</name>
+        <reactant>cdpea[r]</reactant>
+        <reactant>12dgr120[r]</reactant>
+        <product>h[r]</product>
+        <product>pe_hs[r]</product>
+        <product>cmp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3301C</id>
+        <name>RE3301</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ps_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>pa_hs[c]</product>
+        <product>ser_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3301G</id>
+        <name>RE3301</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>ps_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>pa_hs[g]</product>
+        <product>ser_L[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3301R</id>
+        <name>RE3301</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>ps_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>pa_hs[r]</product>
+        <product>ser_L[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3378C</id>
+        <name>RE3378</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ak2lgchol_hs[c]</reactant>
+        <product>chol[c]</product>
+        <product>C03968[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3511C</id>
+        <name>RE3511</name>
+        <reactant>amet[c]</reactant>
+        <reactant>C04308[c]</reactant>
+        <product>ahcys[c]</product>
+        <product>pchol_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3511M</id>
+        <name>RE3511</name>
+        <reactant>amet[m]</reactant>
+        <reactant>C04308[m]</reactant>
+        <product>ahcys[m]</product>
+        <product>pchol_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3511R</id>
+        <name>RE3511</name>
+        <reactant>amet[r]</reactant>
+        <reactant>C04308[r]</reactant>
+        <product>ahcys[r]</product>
+        <product>pchol_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Glycerophospholipid metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,168 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>5dpmev[c]</name>
+        <formula>C6H10O10P2</formula>
+        <description>(R)-5-Diphosphomevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>5pmev[c]</name>
+        <formula>C6H10O7P</formula>
+        <description>(R)-5-phosphonatomevalonate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[r]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dmpp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Dimethylallyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dsmsterol[r]</name>
+        <formula>C27H44O</formula>
+        <description>desmosterol</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hmgcoa[c]</name>
+        <formula>C27H39N7O20P3S</formula>
+        <description>Hydroxymethylglutaryl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ipdp[c]</name>
+        <formula>C5H9O7P2</formula>
+        <description>Isopentenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>mev_R[c]</name>
+        <formula>C6H11O4</formula>
+        <description>(R)-mevalonate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[r]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[r]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>DPMVDc</id>
+        <name>diphosphomevalonate decarboxylase, cytosol</name>
+        <reactant>atp[c]</reactant>
+        <reactant>5dpmev[c]</reactant>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <product>co2[c]</product>
+        <product>ipdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DSREDUCr</id>
+        <name>Desmosterol reductase</name>
+        <reactant>h[r]</reactant>
+        <reactant>nadph[r]</reactant>
+        <reactant>dsmsterol[r]</reactant>
+        <product>nadp[r]</product>
+        <product>chsterol[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HMGCOARc</id>
+        <name>Hydroxymethylglutaryl CoA reductase (ir) in cytosol</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 nadph[c]</reactant>
+        <reactant>hmgcoa[c]</reactant>
+        <product>2 nadp[c]</product>
+        <product>coa[c]</product>
+        <product>mev_R[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>IPDDI</id>
+        <name>isopentenyl-diphosphate D-isomerase</name>
+        <reactant>ipdp[c]</reactant>
+        <product>dmpp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MEVK1c</id>
+        <name>mevalonate kinase (atp) cytosol</name>
+        <reactant>atp[c]</reactant>
+        <reactant>mev_R[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>5pmev[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMEVKc</id>
+        <name>phosphomevalonate kinase, cytosol</name>
+        <reactant>atp[c]</reactant>
+        <reactant>5pmev[c]</reactant>
+        <product>adp[c]</product>
+        <product>5dpmev[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Squalene and cholesterol synthesis</subsystem>
+    </reaction>
+</reactions>

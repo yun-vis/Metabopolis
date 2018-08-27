@@ -1,0 +1,290 @@
+<metabolites>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC[c]</name>
+        <formula>XH</formula>
+        <description>Apocarboxlase (no lys residue)</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC[m]</name>
+        <formula>XH</formula>
+        <description>Apocarboxlase (no lys residue)</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC_Lys[c]</name>
+        <formula>C6H13N2OX</formula>
+        <description>Apocarboxylase (Lys residue)</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC_Lys[m]</name>
+        <formula>C6H13N2OX</formula>
+        <description>Apocarboxylase (Lys residue)</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC_Lys_btn[c]</name>
+        <formula>C16H27N4O3SX</formula>
+        <description>Holocarboxylase (biotin covalent bound to Lys residue of apoC)</description>
+    </metabolite>
+    <metabolite>
+        <name>apoC_Lys_btn[m]</name>
+        <formula>C16H27N4O3SX</formula>
+        <description>Holocarboxylase (biotin covalent bound to Lys residue of apoC)</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[c]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[e]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[m]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>biocyt[n]</name>
+        <formula>C16H28N4O4S</formula>
+        <description>Biocytin</description>
+    </metabolite>
+    <metabolite>
+        <name>btamp[c]</name>
+        <formula>C20H27N7O9PS</formula>
+        <description>Biotinyl-5&apos;-AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>btamp[m]</name>
+        <formula>C20H27N7O9PS</formula>
+        <description>Biotinyl-5&apos;-AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[c]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[e]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[m]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>btn[n]</name>
+        <formula>C10H15N2O3S</formula>
+        <description>Biotin</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[e]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[m]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[n]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>APOCF</id>
+        <name>Apocarboxylase formation</name>
+        <reactant>apoC[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>apoC_Lys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>APOCFm</id>
+        <name>Apocarboxylase formation, mitochondrial</name>
+        <reactant>apoC[m]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <product>h[m]</product>
+        <product>h2o[m]</product>
+        <product>apoC_Lys[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>APOC_LYS_BTNP</id>
+        <name>proteolysis of apoC-Lys-btn</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>apoC_Lys_btn[c]</reactant>
+        <product>apoC[c]</product>
+        <product>biocyt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>APOC_LYS_BTNPm</id>
+        <name>proteolysis of apoC-Lys-btn, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>apoC_Lys_btn[m]</reactant>
+        <product>apoC[m]</product>
+        <product>biocyt[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BACCL</id>
+        <name>biotin-[acetyl-CoA-carboxylase] ligase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>btn[c]</reactant>
+        <product>ppi[c]</product>
+        <product>btamp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BACCLm</id>
+        <name>biotin-[acetyl-CoA-carboxylase] ligase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>btn[m]</reactant>
+        <product>ppi[m]</product>
+        <product>btamp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTND1</id>
+        <name>biotinidase (biotin)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>biocyt[c]</reactant>
+        <product>lys_L[c]</product>
+        <product>btn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTND1n</id>
+        <name>biotinidase (biotin), nuclear</name>
+        <reactant>biocyt[n]</reactant>
+        <reactant>h2o[n]</reactant>
+        <product>btn[n]</product>
+        <product>lys_L[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNDe</id>
+        <name>biotinidase (biotin), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>biocyt[e]</reactant>
+        <product>lys_L[e]</product>
+        <product>btn[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNDm</id>
+        <name>biotinidase (biotin), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>biocyt[m]</reactant>
+        <product>lys_L[m]</product>
+        <product>btn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNPL</id>
+        <name>holocarboxylase synthestase (biotin protein ligase)</name>
+        <reactant>apoC_Lys[c]</reactant>
+        <reactant>btamp[c]</reactant>
+        <product>h[c]</product>
+        <product>amp[c]</product>
+        <product>apoC_Lys_btn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BTNPLm</id>
+        <name>holocarboxylase synthestase (biotin protein ligase), mitochondrial</name>
+        <reactant>apoC_Lys[m]</reactant>
+        <reactant>btamp[m]</reactant>
+        <product>h[m]</product>
+        <product>amp[m]</product>
+        <product>apoC_Lys_btn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Biotin metabolism</subsystem>
+    </reaction>
+</reactions>

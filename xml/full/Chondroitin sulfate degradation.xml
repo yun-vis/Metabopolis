@@ -1,0 +1,738 @@
+<metabolites>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>Ser_Gly_Ala_X_Gly[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine residue (glycosaminoglycan attachment site)</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a[l]</name>
+        <formula>C45H67N2O46S3</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_deg1[l]</name>
+        <formula>C45H68N2O43S2</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_deg2[l]</name>
+        <formula>C37H55NO38S2</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_deg3[l]</name>
+        <formula>C31H48NO32S2</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_deg4[l]</name>
+        <formula>C31H49NO29S</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_deg5[l]</name>
+        <formula>C23H36O24S</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b[l]</name>
+        <formula>C45H66N2O49S4</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S), free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b_deg1[l]</name>
+        <formula>C45H67N2O46S3</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b_deg2[l]</name>
+        <formula>C37H54NO41S3</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b_deg3[l]</name>
+        <formula>C37H55NO38S2</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c[l]</name>
+        <formula>C45H67N2O46S3</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_deg1[l]</name>
+        <formula>C45H68N2O43S2</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_deg2[l]</name>
+        <formula>C37H55NO38S2</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_deg3[l]</name>
+        <formula>C31H48NO32S2</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_deg4[l]</name>
+        <formula>C31H49NO29S</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_deg5[l]</name>
+        <formula>C23H36O24S</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d[l]</name>
+        <formula>C45H65N2O52S5</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg1[l]</name>
+        <formula>C45H66N2O49S4</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg2[l]</name>
+        <formula>C37H53NO44S4</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg3[l]</name>
+        <formula>C37H54NO41S3</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg4[l]</name>
+        <formula>C31H47NO35S3</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg5[l]</name>
+        <formula>C31H48NO32S2</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_deg6[l]</name>
+        <formula>C23H35O27S2</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), degradation product 6</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e[l]</name>
+        <formula>C45H64N2O55S6</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg1[l]</name>
+        <formula>C45H65N2O52S5</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg2[l]</name>
+        <formula>C45H66N2O49S4</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg3[l]</name>
+        <formula>C37H53NO44S4</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg4[l]</name>
+        <formula>C31H46NO38S4</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg5[l]</name>
+        <formula>C31H47NO35S3</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg6[l]</name>
+        <formula>C31H48NO32S2</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 6</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_deg7[l]</name>
+        <formula>C23H35O27S2</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), degradation product 7</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_a[l]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_b[l]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_c[l]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_d[l]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_e[l]</name>
+        <formula>C45H63N2O54S6X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[l]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>idour[l]</name>
+        <formula>C6H9O7</formula>
+        <description>L-iduronate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>xyl_D[l]</name>
+        <formula>C5H10O5</formula>
+        <description>aldehydo-D-xylose</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>CSAPASEly</id>
+        <name>chondroitin sulfate A proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cspg_a[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>cs_a[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSBPASEly</id>
+        <name>chondroitin sulfate B proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cspg_b[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>cs_b[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSCPASEly</id>
+        <name>chondroitin sulfate C proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cspg_c[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>cs_c[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSDPASEly</id>
+        <name>chondroitin sulfate D proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cspg_d[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>cs_d[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSEPASEly</id>
+        <name>chondroitin sulfate E proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cspg_e[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>cs_e[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAASE4ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_a_deg2[l]</reactant>
+        <product>glcur[l]</product>
+        <product>cs_a_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAASE5ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_c_deg2[l]</reactant>
+        <product>glcur[l]</product>
+        <product>cs_c_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAASE6ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg3[l]</reactant>
+        <product>glcur[l]</product>
+        <product>cs_d_deg4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAASE7ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg3[l]</reactant>
+        <product>glcur[l]</product>
+        <product>cs_e_deg4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDOAASE4ly</id>
+        <name>alpha-L-iduronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_b_deg3[l]</reactant>
+        <product>cs_a_deg3[l]</product>
+        <product>idour[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>LINKDEG2ly</id>
+        <name>degradation of proteoglycan linkage region, lysosomal</name>
+        <reactant>4 h2o[l]</reactant>
+        <reactant>cs_a_deg5[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>2 gal[l]</product>
+        <product>glcur[l]</product>
+        <product>xyl_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>LINKDEG3ly</id>
+        <name>degradation of proteoglycan linkage region, lysosomal</name>
+        <reactant>4 h2o[l]</reactant>
+        <reactant>cs_c_deg5[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>2 gal[l]</product>
+        <product>glcur[l]</product>
+        <product>xyl_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>LINKDEG4ly</id>
+        <name>degradation of proteoglycan linkage region, lysosomal</name>
+        <reactant>5 h2o[l]</reactant>
+        <reactant>cs_e_deg7[l]</reactant>
+        <product>2 h[l]</product>
+        <product>2 so4[l]</product>
+        <product>2 gal[l]</product>
+        <product>glcur[l]</product>
+        <product>xyl_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX1ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_a_deg1[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_a_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX2ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_a_deg4[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_a_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX3ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_b_deg1[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_b_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX4ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_c_deg1[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_c_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX5ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_c_deg4[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_c_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX6ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg1[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_d_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX7ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg5[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_d_deg6[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX8ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg2[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_e_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX9ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg6[l]</reactant>
+        <product>acgal[l]</product>
+        <product>cs_e_deg7[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA1ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_a[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_a_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA2ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_b[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_b_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA3ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_c[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_c_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA4ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_c_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_c_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA5ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_d[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_d_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA6ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>cs_d_deg4[l]</reactant>
+        <product>h[l]</product>
+        <product>acgal[l]</product>
+        <product>so4[l]</product>
+        <product>cs_d_deg6[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA7ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>cs_e[l]</reactant>
+        <product>2 h[l]</product>
+        <product>acgal[l]</product>
+        <product>2 so4[l]</product>
+        <product>cs_e_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA8ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>cs_e_deg4[l]</reactant>
+        <product>2 h[l]</product>
+        <product>acgal[l]</product>
+        <product>2 so4[l]</product>
+        <product>cs_e_deg7[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2TASE3ly</id>
+        <name>iduronate-2-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_b_deg2[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_b_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2TASE4ly</id>
+        <name>glucuronate-2-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg2[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_d_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2TASE5ly</id>
+        <name>glucuronate-2-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_c_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4TASE1ly</id>
+        <name>N-acetylgalactosamine-4-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_a[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_a_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4TASE2ly</id>
+        <name>N-acetylgalactosamine-4-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_a_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_a_deg4[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4TASE3ly</id>
+        <name>N-acetylgalactosamine-4-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_b[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_b_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4TASE4ly</id>
+        <name>N-acetylgalactosamine-4-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_e_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4TASE5ly</id>
+        <name>N-acetylgalactosamine-4-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg4[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_e_deg5[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE4ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_c[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_c_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE5ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_c_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_c_deg4[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE6ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_d_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE7ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_d_deg4[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_d_deg5[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE8ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg1[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_e_deg2[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE9ly</id>
+        <name>N-acetylgalactosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cs_e_deg5[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>cs_e_deg6[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Chondroitin sulfate degradation</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,597 @@
+<metabolites>
+    <metabolite>
+        <name>1a2425thvitd2[m]</name>
+        <formula>C28H44O4</formula>
+        <description>1-alpha,24R,25-Trihydroxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>1a2425thvitd3[m]</name>
+        <formula>C27H44O4</formula>
+        <description>calcitetrol</description>
+    </metabolite>
+    <metabolite>
+        <name>1a25dhvitd2[m]</name>
+        <formula>C28H44O3</formula>
+        <description>1-alpha,25-Dihydroxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>1a25dhvitd3[c]</name>
+        <formula>C27H44O3</formula>
+        <description>calcitriol</description>
+    </metabolite>
+    <metabolite>
+        <name>1a25dhvitd3[m]</name>
+        <formula>C27H44O3</formula>
+        <description>calcitriol</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd2[m]</name>
+        <formula>C28H44O3</formula>
+        <description>24R,25-Dihyoxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd3[c]</name>
+        <formula>C27H44O3</formula>
+        <description>(24R)-24,25-dihydroxycalciol</description>
+    </metabolite>
+    <metabolite>
+        <name>2425dhvitd3[m]</name>
+        <formula>C27H44O3</formula>
+        <description>(24R)-24,25-dihydroxycalciol</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd2[m]</name>
+        <formula>C28H44O2</formula>
+        <description>25-Hydroxyvitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd3[c]</name>
+        <formula>C27H44O2</formula>
+        <description>calcidiol</description>
+    </metabolite>
+    <metabolite>
+        <name>25hvitd3[m]</name>
+        <formula>C27H44O2</formula>
+        <description>calcidiol</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhchsterol[c]</name>
+        <formula>C27H44O</formula>
+        <description>cholesta-5,7-dien-3beta-ol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2201[c]</name>
+        <formula>C27H44O3</formula>
+        <description>23S,25-dihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2201[m]</name>
+        <formula>C27H44O3</formula>
+        <description>23S,25-dihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2202[c]</name>
+        <formula>C27H44O4</formula>
+        <description>23S,25,26-trihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2202[m]</name>
+        <formula>C27H44O4</formula>
+        <description>23S,25,26-trihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2203[c]</name>
+        <formula>C27H42O4</formula>
+        <description>25-hydroxyvitamin D3-26,23-lactol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2203[m]</name>
+        <formula>C27H42O4</formula>
+        <description>25-hydroxyvitamin D3-26,23-lactol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2204[c]</name>
+        <formula>C27H40O4</formula>
+        <description>25-hydroxyvitamin D3-26,23-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2204[m]</name>
+        <formula>C27H40O4</formula>
+        <description>25-hydroxyvitamin D3-26,23-lactone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2206[c]</name>
+        <formula>C27H42O4</formula>
+        <description>24-oxo-1alpha,25-dihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2206[m]</name>
+        <formula>C27H42O4</formula>
+        <description>24-oxo-1alpha,25-dihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2207[c]</name>
+        <formula>C27H42O5</formula>
+        <description>24-oxo-1alpha,23,25-trihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2207[m]</name>
+        <formula>C27H42O5</formula>
+        <description>24-oxo-1alpha,23,25-trihydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5079[c]</name>
+        <formula>C23H33O4</formula>
+        <description>1alpha-hydroxy-23-carboxy-24,25,26,27-tetranorvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5079[m]</name>
+        <formula>C23H33O4</formula>
+        <description>1alpha-hydroxy-23-carboxy-24,25,26,27-tetranorvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6027[c]</name>
+        <formula>C23H34O3</formula>
+        <description>24,25,26,27-tetranor-23-oxo-hydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6027[m]</name>
+        <formula>C23H34O3</formula>
+        <description>24,25,26,27-tetranor-23-oxo-hydroxyvitamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lum3[c]</name>
+        <formula>C27H44O</formula>
+        <description>Lumisterol 3</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pd3[c]</name>
+        <formula>C27H44O</formula>
+        <description>Previtamin D3</description>
+    </metabolite>
+    <metabolite>
+        <name>ts3[c]</name>
+        <formula>C27H44O</formula>
+        <description>Tachysterol 3</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd2[m]</name>
+        <formula>C28H44O</formula>
+        <description>vitamin D2</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd3[c]</name>
+        <formula>C27H44O</formula>
+        <description>calciol</description>
+    </metabolite>
+    <metabolite>
+        <name>vitd3[m]</name>
+        <formula>C27H44O</formula>
+        <description>calciol</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>1a_24_25VITD2Hm</id>
+        <name>1-alpha-Vitamin D-24,25-hydroxylase (D2)</name>
+        <reactant>2425dhvitd2[m]</reactant>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <product>1a2425thvitd2[m]</product>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>1a_24_25VITD3Hm</id>
+        <name>1-alpha-Vitamin D-24,25-hydroxylase (D3)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>2425dhvitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>1a2425thvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>1a_25VITD2Hm</id>
+        <name>1-alpha,24R,25-Vitamin D-hydroxylase (D2)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>1a25dhvitd2[m]</reactant>
+        <product>1a2425thvitd2[m]</product>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>1a_25VITD3Hm</id>
+        <name>1-alpha,24R,25-Vitamin D-hydroxylase (D3)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>1a25dhvitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>1a2425thvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>24_25VITD2Hm</id>
+        <name>24R-Vitamin D-25-hydroxylase (D2)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>25hvitd2[m]</reactant>
+        <product>2425dhvitd2[m]</product>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>24_25VITD3Hm</id>
+        <name>24R-Vitamin D-25-hydroxylase (D3)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>25hvitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>2425dhvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>25VITD2Hm</id>
+        <name>1-alpha-Vitamin D-25-hydroxylase (D2)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>25hvitd2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>1a25dhvitd2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>25VITD3Hm</id>
+        <name>1-alpha-Vitamin D-25-hydroxylase (D3)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>25hvitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>1a25dhvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LS3</id>
+        <name>Lumisterol 3 formation</name>
+        <reactant>pd3[c]</reactant>
+        <product>lum3[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PVD3</id>
+        <name>Previtamin D3 formation</name>
+        <reactant>7dhchsterol[c]</reactant>
+        <product>pd3[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TS3</id>
+        <name>Tachysterol 3 formation</name>
+        <reactant>pd3[c]</reactant>
+        <product>ts3[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>VD3</id>
+        <name>Vitamin D3 formation</name>
+        <reactant>pd3[c]</reactant>
+        <product>vitd3[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>VITD2Hm</id>
+        <name>Vitamin D-25-hydroxylase (D2)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>vitd2[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>25hvitd2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>VITD3Hm</id>
+        <name>Vitamin D-25-hydroxylase (D3)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>vitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>25hvitd3[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1303C</id>
+        <name>RE1303</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>vitd3[c]</reactant>
+        <product>h2o[c]</product>
+        <product>25hvitd3[c]</product>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1308C</id>
+        <name>RE1308</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>25hvitd3[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2201[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1308M</id>
+        <name>RE1308</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>25hvitd3[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE2201[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1309C</id>
+        <name>RE1309</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>CE2201[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nad[c]</product>
+        <product>CE2202[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1309M</id>
+        <name>RE1309</name>
+        <reactant>h[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>2425dhvitd3[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nad[m]</product>
+        <product>CE2202[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1310C</id>
+        <name>RE1310</name>
+        <reactant>o2[c]</reactant>
+        <reactant>CE2202[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE2203[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1310M</id>
+        <name>RE1310</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE2202[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE2203[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1311C</id>
+        <name>RE1311</name>
+        <reactant>o2[c]</reactant>
+        <reactant>CE2203[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE2204[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1311M</id>
+        <name>RE1311</name>
+        <reactant>o2[m]</reactant>
+        <reactant>CE2203[m]</reactant>
+        <product>h2o2[m]</product>
+        <product>CE2204[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2240C</id>
+        <name>RE2240</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>25hvitd3[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <product>h2o[c]</product>
+        <product>2425dhvitd3[c]</product>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2975C</id>
+        <name>RE2975</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE2206[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE2207[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2975M</id>
+        <name>RE2975</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>CE2206[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE2207[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3144C</id>
+        <name>RE3144</name>
+        <reactant>o2[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>CE6027[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>CE5079[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3144M</id>
+        <name>RE3144</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>CE6027[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>CE5079[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>25HVITD3c</id>
+        <name>1-alpha hydroxylation of 25-hydroxy vitamin D</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>25hvitd3[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>1a25dhvitd3[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Vitamin D metabolism</subsystem>
+    </reaction>
+</reactions>

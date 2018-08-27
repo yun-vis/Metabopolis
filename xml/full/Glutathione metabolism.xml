@@ -1,0 +1,366 @@
+<metabolites>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[e]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>5oxpro[c]</name>
+        <formula>C5H6NO3</formula>
+        <description>5-oxoprolinate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cgly[c]</name>
+        <formula>C5H10N2O3S</formula>
+        <description>L-cysteinylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>cgly[e]</name>
+        <formula>C5H10N2O3S</formula>
+        <description>L-cysteinylglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[e]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[e]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gluala[e]</name>
+        <formula>C8H13N2O5</formula>
+        <description>5-L-Glutamyl-L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>glucys[c]</name>
+        <formula>C8H13N2O5S</formula>
+        <description>gamma-L-Glutamyl-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[e]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[c]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[e]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[m]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[e]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[e]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[m]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>AMPTASECG</id>
+        <name>alanyl aminopeptidase (cys-gly)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cgly[c]</reactant>
+        <product>cys_L[c]</product>
+        <product>gly[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMPTASECGe</id>
+        <name>alanyl aminopeptidase (cys-gly) (e)</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>cgly[e]</reactant>
+        <product>cys_L[e]</product>
+        <product>gly[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGLUCT</id>
+        <name>gamma-glutamylcyclotransferase</name>
+        <reactant>gluala[e]</reactant>
+        <product>ala_L[c]</product>
+        <product>5oxpro[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUCYS</id>
+        <name>Gamma-glutamylcysteine synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>glucys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHP</id>
+        <name>glutathione peroxidase</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>2 gthrd[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>gthox[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHPe</id>
+        <name>glutathione peroxidase (e)</name>
+        <reactant>2 gthrd[e]</reactant>
+        <reactant>h2o2[e]</reactant>
+        <product>2 h2o[e]</product>
+        <product>gthox[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHPm</id>
+        <name>glutathione peroxidase, mitochondria</name>
+        <reactant>h2o2[m]</reactant>
+        <reactant>2 gthrd[m]</reactant>
+        <product>2 h2o[m]</product>
+        <product>gthox[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHRDt</id>
+        <name>Glutathione transport into mitochondria</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>gthrd[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHS</id>
+        <name>glutathione synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gly[c]</reactant>
+        <reactant>glucys[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>gthrd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTMLTe</id>
+        <name>g-glutamyltransferase (e)</name>
+        <reactant>ala_L[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>cgly[e]</product>
+        <product>gluala[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>OPAHir</id>
+        <name>5-Oxoproline amidohydrolase (ATP-hydrolysing) (ir)</name>
+        <reactant>2 h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>5oxpro[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0021</id>
+        <name>glutathione:NAD+ oxidoreductase Glutamate metabolism EC:1.8.1.7</name>
+        <reactant>nad[c]</reactant>
+        <reactant>2 gthrd[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>gthox[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0022</id>
+        <name>glutathione:NAD+ oxidoreductase Glutamate metabolism EC:1.8.1.7</name>
+        <reactant>nad[m]</reactant>
+        <reactant>2 gthrd[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>gthox[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0129</id>
+        <name>gamma-glutamyltranspeptidase Glutathione metabolism EC:3.4.11.4</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>cgly[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0130</id>
+        <name>gamma-glutamyltranspeptidase Glutathione metabolism EC:3.4.11.4</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>gthrd[e]</reactant>
+        <product>cgly[e]</product>
+        <product>glu_L[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0568</id>
+        <name>(5-L-Glutamyl)-L-amino-acid 5-glutamyltransferase (cyclizing) Glutathione metabolism EC:2.3.2.4</name>
+        <reactant>glucys[c]</reactant>
+        <product>cys_L[c]</product>
+        <product>5oxpro[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutathione metabolism</subsystem>
+    </reaction>
+</reactions>

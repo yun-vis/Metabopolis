@@ -1,0 +1,486 @@
+<metabolites>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>Ser_Gly_Ala_X_Gly[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine residue (glycosaminoglycan attachment site)</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[l]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hs[l]</name>
+        <formula>C79H114N5O102S12</formula>
+        <description>heparan sulfate, free chain</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg10[l]</name>
+        <formula>C55H80N3O70S8</formula>
+        <description>heparan sulfate, degradation product 10</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg11[l]</name>
+        <formula>C55H81N3O67S7</formula>
+        <description>heparan sulfate, degradation product 11</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg12[l]</name>
+        <formula>C55H82N3O64S6</formula>
+        <description>heparan sulfate, degradation product 12</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg13[l]</name>
+        <formula>C55H83N3O61S5</formula>
+        <description>heparan sulfate, degradation product 13</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg14[l]</name>
+        <formula>C57H84N3O62S5</formula>
+        <description>heparan sulfate, degradation product 14</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg15[l]</name>
+        <formula>C49H71N2O57S5</formula>
+        <description>heparan sulfate, degradation product 15</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg16[l]</name>
+        <formula>C49H72N2O54S4</formula>
+        <description>heparan sulfate, degradation product 16</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg17[l]</name>
+        <formula>C43H65N2O48S4</formula>
+        <description>heparan sulfate, degradation product 17</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg18[l]</name>
+        <formula>C43H66N2O45S3</formula>
+        <description>heparan sulfate, degradation product 18</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg19[l]</name>
+        <formula>C43H67N2O42S2</formula>
+        <description>heparan sulfate, degradation product 19</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg1[l]</name>
+        <formula>C79H115N5O99S11</formula>
+        <description>heparan sulfate, degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg20[l]</name>
+        <formula>C45H68N2O43S2</formula>
+        <description>heparan sulfate, degradation product 20</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg21[l]</name>
+        <formula>C37H55NO38S2</formula>
+        <description>IdoA2S-beta-1,4-GlcNAc(3S)-alpha-1,4-GlcA-beta-1,3-Gal-beta-1,3-Gal-beta-1,4-Xylose</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg22[l]</name>
+        <formula>C37H56NO35S</formula>
+        <description>IdoA-beta-1,4-GlcNAc(3S)-alpha-1,4-GlcA-beta-1,3-Gal-beta-1,3-Gal-beta-1,4-Xylose</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg23[l]</name>
+        <formula>C31H49NO29S</formula>
+        <description>GlcNAc(3S)-alpha-1,4-GlcA-beta-1,3-Gal-beta-1,3-Gal-beta-1,4-Xylose</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg24[l]</name>
+        <formula>C31H50NO26</formula>
+        <description>GlcNAc-GlcA-(Gal)2-Xyl</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg25[l]</name>
+        <formula>C23H37O21</formula>
+        <description>GlcA-beta-1,3-Gal-beta-1,3-Gal-beta-1,4-Xylose</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg2[l]</name>
+        <formula>C79H116N5O96S10</formula>
+        <description>heparan sulfate, degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg3[l]</name>
+        <formula>C81H117N5O97S10</formula>
+        <description>heparan sulfate, degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg4[l]</name>
+        <formula>C73H104N4O92S10</formula>
+        <description>heparan sulfate, degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg5[l]</name>
+        <formula>C67H97N4O86S10</formula>
+        <description>heparan sulfate, degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg6[l]</name>
+        <formula>C67H98N4O83S9</formula>
+        <description>heparan sulfate, degradation product 6</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg7[l]</name>
+        <formula>C67H99N4O80S8</formula>
+        <description>heparan sulfate, degradation product 7</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg8[l]</name>
+        <formula>C69H100N4O81S8</formula>
+        <description>heparan sulfate, degradation product 8</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_deg9[l]</name>
+        <formula>C61H87N3O76S8</formula>
+        <description>heparan sulfate, degradation product 9</description>
+    </metabolite>
+    <metabolite>
+        <name>hspg[l]</name>
+        <formula>C79H113N5O101S12X</formula>
+        <description>heparan sulfate proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>idour[l]</name>
+        <formula>C6H9O7</formula>
+        <description>L-iduronate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>xyl_D[l]</name>
+        <formula>C5H10O5</formula>
+        <description>aldehydo-D-xylose</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>GLCAASE1ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg9[l]</reactant>
+        <product>glcur[l]</product>
+        <product>hs_deg10[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACASE1ly</id>
+        <name>alpha-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg3[l]</reactant>
+        <product>acgam[l]</product>
+        <product>hs_deg4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACASE2ly</id>
+        <name>alpha-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg8[l]</reactant>
+        <product>acgam[l]</product>
+        <product>hs_deg9[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACASE3ly</id>
+        <name>alpha-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg14[l]</reactant>
+        <product>acgam[l]</product>
+        <product>hs_deg15[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACASE4ly</id>
+        <name>alpha-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg20[l]</reactant>
+        <product>acgam[l]</product>
+        <product>hs_deg21[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACASE5ly</id>
+        <name>alpha-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg24[l]</reactant>
+        <product>acgam[l]</product>
+        <product>hs_deg25[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HS1ly</id>
+        <name>heparan-N-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg1[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HS2ly</id>
+        <name>heparan-N-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg7[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HS3ly</id>
+        <name>heparan-N-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg12[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg13[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HS4ly</id>
+        <name>heparan-N-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg18[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg19[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSAT1ly</id>
+        <name>heparan-glucosaminide N-acetyltransferase, lysosomal</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>hs_deg2[l]</reactant>
+        <product>coa[c]</product>
+        <product>h[l]</product>
+        <product>hs_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSAT2ly</id>
+        <name>heparan-glucosaminide N-acetyltransferase, lysosomal</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>hs_deg7[l]</reactant>
+        <product>coa[c]</product>
+        <product>h[l]</product>
+        <product>hs_deg8[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSAT3ly</id>
+        <name>heparan-glucosaminide N-acetyltransferase, lysosomal</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>hs_deg13[l]</reactant>
+        <product>coa[c]</product>
+        <product>h[l]</product>
+        <product>hs_deg14[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSAT4ly</id>
+        <name>heparan-glucosaminide N-acetyltransferase, lysosomal</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>hs_deg19[l]</reactant>
+        <product>coa[c]</product>
+        <product>h[l]</product>
+        <product>hs_deg20[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>HSPASEly</id>
+        <name>heparan sulfate proteoglycan protease, lysosome (endosome)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hspg[l]</reactant>
+        <product>Ser_Gly_Ala_X_Gly[l]</product>
+        <product>hs[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDOAASE1ly</id>
+        <name>alpha-L-iduronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg4[l]</reactant>
+        <product>hs_deg5[l]</product>
+        <product>idour[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDOAASE2ly</id>
+        <name>alpha-L-iduronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg16[l]</reactant>
+        <product>idour[l]</product>
+        <product>hs_deg17[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDOAASE3ly</id>
+        <name>alpha-L-iduronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg22[l]</reactant>
+        <product>idour[l]</product>
+        <product>hs_deg23[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>LINKDEG1ly</id>
+        <name>degradation of proteoglycan linkage region, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>hs_deg25[l]</reactant>
+        <product>2 gal[l]</product>
+        <product>glcur[l]</product>
+        <product>xyl_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2TASE1ly</id>
+        <name>iduronate-2-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg15[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg16[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2TASE2ly</id>
+        <name>iduronate-2-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg21[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg22[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3TASE1ly</id>
+        <name>N-acetylglucosamine-3-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg10[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg11[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3TASE2ly</id>
+        <name>N-acetylglucosamine-3-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg17[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg18[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3TASE3ly</id>
+        <name>N-acetylglucosamine-3-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg23[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg24[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE1ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg1[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE2ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg5[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg6[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE3ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>hs_deg11[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>hs_deg12[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Heparan sulfate degradation</subsystem>
+    </reaction>
+</reactions>

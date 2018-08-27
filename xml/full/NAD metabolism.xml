@@ -1,0 +1,514 @@
+<metabolites>
+    <metabolite>
+        <name>1mncam[c]</name>
+        <formula>C7H9N2O</formula>
+        <description>1-methylnicotinamide</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adprbp[c]</name>
+        <formula>C15H20N5O17P3</formula>
+        <description>ADP-D-ribose 2&apos;-phosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>adprbp[e]</name>
+        <formula>C15H20N5O17P3</formula>
+        <description>ADP-D-ribose 2&apos;-phosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>adprib[c]</name>
+        <formula>C15H21N5O14P2</formula>
+        <description>ADPribose</description>
+    </metabolite>
+    <metabolite>
+        <name>adprib[e]</name>
+        <formula>C15H21N5O14P2</formula>
+        <description>ADPribose</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dnad[c]</name>
+        <formula>C21H24N6O15P2</formula>
+        <description>Deamino-NAD+</description>
+    </metabolite>
+    <metabolite>
+        <name>dnad[m]</name>
+        <formula>C21H24N6O15P2</formula>
+        <description>Deamino-NAD+</description>
+    </metabolite>
+    <metabolite>
+        <name>dnad[n]</name>
+        <formula>C21H24N6O15P2</formula>
+        <description>Deamino-NAD+</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nac[c]</name>
+        <formula>C6H4NO2</formula>
+        <description>Nicotinate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[e]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[n]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[e]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>ncam[c]</name>
+        <formula>C6H6N2O</formula>
+        <description>Nicotinamide</description>
+    </metabolite>
+    <metabolite>
+        <name>ncam[e]</name>
+        <formula>C6H6N2O</formula>
+        <description>Nicotinamide</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrns[c]</name>
+        <formula>C11H13NO6</formula>
+        <description>Nicotinate D-ribonucleoside</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrnt[c]</name>
+        <formula>C11H12NO9P</formula>
+        <description>Nicotinate D-ribonucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrnt[m]</name>
+        <formula>C11H12NO9P</formula>
+        <description>Nicotinate D-ribonucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nicrnt[n]</name>
+        <formula>C11H12NO9P</formula>
+        <description>Nicotinate D-ribonucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nmn[c]</name>
+        <formula>C11H14N2O8P</formula>
+        <description>NMN</description>
+    </metabolite>
+    <metabolite>
+        <name>nmn[m]</name>
+        <formula>C11H14N2O8P</formula>
+        <description>NMN</description>
+    </metabolite>
+    <metabolite>
+        <name>nmn[n]</name>
+        <formula>C11H14N2O8P</formula>
+        <description>NMN</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[n]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prpp[c]</name>
+        <formula>C5H8O14P3</formula>
+        <description>5-Phospho-alpha-D-ribose 1-diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r1p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>rnam[c]</name>
+        <formula>C11H15N2O5</formula>
+        <description>N-Ribosylnicotinamide</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>NADK</id>
+        <name>NAD kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADN</id>
+        <name>NAD nucleosidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <product>h[c]</product>
+        <product>adprib[c]</product>
+        <product>ncam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADNe</id>
+        <name>NAD nucleosidase,extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>nad[e]</reactant>
+        <product>h[e]</product>
+        <product>adprib[e]</product>
+        <product>ncam[e]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPN</id>
+        <name>NADP nucleosidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <product>h[c]</product>
+        <product>ncam[c]</product>
+        <product>adprbp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADPNe</id>
+        <name>NADP nucleosidase,extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>nadp[e]</reactant>
+        <product>h[e]</product>
+        <product>adprbp[e]</product>
+        <product>ncam[e]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADS2</id>
+        <name>NAD synthase (glutamine-hydrolysing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>gln_L[c]</reactant>
+        <reactant>dnad[c]</reactant>
+        <product>h[c]</product>
+        <product>nad[c]</product>
+        <product>glu_L[c]</product>
+        <product>amp[c]</product>
+        <product>ppi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NICRNS</id>
+        <name>NICRNS</name>
+        <reactant>atp[c]</reactant>
+        <reactant>nicrns[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>nicrnt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NMNATm</id>
+        <name>nicotinamide-nucleotide adenylyltransferase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>nmn[m]</reactant>
+        <product>nad[m]</product>
+        <product>ppi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NMNATn</id>
+        <name>nicotinamide-nucleotide adenylyltransferase</name>
+        <reactant>atp[n]</reactant>
+        <reactant>h[n]</reactant>
+        <reactant>nmn[n]</reactant>
+        <product>ppi[n]</product>
+        <product>nad[n]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NMNATr</id>
+        <name>nicotinamide-nucleotide adenylyltransferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nmn[c]</reactant>
+        <product>nad[c]</product>
+        <product>ppi[c]</product>
+        <reversible>true</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NMNS</id>
+        <name>NMN synthetase</name>
+        <reactant>h[c]</reactant>
+        <reactant>prpp[c]</reactant>
+        <reactant>ncam[c]</reactant>
+        <product>ppi[c]</product>
+        <product>nmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NNATm</id>
+        <name>nicotinate-nucleotide adenylyltransferase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>nicrnt[m]</reactant>
+        <product>ppi[m]</product>
+        <product>dnad[m]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NNATn</id>
+        <name>nicotinate-nucleotide adenylyltransferase</name>
+        <reactant>atp[n]</reactant>
+        <reactant>h[n]</reactant>
+        <reactant>nicrnt[n]</reactant>
+        <product>ppi[n]</product>
+        <product>dnad[n]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NNATr</id>
+        <name>nicotinate-nucleotide adenylyltransferase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nicrnt[c]</reactant>
+        <product>ppi[c]</product>
+        <product>dnad[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NNMT</id>
+        <name>Nicotinamide N-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>ncam[c]</reactant>
+        <product>1mncam[c]</product>
+        <product>ahcys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NP1</id>
+        <name>nucleotide phosphatase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nac[c]</reactant>
+        <reactant>r1p[c]</reactant>
+        <product>pi[c]</product>
+        <product>nicrns[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NT5C</id>
+        <name>Nicotinate D-ribonucleotide phosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nicrnt[c]</reactant>
+        <product>pi[c]</product>
+        <product>nicrns[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PNP</id>
+        <name>purine-nucleoside phosphorylase</name>
+        <reactant>pi[c]</reactant>
+        <reactant>rnam[c]</reactant>
+        <product>h[c]</product>
+        <product>ncam[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RNMK</id>
+        <name>ribosylnicotinamide kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>rnam[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>nmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THD1m</id>
+        <name>NAD(P) transhydrogenase</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>nad[m]</product>
+        <reversible>false</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0391</id>
+        <name>Nicotinate D-ribonucleotide:pyrophosphate phosphoribosyltransferase Nicotinate and nicotinamide metabolism EC:2.4.2.11</name>
+        <reactant>ppi[c]</reactant>
+        <reactant>nicrnt[c]</reactant>
+        <product>h[c]</product>
+        <product>prpp[c]</product>
+        <product>nac[c]</product>
+        <reversible>true</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0527</id>
+        <name>Nicotinamide-D-ribonucleotide amidohydrolase Nicotinate and nicotinamide metabolism EC:3.5.1.42</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nmn[c]</reactant>
+        <product>nh4[c]</product>
+        <product>nicrnt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0584</id>
+        <name>Deamino-NAD+ nucleotidohydrolase Nicotinate and nicotinamide metabolism EC:3.6.1.9</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dnad[c]</reactant>
+        <product>2 h[c]</product>
+        <product>amp[c]</product>
+        <product>nicrnt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>NAD metabolism</subsystem>
+    </reaction>
+</reactions>

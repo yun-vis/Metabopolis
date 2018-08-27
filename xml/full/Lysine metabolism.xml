@@ -1,0 +1,603 @@
+<metabolites>
+    <metabolite>
+        <name>1pipdn2c[x]</name>
+        <formula>C6H9NO2</formula>
+        <description>1-piperideine-2-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2oxoadp[c]</name>
+        <formula>C6H6O5</formula>
+        <description>2-oxoadipate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>2oxoadp[m]</name>
+        <formula>C6H6O5</formula>
+        <description>2-oxoadipate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>3htmelys[c]</name>
+        <formula>C9H20N2O3</formula>
+        <description>3-Hydroxy-N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>3htmelys[m]</name>
+        <formula>C9H20N2O3</formula>
+        <description>3-Hydroxy-N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>4tmeabut[c]</name>
+        <formula>C7H16NO</formula>
+        <description>4-trimethylammoniobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>4tmeabut[m]</name>
+        <formula>C7H16NO</formula>
+        <description>4-trimethylammoniobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>4tmeabutn[c]</name>
+        <formula>C7H15NO2</formula>
+        <description>4-(trimethylammonio)butanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>6a2ohxnt[x]</name>
+        <formula>C6H11NO3</formula>
+        <description>6-amino-2-oxohexanoic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp6sa[c]</name>
+        <formula>C6H11NO3</formula>
+        <description>L-allysine</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp6sa[m]</name>
+        <formula>C6H11NO3</formula>
+        <description>L-allysine</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp[c]</name>
+        <formula>C6H10NO4</formula>
+        <description>L-2-aminoadipate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>L2aadp[m]</name>
+        <formula>C6H10NO4</formula>
+        <description>L-2-aminoadipate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>Lpipecol[x]</name>
+        <formula>C6H11NO2</formula>
+        <description>L-pipecolic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>Ndmelys[n]</name>
+        <formula>C2H7X</formula>
+        <description>Protein N6,N6-dimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>Nmelys[n]</name>
+        <formula>CXH4</formula>
+        <description>Histone N6-methyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>Ntmelys[n]</name>
+        <formula>C3H10X</formula>
+        <description>Protein N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>Ntmelys[r]</name>
+        <formula>C3H10X</formula>
+        <description>Protein N6,N6,N6-trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[n]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[n]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crn[c]</name>
+        <formula>C7H15NO3</formula>
+        <description>L-Carnitine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glutcoa[m]</name>
+        <formula>C26H37N7O19P3S</formula>
+        <description>glutaryl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[c]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>gly[m]</name>
+        <formula>C2H5NO2</formula>
+        <description>Glycine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[m]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[x]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[x]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pcollg5hlys[c]</name>
+        <formula>C6H14N2O3</formula>
+        <description>erythro-5-hydroxy-L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>pcollglys[c]</name>
+        <formula>C7H14N3O2R2</formula>
+        <description>Procollagen L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>peplys[n]</name>
+        <formula>XH</formula>
+        <description>Peptidyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>pepslys[r]</name>
+        <formula>X</formula>
+        <description>peptide sans lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>saccrp_L[m]</name>
+        <formula>C11H19N2O6</formula>
+        <description>L-saccharopinate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[c]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>thp2c[c]</name>
+        <formula>C6H8NO2</formula>
+        <description>1-piperideine-6-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>thp2c[x]</name>
+        <formula>C6H8NO2</formula>
+        <description>1-piperideine-6-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>tmlys[c]</name>
+        <formula>C9H20N2O2</formula>
+        <description>N6,N6,N6-Trimethyl-L-lysine</description>
+    </metabolite>
+    <metabolite>
+        <name>tmlys[r]</name>
+        <formula>C9H20N2O2</formula>
+        <description>N6,N6,N6-Trimethyl-L-lysine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>1PPDCRp</id>
+        <name>delta1-piperideine-2-carboxylate reductase, perixosomal</name>
+        <reactant>1pipdn2c[x]</reactant>
+        <reactant>h[x]</reactant>
+        <reactant>nadh[x]</reactant>
+        <product>Lpipecol[x]</product>
+        <product>nad[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>2AMADPTm</id>
+        <name>L-2-aminoadipate shuttle (cytosol/mitochondria)</name>
+        <reactant>L2aadp[c]</reactant>
+        <reactant>akg[m]</reactant>
+        <product>L2aadp[m]</product>
+        <product>akg[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>2OXOADOXm</id>
+        <name>2-Oxoadipate:lipoamde 2-oxidoreductase(decarboxylating and acceptor-succinylating) (mitochondria)</name>
+        <reactant>2oxoadp[m]</reactant>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <product>co2[m]</product>
+        <product>glutcoa[m]</product>
+        <product>nadh[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AASAD3m</id>
+        <name>L-aminoadipate-semialdehyde dehydrogenase (NADH), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>L2aadp6sa[m]</reactant>
+        <product>2 h[m]</product>
+        <product>L2aadp[m]</product>
+        <product>nadh[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AATAi</id>
+        <name>2-aminoadipate transaminase, irreversible</name>
+        <reactant>L2aadp[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <product>2oxoadp[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BBHOX</id>
+        <name>4-Trimethylammoniobutanoate,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <reactant>4tmeabutn[c]</reactant>
+        <product>co2[c]</product>
+        <product>crn[c]</product>
+        <product>succ[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GHMT3</id>
+        <name>glycine hydroxymethyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>3htmelys[c]</reactant>
+        <product>gly[c]</product>
+        <product>4tmeabut[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GHMT3m</id>
+        <name>glycine hydroxymethyltransferase, mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>3htmelys[m]</reactant>
+        <product>gly[m]</product>
+        <product>4tmeabut[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPCOXp</id>
+        <name>L-pipecolate oxidase, peroxisomal</name>
+        <reactant>Lpipecol[x]</reactant>
+        <reactant>o2[x]</reactant>
+        <product>h[x]</product>
+        <product>h2o2[x]</product>
+        <product>thp2c[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYSMTF1n</id>
+        <name>histone-lysine N-methyltransferase, nuclear</name>
+        <reactant>amet[n]</reactant>
+        <reactant>peplys[n]</reactant>
+        <product>ahcys[n]</product>
+        <product>Nmelys[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYSMTF2n</id>
+        <name>histone-lysine N-methyltransferase, nuclear</name>
+        <reactant>amet[n]</reactant>
+        <reactant>Nmelys[n]</reactant>
+        <product>ahcys[n]</product>
+        <product>Ndmelys[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYSMTF3n</id>
+        <name>histone-lysine N-methyltransferase, nuclear</name>
+        <reactant>amet[n]</reactant>
+        <reactant>Ndmelys[n]</reactant>
+        <product>ahcys[n]</product>
+        <product>Ntmelys[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LYSOXp</id>
+        <name>L-lysine oxidase, peroxisomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>lys_L[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>nh4[x]</product>
+        <product>6a2ohxnt[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCLYSOX</id>
+        <name>Procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <reactant>pcollglys[c]</reactant>
+        <product>co2[c]</product>
+        <product>succ[c]</product>
+        <product>pcollg5hlys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PLYSPSer</id>
+        <name>protein lysine peptidase (endoplasmic reticulum)</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>Ntmelys[r]</reactant>
+        <product>pepslys[r]</product>
+        <product>tmlys[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPD2CSPp</id>
+        <name>PPD2CSPp</name>
+        <reactant>6a2ohxnt[x]</reactant>
+        <product>1pipdn2c[x]</product>
+        <product>h2o[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SACCD3m</id>
+        <name>saccharopine dehydrogenase (NADP, L-lysine forming), mitochondrial</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>akg[m]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>saccrp_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SACCD4m</id>
+        <name>saccharopine dehydrogenase (NAD, L-glutamate forming), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>saccrp_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>glu_L[m]</product>
+        <product>L2aadp6sa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMABADH</id>
+        <name>4-trimethylaminobutyraldehyde dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>4tmeabut[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>4tmeabutn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMLYSOX</id>
+        <name>trimethyllysine dioxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>akg[c]</reactant>
+        <reactant>tmlys[c]</reactant>
+        <product>co2[c]</product>
+        <product>succ[c]</product>
+        <product>3htmelys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0450</id>
+        <name>L-2-Aminoadipate:2-oxoglutarate aminotransferase Lysine biosynthesis / Lysine degradation EC:2.6.1.39</name>
+        <reactant>akg[m]</reactant>
+        <reactant>L2aadp[m]</reactant>
+        <product>2oxoadp[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0525</id>
+        <name>N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase; N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase (L-glutamate-forming) Lysine degradation EC:1.5.1.9</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>saccrp_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>glu_L[m]</product>
+        <product>L2aadp6sa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0594</id>
+        <name>L-2-Aminoadipate-6-semialdehyde:NAD+ 6-oxidoreductase Lysine degradation EC:1.2.1.31</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>L2aadp6sa[c]</reactant>
+        <product>2 h[c]</product>
+        <product>L2aadp[c]</product>
+        <product>nadh[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1386</id>
+        <name>Virtual reaction/potential definition</name>
+        <reactant>lys_L[c]</reactant>
+        <product>pcollglys[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1254C</id>
+        <name>RE1254</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>thp2c[c]</reactant>
+        <product>L2aadp6sa[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Lysine metabolism</subsystem>
+    </reaction>
+</reactions>

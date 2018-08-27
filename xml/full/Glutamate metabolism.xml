@@ -1,0 +1,378 @@
+<metabolites>
+    <metabolite>
+        <name>1pyr5c[m]</name>
+        <formula>C5H6NO2</formula>
+        <description>1-Pyrroline-5-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abut[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>4-Aminobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4abutn[m]</name>
+        <formula>C4H10NO</formula>
+        <description>4-Aminobutanal</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cbp[m]</name>
+        <formula>CH2NO5P</formula>
+        <description>Carbamoyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[m]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[c]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthox[m]</name>
+        <formula>C20H30N6O12S2</formula>
+        <description>Oxidized glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hco3[m]</name>
+        <formula>CHO3</formula>
+        <description>Bicarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[m]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>succ[m]</name>
+        <formula>C4H4O4</formula>
+        <description>Succinate</description>
+    </metabolite>
+    <metabolite>
+        <name>sucsal[m]</name>
+        <formula>C4H5O3</formula>
+        <description>Succinic semialdehyde</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ABTArm</id>
+        <name>4-aminobutyrate transaminase, reversible (mitochondrial)</name>
+        <reactant>akg[m]</reactant>
+        <reactant>4abut[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>sucsal[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALATA_L</id>
+        <name>L-alanine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>ala_L[c]</reactant>
+        <product>pyr[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CBPSam</id>
+        <name>carbamoyl-phosphate synthase (ammonia) (mitochondria</name>
+        <reactant>2 atp[m]</reactant>
+        <reactant>hco3[m]</reactant>
+        <reactant>nh4[m]</reactant>
+        <product>2 h[m]</product>
+        <product>2 adp[m]</product>
+        <product>pi[m]</product>
+        <product>cbp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLNS</id>
+        <name>glutamine synthetase</name>
+        <reactant>nh4[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>gln_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUDC</id>
+        <name>Glutamate Decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <product>co2[c]</product>
+        <product>4abut[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUDxm</id>
+        <name>glutamate dehydrogenase (NAD) (mitochondrial)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>glu_L[m]</reactant>
+        <product>h[m]</product>
+        <product>akg[m]</product>
+        <product>nadh[m]</product>
+        <product>nh4[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUDym</id>
+        <name>glutamate dehydrogenase (NADP), mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>glu_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadph[m]</product>
+        <product>akg[m]</product>
+        <product>nh4[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLUNm</id>
+        <name>glutaminase (mitochondrial)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>gln_L[m]</reactant>
+        <product>glu_L[m]</product>
+        <product>nh4[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHO</id>
+        <name>glutathione oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>gthox[c]</reactant>
+        <product>nadp[c]</product>
+        <product>2 gthrd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GTHOm</id>
+        <name>glutathione oxidoreductase</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>gthox[m]</reactant>
+        <product>nadp[m]</product>
+        <product>2 gthrd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>P5CDm</id>
+        <name>1-pyrroline-5-carboxylate dehydrogenase, mitochondrial</name>
+        <reactant>2 h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>1pyr5c[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0178</id>
+        <name>Succinate-semialdehyde:NAD+ oxidoreductase Glutamate metabolism / Tyrosine metabolism / Butanoate metabolism EC:1.2.1.24 EC:1.2.1.16</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>sucsal[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>succ[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0179</id>
+        <name>Succinate-semialdehyde:NADP+ oxidoreductase Glutamate metabolism / Tyrosine metabolism / Butanoate metabolism EC:1.2.1.16</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>sucsal[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>succ[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0464</id>
+        <name>4-Aminobutyraldehyde:NAD+ oxidoreductase Urea cycle and metabolism of amino groups EC:1.2.1.3</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nadp[m]</reactant>
+        <reactant>4abutn[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadph[m]</product>
+        <product>4abut[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0549</id>
+        <name>4-aminobutanal:NAD+ 1-oxidoreductase; 4-aminobutyraldehyde:NAD+ oxidoreductase Urea cycle and metabolism of amino groups / beta-Alanine metabolism EC:1.2.1.3 EC:1.2.1.19</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>4abutn[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>4abut[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Glutamate metabolism</subsystem>
+    </reaction>
+</reactions>

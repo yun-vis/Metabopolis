@@ -1,0 +1,1453 @@
+<metabolites>
+    <metabolite>
+        <name>Ser_Thr[g]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine or threonine residue (O-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>Ser_Thr[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine or threonine residue (O-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[g]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[c]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[g]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[g]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[c]</name>
+        <formula>C78H135N4O45FULLRCO</formula>
+        <description>Type IIIA glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C78H135N4O45FULLRCO</formula>
+        <description>Type IIIA glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C92H158N5O55FULLRCO</formula>
+        <description>Type IIIAb</description>
+    </metabolite>
+    <metabolite>
+        <name>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C92H158N5O55FULLRCO</formula>
+        <description>Type IIIAb</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[c]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[g]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn13acngalgbside_hs[c]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (1,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn13acngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (1,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn23acngalgbside_hs[c]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (2,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn23acngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (2,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngal14acglcgalgluside_hs[c]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>3&apos;,8&apos;-LD1</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngal14acglcgalgluside_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>3&apos;,8&apos;-LD1</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngalgbside_hs[c]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>disialyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>disialyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acngalacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C69H118N4O40FULLRCO</formula>
+        <description>VI3NeuAc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>acngalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C69H118N4O40FULLRCO</formula>
+        <description>VI3NeuAc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[c]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>chol[g]</name>
+        <formula>C5H14NO</formula>
+        <description>Choline</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[c]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[g]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[c]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>chsterol[g]</name>
+        <formula>C27H46O</formula>
+        <description>cholesterol</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[c]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[c]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[g]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[g]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[c]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[g]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>digalsgalside_hs[c]</name>
+        <formula>C30H55NO15SFULLRCO</formula>
+        <description>Digalactosylceramidesulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>digalsgalside_hs[g]</name>
+        <formula>C30H55NO15SFULLRCO</formula>
+        <description>Digalactosylceramidesulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[c]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[g]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>f1a[g]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>F1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>f1a[l]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>F1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc13galacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O36FULLRCO</formula>
+        <description>III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc14galacglcgalgluside_hs[c]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lea glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc14galacglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lea glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacgalfucgalacglcgalgluside_hs[c]</name>
+        <formula>C64H112N3O35FULLRCO</formula>
+        <description>(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacgalfucgalacglcgalgluside_hs[g]</name>
+        <formula>C64H112N3O35FULLRCO</formula>
+        <description>(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngal14acglcgalgluside_hs[c]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-NeuAc,III3-a-Fuc-nLc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngal14acglcgalgluside_hs[g]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-NeuAc,III3-a-Fuc-nLc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngalacglcgalgluside_hs[c]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucacngalacglcgalgluside_hs[g]</name>
+        <formula>C61H105N3O34FULLRCO</formula>
+        <description>IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc12gal14acglcgalgluside_hs[c]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Ley glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Ley glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc132galacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C70H122N3O40FULLRCO</formula>
+        <description>V3Fuc,III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfuc132galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O40FULLRCO</formula>
+        <description>V3Fuc,III3Fuc-nLc6Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C90H155N4O54FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C90H155N4O54FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)3 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C76H132N3O44FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)2 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C76H132N3O44FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)2 (LFuc)3 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglcgalgluside_hs[c]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Leb glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucfucgalacglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O30FULLRCO</formula>
+        <description>Leb glycolipid</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgal14acglcgalgluside_hs[c]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lacto-N-fucopentaosyl III ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgal14acglcgalgluside_hs[g]</name>
+        <formula>C50H89N2O26FULLRCO</formula>
+        <description>Lacto-N-fucopentaosyl III ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalfucgalacglcgalgluside_hs[c]</name>
+        <formula>C62H109N2O35FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalfucgalacglcgalgluside_hs[g]</name>
+        <formula>C62H109N2O35FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalgbside_hs[c]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>fucosyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalgbside_hs[g]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>fucosyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgalgbside_hs[c]</name>
+        <formula>C64H112N3O37FULLRCO</formula>
+        <description>Gal-GlcNAc-Gal globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgalgbside_hs[g]</name>
+        <formula>C64H112N3O37FULLRCO</formula>
+        <description>Gal-GlcNAc-Gal globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>galfuc12gal14acglcgalgluside_hs[c]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galfuc12gal14acglcgalgluside_hs[g]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galfucgalacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C70H122N3O41FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galfucgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C70H122N3O41FULLRCO</formula>
+        <description>(Gal)4 (Glc)1 (GlcNAc)2 (LFuc)1 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]</name>
+        <formula>C96H165N4O60FULLRCO</formula>
+        <description>(Gal)6 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</name>
+        <formula>C96H165N4O60FULLRCO</formula>
+        <description>(Gal)6 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalgalthcrm_hs[c]</name>
+        <formula>C54H96NO32FULLRCO</formula>
+        <description>Gal-Gal-Gal-Gal-Gal-Glc-Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalgalthcrm_hs[g]</name>
+        <formula>C54H96NO32FULLRCO</formula>
+        <description>Gal-Gal-Gal-Gal-Gal-Glc-Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[c]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[g]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[c]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[g]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1b2_hs[c]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1beta</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1b2_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1beta</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1c_hs[c]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1c_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[g]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[c]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[g]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[g]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[c]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[g]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[g]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1c_hs[c]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1c_hs[g]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1calpha_hs[c]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1calpha_hs[g]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1b_hs[c]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1b_hs[g]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1balpha_hs[c]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1balpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1balpha_hs[g]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1balpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1a_hs[c]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1a</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1a_hs[g]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1a</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>k[c]</name>
+        <formula>K</formula>
+        <description>potassium</description>
+    </metabolite>
+    <metabolite>
+        <name>k[g]</name>
+        <formula>K</formula>
+        <description>potassium</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>man[g]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[c]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>na1[g]</name>
+        <formula>Na</formula>
+        <description>Sodium</description>
+    </metabolite>
+    <metabolite>
+        <name>oagd3_hs[c]</name>
+        <formula>C54H90N3O29FULLRCO</formula>
+        <description>9-O-Acetylated GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagd3_hs[g]</name>
+        <formula>C54H90N3O29FULLRCO</formula>
+        <description>9-O-Acetylated GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagt3_hs[c]</name>
+        <formula>C65H106N4O37FULLRCO</formula>
+        <description>9-O-Acetylated GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagt3_hs[g]</name>
+        <formula>C65H106N4O37FULLRCO</formula>
+        <description>9-O-Acetylated GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[g]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[g]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[c]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[g]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[g]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[c]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>ps_hs[g]</name>
+        <formula>C6H11NO6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylserine</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[c]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[g]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[c]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[g]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[g]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[c]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[g]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[g]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>xser[g]</name>
+        <formula>C5H9O4X</formula>
+        <description>Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>xser[r]</name>
+        <formula>C5H9O4X</formula>
+        <description>Xyl-L-Ser (protein)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACGAGBSIDEtg</id>
+        <name>acgagbside hs intracellular transport</name>
+        <reactant>acgagbside_hs[c]</reactant>
+        <product>acgagbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGALFUCGALACGALFUC12GAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>acgalfucgalacgalfuc12gal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGALFUCGALACGALFUCGALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGALtlg</id>
+        <name>N-acetyl-galactosamine intracellular transport</name>
+        <reactant>acgal[g]</reactant>
+        <product>acgal[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGBGBSIDEtg</id>
+        <name>acgbgbside hs intracellular transport</name>
+        <reactant>acgbgbside_hs[c]</reactant>
+        <product>acgbgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACN13ACNGALGBSIDEtg</id>
+        <name>acn13acngalgbside hs intracellular transport</name>
+        <reactant>acn13acngalgbside_hs[c]</reactant>
+        <product>acn13acngalgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACN23ACNGALGBSIDEtg</id>
+        <name>acn23acngalgbside intracellular transport</name>
+        <reactant>acn23acngalgbside_hs[c]</reactant>
+        <product>acn23acngalgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNACNGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>acnacngal14acglcgalgluside_hs[g]</reactant>
+        <product>acnacngal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNACNGALGBSIDEtg</id>
+        <name>acnacngalgbside hs intracellular transport</name>
+        <reactant>acnacngalgbside_hs[c]</reactant>
+        <product>acnacngalgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNGALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>acngalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>acngalacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACtg</id>
+        <name>acetate transport, Golgi apparatus</name>
+        <reactant>ac[c]</reactant>
+        <product>ac[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CERT1gt</id>
+        <name>ceramide transport protein</name>
+        <reactant>crm_hs[c]</reactant>
+        <product>crm_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CERT2gt</id>
+        <name>ceramide transport protein</name>
+        <reactant>gluside_hs[c]</reactant>
+        <product>gluside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLPtg</id>
+        <name>choline phosphate intracellular transport</name>
+        <reactant>cholp[c]</reactant>
+        <product>cholp[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHOLtg</id>
+        <name>choline intracellular transport</name>
+        <reactant>chol[g]</reactant>
+        <product>chol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHSTEROLtg</id>
+        <name>cholesterol efflux (ATP depedent), golgi</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>chsterol[g]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>chsterol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CMPACNAtg</id>
+        <name>CMP-Sia Golgi transport via CMP antiport</name>
+        <reactant>cmp[g]</reactant>
+        <reactant>cmpacna[c]</reactant>
+        <product>cmp[c]</product>
+        <product>cmpacna[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>CO2tg</id>
+        <name>CO2 Golgi transport</name>
+        <reactant>co2[c]</reactant>
+        <product>co2[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>COAtg</id>
+        <name>CoA transport in Golgi via diffusion</name>
+        <reactant>coa[c]</reactant>
+        <product>coa[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>DIGALSGALSIDEtg</id>
+        <name>digalsgalside hs intracellular transport</name>
+        <reactant>digalsgalside_hs[c]</reactant>
+        <product>digalsgalside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>DIGALSIDEtg</id>
+        <name>digalside hs intracellular transport</name>
+        <reactant>digalside_hs[c]</reactant>
+        <product>digalside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>F1Atg</id>
+        <name>F1alpha transport (from golgi to lysosome)</name>
+        <reactant>f1a[g]</reactant>
+        <product>f1a[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUC13GALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fuc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>fuc13galacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUC14GALACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fuc14galacglcgalgluside_hs[g]</reactant>
+        <product>fuc14galacglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCACGALFUCGALACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucacgalfucgalacglcgalgluside_hs[g]</reactant>
+        <product>fucacgalfucgalacglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCACNGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucacngal14acglcgalgluside_hs[g]</reactant>
+        <product>fucacngal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCACNGALACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucacngalacglcgalgluside_hs[g]</reactant>
+        <product>fucacngalacglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCFUC12GAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>fucfuc12gal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCFUC132GALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucfuc132galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>fucfuc132galacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCFUCFUCGALACGLC13GALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>fucfucfucgalacglc13galacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCFUCFUCGALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucfucfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>fucfucfucgalacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCFUCGALACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucfucgalacglcgalgluside_hs[g]</reactant>
+        <product>fucfucgalacglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucgal14acglcgalgluside_hs[g]</reactant>
+        <product>fucgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCGALFUCGALACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>fucgalfucgalacglcgalgluside_hs[g]</reactant>
+        <product>fucgalfucgalacglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCGALGBSIDEtg</id>
+        <name>fucgalgbside hs intracellular transport</name>
+        <reactant>fucgalgbside_hs[c]</reactant>
+        <product>fucgalgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALACGLCGALGBSIDEtg</id>
+        <name>galacglcgalgbside hs intracellular transport</name>
+        <reactant>galacglcgalgbside_hs[c]</reactant>
+        <product>galacglcgalgbside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALFUC12GAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>galfuc12gal14acglcgalgluside_hs[g]</reactant>
+        <product>galfuc12gal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALFUCGALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>galfucgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>galfucgalacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGALFUCFUCGALACGLCGALACGLCGAL14ACGLCGALGLUSIDEtg</id>
+        <name>blood group intracellular transport</name>
+        <reactant>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]</reactant>
+        <product>galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGALGALTHCRMtg</id>
+        <name>galgalgalthcrm hs intracellular transport</name>
+        <reactant>galgalgalthcrm_hs[c]</reactant>
+        <product>galgalgalthcrm_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGLUSIDEtg</id>
+        <name>galgluside hs intracellular transport</name>
+        <reactant>galgluside_hs[c]</reactant>
+        <product>galgluside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALSIDEtg</id>
+        <name>galactocerebroside intracellular transport</name>
+        <reactant>galside_hs[c]</reactant>
+        <product>galside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GD1B2tg</id>
+        <name>gd1b2 hs intracellular transport</name>
+        <reactant>gd1b2_hs[c]</reactant>
+        <product>gd1b2_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GD1Ctg</id>
+        <name>gd1c hs intracellular transport</name>
+        <reactant>gd1c_hs[c]</reactant>
+        <product>gd1c_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GDPFUCtg</id>
+        <name>GDPFuc Golgi transport via CMP antiport</name>
+        <reactant>gdpfuc[c]</reactant>
+        <reactant>gmp[g]</reactant>
+        <product>gdpfuc[g]</product>
+        <product>gmp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GDPtg</id>
+        <name>GDP intracellular transport</name>
+        <reactant>gdp[c]</reactant>
+        <product>gdp[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCtg</id>
+        <name>glucose transport, Golgi apparatus</name>
+        <reactant>glc_D[c]</reactant>
+        <product>glc_D[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GMPtg</id>
+        <name>GMP transport (Golgi)</name>
+        <reactant>gmp[c]</reactant>
+        <product>gmp[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GP1CALPHAtg</id>
+        <name>gp1calpha hs intracellular transport</name>
+        <reactant>gp1calpha_hs[c]</reactant>
+        <product>gp1calpha_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GP1Ctg</id>
+        <name>gp1c hs intracellular transport</name>
+        <reactant>gp1c_hs[c]</reactant>
+        <product>gp1c_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GQ1BALPHAtg</id>
+        <name>gq1balpha hs intracellular transport</name>
+        <reactant>gq1balpha_hs[c]</reactant>
+        <product>gq1balpha_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GQ1Btg</id>
+        <name>gq1b hs intracellular transport</name>
+        <reactant>gq1b_hs[c]</reactant>
+        <product>gq1b_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>GT1Atg</id>
+        <name>gt1a hs intracellular transport</name>
+        <reactant>gt1a_hs[c]</reactant>
+        <product>gt1a_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2Otg</id>
+        <name>H2O transport, Golgi apparatus</name>
+        <reactant>h2o[c]</reactant>
+        <product>h2o[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>Htg</id>
+        <name>proton diffusion (Golgi)</name>
+        <reactant>h[g]</reactant>
+        <product>h[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>Kt3g</id>
+        <name>potassium transport via proton antiport</name>
+        <reactant>h[g]</reactant>
+        <reactant>k[c]</reactant>
+        <product>h[c]</product>
+        <product>k[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>MANtg</id>
+        <name>mannose efflux from Golgi apparatus</name>
+        <reactant>man[g]</reactant>
+        <product>man[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAt3_1g</id>
+        <name>sodium proton antiporter (H:NA is 1:1)</name>
+        <reactant>na1[c]</reactant>
+        <reactant>h[g]</reactant>
+        <product>h[c]</product>
+        <product>na1[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>OAGD3tg</id>
+        <name>oagd3 hs intracellular transport</name>
+        <reactant>oagd3_hs[c]</reactant>
+        <product>oagd3_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>OAGT3tg</id>
+        <name>oagt3 hs intracellular transport</name>
+        <reactant>oagt3_hs[c]</reactant>
+        <product>oagt3_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PA_HStg</id>
+        <name>phosphatidate scramblase</name>
+        <reactant>pa_hs[c]</reactant>
+        <product>pa_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAPStg</id>
+        <name>3&apos;-Phosphoadenylyl sufate Golgi transport</name>
+        <reactant>paps[c]</reactant>
+        <product>paps[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PAPtg</id>
+        <name>adenosine 3&apos;,5&apos;-bisphosphate Golgi transport</name>
+        <reactant>pap[g]</reactant>
+        <product>pap[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCHOL_HStg</id>
+        <name>phosphatidylcholine scramblase</name>
+        <reactant>pchol_hs[c]</reactant>
+        <product>pchol_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PE_HStg</id>
+        <name>phosphatidylethanolamine scramblase</name>
+        <reactant>pe_hs[c]</reactant>
+        <product>pe_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PItg</id>
+        <name>phosphate transport, Golgi apparatus</name>
+        <reactant>pi[g]</reactant>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>PS_HStg</id>
+        <name>phosphatidylserine scramblase</name>
+        <reactant>ps_hs[c]</reactant>
+        <product>ps_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>Ser_Thrtg</id>
+        <name>Ser/Thr transport (from golgi to lysosome)</name>
+        <reactant>Ser_Thr[g]</reactant>
+        <product>Ser_Thr[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>SGALSIDEtg</id>
+        <name>sgalside hs intracellular transport</name>
+        <reactant>sgalside_hs[c]</reactant>
+        <product>sgalside_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHMYLNtg</id>
+        <name>sphingomyelin intracellular transport</name>
+        <reactant>sphmyln_hs[c]</reactant>
+        <product>sphmyln_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGALt2g</id>
+        <name>UDPgalactose transport (Golgi)</name>
+        <reactant>udpgal[c]</reactant>
+        <product>udpgal[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGALtg</id>
+        <name>UDP-Gal Golgi transport via CMP antiport</name>
+        <reactant>udpgal[c]</reactant>
+        <reactant>ump[g]</reactant>
+        <product>udpgal[g]</product>
+        <product>ump[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGLCAtg</id>
+        <name>UDPGlcA Golgi transport via UMP antiport</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>udpglcur[c]</product>
+        <product>ump[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPGLCtg</id>
+        <name>UDP-Glc Golgi transport via CMP antiport</name>
+        <reactant>udpg[c]</reactant>
+        <reactant>ump[g]</reactant>
+        <product>ump[c]</product>
+        <product>udpg[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UDPXYLtg</id>
+        <name>UDP-Xyl Golgi transport via CMP antiport</name>
+        <reactant>ump[g]</reactant>
+        <reactant>udpxyl[c]</reactant>
+        <product>ump[c]</product>
+        <product>udpxyl[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGALNACtg</id>
+        <name>UDP-GalNAc Golgi transport via CMP antiport</name>
+        <reactant>ump[g]</reactant>
+        <reactant>udpacgal[c]</reactant>
+        <product>udpacgal[g]</product>
+        <product>ump[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGLCNACtg</id>
+        <name>UDP-GlcNAc Golgi transport via CMP antiport</name>
+        <reactant>uacgam[c]</reactant>
+        <reactant>ump[g]</reactant>
+        <product>uacgam[g]</product>
+        <product>ump[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+    <reaction>
+        <id>XSERtg</id>
+        <name>Xyl-L-Ser (protein) transport from endoplasmic reticulum to Golgi apparatus</name>
+        <reactant>xser[r]</reactant>
+        <product>xser[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, golgi apparatus</subsystem>
+    </reaction>
+</reactions>

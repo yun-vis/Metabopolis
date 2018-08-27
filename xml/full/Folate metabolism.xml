@@ -1,0 +1,1175 @@
+<metabolites>
+    <metabolite>
+        <name>10fthf5glu[c]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf5glu[e]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf5glu[l]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf5glu[m]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10-formyltetrahydrofolate-[Glu](5)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[c]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[e]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[l]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf6glu[m]</name>
+        <formula>C45H51N12O22</formula>
+        <description>10-formyltetrahydrofolate-[Glu](6)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[c]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[e]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[l]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf7glu[m]</name>
+        <formula>C50H57N13O25</formula>
+        <description>10-formyltetrahydrofolate-[Glu](7)</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[c]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[e]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[l]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>10fthf[m]</name>
+        <formula>C20H21N7O7</formula>
+        <description>10-Formyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[e]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[l]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[c]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[e]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[l]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5dhf[m]</name>
+        <formula>C39H43N11O18</formula>
+        <description>pentaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5forthf[c]</name>
+        <formula>C20H22N8O6</formula>
+        <description>5-Formiminotetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>5fthf[c]</name>
+        <formula>C20H21N7O7</formula>
+        <description>5-formyltetrahydrofolate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>5fthf[m]</name>
+        <formula>C20H21N7O7</formula>
+        <description>5-formyltetrahydrofolate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>5mthf[c]</name>
+        <formula>C20H24N7O6</formula>
+        <description>5-Methyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[c]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[e]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[l]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>5thf[m]</name>
+        <formula>C39H45N11O18</formula>
+        <description>pentaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[c]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[e]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[l]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6dhf[m]</name>
+        <formula>C44H49N12O21</formula>
+        <description>hexaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[c]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[e]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[l]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>6thf[m]</name>
+        <formula>C44H51N12O21</formula>
+        <description>hexaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[c]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[e]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[l]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7dhf[m]</name>
+        <formula>C49H55N13O24</formula>
+        <description>heptaglutamyl folate (DHF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[c]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[e]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[l]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>7thf[m]</name>
+        <formula>C49H57N13O24</formula>
+        <description>heptaglutamyl folate (THF)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02129[c]</name>
+        <formula></formula>
+        <description>THF-hexaglutamate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[c]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[e]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[l]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhf[m]</name>
+        <formula>C19H19N7O6</formula>
+        <description>7,8-Dihydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>fol[c]</name>
+        <formula>C19H18N7O6</formula>
+        <description>Folate</description>
+    </metabolite>
+    <metabolite>
+        <name>fol[m]</name>
+        <formula>C19H18N7O6</formula>
+        <description>Folate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>for[m]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[e]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[l]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>methf[c]</name>
+        <formula>C20H20N7O6</formula>
+        <description>5,10-Methenyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>methf[m]</name>
+        <formula>C20H20N7O6</formula>
+        <description>5,10-Methenyltetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[c]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>mlthf[m]</name>
+        <formula>C20H21N7O6</formula>
+        <description>5,10-Methylenetetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[e]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[l]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[m]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>DHFR</id>
+        <name>dihydrofolate reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>dhf[c]</reactant>
+        <product>nadp[c]</product>
+        <product>thf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FOLR2</id>
+        <name>folate reductase</name>
+        <reactant>nadph[c]</reactant>
+        <reactant>fol[c]</reactant>
+        <product>nadp[c]</product>
+        <product>dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS</id>
+        <name>folylpolyglutamate synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>4 glu_L[c]</reactant>
+        <reactant>thf[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>5thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS2</id>
+        <name>folylpolyglutamate synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>5thf[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>6thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS2m</id>
+        <name>folylpolyglutamate synthetase, mitochondrial</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>5thf[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>h[m]</product>
+        <product>6thf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS3</id>
+        <name>folylpolyglutamate synthetase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>6thf[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>7thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS3m</id>
+        <name>folylpolyglutamate synthetase, mitochondrial</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>6thf[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>h[m]</product>
+        <product>7thf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS4</id>
+        <name>folylpolyglutamate synthetase (DHF)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>4 glu_L[c]</reactant>
+        <reactant>dhf[c]</reactant>
+        <product>3 h2o[c]</product>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>5dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS4m</id>
+        <name>folylpolyglutamate synthetase (DHF), mitochondrial</name>
+        <reactant>4 glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>dhf[m]</reactant>
+        <product>h[m]</product>
+        <product>3 h2o[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>5dhf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS5</id>
+        <name>folylpolyglutamate synthetase (DHF)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>5dhf[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>6dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS5m</id>
+        <name>folylpolyglutamate synthetase (DHF), mitochondrial</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>5dhf[m]</reactant>
+        <product>h[m]</product>
+        <product>6dhf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS6</id>
+        <name>folylpolyglutamate synthetase (DHF)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <reactant>6dhf[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>7dhf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS6m</id>
+        <name>folylpolyglutamate synthetase (DHF), mitochondrial</name>
+        <reactant>glu_L[m]</reactant>
+        <reactant>6dhf[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>h[m]</product>
+        <product>7dhf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS7</id>
+        <name>folylpolyglutamate synthetase (10fthf)</name>
+        <reactant>10fthf[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>4 glu_L[c]</reactant>
+        <product>10fthf5glu[c]</product>
+        <product>3 h2o[c]</product>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS7m</id>
+        <name>folylpolyglutamate synthetase (10fthf), mitochondrial</name>
+        <reactant>10fthf[m]</reactant>
+        <reactant>4 glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>10fthf5glu[m]</product>
+        <product>h[m]</product>
+        <product>3 h2o[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS8</id>
+        <name>folylpolyglutamate synthetase (10fthf)</name>
+        <reactant>10fthf5glu[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <product>10fthf6glu[c]</product>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS8m</id>
+        <name>folylpolyglutamate synthetase (10fthf), mitochondrial</name>
+        <reactant>10fthf5glu[m]</reactant>
+        <reactant>glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>10fthf6glu[m]</product>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS9</id>
+        <name>folylpolyglutamate synthetase (10fthf)</name>
+        <reactant>10fthf6glu[c]</reactant>
+        <reactant>atp[c]</reactant>
+        <reactant>glu_L[c]</reactant>
+        <product>10fthf7glu[c]</product>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGS9m</id>
+        <name>folylpolyglutamate synthetase (10fthf), mitochondrial</name>
+        <reactant>10fthf6glu[m]</reactant>
+        <reactant>glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <product>10fthf7glu[m]</product>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FPGSm</id>
+        <name>folylpolyglutamate synthetase, mitochondrial</name>
+        <reactant>4 glu_L[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>thf[m]</reactant>
+        <product>h[m]</product>
+        <product>3 h2o[m]</product>
+        <product>5thf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FTCD</id>
+        <name>formimidoyltransferase cyclodeaminase</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>5forthf[c]</reactant>
+        <product>nh4[c]</product>
+        <product>methf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FTHFCL</id>
+        <name>5-formethyltetrahydrofolate cyclo-ligase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>5fthf[c]</reactant>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <product>methf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FTHFDH</id>
+        <name>formyltetrahydrofolate dehydrogenase</name>
+        <reactant>10fthf[c]</reactant>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>co2[c]</product>
+        <product>thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FTHFL</id>
+        <name>Formate-tetrahydrofolate ligase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>thf[c]</reactant>
+        <reactant>for[c]</reactant>
+        <product>10fthf[c]</product>
+        <product>adp[c]</product>
+        <product>pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FTHFLm</id>
+        <name>formate-tetrahydrofolate ligase, mitochondrial</name>
+        <reactant>atp[m]</reactant>
+        <reactant>for[m]</reactant>
+        <reactant>thf[m]</reactant>
+        <product>10fthf[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF5GLUe</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF5GLU), extracellular</name>
+        <reactant>4 h2o[e]</reactant>
+        <reactant>10fthf5glu[e]</reactant>
+        <product>4 glu_L[e]</product>
+        <product>10fthf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF5GLUl</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF5GLU), lysosomal</name>
+        <reactant>10fthf5glu[l]</reactant>
+        <reactant>4 h2o[l]</reactant>
+        <product>10fthf[l]</product>
+        <product>4 glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF6GLUe</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF6GLU), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>10fthf6glu[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>10fthf5glu[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF6GLUl</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF6GLU), lysosomal</name>
+        <reactant>10fthf6glu[l]</reactant>
+        <reactant>h2o[l]</reactant>
+        <product>10fthf5glu[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF7GLUe</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF7GLU), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>10fthf7glu[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>10fthf6glu[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_10FTHF7GLUl</id>
+        <name>Gamma-glutamyl hydrolase (10FTHF7GLU), lysosomal</name>
+        <reactant>10fthf7glu[l]</reactant>
+        <reactant>h2o[l]</reactant>
+        <product>10fthf6glu[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_5DHFe</id>
+        <name>Gamma-glutamyl hydrolase (5DHF), extracellular</name>
+        <reactant>4 h2o[e]</reactant>
+        <reactant>5dhf[e]</reactant>
+        <product>4 glu_L[e]</product>
+        <product>dhf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_5DHFl</id>
+        <name>Gamma-glutamyl hydrolase (5DHF), lysosomal</name>
+        <reactant>4 h2o[l]</reactant>
+        <reactant>5dhf[l]</reactant>
+        <product>dhf[l]</product>
+        <product>4 glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_5THFe</id>
+        <name>Gamma-glutamyl hydrolase (5THF), extracellular</name>
+        <reactant>4 h2o[e]</reactant>
+        <reactant>5thf[e]</reactant>
+        <product>4 glu_L[e]</product>
+        <product>thf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_5THFl</id>
+        <name>Gamma-glutamyl hydrolase (5THF), lysosomal</name>
+        <reactant>4 h2o[l]</reactant>
+        <reactant>5thf[l]</reactant>
+        <product>4 glu_L[l]</product>
+        <product>thf[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_6DHFe</id>
+        <name>Gamma-glutamyl hydrolase (6DHF), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>6dhf[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>5dhf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_6DHFl</id>
+        <name>Gamma-glutamyl hydrolase (6DHF), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>6dhf[l]</reactant>
+        <product>5dhf[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_6THFe</id>
+        <name>Gamma-glutamyl hydrolase (6THF), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>6thf[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>5thf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_6THFl</id>
+        <name>Gamma-glutamyl hydrolase (6THF), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>6thf[l]</reactant>
+        <product>5thf[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_7DHFe</id>
+        <name>Gamma-glutamyl hydrolase (7DHF), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>7dhf[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>6dhf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_7DHFl</id>
+        <name>Gamma-glutamyl hydrolase (7DHF), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>7dhf[l]</reactant>
+        <product>6dhf[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_7THFe</id>
+        <name>Gamma-glutamyl hydrolase (7THF), extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>7thf[e]</reactant>
+        <product>glu_L[e]</product>
+        <product>6thf[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GGH_7THFl</id>
+        <name>Gamma-glutamyl hydrolase (7THF), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>7thf[l]</reactant>
+        <product>6thf[l]</product>
+        <product>glu_L[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFC</id>
+        <name>methenyltetrahydrofolate cyclohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>methf[c]</reactant>
+        <product>10fthf[c]</product>
+        <product>h[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFCm</id>
+        <name>methenyltetrahydrifikate cyclohydrolase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>methf[m]</reactant>
+        <product>10fthf[m]</product>
+        <product>h[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFD</id>
+        <name>methylenetetrahydrofolate dehydrogenase (NADP)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>mlthf[c]</reactant>
+        <product>nadph[c]</product>
+        <product>methf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFD2</id>
+        <name>methylenetetrahydrofolate dehydrogenase (NAD)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>mlthf[c]</reactant>
+        <product>nadh[c]</product>
+        <product>methf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFD2m</id>
+        <name>methylenetetrahydrofolate dehydrogenase (NAD), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>mlthf[m]</reactant>
+        <product>nadh[m]</product>
+        <product>methf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFDm</id>
+        <name>methylenetetrahydrofolate dehydrogenase (NADP), mitochondrial</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>mlthf[m]</reactant>
+        <product>nadph[m]</product>
+        <product>methf[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0224</id>
+        <name>5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase One carbon pool by folate EC:1.5.1.3</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>dhf[c]</reactant>
+        <product>nad[c]</product>
+        <product>thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0226</id>
+        <name>5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase One carbon pool by folate / Folate biosynthesis EC:1.5.1.3</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>dhf[m]</reactant>
+        <product>nadp[m]</product>
+        <product>thf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0512</id>
+        <name>Dihydrofolate:NAD+ oxidoreductase Folate biosynthesis EC:1.5.1.3</name>
+        <reactant>nad[c]</reactant>
+        <reactant>dhf[c]</reactant>
+        <product>nadh[c]</product>
+        <product>fol[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0514</id>
+        <name>Dihydrofolate:NADP+ oxidoreductase One carbon pool by folate / Folate biosynthesis EC:1.5.1.3</name>
+        <reactant>nadph[m]</reactant>
+        <reactant>fol[m]</reactant>
+        <product>nadp[m]</product>
+        <product>dhf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0522</id>
+        <name>S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) One carbon pool by folate EC:2.1.2.10</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>methf[m]</reactant>
+        <product>h[m]</product>
+        <product>5fthf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0523</id>
+        <name>5-Formyltetrahydrofolate cyclo-ligase (ADP-forming) One carbon pool by folate EC:6.3.3.2</name>
+        <reactant>atp[m]</reactant>
+        <reactant>5fthf[m]</reactant>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>methf[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0792</id>
+        <name>5-methyltetrahydrofolate:NAD+ oxidoreductase One carbon pool by folate / Methane metabolism EC:1.5.1.20</name>
+        <reactant>nad[c]</reactant>
+        <reactant>5mthf[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>mlthf[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1382</id>
+        <name>folylpolyglutamyl synthetase EC:6.3.2.17</name>
+        <reactant>6 h2o[c]</reactant>
+        <reactant>6 atp[c]</reactant>
+        <reactant>6 glu_L[c]</reactant>
+        <reactant>thf[c]</reactant>
+        <product>6 adp[c]</product>
+        <product>6 pi[c]</product>
+        <product>HC02129[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1383</id>
+        <name>gamma-glutamyl hydrolase EC:3.4.19.9</name>
+        <reactant>HC02129[c]</reactant>
+        <product>6 glu_L[c]</product>
+        <product>thf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MTHFR3</id>
+        <name>5,10-methylenetetrahydrofolatereductase (NADPH)</name>
+        <reactant>2 h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>mlthf[c]</reactant>
+        <product>nadp[c]</product>
+        <product>5mthf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Folate metabolism</subsystem>
+    </reaction>
+</reactions>

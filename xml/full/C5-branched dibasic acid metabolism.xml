@@ -1,0 +1,159 @@
+<metabolites>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>citmcoa_L[m]</name>
+        <formula>C26H37N7O20P3S</formula>
+        <description>(3S)-citramalyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[m]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[m]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>itaccoa[m]</name>
+        <formula>C26H35N7O19P3S</formula>
+        <description>itaconyl-CoA(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itacon[m]</name>
+        <formula>C5H4O4</formula>
+        <description>itaconate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mescoa[m]</name>
+        <formula>C26H35N7O19P3S</formula>
+        <description>Mesaconyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>mescon[m]</name>
+        <formula>C5H4O4</formula>
+        <description>Mesaconate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>CITMCOAHm</id>
+        <name>L-Citramalyl-CoA hydro-lyase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>itaccoa[m]</reactant>
+        <product>citmcoa_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CITMCOALm</id>
+        <name>L-Citramalyl-CoA pyruvate-lyase</name>
+        <reactant>citmcoa_L[m]</reactant>
+        <product>pyr[m]</product>
+        <product>accoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ITCOAL1m</id>
+        <name>Itaconate--CoA ligase (GDP-forming), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>gtp[m]</reactant>
+        <reactant>itacon[m]</reactant>
+        <product>pi[m]</product>
+        <product>gdp[m]</product>
+        <product>itaccoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ITCOALm</id>
+        <name>Itaconate--CoA ligase (ADP-forming), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>itacon[m]</reactant>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>itaccoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MECOALm</id>
+        <name>mesaconate--CoA ligase (ADP-forming), mitochondrial</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>mescon[m]</reactant>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>mescoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MECOAS1m</id>
+        <name>mesaconate--CoA ligase (GDP-forming)</name>
+        <reactant>coa[m]</reactant>
+        <reactant>gtp[m]</reactant>
+        <reactant>mescon[m]</reactant>
+        <product>pi[m]</product>
+        <product>gdp[m]</product>
+        <product>mescoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MESCOALm</id>
+        <name>Mesaconyl-CoA pyruvate-lyase</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>mescoa[m]</reactant>
+        <product>pyr[m]</product>
+        <product>accoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MGACONm</id>
+        <name>methylglutaconase, mitochondrial</name>
+        <reactant>citmcoa_L[m]</reactant>
+        <product>h2o[m]</product>
+        <product>mescoa[m]</product>
+        <reversible>true</reversible>
+        <subsystem>C5-branched dibasic acid metabolism</subsystem>
+    </reaction>
+</reactions>

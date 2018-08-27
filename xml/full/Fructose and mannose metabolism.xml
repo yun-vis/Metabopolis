@@ -1,0 +1,500 @@
+<metabolites>
+    <metabolite>
+        <name>C03693[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>D-Mannose 1,6-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1787[c]</name>
+        <formula>C12H25N2O7</formula>
+        <description>1-deoxy-1-(N6-lysino)-D-fructose</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2846[c]</name>
+        <formula>C12H24N2O10P</formula>
+        <description>fructoselysine 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2847[c]</name>
+        <formula>C8H15NO7</formula>
+        <description>fructoseglycine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2848[c]</name>
+        <formula>C8H14NO10P</formula>
+        <description>fructoseglycine ketone 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE3075[c]</name>
+        <formula>C6H13O9P</formula>
+        <description>sorbitol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[c]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[c]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>f1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Fructose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>f26bp[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>beta-D-fructofuranose 2,6-bisphosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>f6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Fructose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>fdp[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>D-Fructose 1,6-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>fru[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Fructose</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc1p_L[c]</name>
+        <formula>C6H11O8P</formula>
+        <description>L-Fucose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[c]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>g3p[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Glyceraldehyde 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[c]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpddman[c]</name>
+        <formula>C16H21N5O15P2</formula>
+        <description>GDP-4-dehydro-6-deoxy-alpha-D-mannose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[c]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpmann[c]</name>
+        <formula>C16H23N5O16P2</formula>
+        <description>GDP-alpha-D-mannose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glyald[c]</name>
+        <formula>C3H6O3</formula>
+        <description>D-Glyceraldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[c]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[c]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>man1p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Mannose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>man6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Mannose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sbt_D[c]</name>
+        <formula>C6H14O6</formula>
+        <description>D-glucitol</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[c]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>F1PGT</id>
+        <name>fucose-1-phosphate guanylyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <reactant>fuc1p_L[c]</reactant>
+        <product>ppi[c]</product>
+        <product>gdpfuc[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FBA2</id>
+        <name>D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase</name>
+        <reactant>f1p[c]</reactant>
+        <product>dhap[c]</product>
+        <product>glyald[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FBP26</id>
+        <name>Fructose-2,6-bisphosphate 2-phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>f26bp[c]</reactant>
+        <product>pi[c]</product>
+        <product>f6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FK</id>
+        <name>Fucokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>fuc_L[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>fuc1p_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GFUCS</id>
+        <name>GDP-L-fucose synthase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>gdpddman[c]</reactant>
+        <product>nadp[c]</product>
+        <product>gdpfuc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GMAND</id>
+        <name>GDP-D-mannose dehydratase</name>
+        <reactant>gdpmann[c]</reactant>
+        <product>h2o[c]</product>
+        <product>gdpddman[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HEX4</id>
+        <name>hexokinase (D-mannose:ATP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>man[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>man6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HEX7</id>
+        <name>hexokinase (D-fructose:ATP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>fru[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>f6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KHK</id>
+        <name>ketohexokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>fru[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>f1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN1PT2</id>
+        <name>mannose-1-phosphate guanylyltransferase (GDP)</name>
+        <reactant>h[c]</reactant>
+        <reactant>gdp[c]</reactant>
+        <reactant>man1p[c]</reactant>
+        <product>pi[c]</product>
+        <product>gdpmann[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAN6PI</id>
+        <name>mannose-6-phosphate isomerase</name>
+        <reactant>man6p[c]</reactant>
+        <product>f6p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PFK26</id>
+        <name>6-phosphofructo-2-kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>f6p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>f26bp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PMANM</id>
+        <name>phosphomannomutase</name>
+        <reactant>man1p[c]</reactant>
+        <product>man6p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SBTD_D2</id>
+        <name>D-sorbitol dehydrogenase (D-fructose producing)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>sbt_D[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>fru[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SBTR</id>
+        <name>D-sorbitol reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>glc_D[c]</reactant>
+        <product>nadp[c]</product>
+        <product>sbt_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRIOK</id>
+        <name>triokinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>glyald[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>g3p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0191</id>
+        <name>UTP:D-fructose-6-phosphate 1-phosphotransferase EC:2.7.1.11</name>
+        <reactant>utp[c]</reactant>
+        <reactant>f6p[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>fdp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0208</id>
+        <name>GTP:alpha-D-mannose-1-phosphate guanylyltransferase Fructose and mannose metabolism EC:2.7.7.13</name>
+        <reactant>h[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <reactant>man1p[c]</reactant>
+        <product>ppi[c]</product>
+        <product>gdpmann[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0357</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>itp[c]</reactant>
+        <reactant>fru[c]</reactant>
+        <product>h[c]</product>
+        <product>idp[c]</product>
+        <product>f6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0358</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>datp[c]</reactant>
+        <reactant>fru[c]</reactant>
+        <product>h[c]</product>
+        <product>dadp[c]</product>
+        <product>f6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0360</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>man[c]</reactant>
+        <reactant>itp[c]</reactant>
+        <product>h[c]</product>
+        <product>idp[c]</product>
+        <product>man6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0361</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>man[c]</reactant>
+        <reactant>datp[c]</reactant>
+        <product>h[c]</product>
+        <product>man6p[c]</product>
+        <product>dadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0864C</id>
+        <name>RE0864</name>
+        <reactant>atp[c]</reactant>
+        <reactant>CE1787[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>CE2846[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0875C</id>
+        <name>RE0875</name>
+        <reactant>atp[c]</reactant>
+        <reactant>CE2847[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>CE2848[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1342C</id>
+        <name>RE1342</name>
+        <reactant>nad[c]</reactant>
+        <reactant>sbt_D[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>glc_D[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1508C</id>
+        <name>RE1508</name>
+        <reactant>atp[c]</reactant>
+        <reactant>man1p[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>C03693[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2782C</id>
+        <name>RE2782</name>
+        <reactant>atp[c]</reactant>
+        <reactant>sbt_D[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>CE3075[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Fructose and mannose metabolism</subsystem>
+    </reaction>
+</reactions>

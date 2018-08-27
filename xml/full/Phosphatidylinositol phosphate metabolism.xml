@@ -1,0 +1,1161 @@
+<metabolites>
+    <metabolite>
+        <name>dolmanp_L[r]</name>
+        <formula>C1140H1868O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human liver homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolmanp_U[r]</name>
+        <formula>C1085H1780O90P10</formula>
+        <description>Dolichyl phosphate D-mannose, human uterine homolog</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_L[r]</name>
+        <formula>C1080H1758O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dolp_U[r]</name>
+        <formula>C1025H1670O40P10</formula>
+        <description>dolichyl phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5101[g]</name>
+        <formula>C11H15O16P2R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5101[m]</name>
+        <formula>C11H15O16P2R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5132[c]</name>
+        <formula>C11H14O19P3R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5132[g]</name>
+        <formula>C11H14O19P3R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5132[n]</name>
+        <formula>C11H14O19P3R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5132[r]</name>
+        <formula>C11H14O19P3R2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acgpail_hs[c]</name>
+        <formula>C17H29NO14PFULLRCO2FULLR2CO2</formula>
+        <description>6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[g]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[n]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[r]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[g]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[n]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[r]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[r]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dem2emgacpail_prot_hs[r]</name>
+        <formula>C37H70N3O34P3FULLRCO2FULLR2CO2X</formula>
+        <description>deacylated-(phosphoethanolaminyl-dimannosyl),(phosphoethanolaminyl)-mannosyl-glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>dgpi_prot_hs[r]</name>
+        <formula>C39H76N4O37P4FULLRCO2FULLR2CO2X</formula>
+        <description>deacylated-glycophosphatidylinositol (GPI)-anchored protein</description>
+    </metabolite>
+    <metabolite>
+        <name>em2emgacpail_hs[r]</name>
+        <formula>C53H100N3O35P3FULLRCO2FULLR2CO2</formula>
+        <description>(phosphoethanolaminyl-dimannosyl),(phosphoethanolaminyl)-mannosyl-glucosaminyl-acylphosphatidylinositol (H7)</description>
+    </metabolite>
+    <metabolite>
+        <name>em2emgacpail_prot_hs[r]</name>
+        <formula>C53H100N3O35P3FULLRCO2FULLR2CO2X</formula>
+        <description>(phosphoethanolaminyl-dimannosyl),(phosphoethanolaminyl)-mannosyl-glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>em3gacpail_hs[r]</name>
+        <formula>C51H94N2O32P2FULLRCO2FULLR2CO2</formula>
+        <description>phosphoethanolaminyl-trimannosyl-glucosaminyl-acylphosphatidylinositol (H6&apos;)</description>
+    </metabolite>
+    <metabolite>
+        <name>emem2gacpail_hs[r]</name>
+        <formula>C53H100N3O35P3FULLRCO2FULLR2CO2</formula>
+        <description>(phosphoethanolaminyl-mannosyl),(phosphoethanolaminyl)-dimannosyl-glucosaminyl-acylphosphatidylinositol (H7&apos;)</description>
+    </metabolite>
+    <metabolite>
+        <name>emgacpail_hs[r]</name>
+        <formula>C39H74N2O22P2FULLRCO2FULLR2CO2</formula>
+        <description>phosphoethanolaminyl-mannosyl-glucosylaminyl-acylphosphatidylinositol (H5)</description>
+    </metabolite>
+    <metabolite>
+        <name>gacpail_hs[c]</name>
+        <formula>C31H58NO14PFULLRCO2FULLR2CO2</formula>
+        <description>glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>gacpail_hs[r]</name>
+        <formula>C31H58NO14PFULLRCO2FULLR2CO2</formula>
+        <description>glucosaminyl-acylphosphatidylinositol</description>
+    </metabolite>
+    <metabolite>
+        <name>gpail_hs[c]</name>
+        <formula>C15H28NO13PFULLRCO2FULLR2CO2</formula>
+        <description>6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>gpi_hs[r]</name>
+        <formula>C55H106N4O38P4FULLRCO2FULLR2CO2</formula>
+        <description>{[PE-Man-],[PE-]Man},{PE-}Man-GlcN-acylPI</description>
+    </metabolite>
+    <metabolite>
+        <name>gpi_prot_hs[r]</name>
+        <formula>C55H106N4O38P4FULLRCO2FULLR2CO2X</formula>
+        <description>{[(Prot-PE-Man),(PE)-Man],[PE]}-Man-GlcN-acylPI</description>
+    </metabolite>
+    <metabolite>
+        <name>gpi_sig[r]</name>
+        <formula>Y</formula>
+        <description>glycophosphatidylinositol (GPI) signal sequence (C-terminal peptide)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[n]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[n]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[r]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[c]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[g]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>inost[r]</name>
+        <formula>C6H12O6</formula>
+        <description>myo-inositol</description>
+    </metabolite>
+    <metabolite>
+        <name>m(em)3gacpail_hs[r]</name>
+        <formula>C40H45N11O19</formula>
+        <description>10fthf5glu[c]</description>
+    </metabolite>
+    <metabolite>
+        <name>m2emgacpail_hs[r]</name>
+        <formula>C51H94N2O32P2FULLRCO2FULLR2CO2</formula>
+        <description>(dimannosyl),(phosphoethanolaminyl)-mannosyl-glucosylaminyl-acylphosphatidylinositol (H6)</description>
+    </metabolite>
+    <metabolite>
+        <name>m2gacpail_hs[r]</name>
+        <formula>C43H78NO24PFULLRCO2FULLR2CO2</formula>
+        <description>dimannosyl-glucosaminyl-acylphosphatidylinositol (H3)</description>
+    </metabolite>
+    <metabolite>
+        <name>m3emgacpail_hs[r]</name>
+        <formula>C57H104N2O37P2FULLRCO2FULLR2CO2</formula>
+        <description>(trimannosyl),(phosphoethanolaminyl)-mannosyl-glucosaminyl-acylphosphatidylinositol (M4C)</description>
+    </metabolite>
+    <metabolite>
+        <name>m3gacpail_hs[r]</name>
+        <formula>C49H88NO29PFULLRCO2FULLR2CO2</formula>
+        <description>trimannosyl-glucosaminyl-acylphosphatidylinositol (H4)</description>
+    </metabolite>
+    <metabolite>
+        <name>m_em_3gacpail[r]</name>
+        <formula>C61H116N4O43P4FULLRCO2FULLR2CO2</formula>
+        <description>mannosyl-3-(phosphoethanolaminyl-mannosyl)-glucosaminyl-acylphosphatidylinositol (M4A)</description>
+    </metabolite>
+    <metabolite>
+        <name>m_em_3gacpail_hs[r]</name>
+        <formula>C61H116N4O43P4FULLRCO2FULLR2CO2</formula>
+        <description>mannosyl-3-(phosphoethanolaminyl-mannosyl)-glucosaminyl-acylphosphatidylinositol (M4A))</description>
+    </metabolite>
+    <metabolite>
+        <name>m_em_3gacpail_prot_hs[r]</name>
+        <formula>C61H116N4O43P4FULLRCO2FULLR2CO2X</formula>
+        <description>mannosyl-3-(phosphoethanolaminyl-mannosyl)-glucosaminyl-acylphosphatidylinositol-Protein (M4A)</description>
+    </metabolite>
+    <metabolite>
+        <name>mem2emgacpail_hs[r]</name>
+        <formula>C59H110N3O40P3FULLRCO2FULLR2CO2</formula>
+        <description>({[(mannosyl),(phosphoethanolaminyl)]-dimannosyl},{phosphoethanolaminyl})-mannosyl-glucosaminyl-acylphosphatidylinositol (M4B)</description>
+    </metabolite>
+    <metabolite>
+        <name>mem2emgacpail_prot_hs[r]</name>
+        <formula>C59H110N3O40P3FULLRCO2FULLR2CO2X</formula>
+        <description>({[(mannosyl),(phosphoethanolaminyl)]-dimannosyl},{phosphoethanolaminyl})-mannosyl-glucosaminyl-acylphosphatidylinositol-Protein (M4B)</description>
+    </metabolite>
+    <metabolite>
+        <name>memgacpail_hs[r]</name>
+        <formula>C45H84N2O27P2FULLRCO2FULLR2CO2</formula>
+        <description>(mannosyl),(phosphoethanolaminyl)-mannosyl-glucosylaminyl-acylphosphatidylinositol (B)</description>
+    </metabolite>
+    <metabolite>
+        <name>mgacpail_hs[r]</name>
+        <formula>C37H68NO19PFULLRCO2FULLR2CO2</formula>
+        <description>mannosyl-glucosaminyl-acylphosphatidylinositiol (H2)</description>
+    </metabolite>
+    <metabolite>
+        <name>mi34p[c]</name>
+        <formula>C6H10O12P2</formula>
+        <description>1D-myo-Inositol 3,4-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[g]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[r]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail345p_hs[c]</name>
+        <formula>C9H13O18P4FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail345p_hs[g]</name>
+        <formula>C9H13O18P4FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail345p_hs[r]</name>
+        <formula>C9H13O18P4FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail35p_hs[c]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail35p_hs[g]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail35p_hs[r]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate(5-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[g]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail3p_hs[r]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 3-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[g]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[m]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[n]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail45p_hs[r]</name>
+        <formula>C9H14O15P3FULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylinositol 4,5-bisphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pail4p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 4-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[c]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[n]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail5p_hs[r]</name>
+        <formula>C9H15O12P2FULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol 5-phosphate(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[c]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[g]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[n]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pail_hs[r]</name>
+        <formula>C9H16O9PFULLRCO2FULLR2CO2</formula>
+        <description>1-phosphatidyl-1D-myo-inositol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pe_hs[r]</name>
+        <formula>C5H12NO4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[n]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[c]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>pre_prot[r]</name>
+        <formula>XY</formula>
+        <description>glycophosphatidylinositol (GPI)-anchored protein precursor</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACGPID</id>
+        <name>N-acetylglucosaminylphosphatidylinositol deacetylase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>acgpail_hs[c]</reactant>
+        <product>ac[c]</product>
+        <product>gpail_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BMTer_L</id>
+        <name>B mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>memgacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BMTer_U</id>
+        <name>B mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>memgacpail_hs[r]</reactant>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <product>h[r]</product>
+        <product>m2emgacpail_hs[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPIAT</id>
+        <name>glucosaminylphosphatidyl inositol acetyltransferase</name>
+        <reactant>gpail_hs[c]</reactant>
+        <reactant>pmtcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>gacpail_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPIDA2er</id>
+        <name>glycophosphatidylinositol (GPI) deacylase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>em2emgacpail_prot_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>dem2emgacpail_prot_hs[r]</product>
+        <product>hdca[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPIDAer</id>
+        <name>glycophosphatidylinositol (GPI) deacylase, endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>gpi_prot_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>dgpi_prot_hs[r]</product>
+        <product>hdca[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPIMTer_L</id>
+        <name>GlcN-acylPI mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>gacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>mgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPIMTer_U</id>
+        <name>GlcN-acylPI mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>gacpail_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>mgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2ETer</id>
+        <name>H2 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>mgacpail_hs[r]</reactant>
+        <reactant>pe_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2MTer_L</id>
+        <name>H2 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>mgacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m2gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2MTer_U</id>
+        <name>H2 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>mgacpail_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>m2gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H3ETer</id>
+        <name>H3 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>m2gacpail_hs[r]</reactant>
+        <product>memgacpail_hs[r]</product>
+        <product>dag_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H3MTer_L</id>
+        <name>H3 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>m2gacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m3gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H3MTer_U</id>
+        <name>H3 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>m2gacpail_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>m3gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H4ET3er</id>
+        <name>H4 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>m3gacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>em3gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H4ETer</id>
+        <name>H4 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>m3gacpail_hs[r]</reactant>
+        <product>m2emgacpail_hs[r]</product>
+        <product>dag_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H5MTer_L</id>
+        <name>H5 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>emgacpail_hs[r]</reactant>
+        <product>memgacpail_hs[r]</product>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H5MTer_U</id>
+        <name>H5 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>emgacpail_hs[r]</reactant>
+        <product>memgacpail_hs[r]</product>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H6_ET2er</id>
+        <name>H6&apos; phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>em3gacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>emem2gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H6ET3er</id>
+        <name>H6 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>m2emgacpail_hs[r]</reactant>
+        <reactant>pe_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>em2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H6_ETer</id>
+        <name>H6&apos; phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>em3gacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>em2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H6MTer_L</id>
+        <name>H6 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>m2emgacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m3emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H6MTer_U</id>
+        <name>H6 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>m2emgacpail_hs[r]</reactant>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>m3emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H7ET2er</id>
+        <name>H7 phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>em2emgacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>gpi_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H7_ETer</id>
+        <name>H7&apos; phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>emem2gacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>gpi_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H7MTer_L</id>
+        <name>H7 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>em2emgacpail_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>mem2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H7MTer_U</id>
+        <name>H7 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_U[r]</reactant>
+        <reactant>em2emgacpail_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>0.1 dolp_U[r]</product>
+        <product>mem2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H7_TAer</id>
+        <name>H7&apos; transamidase, endoplasmic reticulum</name>
+        <reactant>em2emgacpail_hs[r]</reactant>
+        <reactant>pre_prot[r]</reactant>
+        <product>gpi_sig[r]</product>
+        <product>em2emgacpail_prot_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H8MTer_L</id>
+        <name>H8 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>gpi_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m_em_3gacpail[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H8MTer_U</id>
+        <name>H8 mannosyltransferase, endoplasmic reticulum</name>
+        <reactant>0.1 dolmanp_L[r]</reactant>
+        <reactant>gpi_hs[r]</reactant>
+        <product>0.1 dolp_L[r]</product>
+        <product>h[r]</product>
+        <product>m(em)3gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H8TAer</id>
+        <name>H8 transamidase, endoplasmic reticulum</name>
+        <reactant>gpi_hs[r]</reactant>
+        <reactant>pre_prot[r]</reactant>
+        <product>gpi_sig[r]</product>
+        <product>gpi_prot_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4ATAer</id>
+        <name>M4A transamidase, endoplasmic reticulum</name>
+        <reactant>pre_prot[r]</reactant>
+        <reactant>m_em_3gacpail_hs[r]</reactant>
+        <product>gpi_sig[r]</product>
+        <product>m_em_3gacpail_prot_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4BET2er</id>
+        <name>M4B phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>mem2emgacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>m_em_3gacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4BTAer</id>
+        <name>M4B transamidase, endoplasmic reticulum</name>
+        <reactant>mem2emgacpail_hs[r]</reactant>
+        <reactant>pre_prot[r]</reactant>
+        <product>gpi_sig[r]</product>
+        <product>mem2emgacpail_prot_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>M4CET3er</id>
+        <name>M4C phosphoethanolaminyl transferase, endoplasmic reticulum</name>
+        <reactant>pe_hs[r]</reactant>
+        <reactant>m3emgacpail_hs[r]</reactant>
+        <product>dag_hs[r]</product>
+        <product>mem2emgacpail_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PIACGT</id>
+        <name>phosphatidylinositol N-acetylglucosaminyltransferase</name>
+        <reactant>pail_hs[c]</reactant>
+        <reactant>uacgam[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>acgpail_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1441G</id>
+        <name>RE1441</name>
+        <reactant>pail_hs[g]</reactant>
+        <reactant>atp[g]</reactant>
+        <product>h[g]</product>
+        <product>CE5101[g]</product>
+        <product>adp[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1441R</id>
+        <name>RE1441</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail5p_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1447M</id>
+        <name>RE1447</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>pail45p_hs[m]</reactant>
+        <product>pi[m]</product>
+        <product>CE5101[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1447N</id>
+        <name>RE1447</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail45p_hs[n]</reactant>
+        <product>pi[n]</product>
+        <product>pail5p_hs[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1448N</id>
+        <name>RE1448</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail5p_hs[n]</reactant>
+        <product>pail_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1448R</id>
+        <name>RE1448</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>pail5p_hs[r]</reactant>
+        <product>pi[r]</product>
+        <product>pail_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1957G</id>
+        <name>RE1957</name>
+        <reactant>atp[g]</reactant>
+        <reactant>pail35p_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>adp[g]</product>
+        <product>pail345p_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1957R</id>
+        <name>RE1957</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail35p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail345p_hs[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2972G</id>
+        <name>RE2972</name>
+        <reactant>atp[g]</reactant>
+        <reactant>CE5101[g]</reactant>
+        <product>h[g]</product>
+        <product>adp[g]</product>
+        <product>pail45p_hs[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2972M</id>
+        <name>RE2972</name>
+        <reactant>atp[m]</reactant>
+        <reactant>CE5101[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pail45p_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2972R</id>
+        <name>RE2972</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail5p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>pail45p_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2973C</id>
+        <name>RE2973</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail5p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>CE5132[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2973G</id>
+        <name>RE2973</name>
+        <reactant>atp[g]</reactant>
+        <reactant>CE5101[g]</reactant>
+        <product>h[g]</product>
+        <product>adp[g]</product>
+        <product>CE5132[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2973N</id>
+        <name>RE2973</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail5p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>CE5132[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2973R</id>
+        <name>RE2973</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail5p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>CE5132[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2974C</id>
+        <name>RE2974</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pail3p_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>CE5132[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2974G</id>
+        <name>RE2974</name>
+        <reactant>atp[g]</reactant>
+        <reactant>pail3p_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>adp[g]</product>
+        <product>CE5132[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2974N</id>
+        <name>RE2974</name>
+        <reactant>atp[n]</reactant>
+        <reactant>pail3p_hs[n]</reactant>
+        <product>h[n]</product>
+        <product>adp[n]</product>
+        <product>CE5132[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2974R</id>
+        <name>RE2974</name>
+        <reactant>atp[r]</reactant>
+        <reactant>pail3p_hs[r]</reactant>
+        <product>adp[r]</product>
+        <product>h[r]</product>
+        <product>CE5132[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3268C</id>
+        <name>RE3268</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail345p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>mi34p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3268R</id>
+        <name>RE3268</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>pail345p_hs[r]</reactant>
+        <product>pi[r]</product>
+        <product>pail35p_hs[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3269C</id>
+        <name>RE3269</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail35p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail5p_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3270C</id>
+        <name>RE3270</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail3p_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>pail_hs[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3272N</id>
+        <name>RE3272</name>
+        <reactant>h2o[n]</reactant>
+        <reactant>pail4p_hs[n]</reactant>
+        <product>pail_hs[n]</product>
+        <product>pi[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3273C</id>
+        <name>RE3273</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pail_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>pa_hs[c]</product>
+        <product>inost[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3273G</id>
+        <name>RE3273</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>pail_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>pa_hs[g]</product>
+        <product>inost[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3273R</id>
+        <name>RE3273</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>pail_hs[r]</reactant>
+        <product>h[r]</product>
+        <product>pa_hs[r]</product>
+        <product>inost[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Phosphatidylinositol phosphate metabolism</subsystem>
+    </reaction>
+</reactions>

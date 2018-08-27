@@ -1,0 +1,1200 @@
+<metabolites>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>Asn_X_Ser_Thr[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked asparagine residue (N-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>Ser_Thr[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine or threonine residue (O-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>Tn_antigen[l]</name>
+        <formula>C8H14NO5X</formula>
+        <description>Tn antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[l]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>core6[l]</name>
+        <formula>C16H27N2O10X</formula>
+        <description>Core 6</description>
+    </metabolite>
+    <metabolite>
+        <name>f1a[l]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>F1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[e]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[l]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi[e]</name>
+        <formula>C247H393N17O213S12X</formula>
+        <description>keratan sulfate I</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi[l]</name>
+        <formula>C247H393N17O213S12X</formula>
+        <description>keratan sulfate I</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg10[l]</name>
+        <formula>C188H302N13O163S9</formula>
+        <description>keratan sulfate I, degradation product 10</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg11[l]</name>
+        <formula>C180H289N12O158S9</formula>
+        <description>keratan sulfate I, degradation product 11</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg12[l]</name>
+        <formula>C174H279N12O153S9</formula>
+        <description>keratan sulfate I, degradation product 12</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg13[l]</name>
+        <formula>C174H280N12O150S8</formula>
+        <description>keratan sulfate I, degradation product 13</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg14[l]</name>
+        <formula>C166H267N11O145S8</formula>
+        <description>keratan sulfate I, degradation product 14</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg15[l]</name>
+        <formula>C160H257N11O140S8</formula>
+        <description>keratan sulfate I, degradation product 15</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg16[l]</name>
+        <formula>C160H258N11O137S7</formula>
+        <description>keratan sulfate I, degradation product 16</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg17[l]</name>
+        <formula>C152H245N10O132S7</formula>
+        <description>keratan sulfate I, degradation product 17</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg18[l]</name>
+        <formula>C146H235N10O127S7</formula>
+        <description>keratan sulfate I, degradation product 18</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg19[l]</name>
+        <formula>C146H236N10O124S6</formula>
+        <description>keratan sulfate I, degradation product 19</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg1[e]</name>
+        <formula>C241H383N17O209S12X</formula>
+        <description>keratan sulfate I, degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg1[l]</name>
+        <formula>C241H383N17O209S12X</formula>
+        <description>keratan sulfate I, degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg20[l]</name>
+        <formula>C138H223N9O119S6</formula>
+        <description>keratan sulfate I, degradation product 20</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg21[l]</name>
+        <formula>C132H213N9O114S6</formula>
+        <description>keratan sulfate I, degradation product 21</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg22[l]</name>
+        <formula>C132H214N9O111S5</formula>
+        <description>keratan sulfate I, degradation product 22</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg23[l]</name>
+        <formula>C124H201N8O106S5</formula>
+        <description>keratan sulfate I, degradation product 23</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg24[l]</name>
+        <formula>C118H191N8O101S5</formula>
+        <description>keratan sulfate I, degradation product 24</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg25[l]</name>
+        <formula>C118H192N8O98S4</formula>
+        <description>keratan sulfate I, degradation product 25</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg26[l]</name>
+        <formula>C110H179N7O93S4</formula>
+        <description>keratan sulfate I, degradation product 26</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg27[l]</name>
+        <formula>C104H169N7O88S4</formula>
+        <description>keratan sulfate I, degradation product 27</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg28[l]</name>
+        <formula>C104H170N7O85S3</formula>
+        <description>keratan sulfate I, degradation product 28</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg29[l]</name>
+        <formula>C96H157N6O80S3</formula>
+        <description>keratan sulfate I, degradation product 29</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg2[l]</name>
+        <formula>C241H384N17O210S12</formula>
+        <description>keratan sulfate I, degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg30[l]</name>
+        <formula>C90H147N6O75S3</formula>
+        <description>keratan sulfate I, degradation product 30</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg31[l]</name>
+        <formula>C90H148N6O72S2</formula>
+        <description>keratan sulfate I, degradation product 31</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg32[l]</name>
+        <formula>C82H135N5O67S2</formula>
+        <description>keratan sulfate I, degradation product 32</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg33[l]</name>
+        <formula>C76H125N5O62S2</formula>
+        <description>keratan sulfate I, degradation product 33</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg34[l]</name>
+        <formula>C76H126N5O59S1</formula>
+        <description>keratan sulfate I, degradation product 34</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg35[l]</name>
+        <formula>C68H113N4O54S1</formula>
+        <description>keratan sulfate I, degradation product 35</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg36[l]</name>
+        <formula>C62H103N4O49S1</formula>
+        <description>keratan sulfate I, degradation product 36</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg37[l]</name>
+        <formula>C62H104N4O46</formula>
+        <description>keratan sulfate I, degradation product 37</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg38[l]</name>
+        <formula>C54H91N3O41</formula>
+        <description>keratan sulfate I, degradation product 38</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg39[l]</name>
+        <formula>C48H81N3O36</formula>
+        <description>keratan sulfate I, degradation product 39</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg3[l]</name>
+        <formula>C233H371N16O205S12</formula>
+        <description>keratan sulfate I, degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg40[l]</name>
+        <formula>C40H68N2O31</formula>
+        <description>keratan sulfate I, degradation product 40</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg41[l]</name>
+        <formula>C34H58N2O26</formula>
+        <description>keratan sulfate I, degradation product 41</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg4[l]</name>
+        <formula>C222H355N15O197S12</formula>
+        <description>keratan sulfate I, degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg5[l]</name>
+        <formula>C222H356N15O194S11</formula>
+        <description>keratan sulfate I, degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg6[l]</name>
+        <formula>C210H336N15O184S11</formula>
+        <description>keratan sulfate I, degradation product 6</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg7[l]</name>
+        <formula>C210H337N15O181S10</formula>
+        <description>keratan sulfate I, degradation product 7</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg8[l]</name>
+        <formula>C194H311N13O171S10</formula>
+        <description>keratan sulfate I, degradation product 8</description>
+    </metabolite>
+    <metabolite>
+        <name>ksi_deg9[l]</name>
+        <formula>C188H301N13O166S10</formula>
+        <description>keratan sulfate I, degradation product 9</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2[l]</name>
+        <formula>C81H129N6O67S3X</formula>
+        <description>keratan sulfate II (core 2-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg1[l]</name>
+        <formula>C70H113N5O59S3X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg2[l]</name>
+        <formula>C70H114N5O56S2X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg3[l]</name>
+        <formula>C58H94N5O46S2X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg4[l]</name>
+        <formula>C58H95N5O43SX</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg5[l]</name>
+        <formula>C50H82N4O38SX</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 5</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg6[l]</name>
+        <formula>C44H72N4O33SX</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 6</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg7[l]</name>
+        <formula>C44H73N4O30X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 7</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg8[l]</name>
+        <formula>C36H60N3O25X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 8</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core2_deg9[l]</name>
+        <formula>C30H50N3O20X</formula>
+        <description>keratan sulfate II (core 2-linked), degradation product 9</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4[l]</name>
+        <formula>C89H142N7O72S3X</formula>
+        <description>keratan sulfate II (core 4-linked)</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_deg1[l]</name>
+        <formula>C78H126N6O64S3X</formula>
+        <description>keratan sulfate II (core 4-linked), degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_deg2[l]</name>
+        <formula>C78H127N6O61S2X</formula>
+        <description>keratan sulfate II (core 4-linked), degradation product 2</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_deg3[l]</name>
+        <formula>C66H107N6O51S2X</formula>
+        <description>keratan sulfate II (core 4-linked), degradation product 3</description>
+    </metabolite>
+    <metabolite>
+        <name>ksii_core4_deg4[l]</name>
+        <formula>C66H108N6O48SX</formula>
+        <description>keratan sulfate II (core 4-linked), degradation product 4</description>
+    </metabolite>
+    <metabolite>
+        <name>m2mn[l]</name>
+        <formula>C26H45NO21</formula>
+        <description>(alpha-D-mannosyl)2-beta-D-mannosyl-N-acetylglucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[l]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[l]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ENGASE3ly</id>
+        <name>endo-beta-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg2[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCASE2e</id>
+        <name>alpha-fucosidase, extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>ksi[e]</reactant>
+        <product>fuc_L[e]</product>
+        <product>ksi_deg1[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCASE2ly</id>
+        <name>alpha-fucosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi[l]</reactant>
+        <product>fuc_L[l]</product>
+        <product>ksi_deg1[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE10ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg26[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg27[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE11ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg29[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg30[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE12ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg32[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg33[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE13ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg35[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg36[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE14ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg38[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg39[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE15ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg40[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg41[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE16ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksii_core2_deg2[l]</reactant>
+        <product>2 gal[l]</product>
+        <product>ksii_core2_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE17ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg5[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksii_core2_deg6[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE18ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg8[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksii_core2_deg9[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE19ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>f1a[l]</reactant>
+        <product>gal[l]</product>
+        <product>core6[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE20ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksii_core4_deg2[l]</reactant>
+        <product>2 gal[l]</product>
+        <product>ksii_core4_deg3[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE3ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg5[l]</reactant>
+        <product>2 gal[l]</product>
+        <product>ksi_deg6[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE4ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg8[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg9[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE5ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg11[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg12[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE6ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg14[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg15[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE7ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg17[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg18[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE8ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg20[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg21[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE9ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg23[l]</reactant>
+        <product>gal[l]</product>
+        <product>ksi_deg24[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GASNASE3ly</id>
+        <name>glycosylasparaginase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg1[l]</reactant>
+        <product>Asn_X_Ser_Thr[l]</product>
+        <product>ksi_deg2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX10ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg7[l]</reactant>
+        <product>2 acgam[l]</product>
+        <product>ksi_deg8[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX11ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg10[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg11[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX12ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg13[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg14[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX13ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg16[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg17[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX14ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg19[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg20[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX15ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg22[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg23[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX16ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg25[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg26[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX17ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg28[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg29[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX18ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg31[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg32[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX19ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg34[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg35[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX20ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg37[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg38[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX21ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg39[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksi_deg40[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX22ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg41[l]</reactant>
+        <product>m2mn[l]</product>
+        <product>acgam[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX23ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg4[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksii_core2_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX24ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg7[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ksii_core2_deg8[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX25ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg9[l]</reactant>
+        <product>acgam[l]</product>
+        <product>f1a[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX26ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksii_core4_deg4[l]</reactant>
+        <product>2 acgam[l]</product>
+        <product>ksii_core2_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA10ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg9[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg11[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA11ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg12[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg14[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA12ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg15[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg17[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA13ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg18[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg20[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA14ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg21[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg23[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA15ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg24[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg26[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA16ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg27[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg29[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA17ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg30[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg32[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA18ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg33[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg35[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA19ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksi_deg36[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg38[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA20ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksii_core2_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA21ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ksii_core2_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg8[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA22ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>ksii_core4_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>2 acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg5[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEXA9ly</id>
+        <name>beta-N-acetylhexosaminidase A, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>ksi_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>2 acgam[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg8[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAGA2ly</id>
+        <name>N-acetylgalactosaminidase, alpha-</name>
+        <reactant>h[l]</reactant>
+        <reactant>Tn_antigen[l]</reactant>
+        <reactant>udp[l]</reactant>
+        <product>Ser_Thr[l]</product>
+        <product>udpacgal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAGLCAly</id>
+        <name>N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>core6[l]</reactant>
+        <product>acgam[l]</product>
+        <product>Tn_antigen[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE10ly</id>
+        <name>galactose-6-sulfate sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg4[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg5[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE11ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg7[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE12ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg9[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg10[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE13ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg12[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg13[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE14ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg15[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg16[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE15ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg18[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg19[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE16ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg21[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg22[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE17ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg24[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg25[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE18ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg27[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg28[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE19ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg30[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg31[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE20ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg33[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg34[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE21ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg36[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksi_deg37[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE22ly</id>
+        <name>galactose-6-sulfate sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg1[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg2[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE23ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg4[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE24ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2_deg6[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core2_deg7[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE25ly</id>
+        <name>galactose-6-sulfate sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core4_deg1[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core4_deg2[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6TASE26ly</id>
+        <name>N-acetylglucosamine-6-sulfatase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core4_deg3[l]</reactant>
+        <product>h[l]</product>
+        <product>so4[l]</product>
+        <product>ksii_core4_deg4[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAASE2ly</id>
+        <name>sialidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksi_deg3[l]</reactant>
+        <product>acnam[l]</product>
+        <product>ksi_deg4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAASE3ly</id>
+        <name>sialidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core2[l]</reactant>
+        <product>acnam[l]</product>
+        <product>ksii_core2_deg1[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAASE4ly</id>
+        <name>sialidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ksii_core4[l]</reactant>
+        <product>acnam[l]</product>
+        <product>ksii_core4_deg1[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Keratan sulfate degradation</subsystem>
+    </reaction>
+</reactions>

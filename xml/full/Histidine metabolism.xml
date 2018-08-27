@@ -1,0 +1,375 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>3mlda[c]</name>
+        <formula>C6H7N2O2</formula>
+        <description>3-Methylimidazoleacetic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>3mldz[c]</name>
+        <formula>C6H8N2O</formula>
+        <description>1-methylimidazole-4-acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>4izp[c]</name>
+        <formula>C6H7N2O3</formula>
+        <description>4-Imidazolone-5-propanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>5forthf[c]</name>
+        <formula>C20H22N8O6</formula>
+        <description>5-Formiminotetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2065[c]</name>
+        <formula>C11H15N4O4</formula>
+        <description>acetylcarnosine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2088[c]</name>
+        <formula>C11H13N3O5S</formula>
+        <description>N-acetyl-S-[2-carboxy-1-(1 H-imidazol-4-yl)ethyl]-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2089[c]</name>
+        <formula>C9H12N3O4S</formula>
+        <description>S-[2-carboxy-1-(1 H-imidazol-4-yl)ethyl]-L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7218[c]</name>
+        <formula>C9H10N2O5S</formula>
+        <description>S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]-3-thiolactate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE7220[c]</name>
+        <formula>C16H21N5O8S</formula>
+        <description>S-[2-carboxy-1-(1H-imidazol-4-yl)ethyl]glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>carn[c]</name>
+        <formula>C9H14N4O3</formula>
+        <description>carnosine</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>forglu[c]</name>
+        <formula>C6H8N2O4</formula>
+        <description>N-Formimidoyl-L-glutamate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[c]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>hista[c]</name>
+        <formula>C5H10N3</formula>
+        <description>histamium</description>
+    </metabolite>
+    <metabolite>
+        <name>im4ac[c]</name>
+        <formula>C5H5N2O2</formula>
+        <description>imidazol-4-ylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>im4ac[m]</name>
+        <formula>C5H5N2O2</formula>
+        <description>imidazol-4-ylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>im4act[c]</name>
+        <formula>C5H6N2O</formula>
+        <description>imidazole-4-acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>im4act[m]</name>
+        <formula>C5H6N2O</formula>
+        <description>imidazole-4-acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>mhista[c]</name>
+        <formula>C6H12N3</formula>
+        <description>N(tele)-methylhistaminium</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>thf[c]</name>
+        <formula>C19H21N7O6</formula>
+        <description>5,6,7,8-Tetrahydrofolate</description>
+    </metabolite>
+    <metabolite>
+        <name>urcan[c]</name>
+        <formula>C6H5N2O2</formula>
+        <description>Urocanate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>GluForTx</id>
+        <name>Glutamate formimidoyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>thf[c]</reactant>
+        <reactant>forglu[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>5forthf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HISD</id>
+        <name>histidase</name>
+        <reactant>his_L[c]</reactant>
+        <product>nh4[c]</product>
+        <product>urcan[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HISDC</id>
+        <name>histidine decarboxylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>co2[c]</product>
+        <product>hista[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HISTASE</id>
+        <name>Histaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>hista[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>im4act[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IMACTD</id>
+        <name>Imidazole acetaldeyde dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>im4act[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>im4ac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IMACTD_m</id>
+        <name>Imidazole acetaldeyde dehydrogenase (mito)</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>im4act[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>im4ac[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IZPN</id>
+        <name>Imidazolonepropionase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>4izp[c]</reactant>
+        <product>h[c]</product>
+        <product>forglu[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MACOXO</id>
+        <name>3-Methylimidazole acetaldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>3mldz[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>3mlda[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MHISOR</id>
+        <name>N-Methylhistamine:oxygen oxidoreductase (deaminating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>mhista[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>3mldz[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SAMHISTA</id>
+        <name>S-Adenosyl-L-methionine:histamine N-tele-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>hista[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>mhista[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>URCN</id>
+        <name>URCN</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>urcan[c]</reactant>
+        <product>4izp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2081C</id>
+        <name>RE2081</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>carn[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE2065[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3629C</id>
+        <name>RE3629</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>CE2089[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>CE2088[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3630C</id>
+        <name>RE3630</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2088[c]</reactant>
+        <product>ac[c]</product>
+        <product>CE2089[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3631C</id>
+        <name>RE3631</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>urcan[c]</reactant>
+        <product>CE7220[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3633C</id>
+        <name>RE3633</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2089[c]</reactant>
+        <product>nh4[c]</product>
+        <product>CE7218[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Histidine metabolism</subsystem>
+    </reaction>
+</reactions>

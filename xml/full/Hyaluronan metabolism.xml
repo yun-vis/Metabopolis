@@ -1,0 +1,122 @@
+<metabolites>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glcur[l]</name>
+        <formula>C6H9O7</formula>
+        <description>D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>ha[e]</name>
+        <formula>C28H40N2O22</formula>
+        <description>hyaluronan</description>
+    </metabolite>
+    <metabolite>
+        <name>ha[l]</name>
+        <formula>C28H40N2O22</formula>
+        <description>hyaluronan</description>
+    </metabolite>
+    <metabolite>
+        <name>ha_deg1[l]</name>
+        <formula>C22H33N2O16</formula>
+        <description>hyaluronan degradation product 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ha_pre1[e]</name>
+        <formula>C14H20NO11</formula>
+        <description>hyaluronan biosynthesis, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>ha_pre1[l]</name>
+        <formula>C14H20NO11</formula>
+        <description>hyaluronan biosynthesis, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>GLCAASE8ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ha[l]</reactant>
+        <product>glcur[l]</product>
+        <product>ha_deg1[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Hyaluronan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAASE9ly</id>
+        <name>beta-glucuronidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>ha_pre1[l]</reactant>
+        <product>acgam[l]</product>
+        <product>glcur[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Hyaluronan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HAS1</id>
+        <name>hyaluronan synthase</name>
+        <reactant>uacgam[c]</reactant>
+        <reactant>udpglcur[c]</reactant>
+        <product>2 h[c]</product>
+        <product>2 udp[c]</product>
+        <product>ha_pre1[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Hyaluronan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HAS2</id>
+        <name>hyaluronan synthase</name>
+        <reactant>ha_pre1[e]</reactant>
+        <reactant>uacgam[c]</reactant>
+        <reactant>udpglcur[c]</reactant>
+        <product>2 h[c]</product>
+        <product>2 udp[c]</product>
+        <product>ha[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Hyaluronan metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NACHEX27ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ha_deg1[l]</reactant>
+        <product>acgam[l]</product>
+        <product>ha_pre1[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Hyaluronan metabolism</subsystem>
+    </reaction>
+</reactions>

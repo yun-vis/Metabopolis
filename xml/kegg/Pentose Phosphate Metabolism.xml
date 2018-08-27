@@ -1,0 +1,707 @@
+<metabolites>
+    <metabolite>
+        <name>2-Hydroxyethyl-ThPP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>2-Oxoglutarate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>3-Phosphoglycerate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Acetate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Acetyl-CoA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00118</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00199</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00204</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00231</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00236</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00279</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00345</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00631</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C00668</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01172</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01218</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C01236</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C04442</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C05345</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C05378</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C05382</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C06019</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>C06473</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Citrate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Cori_ester</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>D-Gluconate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>D-Glyceraldehyde</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>DPG</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Ethanal</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Ethanol</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Fumarate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Gluconolactone</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Glucose</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Glycerate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Glycerone_phosphate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Isocitrate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Malate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Oxaloacetate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Oxalosuccinate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>PEP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>PRPP</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Pyruvate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Ribose_5-phosphate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Succinate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>Succinyl-CoA</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>alpha-D-Glucose</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>beta-D-Glucose</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+    <metabolite>
+        <name>cis-Aconitate</name>
+        <formula>none</formula>
+        <description>none</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>R00351</id>
+        <name>rn:R00351 rn:R00352</name>
+        <reactant>Citrate</reactant>
+        <product>Oxaloacetate</product>
+        <product>Acetyl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01899</id>
+        <name>rn:R01899</name>
+        <reactant>Isocitrate</reactant>
+        <product>Oxalosuccinate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00268</id>
+        <name>rn:R00268</name>
+        <reactant>2-Oxoglutarate</reactant>
+        <product>Oxalosuccinate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R04779</id>
+        <name>rn:R04779 rn:R04780 rn:R09084 rn:R02073</name>
+        <reactant>C05345</reactant>
+        <product>C05378</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01070</id>
+        <name>rn:R01070</name>
+        <reactant>C05378</reactant>
+        <product>Glycerone_phosphate</product>
+        <product>C00118</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01015</id>
+        <name>rn:R01015</name>
+        <reactant>Glycerone_phosphate</reactant>
+        <product>C00118</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01061</id>
+        <name>rn:R01061 rn:R01063</name>
+        <reactant>C00118</reactant>
+        <product>C00236</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01512</id>
+        <name>rn:R01512</name>
+        <reactant>C00236</reactant>
+        <product>3-Phosphoglycerate</product>
+        <reversible>true</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01518</id>
+        <name>rn:R01518</name>
+        <reactant>3-Phosphoglycerate</reactant>
+        <product>C00631</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00658</id>
+        <name>rn:R00658</name>
+        <reactant>C00631</reactant>
+        <product>PEP</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00199</id>
+        <name>rn:R00199 rn:R00200 rn:R00206 rn:R02320</name>
+        <reactant>PEP</reactant>
+        <product>Pyruvate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00209</id>
+        <name>rn:R00209 rn:R00212 rn:R01196 rn:R10866</name>
+        <reactant>Pyruvate</reactant>
+        <product>Acetyl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01528</id>
+        <name>rn:R01528 rn:R10221</name>
+        <reactant>C00345</reactant>
+        <product>C00199</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02035</id>
+        <name>rn:R02035</name>
+        <reactant>C01236</reactant>
+        <product>C00345</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02736</id>
+        <name>rn:R02736 rn:R10907</name>
+        <reactant>C01172</reactant>
+        <product>C01236</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R05605</id>
+        <name>rn:R05605</name>
+        <reactant>C00118</reactant>
+        <product>C04442</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02740</id>
+        <name>rn:R02740</name>
+        <reactant>C05345</reactant>
+        <product>C00668</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02739</id>
+        <name>rn:R02739</name>
+        <reactant>C00668</reactant>
+        <product>C01172</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02036</id>
+        <name>rn:R02036</name>
+        <reactant>C00345</reactant>
+        <product>C04442</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00959</id>
+        <name>rn:R00959</name>
+        <reactant>Cori_ester</reactant>
+        <product>C00668</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01786</id>
+        <name>rn:R01786 rn:R01788 rn:R02189 rn:R09085</name>
+        <reactant>C00668</reactant>
+        <product>alpha-D-Glucose</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01827</id>
+        <name>rn:R01827</name>
+        <reactant>C00118</reactant>
+        <reactant>C05382</reactant>
+        <product>C05345</product>
+        <product>C00279</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01830</id>
+        <name>rn:R01830</name>
+        <reactant>C00118</reactant>
+        <reactant>C05345</reactant>
+        <product>C00279</product>
+        <product>C00231</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01049</id>
+        <name>rn:R01049</name>
+        <reactant>PRPP</reactant>
+        <product>Ribose_5-phosphate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00342</id>
+        <name>rn:R00342 rn:R00361</name>
+        <reactant>Malate</reactant>
+        <product>Oxaloacetate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01082</id>
+        <name>rn:R01082</name>
+        <reactant>Fumarate</reactant>
+        <product>Malate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02164</id>
+        <name>rn:R02164</name>
+        <reactant>Succinate</reactant>
+        <product>Fumarate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00405</id>
+        <name>rn:R00405 rn:R00432 rn:R00727 rn:R10343</name>
+        <reactant>Succinyl-CoA</reactant>
+        <product>Succinate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R08549</id>
+        <name>rn:R08549 rn:R01197</name>
+        <reactant>2-Oxoglutarate</reactant>
+        <product>Succinyl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00267</id>
+        <name>rn:R00267 rn:R00709</name>
+        <reactant>2-Oxoglutarate</reactant>
+        <product>Isocitrate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01900</id>
+        <name>rn:R01900</name>
+        <reactant>Isocitrate</reactant>
+        <product>cis-Aconitate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01325</id>
+        <name>rn:R01325</name>
+        <reactant>cis-Aconitate</reactant>
+        <product>Citrate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01058</id>
+        <name>rn:R01058 rn:R07159 rn:R10860</name>
+        <reactant>C00118</reactant>
+        <product>3-Phosphoglycerate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00755</id>
+        <name>rn:R00755</name>
+        <reactant>2-Hydroxyethyl-ThPP</reactant>
+        <product>Ethanal</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00710</id>
+        <name>rn:R00710 rn:R00711</name>
+        <reactant>Ethanal</reactant>
+        <product>Acetate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00746</id>
+        <name>rn:R00746 rn:R00754 rn:R05198 rn:R09127 rn:R09479</name>
+        <reactant>Ethanol</reactant>
+        <product>Ethanal</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01737</id>
+        <name>rn:R01737</name>
+        <reactant>D-Gluconate</reactant>
+        <product>C00345</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01538</id>
+        <name>rn:R01538</name>
+        <reactant>D-Gluconate</reactant>
+        <product>C00204</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02032</id>
+        <name>rn:R02032 rn:R02034</name>
+        <reactant>C01218</reactant>
+        <product>C00345</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R02658</id>
+        <name>rn:R02658</name>
+        <reactant>C06473</reactant>
+        <product>C01218</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01739</id>
+        <name>rn:R01739 rn:R01741</name>
+        <reactant>C06473</reactant>
+        <product>D-Gluconate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01519</id>
+        <name>rn:R01519</name>
+        <reactant>D-Gluconate</reactant>
+        <product>Gluconolactone</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00305</id>
+        <name>rn:R00305 rn:R06620 rn:R07147</name>
+        <reactant>Gluconolactone</reactant>
+        <product>Glucose</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01522</id>
+        <name>rn:R01522</name>
+        <reactant>Gluconolactone</reactant>
+        <product>beta-D-Glucose</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R08570</id>
+        <name>rn:R08570</name>
+        <reactant>C00204</reactant>
+        <product>D-Glyceraldehyde</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R08572</id>
+        <name>rn:R08572</name>
+        <reactant>Glycerate</reactant>
+        <product>C00631</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R08571</id>
+        <name>rn:R08571 rn:R10324 rn:R10615</name>
+        <reactant>D-Glyceraldehyde</reactant>
+        <product>Glycerate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01541</id>
+        <name>rn:R01541</name>
+        <reactant>C04442</reactant>
+        <product>C00204</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R03321</id>
+        <name>rn:R03321</name>
+        <reactant>C05345</reactant>
+        <product>C01172</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01324</id>
+        <name>rn:R01324</name>
+        <reactant>Isocitrate</reactant>
+        <product>Citrate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R00229</id>
+        <name>rn:R00229 rn:R00235</name>
+        <reactant>Acetate</reactant>
+        <product>Acetyl-CoA</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R05338</id>
+        <name>rn:R05338</name>
+        <reactant>C00199</reactant>
+        <product>C06019</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09780</id>
+        <name>rn:R09780</name>
+        <reactant>C06019</reactant>
+        <product>C05345</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01662</id>
+        <name>rn:R01662</name>
+        <reactant>C00236</reactant>
+        <product>DPG</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R01516</id>
+        <name>rn:R01516</name>
+        <reactant>DPG</reactant>
+        <product>3-Phosphoglycerate</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>R09532</id>
+        <name>rn:R09532</name>
+        <reactant>DPG</reactant>
+        <product>C00631</product>
+        <reversible>false</reversible>
+        <subsystem>Pentose Phosphate Metabolism</subsystem>
+    </reaction>
+</reactions>
+<subsystems>
+    <subsystem>
+        <id>0</id>
+        <name>Pentose Phosphate Metabolism</name>
+        <color>#8080F7</color>
+        <x>1830</x>
+        <y>1078</y>
+    </subsystem>
+</subsystems>

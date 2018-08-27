@@ -1,0 +1,89 @@
+<metabolites>
+    <metabolite>
+        <name>3hbcoa_R[m]</name>
+        <formula>C25H38N7O18P3S</formula>
+        <description>(R)-3-hydroxybutanoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[m]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>b2coa[m]</name>
+        <formula>C25H36N7O17P3S</formula>
+        <description>crotonoyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>bhb[m]</name>
+        <formula>C4H7O3</formula>
+        <description>(R)-3-hydroxybutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>btcoa[m]</name>
+        <formula>C25H38N7O17P3S</formula>
+        <description>Butanoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>3HBCDm</id>
+        <name>3-hydroxybutyryl-CoA dehydratase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>b2coa[m]</reactant>
+        <product>3hbcoa_R[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Butanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACOAD1fm</id>
+        <name>acyl-CoA dehydrogenase (butanoyl-CoA), mitochondrial</name>
+        <reactant>fad[m]</reactant>
+        <reactant>btcoa[m]</reactant>
+        <product>b2coa[m]</product>
+        <product>fadh2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Butanoate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BDHm</id>
+        <name>(R)-3-Hydroxybutanoate:NAD+ oxidoreductase</name>
+        <reactant>nad[m]</reactant>
+        <reactant>bhb[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>acac[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Butanoate metabolism</subsystem>
+    </reaction>
+</reactions>

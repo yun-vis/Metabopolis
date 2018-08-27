@@ -1,0 +1,313 @@
+<metabolites>
+    <metabolite>
+        <name>2dp6mep[m]</name>
+        <formula>C57H88O2</formula>
+        <description>2-Decaprenyl-6-methoxyphenol</description>
+    </metabolite>
+    <metabolite>
+        <name>2dp6mobq[m]</name>
+        <formula>C57H86O3</formula>
+        <description>2-decaprenyl-6-methoxy-1,4-benzoquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>2dp6mobq_me[m]</name>
+        <formula>C58H88O3</formula>
+        <description>2-decaprenyl-6-methoxy-3-methyl-1,4-benzoquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>2dpmhobq[m]</name>
+        <formula>C58H88O4</formula>
+        <description>2-decaprenyl-5-hydroxy-6-methoxy-3-methyl-1,4-benzoquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>34hpl[m]</name>
+        <formula>C9H9O4</formula>
+        <description>3-(4-hydroxyphenyl)lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>34hpp[m]</name>
+        <formula>C9H7O4</formula>
+        <description>3-(4-hydroxyphenyl)pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>3dpdhb[m]</name>
+        <formula>C57H85O4</formula>
+        <description>3-Decaprenyl-4,5-dihdydroxybenzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3dpdhb_me[m]</name>
+        <formula>C58H87O4</formula>
+        <description>3-Decaprenyl-4-hydroxy-5-methoxybenzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3dphb[m]</name>
+        <formula>C57H85O3</formula>
+        <description>3-Decaprenyl-4-hydroxybenzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4hbz[m]</name>
+        <formula>C7H5O3</formula>
+        <description>4-hydroxybenzoate</description>
+    </metabolite>
+    <metabolite>
+        <name>4hbzcoa[m]</name>
+        <formula>C28H36N7O18P3S</formula>
+        <description>4-hydroxybenoyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>T4hcinnm[m]</name>
+        <formula>C9H7O3</formula>
+        <description>trans-4-coumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[m]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[m]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coucoa[m]</name>
+        <formula>C30H38N7O18P3S1</formula>
+        <description>4-coumaroyl-CoA(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>decdp[m]</name>
+        <formula>C50H81O7P2</formula>
+        <description>all trans Decaprenyl diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>34HPLFM</id>
+        <name>3-(4-hydroxyphenyl-)lactate formation</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>34hpp[m]</reactant>
+        <product>nad[m]</product>
+        <product>34hpl[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>3DPHBH1</id>
+        <name>Hydroxylation of 3-Decaprenyl-4-hydroxybenzoate (NADH)</name>
+        <reactant>h[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>3dphb[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nad[m]</product>
+        <product>3dpdhb[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>3DPHBH2</id>
+        <name>Hydroxylation of 3-Decaprenyl-4-hydroxybenzoate (NADPH)</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>3dphb[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>3dpdhb[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>4HBZCOAFm</id>
+        <name>4-hydroxybenzoyl-CoA formation</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>coa[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>coucoa[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>4hbzcoa[m]</product>
+        <product>accoa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>4HBZFm</id>
+        <name>4-hydroxybenzoate formation</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>4hbzcoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>4hbz[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>COQ3m</id>
+        <name>methyltransferase COQ3</name>
+        <reactant>amet[m]</reactant>
+        <reactant>2dpmhobq[m]</reactant>
+        <product>h[m]</product>
+        <product>ahcys[m]</product>
+        <product>q10[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>COQ5m</id>
+        <name>Ubiquinone biosynthesis methyltransferase COQ5</name>
+        <reactant>amet[m]</reactant>
+        <reactant>2dp6mobq[m]</reactant>
+        <product>h[m]</product>
+        <product>ahcys[m]</product>
+        <product>2dp6mobq_me[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>COQ6m</id>
+        <name>Ubiquinone biosynthesis monooxgenase COQ6</name>
+        <reactant>o2[m]</reactant>
+        <reactant>2dp6mep[m]</reactant>
+        <product>h2o[m]</product>
+        <product>2dp6mobq[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>COQ7m</id>
+        <name>Ubiquinone biosynthesis COQ7</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadph[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>2dp6mobq_me[m]</reactant>
+        <product>h2o[m]</product>
+        <product>nadp[m]</product>
+        <product>2dpmhobq[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>COUCOAFm</id>
+        <name>p-coumaroyl-CoA formation</name>
+        <reactant>coa[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>T4hcinnm[m]</reactant>
+        <product>coucoa[m]</product>
+        <product>amp[m]</product>
+        <product>ppi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHDPBMTm</id>
+        <name>dihydroxydecaprenylbenzoate methyltransferase</name>
+        <reactant>3dpdhb[m]</reactant>
+        <reactant>amet[m]</reactant>
+        <product>h[m]</product>
+        <product>ahcys[m]</product>
+        <product>3dpdhb_me[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DPHMBDCm</id>
+        <name>3-Decaprenyl-4-hydroxy-5-methoxybenzoate decarboxylation</name>
+        <reactant>h[m]</reactant>
+        <reactant>3dpdhb_me[m]</reactant>
+        <product>co2[m]</product>
+        <product>2dp6mep[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>HBZOPT10m</id>
+        <name>Hydroxybenzoate Decaprenyltransferase</name>
+        <reactant>4hbz[m]</reactant>
+        <reactant>decdp[m]</reactant>
+        <product>3dphb[m]</product>
+        <product>ppi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>T4HCINNMFM</id>
+        <name>4-hydroxycinnamate formation</name>
+        <reactant>34hpl[m]</reactant>
+        <product>h2o[m]</product>
+        <product>T4hcinnm[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Ubiquinone synthesis</subsystem>
+    </reaction>
+</reactions>

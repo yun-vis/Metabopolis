@@ -1,0 +1,2340 @@
+<metabolites>
+    <metabolite>
+        <name>2c23dh56dhoxin[c]</name>
+        <formula>C9H8NO4</formula>
+        <description>2-Carboxy-2,3-dihydro-5,6-dihydroxyindole</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhphe[c]</name>
+        <formula>C9H11NO4</formula>
+        <description>L-dopa</description>
+    </metabolite>
+    <metabolite>
+        <name>35diotyr[c]</name>
+        <formula>C9H9I2NO3</formula>
+        <description>3,5-diiodo-L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4888[c]</name>
+        <formula>C8H7NO2</formula>
+        <description>dopaminochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5277[c]</name>
+        <formula>C8H8NO2</formula>
+        <description>aminochrome o-semiquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5278[c]</name>
+        <formula>C9H6NO4</formula>
+        <description>dopachrome o-semiquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5536[c]</name>
+        <formula>C9H9NO3</formula>
+        <description>adrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5538[c]</name>
+        <formula>C8H7NO3</formula>
+        <description>noradrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5541[c]</name>
+        <formula>C9H9NO3</formula>
+        <description>adrenochrome o-semiquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5542[c]</name>
+        <formula>C8H7NO3</formula>
+        <description>noradrenochrome o-semiquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>L_dpchrm[c]</name>
+        <formula>C9H6NO4</formula>
+        <description>L-dopachromate</description>
+    </metabolite>
+    <metabolite>
+        <name>dopaqn[c]</name>
+        <formula>C9H9NO4</formula>
+        <description>L-dopaquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>i[c]</name>
+        <formula>I</formula>
+        <description>iodide</description>
+    </metabolite>
+    <metabolite>
+        <name>iodine[c]</name>
+        <formula>I2</formula>
+        <description>Iodine</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>2amac[c]</name>
+        <formula>C3H5NO2</formula>
+        <description>2-aminoacrylic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>2c23dh56dhoxin[c]</name>
+        <formula>C9H8NO4</formula>
+        <description>2-Carboxy-2,3-dihydro-5,6-dihydroxyindole</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhmald[c]</name>
+        <formula>C8H8O4</formula>
+        <description>3,4-Dihydroxymandelaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhoxmand[c]</name>
+        <formula>C8H7O5</formula>
+        <description>3,4-Dihydroxymandelate</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhoxpeg[c]</name>
+        <formula>C8H10O4</formula>
+        <description>3,4-Dihydroxyphenylethyleneglycol</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhpac[c]</name>
+        <formula>C8H8O3</formula>
+        <description>3,4-Dihydroxyphenylacetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhpha[c]</name>
+        <formula>C8H7O4</formula>
+        <description>(3,4-dihydroxyphenyl)acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>34dhphe[c]</name>
+        <formula>C9H11NO4</formula>
+        <description>L-dopa</description>
+    </metabolite>
+    <metabolite>
+        <name>34hpp[c]</name>
+        <formula>C9H7O4</formula>
+        <description>3-(4-hydroxyphenyl)pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>34hpp[m]</name>
+        <formula>C9H7O4</formula>
+        <description>3-(4-hydroxyphenyl)pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>35diotyr[c]</name>
+        <formula>C9H9I2NO3</formula>
+        <description>3,5-diiodo-L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>3ityr_L[c]</name>
+        <formula>C9H10INO3</formula>
+        <description>3-iodo-L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>3m4hpga[c]</name>
+        <formula>C9H10O4</formula>
+        <description>3-Methoxy-4-hydroxyphenylglycolaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>3mox4hoxm[c]</name>
+        <formula>C9H9O5</formula>
+        <description>3-Methoxy-4-hydroxymandelate</description>
+    </metabolite>
+    <metabolite>
+        <name>3mox4hpac[c]</name>
+        <formula>C9H10O3</formula>
+        <description>(4-hydroxy-3-methoxyphenyl)acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>3moxtyr[c]</name>
+        <formula>C9H14NO2</formula>
+        <description>3-Methoxytyramine</description>
+    </metabolite>
+    <metabolite>
+        <name>4fumacac[c]</name>
+        <formula>C8H6O6</formula>
+        <description>4-fumarylacetoacetate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>4hoxpacd[c]</name>
+        <formula>C8H8O2</formula>
+        <description>(4-hydroxyphenyl)acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>4hphac[c]</name>
+        <formula>C8H7O3</formula>
+        <description>4-hydroxyphenylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>4mlacac[c]</name>
+        <formula>C8H6O6</formula>
+        <description>4-maleylacetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>56dihindlcrbxlt[c]</name>
+        <formula>C9H6NO4</formula>
+        <description>5,6-dihydroxyindole-2-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>C02442[c]</name>
+        <formula>C9H14NO</formula>
+        <description>N-methyltyraminium</description>
+    </metabolite>
+    <metabolite>
+        <name>C06199[c]</name>
+        <formula>C10H16NO</formula>
+        <description>Hordenine</description>
+    </metabolite>
+    <metabolite>
+        <name>C06199[g]</name>
+        <formula>C10H16NO</formula>
+        <description>Hordenine</description>
+    </metabolite>
+    <metabolite>
+        <name>C06199[l]</name>
+        <formula>C10H16NO</formula>
+        <description>Hordenine</description>
+    </metabolite>
+    <metabolite>
+        <name>C06350[c]</name>
+        <formula>C16H18NO4</formula>
+        <description>(R,S)-Norlaudanosoline</description>
+    </metabolite>
+    <metabolite>
+        <name>C09640[c]</name>
+        <formula>C11H16NO2</formula>
+        <description>(-)-Salsoline</description>
+    </metabolite>
+    <metabolite>
+        <name>C09642[c]</name>
+        <formula>C10H14NO2</formula>
+        <description>(-)-Salsolinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1261[c]</name>
+        <formula>C12H16N2O6S</formula>
+        <description>5-S-cysteinyldopa</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1262[c]</name>
+        <formula>C12H14N2O6S</formula>
+        <description>5-(S-L-cysteinyl)-dopaquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1562[c]</name>
+        <formula>C9H4NO4</formula>
+        <description>5,6-indolequinone-2-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE1957[c]</name>
+        <formula>C8H5NO5</formula>
+        <description>4-hydroxy-3-nitrophenylacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2172[c]</name>
+        <formula>C9H12NO2</formula>
+        <description>6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2173[c]</name>
+        <formula>C10H13NO3</formula>
+        <description>N-methyl-4,6,7-trihydroxy-1,2,3,4-tetrahydroisoquinoline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2174[c]</name>
+        <formula>C9H12NO3</formula>
+        <description>4,6,7-trihydroxy-1,2,3,4-tetrahydroisoquinoline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2176[c]</name>
+        <formula>C10H13NO4</formula>
+        <description>3-O-methyldopa</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2196[c]</name>
+        <formula>C11H16NO2</formula>
+        <description>(R)-1,2-dimethyl-5,6-dihydroxy-tetrahydroisoquinoline</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2754[c]</name>
+        <formula>C15H12I3NO4</formula>
+        <description>3,3&apos;,5&apos; - triiodothyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2754[r]</name>
+        <formula>C15H12I3NO4</formula>
+        <description>3,3&apos;,5&apos; - triiodothyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2866[c]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3,3&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2866[g]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3,3&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2866[r]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3,3&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2870[c]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3,3&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2870[g]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3,3&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2870[r]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3,3&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2872[c]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2872[g]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2872[r]</name>
+        <formula>C15H13I2NO4</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2873[c]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2873[g]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2873[r]</name>
+        <formula>C15H12I2NO7S</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2874[c]</name>
+        <formula>C15H14INO4</formula>
+        <description>3&apos;-monoiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2874[g]</name>
+        <formula>C15H14INO4</formula>
+        <description>3&apos;-monoiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2874[r]</name>
+        <formula>C15H14INO4</formula>
+        <description>3&apos;-monoiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2875[c]</name>
+        <formula>C15H13INO7S</formula>
+        <description>3&apos;-monoiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2875[g]</name>
+        <formula>C15H13INO7S</formula>
+        <description>3&apos;-monoiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2875[r]</name>
+        <formula>C15H13INO7S</formula>
+        <description>3&apos;-monoiodo-L-thyronine 4&apos;-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2876[c]</name>
+        <formula>C21H20I2NO10</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2876[r]</name>
+        <formula>C21H20I2NO10</formula>
+        <description>3&apos;,5&apos;-diiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2877[c]</name>
+        <formula>C21H18I4NO10</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2877[r]</name>
+        <formula>C21H18I4NO10</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2878[c]</name>
+        <formula>C21H19I3NO10</formula>
+        <description>3,3&apos;,5&apos;-triiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2878[r]</name>
+        <formula>C21H19I3NO10</formula>
+        <description>3,3&apos;,5&apos;-triiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2879[c]</name>
+        <formula>C21H19I3NO10</formula>
+        <description>3,5,3&apos;-triiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2879[r]</name>
+        <formula>C21H19I3NO10</formula>
+        <description>3,5,3&apos;-triiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2880[c]</name>
+        <formula>C21H20I2NO10</formula>
+        <description>3,3&apos;-diiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2880[r]</name>
+        <formula>C21H20I2NO10</formula>
+        <description>3,3&apos;-diiodo-L-thyronine-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2881[c]</name>
+        <formula>C14H7I4O4</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2881[r]</name>
+        <formula>C14H7I4O4</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2882[c]</name>
+        <formula>C14H8I3O4</formula>
+        <description>3,3&apos;,5&apos;-triiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2882[r]</name>
+        <formula>C14H8I3O4</formula>
+        <description>3,3&apos;,5&apos;-triiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2883[c]</name>
+        <formula>C14H8I3O4</formula>
+        <description>3,5,3&apos;-triiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2883[r]</name>
+        <formula>C14H8I3O4</formula>
+        <description>3,5,3&apos;-triiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2884[c]</name>
+        <formula>C14H9I2O4</formula>
+        <description>3&apos;,5&apos;-diiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2884[r]</name>
+        <formula>C14H9I2O4</formula>
+        <description>3&apos;,5&apos;-diiodothyroacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2885[c]</name>
+        <formula>C20H14I4O10</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2885[r]</name>
+        <formula>C20H14I4O10</formula>
+        <description>3,5,3&apos;,5&apos;-tetraiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2886[c]</name>
+        <formula>C20H15I3O10</formula>
+        <description>3,3&apos;,5&apos;-triiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2886[r]</name>
+        <formula>C20H15I3O10</formula>
+        <description>3,3&apos;,5&apos;-triiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2887[c]</name>
+        <formula>C20H15I3O10</formula>
+        <description>3,5,3&apos;-triiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2887[r]</name>
+        <formula>C20H15I3O10</formula>
+        <description>3,5,3&apos;-triiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2888[c]</name>
+        <formula>C20H16I2O10</formula>
+        <description>3&apos;,5&apos;-diiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE2888[r]</name>
+        <formula>C20H16I2O10</formula>
+        <description>3&apos;,5&apos;-diiodothyroacetate-beta-D-glucuronoside</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4888[c]</name>
+        <formula>C8H7NO2</formula>
+        <description>dopaminochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4888[x]</name>
+        <formula>C8H7NO2</formula>
+        <description>dopaminochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE4890[c]</name>
+        <formula>C11H16NO2</formula>
+        <description>N-methylsalsolinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5025[c]</name>
+        <formula>C18H26N4O8S</formula>
+        <description>5-S-glutathionyl-dopamine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5025[x]</name>
+        <formula>C18H26N4O8S</formula>
+        <description>5-S-glutathionyl-dopamine</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5026[c]</name>
+        <formula>C19H25N4O10S</formula>
+        <description>5-S-glutathionyl-L-DOPA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5026[x]</name>
+        <formula>C19H25N4O10S</formula>
+        <description>5-S-glutathionyl-L-DOPA</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5276[c]</name>
+        <formula>C8H10NO2</formula>
+        <description>dopamine o-quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5276[l]</name>
+        <formula>C8H10NO2</formula>
+        <description>dopamine o-quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5276[x]</name>
+        <formula>C8H10NO2</formula>
+        <description>dopamine o-quinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5536[c]</name>
+        <formula>C9H9NO3</formula>
+        <description>adrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5536[x]</name>
+        <formula>C9H9NO3</formula>
+        <description>adrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5538[c]</name>
+        <formula>C8H7NO3</formula>
+        <description>noradrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5538[r]</name>
+        <formula>C8H7NO3</formula>
+        <description>noradrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5538[x]</name>
+        <formula>C8H7NO3</formula>
+        <description>noradrenochrome</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5544[c]</name>
+        <formula>C19H22N4O10S</formula>
+        <description>5-S-glutathionyl-dopachrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5544[x]</name>
+        <formula>C19H22N4O10S</formula>
+        <description>5-S-glutathionyl-dopachrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5545[c]</name>
+        <formula>C18H23N4O8S</formula>
+        <description>5-S-glutathionyl-aminochrome reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5545[x]</name>
+        <formula>C18H23N4O8S</formula>
+        <description>5-S-glutathionyl-aminochrome reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5546[c]</name>
+        <formula>C19H25N4O9S</formula>
+        <description>5-S-glutathionyl-adrenochrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5546[x]</name>
+        <formula>C19H25N4O9S</formula>
+        <description>5-S-glutathionyl-adrenochrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5547[c]</name>
+        <formula>C18H23N4O9S</formula>
+        <description>5-S-glutathionyl-noradrenochrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5547[x]</name>
+        <formula>C18H23N4O9S</formula>
+        <description>5-S-glutathionyl-noradrenochrome hydroquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5626[c]</name>
+        <formula>C11H13NO4</formula>
+        <description>salsolinol 1-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5627[c]</name>
+        <formula>C12H15NO4</formula>
+        <description>salsoline-1-carboxylate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE5629[c]</name>
+        <formula>C10H11NO2</formula>
+        <description>1,2-dehydrosalsolinol</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6316[c]</name>
+        <formula>C10H14NO2</formula>
+        <description>N,N-dimethyldopaminequinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6316[g]</name>
+        <formula>C10H14NO2</formula>
+        <description>N,N-dimethyldopaminequinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6316[l]</name>
+        <formula>C10H14NO2</formula>
+        <description>N,N-dimethyldopaminequinone</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6317[c]</name>
+        <formula>C10H12NO2</formula>
+        <description>N,N-dimethylindoliumolate</description>
+    </metabolite>
+    <metabolite>
+        <name>L_dpchrm[c]</name>
+        <formula>C9H6NO4</formula>
+        <description>L-dopachromate</description>
+    </metabolite>
+    <metabolite>
+        <name>L_dpchrm[x]</name>
+        <formula>C9H6NO4</formula>
+        <description>L-dopachromate</description>
+    </metabolite>
+    <metabolite>
+        <name>Sfglutth[c]</name>
+        <formula>C11H16N3O7S</formula>
+        <description>S-formylglutathionate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acac[c]</name>
+        <formula>C4H5O3</formula>
+        <description>acetoacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>acald[c]</name>
+        <formula>C2H4O</formula>
+        <description>acetaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>adrnl[c]</name>
+        <formula>C9H14NO3</formula>
+        <description>Adrenaline</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[c]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[c]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>dhdascb[c]</name>
+        <formula>C6H6O6</formula>
+        <description>dehydroascorbide(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dopa[c]</name>
+        <formula>C8H12NO2</formula>
+        <description>dopaminium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>dopa[l]</name>
+        <formula>C8H12NO2</formula>
+        <description>dopaminium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>dopa[x]</name>
+        <formula>C8H12NO2</formula>
+        <description>dopaminium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>dopaqn[c]</name>
+        <formula>C9H9NO4</formula>
+        <description>L-dopaquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>dopaqn[x]</name>
+        <formula>C9H9NO4</formula>
+        <description>L-dopaquinone</description>
+    </metabolite>
+    <metabolite>
+        <name>dopasf[c]</name>
+        <formula>C8H11NO5S</formula>
+        <description>dopamine 3-O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>fald[c]</name>
+        <formula>CH2O</formula>
+        <description>formaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>for[c]</name>
+        <formula>CH1O2</formula>
+        <description>Formate</description>
+    </metabolite>
+    <metabolite>
+        <name>fum[c]</name>
+        <formula>C4H2O4</formula>
+        <description>Fumarate</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[x]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[l]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hgentis[c]</name>
+        <formula>C8H7O4</formula>
+        <description>homogentisate</description>
+    </metabolite>
+    <metabolite>
+        <name>homoval[c]</name>
+        <formula>C9H9O4</formula>
+        <description>Homovanillate</description>
+    </metabolite>
+    <metabolite>
+        <name>i[c]</name>
+        <formula>I</formula>
+        <description>iodide</description>
+    </metabolite>
+    <metabolite>
+        <name>melanin[c]</name>
+        <formula>C9H6NO4</formula>
+        <description>Melanin</description>
+    </metabolite>
+    <metabolite>
+        <name>mepi[c]</name>
+        <formula>C10H16NO3</formula>
+        <description>Metanephrine</description>
+    </metabolite>
+    <metabolite>
+        <name>mma[c]</name>
+        <formula>C1H6N</formula>
+        <description>methylammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>no2[c]</name>
+        <formula>NO2</formula>
+        <description>Nitrite</description>
+    </metabolite>
+    <metabolite>
+        <name>normete_L[c]</name>
+        <formula>C9H14NO3</formula>
+        <description>L-Normetanephrine</description>
+    </metabolite>
+    <metabolite>
+        <name>nrpphr[c]</name>
+        <formula>C8H12NO3</formula>
+        <description>Norepinephrine</description>
+    </metabolite>
+    <metabolite>
+        <name>nrpphr[r]</name>
+        <formula>C8H12NO3</formula>
+        <description>Norepinephrine</description>
+    </metabolite>
+    <metabolite>
+        <name>nrpphrsf[c]</name>
+        <formula>C8H11NO6S</formula>
+        <description>Sulfate derivative of norepinephrine</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[g]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[l]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[c]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[c]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[c]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[g]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[r]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt4acam[c]</name>
+        <formula>C9H15N5O4</formula>
+        <description>4a-hydroxytetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thbpt[c]</name>
+        <formula>C9H15N5O3</formula>
+        <description>5,6,7,8-tetrahydrobiopterin</description>
+    </metabolite>
+    <metabolite>
+        <name>thyox_L[c]</name>
+        <formula>C15H11I4NO4</formula>
+        <description>L-thyroxine</description>
+    </metabolite>
+    <metabolite>
+        <name>thyox_L[r]</name>
+        <formula>C15H11I4NO4</formula>
+        <description>L-thyroxine</description>
+    </metabolite>
+    <metabolite>
+        <name>triodthy[c]</name>
+        <formula>C15H12I3NO4</formula>
+        <description>3,3&apos;,5-triiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>triodthy[r]</name>
+        <formula>C15H12I3NO4</formula>
+        <description>3,3&apos;,5-triiodo-L-thyronine</description>
+    </metabolite>
+    <metabolite>
+        <name>triodthysuf[c]</name>
+        <formula>C15H11I3NO7S</formula>
+        <description>Triiodothyronine sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>tym[c]</name>
+        <formula>C8H12NO</formula>
+        <description>tyraminium</description>
+    </metabolite>
+    <metabolite>
+        <name>tymsf[c]</name>
+        <formula>C8H11NO4S</formula>
+        <description>Tyramine O-sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[c]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>tyr_L[m]</name>
+        <formula>C9H11NO3</formula>
+        <description>L-tyrosine</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[c]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[r]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>34DHOXPEGOX</id>
+        <name>3,4-Dihydroxyphenylethyleneglycol:NAD+ oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>34dhmald[c]</reactant>
+        <product>nad[c]</product>
+        <product>34dhoxpeg[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34DHPHAMT</id>
+        <name>3,4-Dihydroxyphenylacetate:amet O-methyltransferase</name>
+        <reactant>34dhpha[c]</reactant>
+        <reactant>amet[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>homoval[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34DHPLACOX</id>
+        <name>3,4-Dihydroxyphenylacetaldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>34dhpac[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>34dhpha[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34DHPLACOX_NADP_</id>
+        <name>3,4-Dihydroxyphenylacetaldehyde:NADP+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>34dhpac[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>34dhpha[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34DHXMANDACOX</id>
+        <name>3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>34dhmald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>34dhoxmand[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34DHXMANDACOX_NADP_</id>
+        <name>3,4-Dihydroxymandelaldehyde:NADP+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>34dhmald[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>34dhoxmand[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>34HPPOR</id>
+        <name>4-Hydroxyphenylpyruvate:oxygen oxidoreductase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>34hpp[c]</reactant>
+        <product>co2[c]</product>
+        <product>hgentis[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3HLYTCL</id>
+        <name>3-Hydroxy-L-tyrosine carboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>34dhphe[c]</reactant>
+        <product>co2[c]</product>
+        <product>dopa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3M4HDXPAC</id>
+        <name>3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>3mox4hpac[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>homoval[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3MOX4HOXPGALDOX</id>
+        <name>3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>3m4hpga[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>3mox4hoxm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3MOX4HOXPGALDOX_NADP_</id>
+        <name>3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>3m4hpga[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>3mox4hoxm[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>3MOXTYROX</id>
+        <name>3-Methoxytyramine:oxygen oxidoreductase (deaminating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>3moxtyr[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>3mox4hpac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>41R1H2MAE12BOOX</id>
+        <name>4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>adrnl[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>34dhmald[c]</product>
+        <product>mma[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>41R2A1H12BOOX</id>
+        <name>4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>nrpphr[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>34dhmald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>42A12BOOX</id>
+        <name>4-(2-Aminoethyl)-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>34dhpac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>4HOXPACDOX_NADP_</id>
+        <name>4-Hydroxyphenylacetaldehyde:NADP+ oxidoreductase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>4hoxpacd[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>4hphac[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCT</id>
+        <name>Dopachrome tautomerase</name>
+        <reactant>L_dpchrm[c]</reactant>
+        <product>56dihindlcrbxlt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOPABMO</id>
+        <name>dopamine beta-monooxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <reactant>ascb_L[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nrpphr[c]</product>
+        <product>dhdascb[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOPACHRMISO</id>
+        <name>L-dopachrome isomerase 1</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 2c23dh56dhoxin[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 L_dpchrm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOPAMT</id>
+        <name>Dopamine:amet O-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>3moxtyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOPAQNISO1</id>
+        <name>Dopaquinone isomerase 1</name>
+        <reactant>dopaqn[c]</reactant>
+        <product>h[c]</product>
+        <product>2c23dh56dhoxin[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DOPASULT</id>
+        <name>Dopamine Sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>dopasf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FALDH</id>
+        <name>formaldehyde dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>fald[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>Sfglutth[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUMAC</id>
+        <name>fumarylacetoacetase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>4fumacac[c]</reactant>
+        <product>h[c]</product>
+        <product>acac[c]</product>
+        <product>fum[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>H2O2syn</id>
+        <name>Hydrogen peroxide synthesis (NADPH dependent)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HGNTOR</id>
+        <name>Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>hgentis[c]</reactant>
+        <product>h[c]</product>
+        <product>4mlacac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDHPOXOX2b</id>
+        <name>Iodide:hydrogen-peroxide oxidoreductase 2</name>
+        <reactant>3ityr_L[c]</reactant>
+        <reactant>2 iodine[c]</reactant>
+        <product>h[c]</product>
+        <product>i[c]</product>
+        <product>35diotyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDHPOXOX3</id>
+        <name>Iodide:hydrogen-peroxide oxidoreductase 3</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>3ityr_L[c]</reactant>
+        <reactant>35diotyr[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2amac[c]</product>
+        <product>triodthy[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDHPOXOX4</id>
+        <name>Iodide:hydrogen-peroxide oxidoreductase 4</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>2 35diotyr[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2amac[c]</product>
+        <product>thyox_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>IDHPOXOXb</id>
+        <name>Iodide:hydrogen-peroxide oxidoreductase</name>
+        <reactant>2 iodine[c]</reactant>
+        <reactant>tyr_L[c]</reactant>
+        <product>h[c]</product>
+        <product>i[c]</product>
+        <product>3ityr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MACACI</id>
+        <name>maleylacetoacetate isomerase</name>
+        <reactant>4mlacac[c]</reactant>
+        <product>4fumacac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAOLNOR</id>
+        <name>monoamine oxidase (L-Normetanephrine)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>normete_L[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>3m4hpga[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MAOX</id>
+        <name>Methylamine oxidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>mma[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>fald[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NORANMT</id>
+        <name>noradrenaline N-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>nrpphr[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>adrnl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NRPPHRSULT</id>
+        <name>Norepinephrine Sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>nrpphr[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>nrpphrsf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SALMCOM</id>
+        <name>S-Adenosyl-L-methionine:catechol O-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>nrpphr[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>normete_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SALMCOM2</id>
+        <name>S-Adenosyl-L-methionine:catechol O-methyltransferase</name>
+        <reactant>amet[c]</reactant>
+        <reactant>adrnl[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>mepi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SFGTH</id>
+        <name>S-Formylglutathione hydralase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>Sfglutth[c]</reactant>
+        <product>h[c]</product>
+        <product>for[c]</product>
+        <product>gthrd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>THYPX</id>
+        <name>thyroid peroxidase</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>2 i[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 iodine[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TRIODTHYSULT</id>
+        <name>Triiodothyronine Sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>triodthy[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>triodthysuf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYMSULT</id>
+        <name>Tyramine Sulfotransferase</name>
+        <reactant>paps[c]</reactant>
+        <reactant>tym[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>tymsf[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYR3MO2</id>
+        <name>tyrosine 3-monooxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>thbpt[c]</reactant>
+        <reactant>tyr_L[c]</reactant>
+        <product>34dhphe[c]</product>
+        <product>thbpt4acam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRASE</id>
+        <name>Tyrosinase</name>
+        <reactant>56dihindlcrbxlt[c]</reactant>
+        <product>melanin[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRCBOX</id>
+        <name>L-Tyrosine carboxy-lyase</name>
+        <reactant>h[c]</reactant>
+        <reactant>tyr_L[c]</reactant>
+        <product>co2[c]</product>
+        <product>tym[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRDOPO</id>
+        <name>Tyrosine:dopa oxidase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 tyr_L[c]</reactant>
+        <product>2 34dhphe[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRDOPO3</id>
+        <name>Tyrosine:dopa oxidase (dopaquinone producing 2)</name>
+        <reactant>o2[c]</reactant>
+        <reactant>2 34dhphe[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>2 dopaqn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYROXDAc</id>
+        <name>Tyramine:oxygen oxidoreductase(deaminating)(flavin-containing) (cytosol)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>tym[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>nh4[c]</product>
+        <product>4hoxpacd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRTA</id>
+        <name>tyrosine transaminase</name>
+        <reactant>akg[c]</reactant>
+        <reactant>tyr_L[c]</reactant>
+        <product>34hpp[c]</product>
+        <product>glu_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TYRTAm</id>
+        <name>tyrosine transaminase, mitochondrial</name>
+        <reactant>akg[m]</reactant>
+        <reactant>tyr_L[m]</reactant>
+        <product>34hpp[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0908C</id>
+        <name>RE0908</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2870[c]</reactant>
+        <product>h[c]</product>
+        <product>so4[c]</product>
+        <product>CE2866[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0908G</id>
+        <name>RE0908</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>CE2870[g]</reactant>
+        <product>h[g]</product>
+        <product>so4[g]</product>
+        <product>CE2866[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0908R</id>
+        <name>RE0908</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2870[r]</reactant>
+        <product>h[r]</product>
+        <product>so4[r]</product>
+        <product>CE2866[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0912C</id>
+        <name>RE0912</name>
+        <reactant>paps[c]</reactant>
+        <reactant>CE2866[c]</reactant>
+        <product>h[c]</product>
+        <product>pap[c]</product>
+        <product>CE2870[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0916C</id>
+        <name>RE0916</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2873[c]</reactant>
+        <product>h[c]</product>
+        <product>so4[c]</product>
+        <product>CE2872[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0916G</id>
+        <name>RE0916</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>CE2873[g]</reactant>
+        <product>h[g]</product>
+        <product>so4[g]</product>
+        <product>CE2872[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0916R</id>
+        <name>RE0916</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2873[r]</reactant>
+        <product>h[r]</product>
+        <product>so4[r]</product>
+        <product>CE2872[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0918C</id>
+        <name>RE0918</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>CE2875[c]</reactant>
+        <product>h[c]</product>
+        <product>so4[c]</product>
+        <product>CE2874[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0918G</id>
+        <name>RE0918</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>CE2875[g]</reactant>
+        <product>h[g]</product>
+        <product>so4[g]</product>
+        <product>CE2874[g]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0918R</id>
+        <name>RE0918</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>CE2875[r]</reactant>
+        <product>h[r]</product>
+        <product>so4[r]</product>
+        <product>CE2874[r]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0919C</id>
+        <name>RE0919</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2872[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2876[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0919R</id>
+        <name>RE0919</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2872[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2876[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0920C</id>
+        <name>RE0920</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>thyox_L[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2877[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0920R</id>
+        <name>RE0920</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>thyox_L[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2877[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0921C</id>
+        <name>RE0921</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2754[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2878[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0921R</id>
+        <name>RE0921</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2754[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2878[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0922C</id>
+        <name>RE0922</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>triodthy[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2879[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0922R</id>
+        <name>RE0922</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>triodthy[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2879[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0923C</id>
+        <name>RE0923</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2866[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2880[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0923R</id>
+        <name>RE0923</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2866[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2880[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0924C</id>
+        <name>RE0924</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2881[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2885[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0924R</id>
+        <name>RE0924</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2881[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2885[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0925C</id>
+        <name>RE0925</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2882[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2886[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0925R</id>
+        <name>RE0925</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2882[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2886[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0927C</id>
+        <name>RE0927</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2883[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2887[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0927R</id>
+        <name>RE0927</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2883[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2887[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0928C</id>
+        <name>RE0928</name>
+        <reactant>udpglcur[c]</reactant>
+        <reactant>CE2884[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>CE2888[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE0928R</id>
+        <name>RE0928</name>
+        <reactant>udpglcur[r]</reactant>
+        <reactant>CE2884[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>CE2888[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1651C</id>
+        <name>RE1651</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>2 CE4888[c]</reactant>
+        <product>nadp[c]</product>
+        <product>2 CE5277[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1653C</id>
+        <name>RE1653</name>
+        <reactant>nadph[c]</reactant>
+        <reactant>2 L_dpchrm[c]</reactant>
+        <product>h[c]</product>
+        <product>nadp[c]</product>
+        <product>2 CE5278[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1915C</id>
+        <name>RE1915</name>
+        <reactant>cys_L[c]</reactant>
+        <reactant>dopaqn[c]</reactant>
+        <product>CE1261[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1916C</id>
+        <name>RE1916</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>dopaqn[c]</reactant>
+        <product>CE5026[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1916X</id>
+        <name>RE1916</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>dopaqn[x]</reactant>
+        <product>CE5026[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1917C</id>
+        <name>RE1917</name>
+        <reactant>dopaqn[c]</reactant>
+        <reactant>CE1261[c]</reactant>
+        <product>34dhphe[c]</product>
+        <product>CE1262[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1918C</id>
+        <name>RE1918</name>
+        <reactant>dopa[c]</reactant>
+        <reactant>acald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>C09642[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1919C</id>
+        <name>RE1919</name>
+        <reactant>pyr[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE5626[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1920C</id>
+        <name>RE1920</name>
+        <reactant>amet[c]</reactant>
+        <reactant>CE5626[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>CE5627[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1921C</id>
+        <name>RE1921</name>
+        <reactant>CE5626[c]</reactant>
+        <product>2 h[c]</product>
+        <product>co2[c]</product>
+        <product>CE5629[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1922C</id>
+        <name>RE1922</name>
+        <reactant>amet[c]</reactant>
+        <reactant>C09642[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>C09640[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1923C</id>
+        <name>RE1923</name>
+        <reactant>amet[c]</reactant>
+        <reactant>C09642[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>CE4890[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1925C</id>
+        <name>RE1925</name>
+        <reactant>3moxtyr[c]</reactant>
+        <reactant>acald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE4890[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE1927C</id>
+        <name>RE1927</name>
+        <reactant>34dhpac[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>h2o[c]</product>
+        <product>C06350[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2049C</id>
+        <name>RE2049</name>
+        <reactant>4hphac[c]</reactant>
+        <reactant>no2[c]</reactant>
+        <product>2 h[c]</product>
+        <product>CE1957[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2122C</id>
+        <name>RE2122</name>
+        <reactant>amet[c]</reactant>
+        <reactant>34dhphe[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>CE2176[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2124C</id>
+        <name>RE2124</name>
+        <reactant>amet[c]</reactant>
+        <reactant>tym[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>C02442[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2130C</id>
+        <name>RE2130</name>
+        <reactant>dopa[c]</reactant>
+        <reactant>fald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2172[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2131C</id>
+        <name>RE2131</name>
+        <reactant>adrnl[c]</reactant>
+        <reactant>fald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>h[c]</product>
+        <product>CE2173[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2132C</id>
+        <name>RE2132</name>
+        <reactant>nrpphr[c]</reactant>
+        <reactant>fald[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE2174[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2296C</id>
+        <name>RE2296</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE5276[c]</reactant>
+        <product>CE5025[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2296X</id>
+        <name>RE2296</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>CE5276[x]</reactant>
+        <product>CE5025[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2384C</id>
+        <name>RE2384</name>
+        <reactant>amet[c]</reactant>
+        <reactant>C09642[c]</reactant>
+        <product>h[c]</product>
+        <product>ahcys[c]</product>
+        <product>CE2196[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2520C</id>
+        <name>RE2520</name>
+        <reactant>nadph[c]</reactant>
+        <reactant>2 CE5536[c]</reactant>
+        <product>h[c]</product>
+        <product>nadp[c]</product>
+        <product>2 CE5541[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2521C</id>
+        <name>RE2521</name>
+        <reactant>nadph[c]</reactant>
+        <reactant>2 CE5538[c]</reactant>
+        <product>h[c]</product>
+        <product>nadp[c]</product>
+        <product>2 CE5542[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2522C</id>
+        <name>RE2522</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE5536[c]</reactant>
+        <product>CE5546[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2522X</id>
+        <name>RE2522</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>CE5536[x]</reactant>
+        <product>CE5546[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2523C</id>
+        <name>RE2523</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE5538[c]</reactant>
+        <product>CE5547[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2523X</id>
+        <name>RE2523</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>CE5538[x]</reactant>
+        <product>CE5547[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2524C</id>
+        <name>RE2524</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>L_dpchrm[c]</reactant>
+        <product>CE5544[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2524X</id>
+        <name>RE2524</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>L_dpchrm[x]</reactant>
+        <product>CE5544[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2525C</id>
+        <name>RE2525</name>
+        <reactant>gthrd[c]</reactant>
+        <reactant>CE4888[c]</reactant>
+        <product>CE5545[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2525X</id>
+        <name>RE2525</name>
+        <reactant>gthrd[x]</reactant>
+        <reactant>CE4888[x]</reactant>
+        <product>CE5545[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3095C</id>
+        <name>RE3095</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>dopa[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>CE5276[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3095L</id>
+        <name>RE3095</name>
+        <reactant>h2o2[l]</reactant>
+        <reactant>dopa[l]</reactant>
+        <product>2 h2o[l]</product>
+        <product>CE5276[l]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3095X</id>
+        <name>RE3095</name>
+        <reactant>h2o2[x]</reactant>
+        <reactant>dopa[x]</reactant>
+        <product>2 h2o[x]</product>
+        <product>CE5276[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3198C</id>
+        <name>RE3198</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>L_dpchrm[c]</reactant>
+        <product>nad[c]</product>
+        <product>2c23dh56dhoxin[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3201C</id>
+        <name>RE3201</name>
+        <reactant>o2[c]</reactant>
+        <reactant>56dihindlcrbxlt[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>CE1562[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3233C</id>
+        <name>RE3233</name>
+        <reactant>o2[c]</reactant>
+        <reactant>C06199[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE6316[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3233G</id>
+        <name>RE3233</name>
+        <reactant>C06199[g]</reactant>
+        <reactant>o2[g]</reactant>
+        <product>h2o[g]</product>
+        <product>CE6316[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3233L</id>
+        <name>RE3233</name>
+        <reactant>o2[l]</reactant>
+        <reactant>C06199[l]</reactant>
+        <product>h2o[l]</product>
+        <product>CE6316[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3263C</id>
+        <name>RE3263</name>
+        <reactant>CE6316[c]</reactant>
+        <product>2 h[c]</product>
+        <product>CE6317[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RN0013C</id>
+        <name>RN0013</name>
+        <reactant>adrnl[c]</reactant>
+        <product>5 h[c]</product>
+        <product>CE5536[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RN0014R</id>
+        <name>RN0014</name>
+        <reactant>nrpphr[r]</reactant>
+        <product>5 h[r]</product>
+        <product>CE5538[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Tyrosine metabolism</subsystem>
+    </reaction>
+</reactions>

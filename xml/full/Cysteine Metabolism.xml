@@ -1,0 +1,86 @@
+<metabolites>
+    <metabolite>
+        <name>HC00250[c]</name>
+        <formula>HS</formula>
+        <description>hydrosulfide</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01501[c]</name>
+        <formula>HO3S2</formula>
+        <description>hydroxidodioxidosulfidosulfate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cys_L[c]</name>
+        <formula>C3H7NO2S</formula>
+        <description>L-cysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>mercppyr[c]</name>
+        <formula>C3H3O3S</formula>
+        <description>3-mercaptopyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>so3[c]</name>
+        <formula>O3S</formula>
+        <description>Sulfite</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>r0060</id>
+        <name>L-serine ammonia-lyase Glycine, serine and threonine metabolism EC:4.3.1.17</name>
+        <reactant>ser_L[c]</reactant>
+        <product>nh4[c]</product>
+        <product>pyr[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cysteine Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0193</id>
+        <name>L-Cysteine L-homocysteine-lyase (deaminating) Cysteine metabolism EC:4.4.1.1</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cys_L[c]</reactant>
+        <product>nh4[c]</product>
+        <product>h[c]</product>
+        <product>pyr[c]</product>
+        <product>HC00250[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Cysteine Metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0595</id>
+        <name>3-Mercaptopyruvate:cyanide sulfurtransferase Cysteine metabolism EC:2.8.1.2</name>
+        <reactant>h[c]</reactant>
+        <reactant>so3[c]</reactant>
+        <reactant>mercppyr[c]</reactant>
+        <product>pyr[c]</product>
+        <product>HC01501[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Cysteine Metabolism</subsystem>
+    </reaction>
+</reactions>

@@ -1,0 +1,644 @@
+<metabolites>
+    <metabolite>
+        <name>12ppd_R[c]</name>
+        <formula>C3H8O2</formula>
+        <description>(R)-propane-1,2-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>12ppd_S[c]</name>
+        <formula>C3H8O2</formula>
+        <description>(S)-propane-1,2-diol</description>
+    </metabolite>
+    <metabolite>
+        <name>ficytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferricytochrome c</description>
+    </metabolite>
+    <metabolite>
+        <name>focytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferrocytochrome C</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[m]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[m]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acetol[c]</name>
+        <formula>C3H6O2</formula>
+        <description>hydroxyacetone</description>
+    </metabolite>
+    <metabolite>
+        <name>acetone[c]</name>
+        <formula>C3H6O</formula>
+        <description>acetone</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[m]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[c]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[m]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>g3p[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Glyceraldehyde 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[c]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>gthrd[m]</name>
+        <formula>C10H16N3O6S</formula>
+        <description>Reduced glutathione</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hco3[m]</name>
+        <formula>CHO3</formula>
+        <description>Bicarbonate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_D[c]</name>
+        <formula>C3H5O3</formula>
+        <description>(R)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_D[m]</name>
+        <formula>C3H5O3</formula>
+        <description>(R)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[c]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lac_L[m]</name>
+        <formula>C3H5O3</formula>
+        <description>(S)-lactate</description>
+    </metabolite>
+    <metabolite>
+        <name>lald_D[c]</name>
+        <formula>C3H6O2</formula>
+        <description>(R)-lactaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>lald_D[m]</name>
+        <formula>C3H6O2</formula>
+        <description>(R)-lactaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>lald_L[c]</name>
+        <formula>C3H6O2</formula>
+        <description>(S)-lactaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>lald_L[m]</name>
+        <formula>C3H6O2</formula>
+        <description>(S)-lactaldehyde</description>
+    </metabolite>
+    <metabolite>
+        <name>lgt_S[c]</name>
+        <formula>C13H20N3O8S</formula>
+        <description>(R)-S-lactoylglutathionate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>lgt_S[m]</name>
+        <formula>C13H20N3O8S</formula>
+        <description>(R)-S-lactoylglutathionate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[c]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mal_L[m]</name>
+        <formula>C4H4O5</formula>
+        <description>(S)-malate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>mthgxl[c]</name>
+        <formula>C3H4O2</formula>
+        <description>methylglyoxal</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[m]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[m]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oaa[m]</name>
+        <formula>C4H2O5</formula>
+        <description>Oxaloacetate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACOAHi</id>
+        <name>acetyl-CoA hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>accoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>ac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACTLMO</id>
+        <name>acetol monooxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>acetol[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACTNMO</id>
+        <name>acetone monooxygenase</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>acetone[c]</reactant>
+        <product>h2o[c]</product>
+        <product>nadp[c]</product>
+        <product>acetol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALCD21_D</id>
+        <name>alcohol dehydrogenase (D-1,2-propanediol)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>12ppd_R[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>lald_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALCD21_L</id>
+        <name>alcohol dehydrogenase (L-1,2-propanediol)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>12ppd_S[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>lald_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALCD22_D</id>
+        <name>alcohol dehydrogenase (D-lactaldehyde)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>lald_D[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALCD22_L</id>
+        <name>alcohol dehydrogenase (L-lactaldehyde)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>lald_L[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALR2</id>
+        <name>aldose reductase (methylglyoxal)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>mthgxl[c]</reactant>
+        <product>nadp[c]</product>
+        <product>acetol[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ALR3</id>
+        <name>aldose reductase (acetol)</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>acetol[c]</reactant>
+        <product>nadp[c]</product>
+        <product>12ppd_S[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYOX</id>
+        <name>hydroxyacylglutathione hydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>lgt_S[c]</reactant>
+        <product>h[c]</product>
+        <product>gthrd[c]</product>
+        <product>lac_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYOXm</id>
+        <name>hydroxyacylglutathione hydrolase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>lgt_S[m]</reactant>
+        <product>h[m]</product>
+        <product>lac_D[m]</product>
+        <product>gthrd[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LALDO</id>
+        <name>D-Lactaldehyde:NAD+ oxidoreductase (glutathione-formylating)</name>
+        <reactant>nad[c]</reactant>
+        <reactant>lald_D[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>lgt_S[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LALDO2x</id>
+        <name>D-Lactaldehyde:NAD+ 1-oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>mthgxl[c]</reactant>
+        <product>nad[c]</product>
+        <product>lald_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCADi</id>
+        <name>lactaldehyde dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>lald_L[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>lac_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCADi_D</id>
+        <name>lactaldehyde dehydrogenase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>lald_D[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadh[c]</product>
+        <product>lac_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCADi_Dm</id>
+        <name>lactaldehyde dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>lald_D[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>lac_D[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LCADim</id>
+        <name>lactaldehyde dehydrogenase, mitochondrial</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>nad[m]</reactant>
+        <reactant>lald_L[m]</reactant>
+        <product>2 h[m]</product>
+        <product>nadh[m]</product>
+        <product>lac_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LDH_D</id>
+        <name>D-lactate dehydrogenase</name>
+        <reactant>nad[c]</reactant>
+        <reactant>lac_D[c]</reactant>
+        <product>h[c]</product>
+        <product>pyr[c]</product>
+        <product>nadh[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LDH_Lm</id>
+        <name>L-lactate dehydrogenase</name>
+        <reactant>nad[m]</reactant>
+        <reactant>lac_L[m]</reactant>
+        <product>h[m]</product>
+        <product>nadh[m]</product>
+        <product>pyr[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>LGTHL</id>
+        <name>lactoylglutathione lyase</name>
+        <reactant>mthgxl[c]</reactant>
+        <reactant>gthrd[c]</reactant>
+        <product>lgt_S[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>L_LACDcm</id>
+        <name>L-Lactate dehydrogenase, cytosolic/mitochondrial</name>
+        <reactant>2 ficytC[m]</reactant>
+        <reactant>lac_L[c]</reactant>
+        <product>2 h[c]</product>
+        <product>pyr[c]</product>
+        <product>2 focytC[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ME1m</id>
+        <name>malic enzyme (NAD), mitochondrial</name>
+        <reactant>nad[m]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>co2[m]</product>
+        <product>nadh[m]</product>
+        <product>pyr[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ME2</id>
+        <name>malic enzyme (NADP)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>mal_L[c]</reactant>
+        <product>pyr[c]</product>
+        <product>nadph[c]</product>
+        <product>co2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ME2m</id>
+        <name>malic enzyme (NADP), mitochondrial</name>
+        <reactant>nadp[m]</reactant>
+        <reactant>mal_L[m]</reactant>
+        <product>nadph[m]</product>
+        <product>co2[m]</product>
+        <product>pyr[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MGSA</id>
+        <name>methylglyoxal synthase</name>
+        <reactant>dhap[c]</reactant>
+        <product>pi[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>MGSA2</id>
+        <name>methyglyoxylate synthase 2 (from g3p)</name>
+        <reactant>g3p[c]</reactant>
+        <product>pi[c]</product>
+        <product>mthgxl[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PCm</id>
+        <name>pyruvate carboxylase</name>
+        <reactant>pyr[m]</reactant>
+        <reactant>atp[m]</reactant>
+        <reactant>hco3[m]</reactant>
+        <product>h[m]</product>
+        <product>adp[m]</product>
+        <product>pi[m]</product>
+        <product>oaa[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPDOx</id>
+        <name>Propane-1,2-diol:NAD+ 1-oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>lald_D[c]</reactant>
+        <product>nad[c]</product>
+        <product>12ppd_R[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPDOy</id>
+        <name>Propane-1,2-diol:NADP+ 1-oxidoreductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>lald_D[c]</reactant>
+        <product>nadp[c]</product>
+        <product>12ppd_R[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0055</id>
+        <name>2-Oxopropanal:NADP+ oxidoreductase Pyruvate metabolism EC:1.2.1.49</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>mthgxl[c]</reactant>
+        <product>2 h[c]</product>
+        <product>pyr[c]</product>
+        <product>nadph[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0062</id>
+        <name>Acetyl-CoA hydrolase Pyruvate metabolism EC:3.1.2.1</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>accoa[m]</reactant>
+        <product>h[m]</product>
+        <product>coa[m]</product>
+        <product>ac[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0818</id>
+        <name>Transport reaction</name>
+        <reactant>dump[m]</reactant>
+        <product>dump[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyruvate metabolism</subsystem>
+    </reaction>
+</reactions>

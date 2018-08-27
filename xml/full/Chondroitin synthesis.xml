@@ -1,0 +1,830 @@
+<metabolites>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[g]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>Ser_Gly_Ala_X_Gly[r]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine residue (glycosaminoglycan attachment site)</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_b_e_pre1[g]</name>
+        <formula>C31H47NO31S2X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA), B (IdoA2S-GalNAc4S), and E (GalNAc4,6diS-GlcA), precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_b_pre2[g]</name>
+        <formula>C37H54NO37S2X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_a_b_pre3[g]</name>
+        <formula>C45H67N2O42S2X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) and B (IdoA2S-GalNAc4S), precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b_pre4[g]</name>
+        <formula>C45H67N2O42S2X</formula>
+        <description>chondroitin sulfate B (IdoA2S-GalNAc4S), precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_b_pre5[g]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate B (IdoA2S-GalNAc4s), precursor 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_d_e_pre1[g]</name>
+        <formula>C31H47NO31S2X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA) and D (GlcNAc6S-GlcA2S), precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_pre2[g]</name>
+        <formula>C37H54NO37S2X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_c_pre3[g]</name>
+        <formula>C45H67N2O42S2X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA), precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_pre2[g]</name>
+        <formula>C31H46NO34S3X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S) precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_pre3[g]</name>
+        <formula>C37H53NO40S3X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_pre4[g]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_d_pre5[g]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S), precursor 5</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_pre2[g]</name>
+        <formula>C31H45NO37S4X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_pre3[g]</name>
+        <formula>C37H52NO43S4X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 3</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_pre4[g]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 4</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_pre5a[g]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5a</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_e_pre5b[g]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA), precursor 5b</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_hs_linkage[g]</name>
+        <formula>C23H36O20X</formula>
+        <description>chondroitin sulfate/heparan sulfate linkage region (GlcA-(Gal)2-Xyl-L-Ser (protein))</description>
+    </metabolite>
+    <metabolite>
+        <name>cs_pre[g]</name>
+        <formula>C31H49NO25X</formula>
+        <description>chondroitin sulfate precursor (GalNAc-GlcA-(Gal)2-Xyl-L-Ser (protein))</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_a[g]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_b[g]</name>
+        <formula>C45H65N2O48S4X</formula>
+        <description>chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_c[g]</name>
+        <formula>C45H66N2O45S3X</formula>
+        <description>chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_d[g]</name>
+        <formula>C45H64N2O51S5X</formula>
+        <description>chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>cspg_e[g]</name>
+        <formula>C45H63N2O54S6X</formula>
+        <description>chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre10[g]</name>
+        <formula>C79H121N5O77S4X</formula>
+        <description>(GlcN2S-GlcA)4-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre11[g]</name>
+        <formula>C79H121N5O77S4X</formula>
+        <description>(GlcN2S-IdoA-GlcN2S-GlcA)2-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre12[g]</name>
+        <formula>C79H119N5O83S6X</formula>
+        <description>GlcN2S-IdoA-GlcN2S-GlcA2S-GlcN2S-IdoA2S-GlcN2S-GlcA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre13[g]</name>
+        <formula>C79H116N5O92S9X</formula>
+        <description>GlcN2S-IdoA-GlcN2,6diS-GlcA2S-GlcN2,6diS-IdoA2S-GlcN2,6diS-GlcA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre14[g]</name>
+        <formula>C79H115N5O95S10X</formula>
+        <description>heparan sulfate, precursor 14</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre15[g]</name>
+        <formula>C79H114N5O98S11X</formula>
+        <description>heparan sulfate, precursor 15</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre1[g]</name>
+        <formula>C31H49NO25X</formula>
+        <description>heparan sulfate, precursor 1</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre2[g]</name>
+        <formula>C37H56NO31X</formula>
+        <description>heparan sulfate, precursor 2</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre3[g]</name>
+        <formula>C45H69N2O36X</formula>
+        <description>GlcNAc-GlcA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre4[g]</name>
+        <formula>C51H76N2O42X</formula>
+        <description>GlcA-GlcNAc-GlcA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre5[g]</name>
+        <formula>C59H89N3O47X</formula>
+        <description>(GlcNAc-GlcA)2-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre6[g]</name>
+        <formula>C65H96N3O53X</formula>
+        <description>GlcA-(GlcNAc-GlcA)2-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre7[g]</name>
+        <formula>C73H109N4O58X</formula>
+        <description>(GlcNAc-GlcA)3-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre8[g]</name>
+        <formula>C79H116N4O64X</formula>
+        <description>GlcA-(GlcNAc-GlcA)3-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hs_pre9[g]</name>
+        <formula>C87H129N5O69X</formula>
+        <description>(GlcNAc-GlcA)4-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>hspg[g]</name>
+        <formula>C79H113N5O101S12X</formula>
+        <description>heparan sulfate proteoglycan</description>
+    </metabolite>
+    <metabolite>
+        <name>l2xser[g]</name>
+        <formula>C17H29O14X</formula>
+        <description>(Gal)2-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>lxser[g]</name>
+        <formula>C11H19O9X</formula>
+        <description>Gal-Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpglcur[g]</name>
+        <formula>C15H19N2O18P2</formula>
+        <description>UDP-D-glucuronate</description>
+    </metabolite>
+    <metabolite>
+        <name>udpxyl[r]</name>
+        <formula>C14H20N2O16P2</formula>
+        <description>UDP-alpha-D-xylose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>xser[g]</name>
+        <formula>C5H9O4X</formula>
+        <description>Xyl-L-Ser (protein)</description>
+    </metabolite>
+    <metabolite>
+        <name>xser[r]</name>
+        <formula>C5H9O4X</formula>
+        <description>Xyl-L-Ser (protein)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>GALNACT1g</id>
+        <name>UDPGal-chondroitin acetylgalactosaminyltransferase I, Golgi</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>cs_hs_linkage[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_pre[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALNACT2g</id>
+        <name>uridine diphosphoacetylgalactosamine-chondroitin acetylgalactosaminyltransferase II, Golgi</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>cs_a_b_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_a_b_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALNACT3g</id>
+        <name>uridine diphosphoacetylgalactosamine-chondroitin acetylgalactosaminyltransferase II, Golgi</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>cs_c_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_c_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALNACT4g</id>
+        <name>uridine diphosphoacetylgalactosamine-chondroitin acetylgalactosaminyltransferase II, Golgi</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>cs_d_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_d_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALNACT5g</id>
+        <name>uridine diphosphoacetylgalactosamine-chondroitin acetylgalactosaminyltransferase II, Golgi</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>cs_e_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_e_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALT2g</id>
+        <name>UDP-D-galactose:galactosylxylose galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>lxser[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>l2xser[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALTg</id>
+        <name>UDP-D-galactose:D-xylose galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>xser[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>lxser[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAE1g</id>
+        <name>chondroitin-glucuronate 5-epimerase</name>
+        <reactant>cs_a_b_pre3[g]</reactant>
+        <product>cs_b_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAE2g</id>
+        <name>heparosan-N-sulfate-glucuronate 5-epimerase</name>
+        <reactant>hs_pre10[g]</reactant>
+        <product>hs_pre11[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT2g</id>
+        <name>chondroitin glucuronyltransferase II, Golgi apparatus</name>
+        <reactant>cs_a_b_e_pre1[g]</reactant>
+        <reactant>udpglcur[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_a_b_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT3g</id>
+        <name>chondroitin glucuronyltransferase II, Golgi apparatus</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>cs_c_d_e_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_c_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT4g</id>
+        <name>chondroitin glucuronyltransferase II, Golgi apparatus</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>cs_d_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_d_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT5g</id>
+        <name>chondroitin glucuronyltransferase II, Golgi apparatus</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>cs_e_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_e_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT6g</id>
+        <name>heparan glucuronyltransferase II</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>hs_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT7g</id>
+        <name>heparan glucuronyltransferase II</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>hs_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT8g</id>
+        <name>heparan glucuronyltransferase II</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>hs_pre5[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre6[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCAT9g</id>
+        <name>heparan glucuronyltransferase II</name>
+        <reactant>udpglcur[g]</reactant>
+        <reactant>hs_pre7[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre8[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCATg</id>
+        <name>UDP-D-glucuronate:galactosylgalactosylxylose glucuronosyltransferase, Golgi apparatus</name>
+        <reactant>l2xser[g]</reactant>
+        <reactant>udpglcur[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>cs_hs_linkage[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACDASg</id>
+        <name>GlcNAc N-deacetylase / N-sulfotransferase</name>
+        <reactant>4 h2o[g]</reactant>
+        <reactant>4 paps[g]</reactant>
+        <reactant>hs_pre9[g]</reactant>
+        <product>4 h[g]</product>
+        <product>4 ac[g]</product>
+        <product>4 pap[g]</product>
+        <product>hs_pre10[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT1g</id>
+        <name>alpha-N-acetylglucosaminyltransferase I, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>cs_hs_linkage[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT2g</id>
+        <name>alpha-N-acetylglucosaminyltransferase II</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>hs_pre2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT3g</id>
+        <name>alpha-N-acetylglucosaminyltransferase II</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>hs_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT4g</id>
+        <name>alpha-N-acetylglucosaminyltransferase II</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>hs_pre6[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre7[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLCNACT5g</id>
+        <name>alpha-N-acetylglucosaminyltransferase II</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>hs_pre8[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>hs_pre9[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2T1g</id>
+        <name>chondroitin 2-sulfotransferase, Golgi</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_c_d_e_pre1[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>cs_d_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2T2g</id>
+        <name>chondroitin 2-sulfotransferase, Golgi</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_d_pre5[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_d[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2T3g</id>
+        <name>uronyl 2-sulfotransferase, Golgi</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_b_pre5[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_b[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S2T4g</id>
+        <name>uronyl 2-sulfotransferase, Golgi</name>
+        <reactant>2 paps[g]</reactant>
+        <reactant>hs_pre11[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 pap[g]</product>
+        <product>hs_pre12[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3T1g</id>
+        <name>heparin-glucosamine 3-O-sulfotransferase</name>
+        <reactant>paps[g]</reactant>
+        <reactant>hs_pre13[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>hs_pre14[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3T2g</id>
+        <name>heparin-glucosamine 3-O-sulfotransferase</name>
+        <reactant>paps[g]</reactant>
+        <reactant>hs_pre14[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>hs_pre15[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S3T3g</id>
+        <name>heparin-glucosamine 3-O-sulfotransferase</name>
+        <reactant>paps[g]</reactant>
+        <reactant>hs_pre15[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>hspg[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T1g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>2 paps[g]</reactant>
+        <reactant>cs_pre[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 pap[g]</product>
+        <product>cs_a_b_e_pre1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T2g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_a_b_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_a[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T3g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_e_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>cs_e_pre5a[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T4g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>2 paps[g]</reactant>
+        <reactant>cs_c_d_e_pre1[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 pap[g]</product>
+        <product>cs_e_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T5g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_e_pre5b[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_e[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S4T6g</id>
+        <name>chondroitin 4-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_b_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>cs_b_pre5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T19g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>2 paps[g]</reactant>
+        <reactant>cs_pre[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 pap[g]</product>
+        <product>cs_c_d_e_pre1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T20g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_c_pre3[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_c[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T21g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_d_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>cs_d_pre5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T22g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>2 paps[g]</reactant>
+        <reactant>cs_a_b_e_pre1[g]</reactant>
+        <product>2 h[g]</product>
+        <product>2 pap[g]</product>
+        <product>cs_e_pre2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T23g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_e_pre5a[g]</reactant>
+        <product>h[g]</product>
+        <product>cspg_e[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T24g</id>
+        <name>chondroitin 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>paps[g]</reactant>
+        <reactant>cs_e_pre4[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>cs_e_pre5b[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S6T25g</id>
+        <name>heparan sulfate 6-sulfotransferase, Golgi apparatus</name>
+        <reactant>3 paps[g]</reactant>
+        <reactant>hs_pre12[g]</reactant>
+        <product>3 h[g]</product>
+        <product>3 pap[g]</product>
+        <product>hs_pre13[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>XYLTer</id>
+        <name>UDP-xylose:protein xylosyltransferase, endoplasmic reticulum</name>
+        <reactant>udpxyl[r]</reactant>
+        <reactant>Ser_Gly_Ala_X_Gly[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>xser[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Chondroitin synthesis</subsystem>
+    </reaction>
+</reactions>

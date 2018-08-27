@@ -1,0 +1,289 @@
+<metabolites>
+    <metabolite>
+        <name>o2s[m]</name>
+        <formula>O2</formula>
+        <description>superoxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>ficytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferricytochrome c</description>
+    </metabolite>
+    <metabolite>
+        <name>focytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferrocytochrome C</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>ficytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferricytochrome c</description>
+    </metabolite>
+    <metabolite>
+        <name>focytC[m]</name>
+        <formula>C42H54FeN8O6S2</formula>
+        <description>Ferrocytochrome C</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[m]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[m]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[m]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[m]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[c]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[m]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[m]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[m]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>q10[m]</name>
+        <formula>C59H90O4</formula>
+        <description>ubiquinone-10</description>
+    </metabolite>
+    <metabolite>
+        <name>q10h2[m]</name>
+        <formula>C59H92O4</formula>
+        <description>Ubiquinol-10</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ATPS4m</id>
+        <name>ATP synthase (four protons for one ATP)</name>
+        <reactant>4 h[c]</reactant>
+        <reactant>adp[m]</reactant>
+        <reactant>pi[m]</reactant>
+        <product>3 h[m]</product>
+        <product>h2o[m]</product>
+        <product>atp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYOOm2</id>
+        <name>cytochrome c oxidase, mitochondrial Complex IV</name>
+        <reactant>o2[m]</reactant>
+        <reactant>4 focytC[m]</reactant>
+        <product>4 h[m]</product>
+        <product>2 h2o[m]</product>
+        <product>4 ficytC[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYOR_u10m</id>
+        <name>ubiquinol-6 cytochrome c reductase, Complex III</name>
+        <reactant>2 h[m]</reactant>
+        <reactant>2 ficytC[m]</reactant>
+        <reactant>q10h2[m]</reactant>
+        <product>4 h[c]</product>
+        <product>q10[m]</product>
+        <product>2 focytC[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>NADH2_u10m</id>
+        <name>NADH dehydrogenase, mitochondrial</name>
+        <reactant>5 h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>4 h[c]</product>
+        <product>nad[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPA</id>
+        <name>inorganic diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ppi[c]</reactant>
+        <product>h[c]</product>
+        <product>2 pi[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPAm</id>
+        <name>inorganic diphosphatase</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>ppi[m]</reactant>
+        <product>h[m]</product>
+        <product>2 pi[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0205</id>
+        <name>sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase Glycerophospholipid metabolism EC:1.1.5.3</name>
+        <reactant>q10[m]</reactant>
+        <reactant>glyc3p[c]</reactant>
+        <product>dhap[c]</product>
+        <product>q10h2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYOOm3</id>
+        <name>cytochrome c oxidase, mitochondrial Complex IV</name>
+        <reactant>7.92 h[m]</reactant>
+        <reactant>o2[m]</reactant>
+        <reactant>4 focytC[m]</reactant>
+        <product>1.96 h2o[m]</product>
+        <product>4 h[c]</product>
+        <product>4 ficytC[m]</product>
+        <product>0.02 o2s[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>FADH2ETC</id>
+        <name>Complex II reaction for respiratory chain</name>
+        <reactant>fadh2[m]</reactant>
+        <reactant>q10[m]</reactant>
+        <product>fad[m]</product>
+        <product>q10h2[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLYC3PFADm</id>
+        <name>glycerophosphate shuttle for trasnfer of reducing equivalents</name>
+        <reactant>fad[m]</reactant>
+        <reactant>glyc3p[m]</reactant>
+        <product>fadh2[m]</product>
+        <product>dhap[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Oxidative phosphorylation</subsystem>
+    </reaction>
+</reactions>

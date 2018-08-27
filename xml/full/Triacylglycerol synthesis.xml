@@ -1,0 +1,314 @@
+<metabolites>
+    <metabolite>
+        <name>1glyc_hs[e]</name>
+        <formula>C6H13O7PFULLRCO2</formula>
+        <description>1 acyl phosphoglycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[c]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2[e]</name>
+        <formula>CO2FULLR2</formula>
+        <description>R total 2 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal2coa[c]</name>
+        <formula>CO2FULLR2C21H31N7O15P3S</formula>
+        <description>R total 2 coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal3[c]</name>
+        <formula>CO2FULLR3</formula>
+        <description>R total 3 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal3[e]</name>
+        <formula>CO2FULLR3</formula>
+        <description>R total 3 position</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal3coa[c]</name>
+        <formula>CO2FULLR3C21H31N7O15P3S</formula>
+        <description>R total 3 Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[c]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotalcoa[c]</name>
+        <formula>CO2FULLRC21H31N7O15P3S</formula>
+        <description>R total Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotalcoa[m]</name>
+        <formula>CO2FULLRC21H31N7O15P3S</formula>
+        <description>R total Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotalcoa[x]</name>
+        <formula>CO2FULLRC21H31N7O15P3S</formula>
+        <description>R total Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>adhap_hs[c]</name>
+        <formula>C3H4O6PFULLRCO</formula>
+        <description>acyl-dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adhap_hs[x]</name>
+        <formula>C3H4O6PFULLRCO</formula>
+        <description>acyl-dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>alpa_hs[c]</name>
+        <formula>C3H6O5PFULLRCO2</formula>
+        <description>lysophosphatidic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>alpa_hs[m]</name>
+        <formula>C3H6O5PFULLRCO2</formula>
+        <description>lysophosphatidic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[m]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[x]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[c]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[e]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[c]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>dhap[x]</name>
+        <formula>C3H5O6P</formula>
+        <description>Dihydroxyacetone phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[c]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc3p[m]</name>
+        <formula>C3H7O6P</formula>
+        <description>Glycerol 3-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>glyc[c]</name>
+        <formula>C3H8O3</formula>
+        <description>Glycerol</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>mag_hs[c]</name>
+        <formula>C3H7O2FULLR2CO2</formula>
+        <description>monoacylglycerol 2</description>
+    </metabolite>
+    <metabolite>
+        <name>pa_hs[c]</name>
+        <formula>C3H5O4PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pglyc_hs[e]</name>
+        <formula>C6H12O6PFULLRCO2FULLR2CO2</formula>
+        <description>phosphatidylglycerol(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>tag_hs[c]</name>
+        <formula>C3H5FULLRCO2FULLR2CO2FULLR3CO2</formula>
+        <description>triglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>tag_hs[e]</name>
+        <formula>C3H5FULLRCO2FULLR2CO2FULLR3CO2</formula>
+        <description>triglyceride</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>AGPAT1</id>
+        <name>1-acylglycerol-3-phosphate O-acyltransferase 1</name>
+        <reactant>Rtotal2coa[c]</reactant>
+        <reactant>alpa_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>pa_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DGAT</id>
+        <name>diacylglycerol acyltransferase</name>
+        <reactant>Rtotal3coa[c]</reactant>
+        <reactant>dag_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>tag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHAPA</id>
+        <name>dihydroxyacetone phosphate acyltransferase</name>
+        <reactant>dhap[c]</reactant>
+        <reactant>Rtotalcoa[c]</reactant>
+        <product>coa[c]</product>
+        <product>adhap_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHAPAx</id>
+        <name>dihydroxyacetone phosphate acyltransferase</name>
+        <reactant>Rtotalcoa[x]</reactant>
+        <reactant>dhap[x]</reactant>
+        <product>coa[x]</product>
+        <product>adhap_hs[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPAM_hs</id>
+        <name>glycerol-3-phosphate acyltransferase</name>
+        <reactant>Rtotalcoa[c]</reactant>
+        <reactant>glyc3p[c]</reactant>
+        <product>coa[c]</product>
+        <product>alpa_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GPAMm_hs</id>
+        <name>glycerol-3-phosphate acyltransferase</name>
+        <reactant>Rtotalcoa[m]</reactant>
+        <reactant>glyc3p[m]</reactant>
+        <product>coa[m]</product>
+        <product>alpa_hs[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPS</id>
+        <name>lipase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>tag_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal3[c]</product>
+        <product>dag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPS2</id>
+        <name>lipase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dag_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal[c]</product>
+        <product>mag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPS3</id>
+        <name>lipase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>mag_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>Rtotal2[c]</product>
+        <product>glyc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPS4e</id>
+        <name>phospholipase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>pglyc_hs[e]</reactant>
+        <product>h[e]</product>
+        <product>1glyc_hs[e]</product>
+        <product>Rtotal2[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>LPSe</id>
+        <name>lipase</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>tag_hs[e]</reactant>
+        <product>h[e]</product>
+        <product>dag_hs[e]</product>
+        <product>Rtotal3[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>MOGAT</id>
+        <name>monoacylglycerol acyltransferase</name>
+        <reactant>Rtotalcoa[c]</reactant>
+        <reactant>mag_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>dag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>PPAP</id>
+        <name>phosphatidic acid phosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pa_hs[c]</reactant>
+        <product>pi[c]</product>
+        <product>dag_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Triacylglycerol synthesis</subsystem>
+    </reaction>
+</reactions>

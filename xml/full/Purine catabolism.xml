@@ -1,0 +1,859 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[x]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>2dr1p[c]</name>
+        <formula>C5H9O7P</formula>
+        <description>2-Deoxy-D-ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>3amp[l]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>3&apos;-AMP(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C01041[c]</name>
+        <formula>C6H6O6</formula>
+        <description>monodehydroascorbate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>C11821[c]</name>
+        <formula>C5H4N4O4</formula>
+        <description>5-Hydroxyisourate</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0074[c]</name>
+        <formula>C4H2N2O4</formula>
+        <description>alloxan</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0074[e]</name>
+        <formula>C4H2N2O4</formula>
+        <description>alloxan</description>
+    </metabolite>
+    <metabolite>
+        <name>CE0074[n]</name>
+        <formula>C4H2N2O4</formula>
+        <description>alloxan</description>
+    </metabolite>
+    <metabolite>
+        <name>CE6252[c]</name>
+        <formula>C5H3N4O3</formula>
+        <description>urate radical</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[c]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>ade[e]</name>
+        <formula>C5H5N5</formula>
+        <description>Adenine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[e]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[l]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adn[m]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Adenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[l]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[x]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>alltn[c]</name>
+        <formula>C4H6N4O3</formula>
+        <description>Allantoin</description>
+    </metabolite>
+    <metabolite>
+        <name>alltt[c]</name>
+        <formula>C4H7N4O4</formula>
+        <description>allantoate</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[c]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[e]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[l]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[m]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>amp[x]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>AMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ascb_L[c]</name>
+        <formula>C6H7O6</formula>
+        <description>L-ascorbate</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[l]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[m]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[x]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>dad_2[c]</name>
+        <formula>C10H13N5O3</formula>
+        <description>2-deoxyadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dad_2[l]</name>
+        <formula>C10H13N5O3</formula>
+        <description>2-deoxyadenosine</description>
+    </metabolite>
+    <metabolite>
+        <name>damp[l]</name>
+        <formula>C10H12N5O6P</formula>
+        <description>dAMP(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[l]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[c]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgsn[l]</name>
+        <formula>C10H13N5O4</formula>
+        <description>Deoxyguanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>din[c]</name>
+        <formula>C10H12N4O4</formula>
+        <description>Deoxyinosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[c]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gmp[l]</name>
+        <formula>C10H12N5O8P</formula>
+        <description>GMP</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[c]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gsn[l]</name>
+        <formula>C10H13N5O5</formula>
+        <description>Guanosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gtp[c]</name>
+        <formula>C10H12N5O14P3</formula>
+        <description>GTP</description>
+    </metabolite>
+    <metabolite>
+        <name>gua[c]</name>
+        <formula>C5H5N5O</formula>
+        <description>Guanine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[c]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[e]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[n]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o2[x]</name>
+        <formula>H2O2</formula>
+        <description>Hydrogen peroxide</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[m]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[x]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[x]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[c]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>hxan[x]</name>
+        <formula>C5H4N4O</formula>
+        <description>Hypoxanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[e]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>imp[c]</name>
+        <formula>C10H11N4O8P</formula>
+        <description>IMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[c]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ins[e]</name>
+        <formula>C10H12N4O5</formula>
+        <description>Inosine</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[e]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[x]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[x]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[e]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[x]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[e]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[l]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[m]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[e]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[x]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>prpp[e]</name>
+        <formula>C5H8O14P3</formula>
+        <description>5-Phospho-alpha-D-ribose 1-diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>r1p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[c]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[e]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[n]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>urate[x]</name>
+        <formula>C5H4N4O3</formula>
+        <description>Urate</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[c]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[e]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+    <metabolite>
+        <name>urea[n]</name>
+        <formula>CH4N2O</formula>
+        <description>Urea</description>
+    </metabolite>
+    <metabolite>
+        <name>xan[c]</name>
+        <formula>C5H4N4O2</formula>
+        <description>Xanthine</description>
+    </metabolite>
+    <metabolite>
+        <name>xan[x]</name>
+        <formula>C5H4N4O2</formula>
+        <description>Xanthine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>3NTD7l</id>
+        <name>3&apos;-nucleotidase (AMP), lysosome</name>
+        <reactant>3amp[l]</reactant>
+        <reactant>h2o[l]</reactant>
+        <product>adn[l]</product>
+        <product>pi[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADA</id>
+        <name>Adenosine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>adn[c]</reactant>
+        <product>nh4[c]</product>
+        <product>ins[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ADAe</id>
+        <name>Adenosine deaminase, extracellular</name>
+        <reactant>h[e]</reactant>
+        <reactant>h2o[e]</reactant>
+        <reactant>adn[e]</reactant>
+        <product>ins[e]</product>
+        <product>nh4[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GUAD</id>
+        <name>guanine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>gua[c]</reactant>
+        <product>nh4[c]</product>
+        <product>xan[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD11</id>
+        <name>5&apos;-nucleotidase (IMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>imp[c]</reactant>
+        <product>pi[c]</product>
+        <product>ins[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD6l</id>
+        <name>5&apos;-nucleotidase (dAMP), lysosome</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>damp[l]</reactant>
+        <product>pi[l]</product>
+        <product>dad_2[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD7l</id>
+        <name>5&apos;-nucleotidase (AMP), lysosome</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>amp[l]</reactant>
+        <product>adn[l]</product>
+        <product>pi[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD8l</id>
+        <name>5&apos;-nucleotidase (dGMP), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>dgmp[l]</reactant>
+        <product>pi[l]</product>
+        <product>dgsn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD9l</id>
+        <name>5&apos;-nucleotidase (GMP), lysosome</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>gmp[l]</reactant>
+        <product>pi[l]</product>
+        <product>gsn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP2</id>
+        <name>purine-nucleoside phosphorylase (Deoxyadenosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>dad_2[c]</reactant>
+        <product>2dr1p[c]</product>
+        <product>ade[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP3</id>
+        <name>purine-nucleoside phosphorylase (Guanosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>gsn[c]</reactant>
+        <product>gua[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP4</id>
+        <name>purine-nucleoside phosphorylase (Deoxyguanosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>dgsn[c]</reactant>
+        <product>2dr1p[c]</product>
+        <product>gua[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP5</id>
+        <name>purine-nucleoside phosphorylase (Inosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>ins[c]</reactant>
+        <product>hxan[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PUNP6</id>
+        <name>purine-nucleoside phosphorylase (Deoxyinosine)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>din[c]</reactant>
+        <product>2dr1p[c]</product>
+        <product>hxan[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>XANDp</id>
+        <name>xanthine dehydrogenase, peroxisomal</name>
+        <reactant>nad[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>xan[x]</reactant>
+        <product>h[x]</product>
+        <product>nadh[x]</product>
+        <product>urate[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>XAO2x</id>
+        <name>xanthine oxidase</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>hxan[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>xan[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>XAOx</id>
+        <name>xanthine oxidase,peroxisomal</name>
+        <reactant>o2[x]</reactant>
+        <reactant>h2o[x]</reactant>
+        <reactant>xan[x]</reactant>
+        <product>h2o2[x]</product>
+        <product>urate[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0009</id>
+        <name>Pyrophosphate phosphohydrolase EC:3.6.1.1</name>
+        <reactant>h2o[x]</reactant>
+        <reactant>ppi[x]</reactant>
+        <product>h[x]</product>
+        <product>2 pi[x]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0028</id>
+        <name>ATP pyrophosphohydrolase Purine metabolism EC:3.6.1.5</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>adp[c]</reactant>
+        <product>h[c]</product>
+        <product>pi[c]</product>
+        <product>amp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0047</id>
+        <name>Adenosine 5-monophosphate phosphohydrolase Purine metabolism EC:3.1.3.5</name>
+        <reactant>h2o[m]</reactant>
+        <reactant>amp[m]</reactant>
+        <product>pi[m]</product>
+        <product>adn[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0051</id>
+        <name>AMP:pyrophosphate phosphoribosyltransferase Purine metabolism EC:2.4.2.7</name>
+        <reactant>amp[e]</reactant>
+        <reactant>ppi[e]</reactant>
+        <product>ade[e]</product>
+        <product>prpp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0119</id>
+        <name>Guanosine 5-triphosphate pyrophosphohydrolase Purine metabolism EC:3.6.1.19</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gtp[c]</reactant>
+        <product>h[c]</product>
+        <product>ppi[c]</product>
+        <product>gmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0181</id>
+        <name>ITP diphosphohydrolase Purine metabolism EC:3.6.1.5</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>itp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>idp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0276</id>
+        <name>NADH:guanosine-5-phosphate oxidoreductase(deaminating) Purine metabolism EC:1.7.1.7</name>
+        <reactant>nh4[c]</reactant>
+        <reactant>nadp[c]</reactant>
+        <reactant>imp[c]</reactant>
+        <product>2 h[c]</product>
+        <product>nadph[c]</product>
+        <product>gmp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0502</id>
+        <name>xanthine:NAD+ oxidoreductase Purine metabolism EC:1.17.1.4</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>nad[c]</reactant>
+        <reactant>xan[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>urate[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0504</id>
+        <name>Xanthine:oxygen oxidoreductase Purine metabolism EC:1.17.3.2</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>o2[c]</reactant>
+        <reactant>xan[c]</reactant>
+        <product>h2o2[c]</product>
+        <product>urate[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0809</id>
+        <name>Facilitated diffusion</name>
+        <reactant>adn[c]</reactant>
+        <reactant>ins[e]</reactant>
+        <product>ins[c]</product>
+        <product>adn[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0812</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.20.1</name>
+        <reactant>atp[c]</reactant>
+        <reactant>amp[x]</reactant>
+        <product>amp[c]</product>
+        <product>atp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0853</id>
+        <name>Facilitated diffusion</name>
+        <reactant>atp[c]</reactant>
+        <reactant>pi[m]</reactant>
+        <product>pi[c]</product>
+        <product>atp[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0859</id>
+        <name>Postulated transport reaction</name>
+        <reactant>atp[c]</reactant>
+        <reactant>adp[l]</reactant>
+        <product>adp[c]</product>
+        <product>atp[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0860</id>
+        <name>Utilized transport</name>
+        <reactant>adp[c]</reactant>
+        <reactant>atp[x]</reactant>
+        <product>atp[c]</product>
+        <product>adp[x]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2591C</id>
+        <name>RE2591</name>
+        <reactant>h[c]</reactant>
+        <reactant>urate[c]</reactant>
+        <product>h2o[c]</product>
+        <product>CE6252[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2605C</id>
+        <name>RE2605</name>
+        <reactant>ascb_L[c]</reactant>
+        <reactant>CE6252[c]</reactant>
+        <product>urate[c]</product>
+        <product>C01041[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2813C</id>
+        <name>RE2813</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>alltn[c]</reactant>
+        <product>h[c]</product>
+        <product>alltt[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2888C</id>
+        <name>RE2888</name>
+        <reactant>h2o2[c]</reactant>
+        <reactant>urate[c]</reactant>
+        <product>urea[c]</product>
+        <product>CE0074[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2888E</id>
+        <name>RE2888</name>
+        <reactant>h2o2[e]</reactant>
+        <reactant>urate[e]</reactant>
+        <product>urea[e]</product>
+        <product>CE0074[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2888N</id>
+        <name>RE2888</name>
+        <reactant>h2o2[n]</reactant>
+        <reactant>urate[n]</reactant>
+        <product>urea[n]</product>
+        <product>CE0074[n]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE3352C</id>
+        <name>RE3352</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>C11821[c]</reactant>
+        <product>co2[c]</product>
+        <product>alltn[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Purine catabolism</subsystem>
+    </reaction>
+</reactions>

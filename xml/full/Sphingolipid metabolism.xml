@@ -1,0 +1,1653 @@
+<metabolites>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>3dsphgn[c]</name>
+        <formula>C18H38NO2</formula>
+        <description>(2S)-1-hydroxy-3-oxooctadecan-2-aminium</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00718[c]</name>
+        <formula>C3H9NO4P</formula>
+        <description>N-methylethanolaminium phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>HC01842[c]</name>
+        <formula>C4H10NO4P</formula>
+        <description>Phosphodimethylethanolamine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC02228[c]</name>
+        <formula></formula>
+        <description>Hexadecenal</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[c]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotal[l]</name>
+        <formula>CO2FULLR</formula>
+        <description>R total</description>
+    </metabolite>
+    <metabolite>
+        <name>Rtotalcoa[c]</name>
+        <formula>CO2FULLRC21H31N7O15P3S</formula>
+        <description>R total Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[g]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[g]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgagbside_hs[l]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>alpha GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[g]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[g]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acgbgbside_hs[l]</name>
+        <formula>C52H92N3O27FULLRCO</formula>
+        <description>beta GalNAc globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acglcgalgbside_hs[g]</name>
+        <formula>C58H102N3O32FULLRCO</formula>
+        <description>GlcNAc-Gal globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn13acngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (1,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acn23acngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>sialyl (2,3) sialyl (2,6) galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acnacngalgbside_hs[g]</name>
+        <formula>C72H121N4O43FULLRCO</formula>
+        <description>disialyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>acngalgbside_hs[g]</name>
+        <formula>C61H105N3O35FULLRCO</formula>
+        <description>sialyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>ahcys[c]</name>
+        <formula>C14H20N6O5S</formula>
+        <description>S-Adenosyl-L-homocysteine</description>
+    </metabolite>
+    <metabolite>
+        <name>amet[c]</name>
+        <formula>C15H23N6O5S</formula>
+        <description>S-Adenosyl-L-methionine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[c]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[g]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cholp[l]</name>
+        <formula>C5H13NO4P</formula>
+        <description>choline phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[g]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[c]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[g]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[l]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crm_hs[r]</name>
+        <formula>C18H36NO2FULLRCO</formula>
+        <description>N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>crmp_hs[c]</name>
+        <formula>C18H35NO5PFULLRCO</formula>
+        <description>ceramide 1-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>dag_hs[c]</name>
+        <formula>C3H6OFULLRCO2FULLR2CO2</formula>
+        <description>diglyceride</description>
+    </metabolite>
+    <metabolite>
+        <name>dhcrm_hs[c]</name>
+        <formula>C18H38NO2FULLRCO</formula>
+        <description>dihydroceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>digalsgalside_hs[g]</name>
+        <formula>C30H55NO15SFULLRCO</formula>
+        <description>Digalactosylceramidesulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[g]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>digalside_hs[l]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>Digalactosylceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>ethamp[c]</name>
+        <formula>C2H7NO4P</formula>
+        <description>O-phosphonatoethanaminium(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ethamp[r]</name>
+        <formula>C2H7NO4P</formula>
+        <description>O-phosphonatoethanaminium(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>fad[c]</name>
+        <formula>C27H31N9O15P2</formula>
+        <description>Flavin adenine dinucleotide oxidized</description>
+    </metabolite>
+    <metabolite>
+        <name>fadh2[c]</name>
+        <formula>C27H33N9O15P2</formula>
+        <description>Flavin adenine dinucleotide reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>fucgalgbside_hs[g]</name>
+        <formula>C56H99N2O31FULLRCO</formula>
+        <description>fucosyl galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>ga1_hs[g]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>gibberellin A1(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>ga2_hs[g]</name>
+        <formula>C38H69N2O17FULLRCO</formula>
+        <description>GA2</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>galacglcgalgbside_hs[g]</name>
+        <formula>C64H112N3O37FULLRCO</formula>
+        <description>Gal-GlcNAc-Gal globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalgalthcrm_hs[g]</name>
+        <formula>C54H96NO32FULLRCO</formula>
+        <description>Gal-Gal-Gal-Gal-Gal-Glc-Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galgalthcrm_hs[g]</name>
+        <formula>C48H86NO27FULLRCO</formula>
+        <description>Gal-Gal-Gal-Gal-Glc-Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>galgbside_hs[g]</name>
+        <formula>C50H89N2O27FULLRCO</formula>
+        <description>galactosylgloboside</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[c]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[g]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galgluside_hs[l]</name>
+        <formula>C30H56NO12FULLRCO</formula>
+        <description>galactosyl glucosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[g]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>galside_hs[l]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-galactosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>galthcrm_hs[g]</name>
+        <formula>C42H76NO22FULLRCO</formula>
+        <description>Gal-Gal-Gal-Glc-Cer</description>
+    </metabolite>
+    <metabolite>
+        <name>gbside_hs[g]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>gbside_hs[l]</name>
+        <formula>C44H79N2O22FULLRCO</formula>
+        <description>globoside</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1a_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>N-acetylneuraminosyl-D-galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminosyl)-D-galactosyl-D-glucosylceramide dianion</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1b2_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1beta</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1b_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gd1c_hs[g]</name>
+        <formula>C66H111N4O38FULLRCO</formula>
+        <description>GD1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gd2_hs[g]</name>
+        <formula>C60H101N4O33FULLRCO</formula>
+        <description>GD2</description>
+    </metabolite>
+    <metabolite>
+        <name>gd3_hs[c]</name>
+        <formula>C52H88N3O28FULLRCO</formula>
+        <description>GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>gd3_hs[g]</name>
+        <formula>C52H88N3O28FULLRCO</formula>
+        <description>GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>gdp[g]</name>
+        <formula>C10H12N5O11P2</formula>
+        <description>GDP</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[g]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>glc_D[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-glucose</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[c]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[g]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[l]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gluside_hs[r]</name>
+        <formula>C24H46NO7FULLRCO</formula>
+        <description>D-glucosyl-N-acylsphingosine</description>
+    </metabolite>
+    <metabolite>
+        <name>gm1_hs[g]</name>
+        <formula>C55H95N3O30FULLRCO</formula>
+        <description>ganglioside GM1</description>
+    </metabolite>
+    <metabolite>
+        <name>gm1a_hs[g]</name>
+        <formula>C55H95N3O30FULLRCO</formula>
+        <description>GM1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gm1b_hs[g]</name>
+        <formula>C55H95N3O30FULLRCO</formula>
+        <description>GM1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gm2_hs[g]</name>
+        <formula>C49H85N3O25FULLRCO</formula>
+        <description>N-acetyl-beta-D-galactosaminyl-(1-&gt;4)-[alpha-N-acetylneuraminosyl-(2-&gt;3)]-beta-D-galactosyl-beta-D-glucosyl-(1&lt;-&gt;1)-ceramide anion</description>
+    </metabolite>
+    <metabolite>
+        <name>gm2a_hs[g]</name>
+        <formula>C49H85N3O25FULLRCO</formula>
+        <description>GM2alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gm3_hs[g]</name>
+        <formula>C41H72N2O20FULLRCO</formula>
+        <description>alpha-N-acetylneuraminosyl-(2-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-glucosylceramide(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1c_hs[g]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gp1calpha_hs[g]</name>
+        <formula>C99H159N7O62FULLRCO</formula>
+        <description>GP1c alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1b_hs[g]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1balpha_hs[g]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1balpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gq1c_hs[g]</name>
+        <formula>C88H143N6O54FULLRCO</formula>
+        <description>GQ1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1a_hs[g]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1a</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1alpha_hs[g]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1aalpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1b_hs[g]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1b</description>
+    </metabolite>
+    <metabolite>
+        <name>gt1c_hs[g]</name>
+        <formula>C77H127N5O46FULLRCO</formula>
+        <description>GT1c</description>
+    </metabolite>
+    <metabolite>
+        <name>gt2_hs[g]</name>
+        <formula>C71H117N5O41FULLRCO</formula>
+        <description>GT2</description>
+    </metabolite>
+    <metabolite>
+        <name>gt3_hs[c]</name>
+        <formula>C63H104N4O36FULLRCO</formula>
+        <description>GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>gt3_hs[g]</name>
+        <formula>C63H104N4O36FULLRCO</formula>
+        <description>GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[g]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[l]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>hdca[r]</name>
+        <formula>C16H31O2</formula>
+        <description>Hexadecanoate (n-C16:0)</description>
+    </metabolite>
+    <metabolite>
+        <name>hxdcal[c]</name>
+        <formula>C16H32O</formula>
+        <description>hexadecanal</description>
+    </metabolite>
+    <metabolite>
+        <name>hxdcal[r]</name>
+        <formula>C16H32O</formula>
+        <description>hexadecanal</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>o2[c]</name>
+        <formula>O2</formula>
+        <description>O2</description>
+    </metabolite>
+    <metabolite>
+        <name>oagd3_hs[c]</name>
+        <formula>C54H90N3O29FULLRCO</formula>
+        <description>9-O-Acetylated GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagd3_hs[g]</name>
+        <formula>C54H90N3O29FULLRCO</formula>
+        <description>9-O-Acetylated GD3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagt3_hs[c]</name>
+        <formula>C65H106N4O37FULLRCO</formula>
+        <description>9-O-Acetylated GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>oagt3_hs[g]</name>
+        <formula>C65H106N4O37FULLRCO</formula>
+        <description>9-O-Acetylated GT3</description>
+    </metabolite>
+    <metabolite>
+        <name>pap[g]</name>
+        <formula>C10H11N5O10P2</formula>
+        <description>adenosine 3&apos;,5&apos;-bismonophosphate(4-)</description>
+    </metabolite>
+    <metabolite>
+        <name>paps[g]</name>
+        <formula>C10H11N5O13P2S</formula>
+        <description>(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-4-hydroxy-2-({[(sulfonatooxy)phosphinato]oxy}methyl)oxolan-3-yl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pchol_hs[c]</name>
+        <formula>C8H18NO4PFULLRCO2FULLR2CO2</formula>
+        <description>Phosphatidylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[r]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pmtcoa[c]</name>
+        <formula>C37H62N7O17P3S</formula>
+        <description>Palmitoyl-CoA (n-C16:0CoA)</description>
+    </metabolite>
+    <metabolite>
+        <name>ser_L[c]</name>
+        <formula>C3H7NO3</formula>
+        <description>L-serine</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[g]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>sgalside_hs[l]</name>
+        <formula>C24H45NO10SFULLRCO</formula>
+        <description>sulfatide galactocerebroside</description>
+    </metabolite>
+    <metabolite>
+        <name>so4[l]</name>
+        <formula>O4S</formula>
+        <description>sulfate</description>
+    </metabolite>
+    <metabolite>
+        <name>spc_hs[c]</name>
+        <formula>C23H50N2O5P</formula>
+        <description>sphingosylphosphorylcholine</description>
+    </metabolite>
+    <metabolite>
+        <name>sph1p[c]</name>
+        <formula>C18H39NO5P</formula>
+        <description>(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sph1p[r]</name>
+        <formula>C18H39NO5P</formula>
+        <description>(2S,3R)-2-azaniumyl-3-hydroxyoctadecyl phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>sphgn[c]</name>
+        <formula>C18H40NO2</formula>
+        <description>sphinganine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphgn[r]</name>
+        <formula>C18H40NO2</formula>
+        <description>sphinganine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[c]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[l]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphings[r]</name>
+        <formula>C18H38NO2</formula>
+        <description>sphingosine(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[c]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[g]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>sphmyln_hs[l]</name>
+        <formula>C23H48N2O5PFULLRCO</formula>
+        <description>sphingomyelin betaine</description>
+    </metabolite>
+    <metabolite>
+        <name>sphs1p[c]</name>
+        <formula>C18H37NO5P</formula>
+        <description>sphingosine 1-phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>sphs1p[r]</name>
+        <formula>C18H37NO5P</formula>
+        <description>sphingosine 1-phosphate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>thcrm_hs[c]</name>
+        <formula>C36H66NO17FULLRCO</formula>
+        <description>trihexosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>thcrm_hs[g]</name>
+        <formula>C36H66NO17FULLRCO</formula>
+        <description>trihexosyl ceramide</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[l]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[l]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpg[r]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDPglucose</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[c]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>3DSPHR</id>
+        <name>3-Dehydrosphinganine reductase</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>3dsphgn[c]</reactant>
+        <product>nadp[c]</product>
+        <product>sphgn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>A4GALTc</id>
+        <name>Lactosylceramide 4-alpha-galactosyltransferase</name>
+        <reactant>galgluside_hs[c]</reactant>
+        <reactant>udpgal[c]</reactant>
+        <product>h[c]</product>
+        <product>thcrm_hs[c]</product>
+        <product>udp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>A4GALTg</id>
+        <name>Lactosylceramide 4-alpha-galactosyltransferase</name>
+        <reactant>galgluside_hs[g]</reactant>
+        <reactant>udpgal[g]</reactant>
+        <product>h[g]</product>
+        <product>thcrm_hs[g]</product>
+        <product>udp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ARSA</id>
+        <name>Arylsulfatase A</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>sgalside_hs[l]</reactant>
+        <product>h[l]</product>
+        <product>galside_hs[l]</product>
+        <product>so4[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ASAH1</id>
+        <name>N-acylsphingosine amidohydrolase</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>crm_hs[l]</reactant>
+        <product>Rtotal[l]</product>
+        <product>sphings[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT3g</id>
+        <name>Beta-1,3-galactosyltransferase 3</name>
+        <reactant>thcrm_hs[g]</reactant>
+        <reactant>udpacgal[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT41g</id>
+        <name>Beta-1,3-galactosyltransferase 4</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>ga2_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ga1_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT42g</id>
+        <name>Beta-1,3-galactosyltransferase 4</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gm2_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gm1_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT43g</id>
+        <name>Beta-1,3-galactosyltransferase 4</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gd2_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gd1b_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT44g</id>
+        <name>Beta-1,3-galactosyltransferase 4</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gt2_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gt1c_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GALT5g</id>
+        <name>Beta-1,3-galactosyltransferase 5</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galgbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT31g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>thcrm_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galthcrm_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT32g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>galthcrm_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galgalthcrm_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT33g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>galgalthcrm_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galgalgalthcrm_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT34g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>galgbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acglcgalgbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT35g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>acglcgalgbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>galacglcgalgbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT36g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>acgal[g]</reactant>
+        <reactant>gbside_hs[g]</reactant>
+        <product>acgbgbside_hs[g]</product>
+        <product>h2o[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT37g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gm2a_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gm1a_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>B3GNT39g</id>
+        <name>UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>gluside_hs[g]</reactant>
+        <product>galgluside_hs[g]</product>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CERK</id>
+        <name>Ceramide kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>crm_hs[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>crmp_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCRD1</id>
+        <name>dihydroceramide desaturase</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>dhcrm_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>crm_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHCRD2</id>
+        <name>dihydroceramide desaturase</name>
+        <reactant>dhcrm_hs[c]</reactant>
+        <reactant>fad[c]</reactant>
+        <product>crm_hs[c]</product>
+        <product>fadh2[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DSAT</id>
+        <name>dihydrosphingosine N-acyltransferase</name>
+        <reactant>sphgn[c]</reactant>
+        <reactant>Rtotalcoa[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>dhcrm_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUT11g</id>
+        <name>Galactoside 2-alpha-L-fucosyltransferase 1</name>
+        <reactant>galgbside_hs[g]</reactant>
+        <reactant>gdpfuc[g]</reactant>
+        <product>h[g]</product>
+        <product>gdp[g]</product>
+        <product>fucgalgbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAL3ST11</id>
+        <name>Galactosylceramide sulfotransferase</name>
+        <reactant>galside_hs[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>pap[g]</product>
+        <product>sgalside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAL3ST12</id>
+        <name>Galactosylceramide sulfotransferase</name>
+        <reactant>digalside_hs[g]</reactant>
+        <reactant>paps[g]</reactant>
+        <product>h[g]</product>
+        <product>digalsgalside_hs[g]</product>
+        <product>pap[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALC</id>
+        <name>Galactocerebrosidase</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>galside_hs[l]</reactant>
+        <product>crm_hs[l]</product>
+        <product>gal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGT1</id>
+        <name>Beta-1,4 N-acetylgalactosaminyltransferase</name>
+        <reactant>galgluside_hs[g]</reactant>
+        <reactant>udpacgal[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>ga2_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGT2</id>
+        <name>Beta-1,4 N-acetylgalactosaminyltransferase</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>gm3_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gm2_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGT3</id>
+        <name>Beta-1,4 N-acetylgalactosaminyltransferase</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>gd3_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gd2_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALGT4</id>
+        <name>Beta-1,4 N-acetylgalactosaminyltransferase</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>gt3_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gt2_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAO1</id>
+        <name>Ganglioside O-acetylation</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>gd3_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>oagd3_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAO1g</id>
+        <name>Ganglioside O-acetylation</name>
+        <reactant>accoa[g]</reactant>
+        <reactant>gd3_hs[g]</reactant>
+        <product>coa[g]</product>
+        <product>oagd3_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAO2</id>
+        <name>Ganglioside O-acetylation</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>gt3_hs[c]</reactant>
+        <product>coa[c]</product>
+        <product>oagt3_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GAO2g</id>
+        <name>Ganglioside O-acetylation</name>
+        <reactant>accoa[g]</reactant>
+        <reactant>gt3_hs[g]</reactant>
+        <product>coa[g]</product>
+        <product>oagt3_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GBA</id>
+        <name>Glucosylceramidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gluside_hs[c]</reactant>
+        <product>glc_D[c]</product>
+        <product>crm_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GBAl</id>
+        <name>Glucosylceramidase</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>gluside_hs[l]</reactant>
+        <product>crm_hs[l]</product>
+        <product>glc_D[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GBGT1</id>
+        <name>globoside alpha-1,3-N-acetylgalactosaminyltransferase 1</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>gbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>acgagbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLAl</id>
+        <name>galactosidase, alpha</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>digalside_hs[l]</reactant>
+        <product>galside_hs[l]</product>
+        <product>gal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GLB1</id>
+        <name>Beta-galactosidase</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>galgluside_hs[l]</reactant>
+        <product>gal[l]</product>
+        <product>gluside_hs[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAGAlby</id>
+        <name>N-acetylgalactosaminidase, beta-</name>
+        <reactant>h[l]</reactant>
+        <reactant>acgbgbside_hs[l]</reactant>
+        <reactant>udp[l]</reactant>
+        <product>gbside_hs[l]</product>
+        <product>udpacgal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NAGAly</id>
+        <name>N-acetylgalactosaminidase, alpha-</name>
+        <reactant>h[l]</reactant>
+        <reactant>acgagbside_hs[l]</reactant>
+        <reactant>udp[l]</reactant>
+        <product>gbside_hs[l]</product>
+        <product>udpacgal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SBPP1er</id>
+        <name>sphingoid base-phosphate phosphatase (sphinganine 1-phosphatase), endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>sph1p[r]</reactant>
+        <product>pi[r]</product>
+        <product>sphgn[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SBPP3er</id>
+        <name>sphingoid base-phosphate phosphatase (sphinganine 1-phosphatase), endoplasmic reticulum</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>sphs1p[r]</reactant>
+        <product>pi[r]</product>
+        <product>sphings[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SERPT</id>
+        <name>serine C-palmitoyltransferase</name>
+        <reactant>h[c]</reactant>
+        <reactant>ser_L[c]</reactant>
+        <reactant>pmtcoa[c]</reactant>
+        <product>co2[c]</product>
+        <product>3dsphgn[c]</product>
+        <product>coa[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SGPL11r</id>
+        <name>Sphingosine-1-phosphate lyase 1</name>
+        <reactant>sph1p[r]</reactant>
+        <product>ethamp[r]</product>
+        <product>hxdcal[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SGPL12r</id>
+        <name>Sphingosine-1-phosphate lyase</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>sphs1p[r]</reactant>
+        <product>h[r]</product>
+        <product>ethamp[r]</product>
+        <product>hdca[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAT4Bg</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase, Golgi apparatus</name>
+        <reactant>galgbside_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>acngalgbside_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAT9g</id>
+        <name>Lactosylceramide alpha-2,3-sialyltransferase, Golgi apparatus</name>
+        <reactant>galgluside_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gm3_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SLCBK1</id>
+        <name>sphingolipid long chain base kinase (sphinganine)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>sphgn[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>sph1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SMPD3g</id>
+        <name>sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)</name>
+        <reactant>h2o[g]</reactant>
+        <reactant>sphmyln_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>crm_hs[g]</product>
+        <product>cholp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SMPD3l</id>
+        <name>sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>sphmyln_hs[l]</reactant>
+        <product>h[l]</product>
+        <product>crm_hs[l]</product>
+        <product>cholp[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SMPD4</id>
+        <name>sphingomyelinase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>spc_hs[c]</reactant>
+        <product>h[c]</product>
+        <product>cholp[c]</product>
+        <product>sphings[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SMS</id>
+        <name>Sphingomyelin synthase (homo sapiens)</name>
+        <reactant>pchol_hs[c]</reactant>
+        <reactant>crm_hs[c]</reactant>
+        <product>dag_hs[c]</product>
+        <product>sphmyln_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHK21c</id>
+        <name>sphingosine kinase 2</name>
+        <reactant>atp[c]</reactant>
+        <reactant>sphings[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>sphs1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>SPHMDAc</id>
+        <name>sphingomyelin deacylase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>sphmyln_hs[c]</reactant>
+        <product>Rtotal[c]</product>
+        <product>spc_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL21g</id>
+        <name>CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus</name>
+        <reactant>ga1_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gm1b_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL22g</id>
+        <name>CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus</name>
+        <reactant>gm1_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gd1a_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST3GAL23g</id>
+        <name>CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase, Golgi apparatus</name>
+        <reactant>gd1b_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gt1b_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC21</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>acngalgbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>acn13acngalgbside_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC22</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>acngalgbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>acn23acngalgbside_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC23</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>ga2_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>gm2a_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC24</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>gm1a_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gd1b2_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC25</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gd1a_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gt1alpha_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC26</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gt1alpha_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gq1balpha_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC27</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>gt1c_hs[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gq1c_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC28</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gq1c_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gp1c_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC31</id>
+        <name>Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gm1b_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gd1a_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST6GALNAC62</id>
+        <name>sialytransferase 7 ((alpha-N-acetylneuraminyl 2,3-betagalactosyl-1,3)-N-acetyl galactosaminide alpha-2,6-sialytransferase) F</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gt1b_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gq1balpha_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA11</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>acngalgbside_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>acnacngalgbside_hs[g]</product>
+        <product>cmp[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA12</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gm3_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gd3_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA51g</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gd3_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gt3_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA52g</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gt1b_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gq1b_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA53g</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gd1a_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gt1a_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA54g</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gm1b_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gd1c_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ST8SIA55g</id>
+        <name>Beta-galactoside alpha-2,3-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>gq1c_hs[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>gp1calpha_hs[g]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UGCG</id>
+        <name>Ceramide glucosyltransferase</name>
+        <reactant>crm_hs[r]</reactant>
+        <reactant>udpg[r]</reactant>
+        <product>h[r]</product>
+        <product>gluside_hs[r]</product>
+        <product>udp[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0786</id>
+        <name>sphinganine-1-phosphate palmitaldehyde-lyase Sphingolipid metabolism EC:4.1.2.27</name>
+        <reactant>sphs1p[c]</reactant>
+        <product>ethamp[c]</product>
+        <product>HC02228[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0787</id>
+        <name>3-sn-phosphatidate phosphohydrolase Sphingolipid metabolism EC:3.1.3.4</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>sph1p[c]</reactant>
+        <product>pi[c]</product>
+        <product>sphgn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0788</id>
+        <name>S-Adenosyl-L-methionine:methylethanolamine phosphate N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103</name>
+        <reactant>amet[c]</reactant>
+        <reactant>HC00718[c]</reactant>
+        <product>2 h[c]</product>
+        <product>ahcys[c]</product>
+        <product>HC01842[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0789</id>
+        <name>S-Adenosyl-L-methionine:phosphodimethylethanolamine N-methyltransferase Glycerophospholipid metabolism EC:2.1.1.103</name>
+        <reactant>amet[c]</reactant>
+        <reactant>HC01842[c]</reactant>
+        <product>ahcys[c]</product>
+        <product>cholp[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1457</id>
+        <name>hexadecanal:NADP+ delta2-oxidoreductase EC:1.3.1.27</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadph[c]</reactant>
+        <reactant>HC02228[c]</reactant>
+        <product>nadp[c]</product>
+        <product>hxdcal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>RE2675C</id>
+        <name>RE2675</name>
+        <reactant>o2[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>dhcrm_hs[c]</reactant>
+        <product>2 h2o[c]</product>
+        <product>nad[c]</product>
+        <product>crm_hs[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Sphingolipid metabolism</subsystem>
+    </reaction>
+</reactions>

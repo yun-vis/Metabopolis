@@ -1,0 +1,284 @@
+<metabolites>
+    <metabolite>
+        <name>Ser_Thr[g]</name>
+        <formula>XH</formula>
+        <description>protein-linked serine or threonine residue (O-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>T_antigen[g]</name>
+        <formula>C14H24NO10X</formula>
+        <description>T antigen (core 1)</description>
+    </metabolite>
+    <metabolite>
+        <name>Tn_antigen[g]</name>
+        <formula>C8H14NO5X</formula>
+        <description>Tn antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[g]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[g]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>core2[g]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>Core 2</description>
+    </metabolite>
+    <metabolite>
+        <name>core3[g]</name>
+        <formula>C16H27N2O10X</formula>
+        <description>Core 3</description>
+    </metabolite>
+    <metabolite>
+        <name>core4[g]</name>
+        <formula>C24H40N3O15X</formula>
+        <description>Core 4</description>
+    </metabolite>
+    <metabolite>
+        <name>core5[g]</name>
+        <formula>C16H27N2O10X</formula>
+        <description>Core 5</description>
+    </metabolite>
+    <metabolite>
+        <name>core6[g]</name>
+        <formula>C16H27N2O10X</formula>
+        <description>Core 6</description>
+    </metabolite>
+    <metabolite>
+        <name>core7[g]</name>
+        <formula>C16H27N2O10X</formula>
+        <description>Core 7</description>
+    </metabolite>
+    <metabolite>
+        <name>core8[g]</name>
+        <formula>C14H24NO10X</formula>
+        <description>Core 8</description>
+    </metabolite>
+    <metabolite>
+        <name>dsT_antigen[g]</name>
+        <formula>C36H56N3O26X</formula>
+        <description>disialyl-T antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>f1a[g]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>F1alpha</description>
+    </metabolite>
+    <metabolite>
+        <name>gncore1[g]</name>
+        <formula>C22H37N2O15X</formula>
+        <description>GlcNAc-alpha-1,4-Core 1</description>
+    </metabolite>
+    <metabolite>
+        <name>gncore2[g]</name>
+        <formula>C30H50N3O20X</formula>
+        <description>GlcNAc-alpha-1,4-Core 2</description>
+    </metabolite>
+    <metabolite>
+        <name>h[g]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>sT_antigen[g]</name>
+        <formula>C25H40N2O18X</formula>
+        <description>sialyl-T antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>sTn_antigen[g]</name>
+        <formula>C19H30N2O13X</formula>
+        <description>sialyl-Tn antigen</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[g]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[g]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udpgal[g]</name>
+        <formula>C15H22N2O17P2</formula>
+        <description>UDP-D-galactose(2-)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>A4GNT1g</id>
+        <name>alpha 1,4-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>T_antigen[g]</reactant>
+        <reactant>uacgam[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gncore1[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>A4GNT2g</id>
+        <name>alpha 1,4-N-acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>core2[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>gncore2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE2GTg</id>
+        <name>Core 2 acetylglucosaminyltransferase, Golgi apparatus</name>
+        <reactant>T_antigen[g]</reactant>
+        <reactant>uacgam[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core2[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE3GTg</id>
+        <name>Core 3 beta-GlcNAc-transferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core3[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE4GTg</id>
+        <name>Core 4 beta6-GalNAc-transferase, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>core3[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core4[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE5GTg</id>
+        <name>Core 5 alpha-GalNAc-transferase, Golgi apparatus</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core5[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE6GTg</id>
+        <name>Core 6 beta-GlcNAc-transferase A, Golgi apparatus</name>
+        <reactant>uacgam[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core6[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE7GTg</id>
+        <name>Core 7 alpha-GalNAc-transferase, Golgi apparatus</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core7[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>CORE8GTg</id>
+        <name>N-acetylgalactosamine 3-alpha-galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>core8[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALNTg</id>
+        <name>GalNAc transferase, Golgi apparatus</name>
+        <reactant>udpacgal[g]</reactant>
+        <reactant>Ser_Thr[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>Tn_antigen[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>N3Tg</id>
+        <name>N-acetylgalactosamine 3-beta-galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>T_antigen[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>N4Tg</id>
+        <name>N-acetylgalactosamine 4-beta-galactosyltransferase, Golgi apparatus</name>
+        <reactant>udpgal[g]</reactant>
+        <reactant>core6[g]</reactant>
+        <product>h[g]</product>
+        <product>udp[g]</product>
+        <product>f1a[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>NS26T2g</id>
+        <name>alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>sT_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>dsT_antigen[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>NS26Tg</id>
+        <name>alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase</name>
+        <reactant>cmpacna[g]</reactant>
+        <reactant>Tn_antigen[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>sTn_antigen[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+    <reaction>
+        <id>S23Tg</id>
+        <name>beta-galactoside alpha-2,3-sialyltransferase (T antigen)</name>
+        <reactant>T_antigen[g]</reactant>
+        <reactant>cmpacna[g]</reactant>
+        <product>h[g]</product>
+        <product>cmp[g]</product>
+        <product>sT_antigen[g]</product>
+        <reversible>false</reversible>
+        <subsystem>O-glycan synthesis</subsystem>
+    </reaction>
+</reactions>

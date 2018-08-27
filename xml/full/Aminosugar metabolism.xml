@@ -1,0 +1,641 @@
+<metabolites>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>chtn[e]</name>
+        <formula>C24H41N3O16</formula>
+        <description>chitin</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00822[e]</name>
+        <formula>C16H28N2O11</formula>
+        <description>Chitobiose</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[e]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00822[e]</name>
+        <formula>C16H28N2O11</formula>
+        <description>Chitobiose</description>
+    </metabolite>
+    <metabolite>
+        <name>HC00822[l]</name>
+        <formula>C16H28N2O11</formula>
+        <description>Chitobiose</description>
+    </metabolite>
+    <metabolite>
+        <name>ac[c]</name>
+        <formula>C2H3O2</formula>
+        <description>acetate</description>
+    </metabolite>
+    <metabolite>
+        <name>accoa[c]</name>
+        <formula>C23H34N7O17P3S</formula>
+        <description>Acetyl-CoA</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal1p[c]</name>
+        <formula>C8H14NO9P</formula>
+        <description>N-Acetyl-D-galactosamine 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>acgal[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-galactosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam1p[c]</name>
+        <formula>C8H14NO9P</formula>
+        <description>N-Acetyl-D-glucosamine 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam6p[c]</name>
+        <formula>C8H14NO9P</formula>
+        <description>N-acetyl-D-glucosamine 6-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acmana[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-mannosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acmana[r]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-mannosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acmanap[c]</name>
+        <formula>C8H14NO9P</formula>
+        <description>N-acetyl-D-mannosamine 6-phosphate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[c]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[n]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>acnamp[c]</name>
+        <formula>C11H17NO12P</formula>
+        <description>N-Acetylneuraminate 9-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>chtn[c]</name>
+        <formula>C24H41N3O16</formula>
+        <description>chitin</description>
+    </metabolite>
+    <metabolite>
+        <name>chtn[e]</name>
+        <formula>C24H41N3O16</formula>
+        <description>chitin</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[c]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>cmpacna[n]</name>
+        <formula>C20H29N4O16P</formula>
+        <description>CMP-N-acetyl-beta-neuraminate(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>coa[c]</name>
+        <formula>C21H32N7O16P3S</formula>
+        <description>Coenzyme A</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[c]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[n]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dadp[c]</name>
+        <formula>C10H12N5O9P2</formula>
+        <description>dADP</description>
+    </metabolite>
+    <metabolite>
+        <name>datp[c]</name>
+        <formula>C10H12N5O12P3</formula>
+        <description>dATP</description>
+    </metabolite>
+    <metabolite>
+        <name>f6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Fructose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gam6p[c]</name>
+        <formula>C6H13NO8P</formula>
+        <description>D-Glucosamine 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>gam[c]</name>
+        <formula>C6H14NO5</formula>
+        <description>D-Glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpddman[c]</name>
+        <formula>C16H21N5O15P2</formula>
+        <description>GDP-4-dehydro-6-deoxy-alpha-D-mannose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gdpfuc[c]</name>
+        <formula>C16H23N5O15P2</formula>
+        <description>GDP-L-fucose(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>gln_L[c]</name>
+        <formula>C5H10N2O3</formula>
+        <description>L-glutamine</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[c]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[r]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[r]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>idp[c]</name>
+        <formula>C10H11N4O11P2</formula>
+        <description>IDP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>itp[c]</name>
+        <formula>C10H11N4O14P3</formula>
+        <description>ITP(3-)</description>
+    </metabolite>
+    <metabolite>
+        <name>kdn[c]</name>
+        <formula>C9H15O9</formula>
+        <description>2-keto-3-deoxy-D-glycero-D-galactononic acid</description>
+    </metabolite>
+    <metabolite>
+        <name>kdnp[c]</name>
+        <formula>C9H14O12P</formula>
+        <description>2-keto-3-deoxy-D-glycero-D-galactononic acid 9-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>man6p[c]</name>
+        <formula>C6H11O9P</formula>
+        <description>D-Mannose 6-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>pep[c]</name>
+        <formula>C3H2O6P</formula>
+        <description>Phosphoenolpyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[n]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[c]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>uacgam[r]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-alpha-D-glucosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[c]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udp[r]</name>
+        <formula>C9H11N2O12P2</formula>
+        <description>UDP</description>
+    </metabolite>
+    <metabolite>
+        <name>udpacgal[c]</name>
+        <formula>C17H25N3O17P2</formula>
+        <description>UDP-N-acetyl-D-galactosamine(2-)</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[c]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>ACGALK</id>
+        <name>N-acetylgalactosamine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>acgal[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>acgal1p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGALK2</id>
+        <name>N-acetylgalactosamine kinase (ITP)</name>
+        <reactant>acgal[c]</reactant>
+        <reactant>itp[c]</reactant>
+        <product>h[c]</product>
+        <product>acgal1p[c]</product>
+        <product>idp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAM2E</id>
+        <name>N-acetylglucosamine 2-epimerase</name>
+        <reactant>acgam[c]</reactant>
+        <product>acmana[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAM6PSi</id>
+        <name>N-acetylglucosamine-6-phosphate synthase</name>
+        <reactant>accoa[c]</reactant>
+        <reactant>gam6p[c]</reactant>
+        <product>h[c]</product>
+        <product>coa[c]</product>
+        <product>acgam6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAMK</id>
+        <name>N-acetylglucosamine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>acgam[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>acgam6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACGAMPM</id>
+        <name>phosphoacetylglucosamine mutase</name>
+        <reactant>acgam6p[c]</reactant>
+        <product>acgam1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNAM9PL</id>
+        <name>N-Acetylneuraminate 9-phosphate pyruvate-lyase (pyruvate-phosphorylating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>acmanap[c]</reactant>
+        <reactant>pep[c]</reactant>
+        <product>pi[c]</product>
+        <product>acnamp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNAM9PL2</id>
+        <name>N-Acetylneuraminate 9-phosphate pyruvate-lyase (pyruvate-phosphorylating)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>pep[c]</reactant>
+        <reactant>man6p[c]</reactant>
+        <product>pi[c]</product>
+        <product>kdnp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNAMPH</id>
+        <name>N-Acetylneuraminate 9-phosphate phosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>acnamp[c]</reactant>
+        <product>pi[c]</product>
+        <product>acnam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>ACNMLr</id>
+        <name>N-Acetylneuraminate lyase (reversible)</name>
+        <reactant>acnam[c]</reactant>
+        <product>pyr[c]</product>
+        <product>acmana[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AGDC</id>
+        <name>N-acetylglucosamine-6-phosphate deacetylase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>acgam6p[c]</reactant>
+        <product>gam6p[c]</product>
+        <product>ac[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>AMANK</id>
+        <name>N-acetyl-D-mannosamine kinase</name>
+        <reactant>atp[c]</reactant>
+        <reactant>acmana[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>acmanap[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHTNASE</id>
+        <name>chitinase</name>
+        <reactant>2 h2o[c]</reactant>
+        <reactant>chtn[c]</reactant>
+        <product>3 acgam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CHTNASEe</id>
+        <name>chitinase, extracellular</name>
+        <reactant>2 h2o[e]</reactant>
+        <reactant>chtn[e]</reactant>
+        <product>3 acgam[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CMPSAS</id>
+        <name>CMP sialic acid synthase</name>
+        <reactant>acnam[c]</reactant>
+        <reactant>ctp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>cmpacna[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CMPSASn</id>
+        <name>CMP sialic acid synthase, nuclear</name>
+        <reactant>acnam[n]</reactant>
+        <reactant>ctp[n]</reactant>
+        <product>cmpacna[n]</product>
+        <product>ppi[n]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>G6PDA</id>
+        <name>glucosamine-6-phosphate deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>gam6p[c]</reactant>
+        <product>nh4[c]</product>
+        <product>f6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>GF6PTA</id>
+        <name>glutamine-fructose-6-phosphate transaminase</name>
+        <reactant>gln_L[c]</reactant>
+        <reactant>f6p[c]</reactant>
+        <product>glu_L[c]</product>
+        <product>gam6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>HEX10</id>
+        <name>hexokinase (D-glucosamine:ATP)</name>
+        <reactant>atp[c]</reactant>
+        <reactant>gam[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>gam6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>KDNH</id>
+        <name>2-keto-3deoxy-D-glycero-D-galactononic acid phosphohydrolase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>kdnp[c]</reactant>
+        <product>pi[c]</product>
+        <product>kdn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UAG2EMAi</id>
+        <name>UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>uacgam[c]</reactant>
+        <product>h[c]</product>
+        <product>udp[c]</product>
+        <product>acmana[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UAG4E</id>
+        <name>UDP-N-acetylglucosamine 4-epimerase</name>
+        <reactant>uacgam[c]</reactant>
+        <product>udpacgal[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UAGALDP</id>
+        <name>UDP-N-acetylgalactosamine diphosphorylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>acgal1p[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>udpacgal[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UAGDP</id>
+        <name>UDP-N-acetylglucosamine diphosphorylase</name>
+        <reactant>h[c]</reactant>
+        <reactant>acgam1p[c]</reactant>
+        <reactant>utp[c]</reactant>
+        <product>ppi[c]</product>
+        <product>uacgam[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0013</id>
+        <name>beta-N-acetylhexosaminidase Aminosugars metabolism EC:3.2.1.52</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>HC00822[l]</reactant>
+        <product>2 acgam[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0113</id>
+        <name>UDP-N-acetyl-D-glucosamine 2-epimerase Aminosugars metabolism EC:5.1.3.14</name>
+        <reactant>h2o[r]</reactant>
+        <reactant>uacgam[r]</reactant>
+        <product>h[r]</product>
+        <product>udp[r]</product>
+        <product>acmana[r]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0363</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>itp[c]</reactant>
+        <reactant>gam[c]</reactant>
+        <product>h[c]</product>
+        <product>idp[c]</product>
+        <product>gam6p[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0364</id>
+        <name>Glycolysis / Glyconeogenesis EC:2.7.1.1</name>
+        <reactant>datp[c]</reactant>
+        <reactant>gam[c]</reactant>
+        <product>h[c]</product>
+        <product>gam6p[c]</product>
+        <product>dadp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0782</id>
+        <name>GDP-L-fucose:NADP+ 4-oxidoreductase (3,5-epimerizing) Fructose and mannose metabolism EC:1.1.1.271</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>gdpddman[c]</reactant>
+        <product>nad[c]</product>
+        <product>gdpfuc[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1374</id>
+        <name>EC:3.2.1.14</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>2 chtn[e]</reactant>
+        <product>3 HC00822[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r1375</id>
+        <name>Transport reaction</name>
+        <reactant>HC00822[e]</reactant>
+        <product>HC00822[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Aminosugar metabolism</subsystem>
+    </reaction>
+</reactions>

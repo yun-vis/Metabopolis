@@ -1,0 +1,730 @@
+<metabolites>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>2dr1p[c]</name>
+        <formula>C5H9O7P</formula>
+        <description>2-Deoxy-D-ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>2mop[m]</name>
+        <formula>C4H5O3</formula>
+        <description>2-methyl-3-oxopropanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib_D[c]</name>
+        <formula>C4H9NO2</formula>
+        <description>D-3-Amino-isobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3aib_D[m]</name>
+        <formula>C4H9NO2</formula>
+        <description>D-3-Amino-isobutanoate</description>
+    </metabolite>
+    <metabolite>
+        <name>3uib[c]</name>
+        <formula>C5H9N2O3</formula>
+        <description>3-Ureidoisobutyrate</description>
+    </metabolite>
+    <metabolite>
+        <name>56dthm[c]</name>
+        <formula>C5H8N2O2</formula>
+        <description>5,6-dihydrothymine</description>
+    </metabolite>
+    <metabolite>
+        <name>56dthm[m]</name>
+        <formula>C5H8N2O2</formula>
+        <description>5,6-dihydrothymine</description>
+    </metabolite>
+    <metabolite>
+        <name>56dura[c]</name>
+        <formula>C4H6N2O2</formula>
+        <description>5,6-dihydrouracil</description>
+    </metabolite>
+    <metabolite>
+        <name>adp[c]</name>
+        <formula>C10H12N5O10P2</formula>
+        <description>ADP</description>
+    </metabolite>
+    <metabolite>
+        <name>akg[m]</name>
+        <formula>C5H4O5</formula>
+        <description>2-Oxoglutarate</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_B[c]</name>
+        <formula>C3H7NO2</formula>
+        <description>beta-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>ala_L[m]</name>
+        <formula>C3H7NO2</formula>
+        <description>L-alanine</description>
+    </metabolite>
+    <metabolite>
+        <name>atp[c]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>ATP</description>
+    </metabolite>
+    <metabolite>
+        <name>cala[c]</name>
+        <formula>C4H7N2O3</formula>
+        <description>N-carbamoyl-beta-alaninate</description>
+    </metabolite>
+    <metabolite>
+        <name>cdp[e]</name>
+        <formula>C9H12N3O11P2</formula>
+        <description>CDP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[c]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[e]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>cmp[l]</name>
+        <formula>C9H12N3O8P</formula>
+        <description>CMP</description>
+    </metabolite>
+    <metabolite>
+        <name>co2[c]</name>
+        <formula>CO2</formula>
+        <description>carbon dioxide</description>
+    </metabolite>
+    <metabolite>
+        <name>csn[c]</name>
+        <formula>C4H5N3O</formula>
+        <description>cytosine</description>
+    </metabolite>
+    <metabolite>
+        <name>ctp[e]</name>
+        <formula>C9H12N3O14P3</formula>
+        <description>CTP</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[c]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>cytd[l]</name>
+        <formula>C9H13N3O5</formula>
+        <description>Cytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dcmp[c]</name>
+        <formula>C9H12N3O7P</formula>
+        <description>dCMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcmp[l]</name>
+        <formula>C9H12N3O7P</formula>
+        <description>dCMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dcyt[c]</name>
+        <formula>C9H13N3O4</formula>
+        <description>Deoxycytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dcyt[l]</name>
+        <formula>C9H13N3O4</formula>
+        <description>Deoxycytidine</description>
+    </metabolite>
+    <metabolite>
+        <name>dgmp[e]</name>
+        <formula>C10H12N5O7P</formula>
+        <description>dGMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dgtp[e]</name>
+        <formula>C10H12N5O13P3</formula>
+        <description>dGTP</description>
+    </metabolite>
+    <metabolite>
+        <name>drib[c]</name>
+        <formula>C5H10O4</formula>
+        <description>2-deoxy-D-ribose</description>
+    </metabolite>
+    <metabolite>
+        <name>dtdp[e]</name>
+        <formula>C10H13N2O11P2</formula>
+        <description>dTDP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[c]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[e]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dtmp[l]</name>
+        <formula>C10H13N2O8P</formula>
+        <description>dTMP</description>
+    </metabolite>
+    <metabolite>
+        <name>dttp[e]</name>
+        <formula>C10H13N2O14P3</formula>
+        <description>dTTP</description>
+    </metabolite>
+    <metabolite>
+        <name>dump[c]</name>
+        <formula>C9H11N2O8P</formula>
+        <description>dUMP</description>
+    </metabolite>
+    <metabolite>
+        <name>duri[c]</name>
+        <formula>C9H12N2O5</formula>
+        <description>Deoxyuridine</description>
+    </metabolite>
+    <metabolite>
+        <name>dutp[c]</name>
+        <formula>C9H11N2O14P3</formula>
+        <description>dUTP</description>
+    </metabolite>
+    <metabolite>
+        <name>glu_L[m]</name>
+        <formula>C5H8NO4</formula>
+        <description>L-glutamate(1-)</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[e]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[c]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nad[m]</name>
+        <formula>C21H26N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[c]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadh[m]</name>
+        <formula>C21H27N7O14P2</formula>
+        <description>Nicotinamide adenine dinucleotide - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nadp[c]</name>
+        <formula>C21H25N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>nadph[c]</name>
+        <formula>C21H26N7O17P3</formula>
+        <description>Nicotinamide adenine dinucleotide phosphate - reduced</description>
+    </metabolite>
+    <metabolite>
+        <name>nh4[c]</name>
+        <formula>H4N</formula>
+        <description>Ammonium</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[c]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[e]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pi[l]</name>
+        <formula>HO4P</formula>
+        <description>hydrogenphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[c]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>ppi[e]</name>
+        <formula>HO7P2</formula>
+        <description>Diphosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>pyr[m]</name>
+        <formula>C3H3O3</formula>
+        <description>pyruvate</description>
+    </metabolite>
+    <metabolite>
+        <name>r1p[c]</name>
+        <formula>C5H9O8P</formula>
+        <description>alpha-D-Ribose 1-phosphate</description>
+    </metabolite>
+    <metabolite>
+        <name>thym[c]</name>
+        <formula>C5H6N2O2</formula>
+        <description>Thymine</description>
+    </metabolite>
+    <metabolite>
+        <name>thym[m]</name>
+        <formula>C5H6N2O2</formula>
+        <description>Thymine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[c]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>thymd[l]</name>
+        <formula>C10H14N2O5</formula>
+        <description>Thymidine</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[c]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[e]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ump[l]</name>
+        <formula>C9H11N2O9P</formula>
+        <description>UMP</description>
+    </metabolite>
+    <metabolite>
+        <name>ura[c]</name>
+        <formula>C4H4N2O2</formula>
+        <description>uracil</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[c]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>uri[l]</name>
+        <formula>C9H12N2O6</formula>
+        <description>Uridine</description>
+    </metabolite>
+    <metabolite>
+        <name>utp[e]</name>
+        <formula>C9H11N2O15P3</formula>
+        <description>UTP</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>2DR1PP</id>
+        <name>2-deoxy-D-ribose 1-phosphate phosphorylase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2dr1p[c]</reactant>
+        <product>pi[c]</product>
+        <product>drib[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>BUP2</id>
+        <name>beta-ureidopropionase (D-3-amino-isobutanoate forming)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>3uib[c]</reactant>
+        <product>nh4[c]</product>
+        <product>co2[c]</product>
+        <product>3aib_D[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CSND</id>
+        <name>Cytosine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>csn[c]</reactant>
+        <product>nh4[c]</product>
+        <product>ura[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>CYTD</id>
+        <name>cytidine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>cytd[c]</reactant>
+        <product>nh4[c]</product>
+        <product>uri[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>D3AIBTm</id>
+        <name>D-3-Amino-isobutanoate:pyruvate aminotransferase, mitochondrial</name>
+        <reactant>pyr[m]</reactant>
+        <reactant>3aib_D[m]</reactant>
+        <product>2mop[m]</product>
+        <product>ala_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCMPDA</id>
+        <name>dCMP deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>nh4[c]</product>
+        <product>dump[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DCYTD</id>
+        <name>deoxycytidine deaminase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>h[c]</reactant>
+        <reactant>dcyt[c]</reactant>
+        <product>nh4[c]</product>
+        <product>duri[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHPM1</id>
+        <name>dihydropyrimidinase (5,6-dihydrouracil)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>56dura[c]</reactant>
+        <product>h[c]</product>
+        <product>cala[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DHPM2</id>
+        <name>dihydropyrimidinase (dihydrothymine)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>56dthm[c]</reactant>
+        <product>h[c]</product>
+        <product>3uib[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURAD</id>
+        <name>dihydrouracil dehydrogenase (NADP)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>56dura[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>ura[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DURAD2</id>
+        <name>dihydrothymin dehydrogenase (NADP)</name>
+        <reactant>nadp[c]</reactant>
+        <reactant>56dthm[c]</reactant>
+        <product>h[c]</product>
+        <product>nadph[c]</product>
+        <product>thym[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD1</id>
+        <name>5&apos;-nucleotidase (dUMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dump[c]</reactant>
+        <product>pi[c]</product>
+        <product>duri[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD2</id>
+        <name>5&apos;-nucleotidase (UMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>ump[c]</reactant>
+        <product>pi[c]</product>
+        <product>uri[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD2l</id>
+        <name>5&apos;-nucleotidase (UMP), lysosome</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>ump[l]</reactant>
+        <product>pi[l]</product>
+        <product>uri[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD3</id>
+        <name>5&apos;-nucleotidase (dCMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dcmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>dcyt[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD3l</id>
+        <name>5&apos;-nucleotidase (dCMP), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>dcmp[l]</reactant>
+        <product>pi[l]</product>
+        <product>dcyt[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD4</id>
+        <name>5&apos;-nucleotidase (CMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>cmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>cytd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD4l</id>
+        <name>5&apos;-nucleotidase (CMP), lysosome</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>cmp[l]</reactant>
+        <product>pi[l]</product>
+        <product>cytd[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD5</id>
+        <name>5&apos;-nucleotidase (dTMP)</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dtmp[c]</reactant>
+        <product>pi[c]</product>
+        <product>thymd[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>NTD5l</id>
+        <name>5&apos;-nucleotidase (dTMP), lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>dtmp[l]</reactant>
+        <product>pi[l]</product>
+        <product>thymd[l]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>PYNP2r</id>
+        <name>pyrimidine-nucleoside phosphorylase (uracil)</name>
+        <reactant>pi[c]</reactant>
+        <reactant>uri[c]</reactant>
+        <product>ura[c]</product>
+        <product>r1p[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>TMDPP</id>
+        <name>thymidine phosphorylase</name>
+        <reactant>pi[c]</reactant>
+        <reactant>thymd[c]</reactant>
+        <product>2dr1p[c]</product>
+        <product>thym[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>UPPN</id>
+        <name>b-ureidopropionase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>2 h[c]</reactant>
+        <reactant>cala[c]</reactant>
+        <product>nh4[c]</product>
+        <product>co2[c]</product>
+        <product>ala_B[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0139</id>
+        <name>CDP diphosphohydrolase Pyrimidine metabolism EC:3.6.1.5</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>cdp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>cmp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0149</id>
+        <name>CTP diphosphohydrolase Pyrimidine metabolism EC:3.6.1.5</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>ctp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>cdp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0166</id>
+        <name>Uridine triphosphate pyrophosphohydrolase Pyrimidine metabolism EC:3.6.1.19</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>utp[e]</reactant>
+        <product>h[e]</product>
+        <product>ump[e]</product>
+        <product>ppi[e]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0236</id>
+        <name>5,6-Dihydrouracil:NAD+ oxidoreductase Pyrimidine metabolism EC:1.3.1.1</name>
+        <reactant>nad[c]</reactant>
+        <reactant>56dura[c]</reactant>
+        <product>h[c]</product>
+        <product>nadh[c]</product>
+        <product>ura[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0330</id>
+        <name>5,6-Dihydrothymine:NAD+ oxidoreductase Pyrimidine metabolism EC:1.3.1.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>nadh[c]</reactant>
+        <reactant>thym[c]</reactant>
+        <product>nad[c]</product>
+        <product>56dthm[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0331</id>
+        <name>5,6-Dihydrothymine:NAD+ oxidoreductase Pyrimidine metabolism EC:1.3.1.1</name>
+        <reactant>h[m]</reactant>
+        <reactant>nadh[m]</reactant>
+        <reactant>thym[m]</reactant>
+        <product>nad[m]</product>
+        <product>56dthm[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0377</id>
+        <name>ATP:deoxycitidine 5-phosphotransferase Pyrimidine metabolism EC:2.7.1.74</name>
+        <reactant>atp[c]</reactant>
+        <reactant>dcyt[c]</reactant>
+        <product>adp[c]</product>
+        <product>h[c]</product>
+        <product>dcmp[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0410</id>
+        <name>2-Deoxyguanosine 5-triphosphate pyrophosphohydrolase Purine metabolism EC:3.6.1.19</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>dgtp[e]</reactant>
+        <product>h[e]</product>
+        <product>dgmp[e]</product>
+        <product>ppi[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0483</id>
+        <name>(R)-3-Amino-2-methylpropanoate:2-oxoglutarate aminotransferase EC:2.6.1.22</name>
+        <reactant>akg[m]</reactant>
+        <reactant>3aib_D[m]</reactant>
+        <product>2mop[m]</product>
+        <product>glu_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0494</id>
+        <name>dTDP diphosphohydrolase Pyrimidine metabolism EC:3.6.1.5</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>dtdp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>dtmp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0497</id>
+        <name>dTTP nucleotidohydrolase Pyrimidine metabolism EC:3.6.1.39</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>dttp[e]</reactant>
+        <product>h[e]</product>
+        <product>pi[e]</product>
+        <product>dtdp[e]</product>
+        <reversible>true</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+    <reaction>
+        <id>DUTPDP</id>
+        <name>dUTP diphosphatase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>dutp[c]</reactant>
+        <product>h[c]</product>
+        <product>ppi[c]</product>
+        <product>dump[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Pyrimidine catabolism</subsystem>
+    </reaction>
+</reactions>

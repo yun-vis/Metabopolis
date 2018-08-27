@@ -1,0 +1,359 @@
+<metabolites>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[c]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>acnam[l]</name>
+        <formula>C11H18NO9</formula>
+        <description>N-acetylneuraminate</description>
+    </metabolite>
+    <metabolite>
+        <name>gal[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Galactose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>man[c]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>man[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>Asn_X_Ser_Thr[l]</name>
+        <formula>XH</formula>
+        <description>protein-linked asparagine residue (N-glycosylation site)</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[c]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>acgam[l]</name>
+        <formula>C8H15NO6</formula>
+        <description>N-acetyl-D-glucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[e]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>fuc_L[l]</name>
+        <formula>C6H12O5</formula>
+        <description>L-fucose</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[c]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[e]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>h2o[l]</name>
+        <formula>H2O</formula>
+        <description>Water</description>
+    </metabolite>
+    <metabolite>
+        <name>l2n2m2mn[c]</name>
+        <formula>C54H91N3O41</formula>
+        <description>de-Fuc, reducing GlcNAc removed, de-Sia form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>l2n2m2mn[l]</name>
+        <formula>C54H91N3O41</formula>
+        <description>de-Fuc, reducing GlcNAc removed, de-Sia form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>m2mn[c]</name>
+        <formula>C26H45NO21</formula>
+        <description>(alpha-D-mannosyl)2-beta-D-mannosyl-N-acetylglucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>m2mn[l]</name>
+        <formula>C26H45NO21</formula>
+        <description>(alpha-D-mannosyl)2-beta-D-mannosyl-N-acetylglucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>man[l]</name>
+        <formula>C6H12O6</formula>
+        <description>D-Mannose</description>
+    </metabolite>
+    <metabolite>
+        <name>mn[c]</name>
+        <formula>C14H25NO11</formula>
+        <description>beta-1,4-mannose-N-acetylglucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>mn[l]</name>
+        <formula>C14H25NO11</formula>
+        <description>beta-1,4-mannose-N-acetylglucosamine</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2mn[l]</name>
+        <formula>C42H71N3O31</formula>
+        <description>de-Fuc, reducing GlcNAc removed, de-Sia, de-Gal form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nm[c]</name>
+        <formula>C58H97N5O41</formula>
+        <description>n2m2nmasn (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nm[l]</name>
+        <formula>C58H97N5O41</formula>
+        <description>n2m2nmasn (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmasn[l]</name>
+        <formula>C58H96N5O40X</formula>
+        <description>N-Acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminyl-R</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmn[c]</name>
+        <formula>C50H84N4O36</formula>
+        <description>reducing GlcNAc removed form of n2m2nmasn (w/o peptide)</description>
+    </metabolite>
+    <metabolite>
+        <name>n2m2nmn[l]</name>
+        <formula>C50H84N4O36</formula>
+        <description>reducing GlcNAc removed form of n2m2nmasn (w/o peptide)</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2fn2m2masn[e]</name>
+        <formula>C90H145N6O65X</formula>
+        <description>PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2fn2m2masn[l]</name>
+        <formula>C90H145N6O65X</formula>
+        <description>PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2m[c]</name>
+        <formula>C84H136N6O62</formula>
+        <description>de-Fuc form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2m[l]</name>
+        <formula>C84H136N6O62</formula>
+        <description>de-Fuc form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2masn[e]</name>
+        <formula>C84H135N6O61X</formula>
+        <description>de-Fuc form of PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2masn[l]</name>
+        <formula>C84H135N6O61X</formula>
+        <description>de-Fuc form of PA6</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2mn[c]</name>
+        <formula>C76H123N5O57</formula>
+        <description>de-Fuc, reducing GlcNAc removed form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+    <metabolite>
+        <name>s2l2n2m2mn[l]</name>
+        <formula>C76H123N5O57</formula>
+        <description>de-Fuc, reducing GlcNAc removed form of PA6 (w/o peptide linkage)</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>A_MANASE</id>
+        <name>alpha-mannosidase</name>
+        <reactant>2 h2o[c]</reactant>
+        <reactant>m2mn[c]</reactant>
+        <product>2 man[c]</product>
+        <product>mn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>A_MANASEly</id>
+        <name>alpha-mannosidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>m2mn[l]</reactant>
+        <product>2 man[l]</product>
+        <product>mn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHEXASE2ly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>3 h2o[l]</reactant>
+        <reactant>n2m2nmn[l]</reactant>
+        <product>m2mn[l]</product>
+        <product>3 acgam[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>AHEXASEly</id>
+        <name>beta-N-acetylhexosaminidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>n2m2mn[l]</reactant>
+        <product>m2mn[l]</product>
+        <product>2 acgam[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>B_MANNASEly</id>
+        <name>beta-mannosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>mn[l]</reactant>
+        <product>man[l]</product>
+        <product>acgam[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENGASE</id>
+        <name>endo-beta-N-acetylglucosaminidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>s2l2n2m2m[c]</reactant>
+        <product>acgam[c]</product>
+        <product>s2l2n2m2mn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENGASE2</id>
+        <name>endo-beta-N-acetylglucosaminidase</name>
+        <reactant>h2o[c]</reactant>
+        <reactant>n2m2nm[c]</reactant>
+        <product>acgam[c]</product>
+        <product>n2m2nmn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENGASE2ly</id>
+        <name>endo-beta-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>n2m2nm[l]</reactant>
+        <product>acgam[l]</product>
+        <product>n2m2nmn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>ENGASEly</id>
+        <name>endo-beta-N-acetylglucosaminidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>s2l2n2m2m[l]</reactant>
+        <product>acgam[l]</product>
+        <product>s2l2n2m2mn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCASEe</id>
+        <name>alpha-fucosidase, extracellular</name>
+        <reactant>h2o[e]</reactant>
+        <reactant>s2l2fn2m2masn[e]</reactant>
+        <product>fuc_L[e]</product>
+        <product>s2l2n2m2masn[e]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>FUCASEly</id>
+        <name>alpha-fucosidase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>s2l2fn2m2masn[l]</reactant>
+        <product>fuc_L[l]</product>
+        <product>s2l2n2m2masn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GALASE1ly</id>
+        <name>beta-galactosidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>l2n2m2mn[l]</reactant>
+        <product>n2m2mn[l]</product>
+        <product>2 gal[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GASNASE2ly</id>
+        <name>glycosylasparaginase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>n2m2nmasn[l]</reactant>
+        <product>Asn_X_Ser_Thr[l]</product>
+        <product>n2m2nm[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>GASNASEly</id>
+        <name>glycosylasparaginase, lysosomal</name>
+        <reactant>h2o[l]</reactant>
+        <reactant>s2l2n2m2masn[l]</reactant>
+        <product>Asn_X_Ser_Thr[l]</product>
+        <product>s2l2n2m2m[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAASE</id>
+        <name>sialidase</name>
+        <reactant>2 h2o[c]</reactant>
+        <reactant>s2l2n2m2mn[c]</reactant>
+        <product>2 acnam[c]</product>
+        <product>l2n2m2mn[c]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+    <reaction>
+        <id>SIAASEly</id>
+        <name>sialidase, lysosomal</name>
+        <reactant>2 h2o[l]</reactant>
+        <reactant>s2l2n2m2mn[l]</reactant>
+        <product>2 acnam[l]</product>
+        <product>l2n2m2mn[l]</product>
+        <reversible>false</reversible>
+        <subsystem>N-glycan degradation</subsystem>
+    </reaction>
+</reactions>
