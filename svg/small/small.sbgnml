@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <!-- BioNet layout in SBGN -->
+    <map version="http://identifiers.org/combine.specifications/sbgn.pd.level-1.version-1.3" id="map1" language="process description">
+        <glyph id="d0" class="compartment">
+            <label text="Alanine and aspartate metabolism" />
+            <bbox y="-133" x="211" h="704" w="794" />
+        </glyph>
+        <glyph id="d1" class="compartment">
+            <label text="Alkaloid synthesis" />
+            <bbox y="-571" x="211" h="358" w="794" />
+        </glyph>
+        <glyph id="d2" class="compartment">
+            <label text="Aminosugar metabolism" />
+            <bbox y="-571" x="-1006" h="1143" w="1137" />
+        </glyph>
+        <glyph id="d0-t0" class="compartment">
+            <bbox y="239" x="512" h="312" w="474" />
+        </glyph>
+        <glyph id="d0-t1" class="compartment">
+            <bbox y="92" x="745" h="106" w="240" />
+        </glyph>
+        <glyph id="d0-t2" class="compartment">
+            <bbox y="-113" x="512" h="312" w="193" />
+        </glyph>
+        <glyph id="d0-t3" class="compartment">
+            <bbox y="-113" x="231" h="664" w="240" />
+        </glyph>
+        <glyph id="d0-t4" class="compartment">
+            <bbox y="-113" x="745" h="165" w="240" />
+        </glyph>
+        <glyph id="d1-t0" class="compartment">
+            <bbox y="-551" x="414" h="318" w="571" />
+        </glyph>
+        <glyph id="d1-t1" class="compartment">
+            <bbox y="-551" x="231" h="318" w="143" />
+        </glyph>
+        <glyph id="d2-t0" class="compartment">
+            <bbox y="-551" x="-986" h="765" w="1097" />
+        </glyph>
+        <glyph id="d2-t1" class="compartment">
+            <bbox y="422" x="-785" h="129" w="227" />
+        </glyph>
+        <glyph id="d2-t2" class="compartment">
+            <bbox y="253" x="-785" h="129" w="227" />
+        </glyph>
+        <glyph id="d2-t3" class="compartment">
+            <bbox y="438" x="-216" h="113" w="328" />
+        </glyph>
+        <glyph id="d2-t4" class="compartment">
+            <bbox y="253" x="-517" h="298" w="261" />
+        </glyph>
+        <glyph id="d2-t5" class="compartment">
+            <bbox y="253" x="-216" h="144" w="328" />
+        </glyph>
+        <glyph id="d2-t6" class="compartment">
+            <bbox y="253" x="-986" h="298" w="160" />
+        </glyph>
+        <glyph id="d0t2r0" class="simple chemical">
+            <label text="ac[c]" />
+            <clone />
+            <bbox x="694.3654291" y="-54.87886759" w="23" h="11" />
+        </glyph>
+        <arc id="s69-d0t2r0" class="production" source="s69" target="d0t2r0">
+            <start x="611.2768659" y="-49.37886759" />
+            <next x="705.8654291" y="-49.37886759" />
+            <end x="705.8654291" y="-49.37886759" />
+        </arc>
+        <arc id="d0t2r0-s69" class="consumption" target="s69" source="d0t2r0">
+            <start x="705.8654291" y="-49.37886759" />
+            <next x="705.8654291" y="-49.37886759" />
+            <end x="611.2768659" y="-49.37886759" />
+        </arc>
+        <glyph id="d0t3r0" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="458.5490737" y="269.3108352" w="27" h="11" />
+        </glyph>
+        <arc id="d0t3r0-s17" class="consumption" target="s17" source="d0t3r0">
+            <start x="472.0490737" y="274.8108352" />
+            <next x="472.0490737" y="274.8108352" />
+            <next x="452.0007715" y="274.8108352" />
+            <next x="452.0007715" y="274.8108352" />
+            <next x="400.1318983" y="274.8108352" />
+            <next x="400.1318983" y="274.8108352" />
+            <next x="368.7248788" y="274.8108352" />
+            <next x="368.7248788" y="274.8108352" />
+            <end x="368.7248788" y="173.4490466" />
+        </arc>
+        <glyph id="d0t3r1" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="458.5490737" y="380.1349809" w="27" h="11" />
+        </glyph>
+        <arc id="d0t3r1-s29" class="consumption" target="s29" source="d0t3r1">
+            <start x="472.0490737" y="385.6349809" />
+            <next x="472.0490737" y="385.6349809" />
+            <next x="452.0007715" y="385.6349809" />
+            <next x="452.0007715" y="385.6349809" />
+            <next x="400.1318983" y="385.6349809" />
+            <next x="400.1318983" y="385.6349809" />
+            <end x="400.1318983" y="321.4429361" />
+        </arc>
+        <glyph id="d0t3r2" class="simple chemical">
+            <label text="gln_L[c]" />
+            <clone />
+            <bbox x="452.5490737" y="313.5559379" w="39" h="11" />
+        </glyph>
+        <arc id="d0t3r2-s29" class="consumption" target="s29" source="d0t3r2">
+            <start x="472.0490737" y="319.0559379" />
+            <next x="472.0490737" y="319.0559379" />
+            <next x="452.0007715" y="319.0559379" />
+            <next x="452.0007715" y="319.0559379" />
+            <next x="400.1318983" y="319.0559379" />
+            <next x="400.1318983" y="319.0559379" />
+            <end x="400.1318983" y="321.4429361" />
+        </arc>
+        <glyph id="d0t3r3" class="simple chemical">
+            <label text="glu_L[c]" />
+            <clone />
+            <bbox x="452.5490737" y="315.9429361" w="39" h="11" />
+        </glyph>
+        <arc id="s29-d0t3r3" class="production" source="s29" target="d0t3r3">
+            <start x="400.1318983" y="321.4429361" />
+            <next x="452.0007715" y="321.4429361" />
+            <next x="452.0007715" y="321.4429361" />
+            <next x="472.0490737" y="321.4429361" />
+            <end x="472.0490737" y="321.4429361" />
+        </arc>
+        <glyph id="d0t3r4" class="simple chemical">
+            <label text="glu_L[c]" />
+            <clone />
+            <bbox x="211.9694472" y="269.3108352" w="39" h="11" />
+        </glyph>
+        <arc id="s41-d0t3r4" class="production" source="s41" target="d0t3r4">
+            <start x="337.808594" y="319.0559379" />
+            <next x="337.808594" y="274.8108352" />
+            <next x="337.808594" y="274.8108352" />
+            <next x="291.6143538" y="274.8108352" />
+            <next x="291.6143538" y="274.8108352" />
+            <next x="231.4694472" y="274.8108352" />
+            <end x="231.4694472" y="274.8108352" />
+        </arc>
+        <arc id="d0t3r4-s41" class="consumption" target="s41" source="d0t3r4">
+            <start x="231.4694472" y="274.8108352" />
+            <next x="231.4694472" y="274.8108352" />
+            <next x="291.6143538" y="274.8108352" />
+            <next x="291.6143538" y="274.8108352" />
+            <next x="337.808594" y="274.8108352" />
+            <next x="337.808594" y="274.8108352" />
+            <end x="337.808594" y="319.0559379" />
+        </arc>
+        <glyph id="d0t3r5" class="simple chemical">
+            <label text="ac[c]" />
+            <clone />
+            <bbox x="219.9694472" y="380.1349809" w="23" h="11" />
+        </glyph>
+        <arc id="s55-d0t3r5" class="production" source="s55" target="d0t3r5">
+            <start x="337.808594" y="421.6968613" />
+            <next x="337.808594" y="385.6349809" />
+            <next x="337.808594" y="385.6349809" />
+            <next x="291.6143538" y="385.6349809" />
+            <next x="291.6143538" y="385.6349809" />
+            <next x="231.4694472" y="385.6349809" />
+            <end x="231.4694472" y="385.6349809" />
+        </arc>
+        <glyph id="d2t0r0" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="-999.9450556" y="22.5951182" w="27" h="11" />
+        </glyph>
+        <arc id="d2t0r0-s98" class="consumption" target="s98" source="d2t0r0">
+            <start x="-986.4450556" y="28.0951182" />
+            <next x="-986.4450556" y="28.0951182" />
+            <next x="-908.0225911" y="28.0951182" />
+            <next x="-908.0225911" y="28.0951182" />
+            <next x="-751.1776622" y="28.0951182" />
+            <next x="-751.1776622" y="28.0951182" />
+            <next x="-573.0098975" y="28.0951182" />
+            <next x="-573.0098975" y="28.0951182" />
+            <end x="-573.0098975" y="-29.29943502" />
+        </arc>
+        <glyph id="d2t0r1" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="-586.5098975" y="208.2212729" w="27" h="11" />
+        </glyph>
+        <arc id="d2t0r1-s116" class="consumption" target="s116" source="d2t0r1">
+            <start x="-573.0098975" y="213.7212729" />
+            <next x="-573.0098975" y="213.7212729" />
+            <next x="-573.0098975" y="133.9781733" />
+            <next x="-573.0098975" y="133.9781733" />
+            <next x="-573.0098975" y="92.41660026" />
+            <next x="-573.0098975" y="92.41660026" />
+            <next x="-573.0098975" y="49.66574306" />
+            <next x="-573.0098975" y="49.66574306" />
+            <next x="-538.8672605" y="49.66574306" />
+            <next x="-538.8672605" y="49.66574306" />
+            <next x="-538.8672605" y="28.0951182" />
+            <next x="-538.8672605" y="28.0951182" />
+            <end x="-432.7812099" y="28.0951182" />
+        </arc>
+        <glyph id="d2t0r2" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="-294.1428753" y="-557.3711996" w="27" h="11" />
+        </glyph>
+        <arc id="d2t0r2-s139" class="consumption" target="s139" source="d2t0r2">
+            <start x="-280.6428753" y="-551.8711996" />
+            <next x="-280.6428753" y="-551.8711996" />
+            <next x="-280.6428753" y="-497.186023" />
+            <next x="-280.6428753" y="-497.186023" />
+            <next x="-280.6428753" y="-387.8156698" />
+            <next x="-280.6428753" y="-387.8156698" />
+            <next x="-280.6428753" y="-278.4453166" />
+            <next x="-280.6428753" y="-278.4453166" />
+            <next x="-432.7812099" y="-278.4453166" />
+            <next x="-432.7812099" y="-278.4453166" />
+            <end x="-538.8672605" y="-141.6146383" />
+        </arc>
+        <glyph id="d2t0r3" class="simple chemical">
+            <label text="atp[c]" />
+            <clone />
+            <bbox x="-294.1428753" y="208.2212729" w="27" h="11" />
+        </glyph>
+        <arc id="d2t0r3-s163" class="consumption" target="s163" source="d2t0r3">
+            <start x="-280.6428753" y="213.7212729" />
+            <next x="-280.6428753" y="213.7212729" />
+            <next x="-280.6428753" y="133.9781733" />
+            <next x="-280.6428753" y="133.9781733" />
+            <next x="-280.6428753" y="92.41660026" />
+            <next x="-280.6428753" y="92.41660026" />
+            <next x="-280.6428753" y="49.66574306" />
+            <next x="-280.6428753" y="49.66574306" />
+            <next x="-280.6428753" y="28.0951182" />
+            <next x="-280.6428753" y="28.0951182" />
+            <next x="-280.6428753" y="-29.29943502" />
+            <next x="-280.6428753" y="-29.29943502" />
+            <end x="-188.9052315" y="-29.29943502" />
+        </arc>
+        <glyph id="d2t0r4" class="simple chemical">
+            <label text="gln_L[c]" />
+            <clone />
+            <bbox x="13.54698268" y="208.2212729" w="39" h="11" />
+        </glyph>
+        <arc id="d2t0r4-s162" class="consumption" target="s162" source="d2t0r4">
+            <start x="33.04698268" y="213.7212729" />
+            <next x="33.04698268" y="213.7212729" />
+            <next x="33.04698268" y="133.9781733" />
+            <next x="33.04698268" y="133.9781733" />
+            <end x="-12.0951472" y="92.41660026" />
+        </arc>
+        <glyph id="d2t0r5" class="simple chemical">
+            <label text="glu_L[c]" />
+            <clone />
+            <bbox x="91.96944716" y="86.91660026" w="39" h="11" />
+        </glyph>
+        <arc id="s162-d2t0r5" class="production" source="s162" target="d2t0r5">
+            <start x="-12.0951472" y="92.41660026" />
+            <next x="33.04698268" y="92.41660026" />
+            <next x="33.04698268" y="92.41660026" />
+            <next x="111.4694472" y="92.41660026" />
+            <end x="111.4694472" y="92.41660026" />
+        </arc>
+        <glyph id="d2t0r6" class="simple chemical">
+            <label text="ac[c]" />
+            <clone />
+            <bbox x="-550.3672605" y="208.2212729" w="23" h="11" />
+        </glyph>
+        <arc id="s137-d2t0r6" class="production" source="s137" target="d2t0r6">
+            <start x="-432.7812099" y="133.9781733" />
+            <next x="-538.8672605" y="133.9781733" />
+            <next x="-538.8672605" y="133.9781733" />
+            <next x="-538.8672605" y="213.7212729" />
+            <end x="-538.8672605" y="213.7212729" />
+        </arc>
+        <glyph id="s0" class="phenotype">
+            <label text="AGTim" />
+            <bbox x="806.3546894" y="301.5242363" w="33" h="11" />
+        </glyph>
+        <glyph id="s1" class="simple chemical">
+            <label text="ala_L[m]" />
+            <bbox x="802.3546894" y="334.7532655" w="41" h="11" />
+        </glyph>
+        <glyph id="s2" class="simple chemical">
+            <label text="glx[m]" />
+            <bbox x="807.8546894" y="272.1146357" w="30" h="11" />
+        </glyph>
+        <glyph id="s3" class="simple chemical">
+            <label text="pyr[m]" />
+            <bbox x="732.0135575" y="272.1146357" w="31" h="11" />
+        </glyph>
+        <glyph id="s4" class="simple chemical">
+            <label text="gly[m]" />
+            <bbox x="884.3373536" y="272.1146357" w="30" h="11" />
+        </glyph>
+        <glyph id="s5" class="phenotype">
+            <label text="AGTix" />
+            <bbox x="855.3922842" y="115.5962172" w="29" h="11" />
+        </glyph>
+        <glyph id="s6" class="simple chemical">
+            <label text="ala_L[x]" />
+            <bbox x="767.1465752" y="165.3377918" w="38" h="11" />
+        </glyph>
+        <glyph id="s7" class="simple chemical">
+            <label text="glx[x]" />
+            <bbox x="824.1823962" y="165.3377918" w="27" h="11" />
+        </glyph>
+        <glyph id="s8" class="simple chemical">
+            <label text="gly[x]" />
+            <bbox x="888.6021723" y="165.3377918" w="27" h="11" />
+        </glyph>
+        <glyph id="s9" class="simple chemical">
+            <label text="pyr[x]" />
+            <bbox x="936.0591168" y="165.3377918" w="28" h="11" />
+        </glyph>
+        <glyph id="s10" class="phenotype">
+            <label text="ALAR" />
+            <bbox x="597.2768659" y="31.65336108" w="28" h="11" />
+        </glyph>
+        <glyph id="s11" class="simple chemical">
+            <label text="ala_L[c]" />
+            <bbox x="644.6898145" y="4.251488666" w="38" h="11" />
+        </glyph>
+        <glyph id="s12" class="simple chemical">
+            <label text="ala_D[c]" />
+            <bbox x="538.4903682" y="31.65336108" w="39" h="11" />
+        </glyph>
+        <glyph id="s13" class="phenotype">
+            <label text="ARGSL" />
+            <bbox x="288.9015745" y="-32.55880379" w="35" h="11" />
+        </glyph>
+        <glyph id="s14" class="simple chemical">
+            <label text="argsuc[c]" />
+            <bbox x="315.308594" y="-32.55880379" w="45" h="11" />
+        </glyph>
+        <glyph id="s15" class="simple chemical">
+            <label text="fum[c]" />
+            <bbox x="259.9852896" y="-77.91176995" w="31" h="11" />
+        </glyph>
+        <glyph id="s16" class="simple chemical">
+            <label text="arg_L[c]" />
+            <bbox x="255.9852896" y="12.79416236" w="39" h="11" />
+        </glyph>
+        <glyph id="s17" class="phenotype">
+            <label text="ARGSS" />
+            <bbox x="350.7248788" y="167.9490466" w="36" h="11" />
+        </glyph>
+        <glyph id="s19" class="simple chemical">
+            <label text="asp_L[c]" />
+            <bbox x="348.2248788" y="315.9429361" w="41" h="11" />
+        </glyph>
+        <glyph id="s20" class="simple chemical">
+            <label text="citr_L[c]" />
+            <bbox x="318.308594" y="220.4630074" w="39" h="11" />
+        </glyph>
+        <glyph id="s21" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="328.808594" y="54.56663118" w="18" h="11" />
+        </glyph>
+        <glyph id="s22" class="simple chemical">
+            <label text="amp[c]" />
+            <bbox x="383.6318983" y="167.9490466" w="33" h="11" />
+        </glyph>
+        <glyph id="s23" class="simple chemical">
+            <label text="ppi[c]" />
+            <clone />
+            <bbox x="324.308594" y="130.9505742" w="27" h="11" />
+        </glyph>
+        <glyph id="s24" class="phenotype">
+            <label text="ASNNm" />
+            <bbox x="843.1667877" y="474.9262969" w="37" h="11" />
+        </glyph>
+        <glyph id="s25" class="simple chemical">
+            <label text="h2o[m]" />
+            <bbox x="845.1667877" y="508.1553261" w="33" h="11" />
+        </glyph>
+        <glyph id="s26" class="simple chemical">
+            <label text="asn_L[m]" />
+            <bbox x="915.0079196" y="508.1553261" w="44" h="11" />
+        </glyph>
+        <glyph id="s27" class="simple chemical">
+            <label text="asp_L[m]" />
+            <bbox x="725.5135575" y="440.1694962" w="44" h="11" />
+        </glyph>
+        <glyph id="s28" class="simple chemical">
+            <label text="nh4[m]" />
+            <bbox x="768.6841235" y="508.1553261" w="33" h="11" />
+        </glyph>
+        <glyph id="s29" class="phenotype">
+            <label text="ASNS1" />
+            <bbox x="383.6318983" y="315.9429361" w="33" h="11" />
+        </glyph>
+        <glyph id="s30" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="416.5389178" y="315.9429361" w="30" h="11" />
+        </glyph>
+        <glyph id="s32" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="422.5389178" y="237.1719949" w="18" h="11" />
+        </glyph>
+        <glyph id="s34" class="simple chemical">
+            <label text="ppi[c]" />
+            <clone />
+            <bbox x="418.0389178" y="399.4878738" w="27" h="11" />
+        </glyph>
+        <glyph id="s35" class="simple chemical">
+            <label text="asn_L[c]" />
+            <bbox x="379.6318983" y="417.3903604" w="41" h="11" />
+        </glyph>
+        <glyph id="s36" class="phenotype">
+            <label text="ASPNATm" />
+            <bbox x="723.0135575" y="403.884924" w="49" h="11" />
+        </glyph>
+        <glyph id="s37" class="simple chemical">
+            <label text="accoa[m]" />
+            <bbox x="800.8546894" y="403.884924" w="44" h="11" />
+        </glyph>
+        <glyph id="s38" class="simple chemical">
+            <label text="h[m]" />
+            <clone />
+            <bbox x="660.0308933" y="440.1694962" w="22" h="11" />
+        </glyph>
+        <glyph id="s39" class="simple chemical">
+            <label text="coa[m]" />
+            <bbox x="731.0135575" y="369.8920091" w="33" h="11" />
+        </glyph>
+        <glyph id="s40" class="simple chemical">
+            <label text="Nacasp[m]" />
+            <bbox x="797.3546894" y="440.1694962" w="51" h="11" />
+        </glyph>
+        <glyph id="s41" class="phenotype">
+            <label text="ASPTA" />
+            <bbox x="321.308594" y="313.5559379" w="33" h="11" />
+        </glyph>
+        <glyph id="s42" class="simple chemical">
+            <label text="akg[c]" />
+            <bbox x="291.9015745" y="228.8175011" w="29" h="11" />
+        </glyph>
+        <glyph id="s43" class="simple chemical">
+            <label text="oaa[c]" />
+            <bbox x="291.9015745" y="313.5559379" w="29" h="11" />
+        </glyph>
+        <glyph id="s44" class="phenotype">
+            <label text="ASPTAm" />
+            <bbox x="612.3603273" y="474.9262969" w="42" h="11" />
+        </glyph>
+        <glyph id="s45" class="simple chemical">
+            <label text="akg[m]" />
+            <bbox x="540.3776631" y="508.1553261" w="33" h="11" />
+        </glyph>
+        <glyph id="s46" class="simple chemical">
+            <label text="glu_L[m]" />
+            <bbox x="688.8429916" y="508.1553261" w="42" h="11" />
+        </glyph>
+        <glyph id="s47" class="simple chemical">
+            <label text="oaa[m]" />
+            <bbox x="616.8603273" y="508.1553261" w="33" h="11" />
+        </glyph>
+        <glyph id="s48" class="phenotype">
+            <label text="DASPO1p" />
+            <bbox x="840.8288361" y="-83.8521325" w="47" h="11" />
+        </glyph>
+        <glyph id="s49" class="simple chemical">
+            <label text="o2[x]" />
+            <bbox x="805.1253288" y="12.31370421" w="24" h="11" />
+        </glyph>
+        <glyph id="s50" class="simple chemical">
+            <label text="h2o[x]" />
+            <bbox x="829.7273797" y="12.31370421" w="30" h="11" />
+        </glyph>
+        <glyph id="s51" class="simple chemical">
+            <label text="asp_D[x]" />
+            <bbox x="865.3304709" y="12.31370421" w="42" h="11" />
+        </glyph>
+        <glyph id="s52" class="simple chemical">
+            <label text="h2o2[x]" />
+            <bbox x="770.8231887" y="12.31370421" w="35" h="11" />
+        </glyph>
+        <glyph id="s53" class="simple chemical">
+            <label text="nh4[x]" />
+            <bbox x="930.9348997" y="12.31370421" w="30" h="11" />
+        </glyph>
+        <glyph id="s54" class="simple chemical">
+            <label text="oaa[x]" />
+            <bbox x="903.0327894" y="12.31370421" w="29" h="11" />
+        </glyph>
+        <glyph id="s55" class="phenotype">
+            <label text="NACASPAH" />
+            <bbox x="309.808594" y="416.1968613" w="56" h="11" />
+        </glyph>
+        <glyph id="s56" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="291.4015745" y="505.7092945" w="30" h="11" />
+        </glyph>
+        <glyph id="s57" class="simple chemical">
+            <label text="Nacasp[c]" />
+            <bbox x="282.4015745" y="409.0358666" w="48" h="11" />
+        </glyph>
+        <glyph id="s59" class="phenotype">
+            <label text="r0127" />
+            <bbox x="355.7248788" y="417.3903604" w="26" h="11" />
+        </glyph>
+        <glyph id="s60" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="338.5121037" y="500.935298" w="30" h="11" />
+        </glyph>
+        <glyph id="s61" class="simple chemical">
+            <label text="nh4[c]" />
+            <clone />
+            <bbox x="369.4283885" y="500.935298" w="30" h="11" />
+        </glyph>
+        <glyph id="s62" class="phenotype">
+            <label text="RE1473C" />
+            <bbox x="589.7768659" y="116.7433859" w="43" h="11" />
+        </glyph>
+        <glyph id="s63" class="simple chemical">
+            <label text="gthrd[c]" />
+            <bbox x="538.9903682" y="116.7433859" w="38" h="11" />
+        </glyph>
+        <glyph id="s64" class="simple chemical">
+            <label text="cgly[c]" />
+            <bbox x="541.9903682" y="155.6828888" w="32" h="11" />
+        </glyph>
+        <glyph id="s65" class="simple chemical">
+            <label text="CE0469[c]" />
+            <bbox x="533.9903682" y="74.43874081" w="48" h="11" />
+        </glyph>
+        <glyph id="s66" class="phenotype">
+            <label text="RE2031M" />
+            <bbox x="800.8546894" y="369.8920091" w="44" h="11" />
+        </glyph>
+        <glyph id="s67" class="simple chemical">
+            <label text="h[m]" />
+            <clone />
+            <bbox x="888.3373536" y="334.7532655" w="22" h="11" />
+        </glyph>
+        <glyph id="s68" class="simple chemical">
+            <label text="CE1554[m]" />
+            <bbox x="721.5135575" y="334.7532655" w="52" h="11" />
+        </glyph>
+        <glyph id="s69" class="phenotype">
+            <label text="RE2642C" />
+            <bbox x="589.7768659" y="-54.87886759" w="43" h="11" />
+        </glyph>
+        <glyph id="s70" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="542.9903682" y="-80.35780159" w="30" h="11" />
+        </glyph>
+        <glyph id="s71" class="simple chemical">
+            <label text="CE1554[c]" />
+            <bbox x="533.9903682" y="-25.07332216" w="48" h="11" />
+        </glyph>
+        <glyph id="s72" class="phenotype">
+            <label text="COKECBESr" />
+            <bbox x="569.3407563" y="-335.7096645" w="61" h="11" />
+        </glyph>
+        <glyph id="s73" class="simple chemical">
+            <label text="h2o[r]" />
+            <clone />
+            <bbox x="654.3924465" y="-273.4468918" w="28" h="11" />
+        </glyph>
+        <glyph id="s74" class="simple chemical">
+            <label text="coke[r]" />
+            <bbox x="611.948942" y="-273.4468918" w="33" h="11" />
+        </glyph>
+        <glyph id="s75" class="simple chemical">
+            <label text="h[r]" />
+            <clone />
+            <bbox x="567.5905645" y="-273.4468918" w="17" h="11" />
+        </glyph>
+        <glyph id="s76" class="simple chemical">
+            <label text="bz[r]" />
+            <bbox x="531.0846079" y="-273.4468918" w="22" h="11" />
+        </glyph>
+        <glyph id="s77" class="simple chemical">
+            <label text="egme[r]" />
+            <bbox x="581.3407563" y="-397.9724373" w="37" h="11" />
+        </glyph>
+        <glyph id="s78" class="phenotype">
+            <label text="ECGISOr" />
+            <bbox x="799.6493625" y="-460.2352101" w="43" h="11" />
+        </glyph>
+        <glyph id="s79" class="simple chemical">
+            <label text="ecgon[r]" />
+            <bbox x="675.3813009" y="-522.4979828" w="40" h="11" />
+        </glyph>
+        <glyph id="s80" class="simple chemical">
+            <label text="pecgon[r]" />
+            <bbox x="798.1493625" y="-397.9724373" w="46" h="11" />
+        </glyph>
+        <glyph id="s81" class="phenotype">
+            <label text="EGMESTr" />
+            <bbox x="493.1753077" y="-460.2352101" w="46" h="11" />
+        </glyph>
+        <glyph id="s82" class="simple chemical">
+            <label text="h2o[r]" />
+            <clone />
+            <bbox x="475.1864533" y="-397.9724373" w="28" h="11" />
+        </glyph>
+        <glyph id="s83" class="simple chemical">
+            <label text="h[r]" />
+            <clone />
+            <bbox x="445.0611655" y="-397.9724373" w="17" h="11" />
+        </glyph>
+        <glyph id="s84" class="simple chemical">
+            <label text="meoh[r]" />
+            <bbox x="527.3630475" y="-397.9724373" w="37" h="11" />
+        </glyph>
+        <glyph id="s85" class="phenotype">
+            <label text="NMPTRCOX" />
+            <bbox x="299.889695" y="-399.9000773" w="57" h="11" />
+        </glyph>
+        <glyph id="s86" class="simple chemical">
+            <label text="o2[c]" />
+            <bbox x="262.0975343" y="-461.5845581" w="24" h="11" />
+        </glyph>
+        <glyph id="s87" class="simple chemical">
+            <label text="nmptrc[c]" />
+            <bbox x="251.0975343" y="-399.9000773" w="46" h="11" />
+        </glyph>
+        <glyph id="s88" class="simple chemical">
+            <label text="h2o2[c]" />
+            <bbox x="256.5975343" y="-333.5892605" w="35" h="11" />
+        </glyph>
+        <glyph id="s89" class="simple chemical">
+            <label text="nh4[c]" />
+            <clone />
+            <bbox x="259.0975343" y="-273.4468918" w="30" h="11" />
+        </glyph>
+        <glyph id="s90" class="simple chemical">
+            <label text="1mpyr[c]" />
+            <bbox x="253.0975343" y="-522.4979828" w="42" h="11" />
+        </glyph>
+        <glyph id="s91" class="phenotype">
+            <label text="PECGONCOATr" />
+            <bbox x="784.1493625" y="-335.7096645" w="74" h="11" />
+        </glyph>
+        <glyph id="s92" class="simple chemical">
+            <label text="atp[r]" />
+            <bbox x="892.3545882" y="-273.4468918" w="26" h="11" />
+        </glyph>
+        <glyph id="s93" class="simple chemical">
+            <label text="h[r]" />
+            <clone />
+            <bbox x="710.6314928" y="-273.4468918" w="17" h="11" />
+        </glyph>
+        <glyph id="s94" class="simple chemical">
+            <label text="coa[r]" />
+            <bbox x="929.1389844" y="-273.4468918" w="28" h="11" />
+        </glyph>
+        <glyph id="s95" class="simple chemical">
+            <label text="amp[r]" />
+            <bbox x="740.3363348" y="-273.4468918" w="31" h="11" />
+        </glyph>
+        <glyph id="s96" class="simple chemical">
+            <label text="ppi[r]" />
+            <bbox x="781.7002852" y="-273.4468918" w="26" h="11" />
+        </glyph>
+        <glyph id="s97" class="simple chemical">
+            <label text="pecgoncoa[r]" />
+            <bbox x="826.3542045" y="-273.4468918" w="63" h="11" />
+        </glyph>
+        <glyph id="s98" class="phenotype">
+            <label text="ACGALK" />
+            <bbox x="-594.5098975" y="-34.79943502" w="43" h="11" />
+        </glyph>
+        <glyph id="s99" class="simple chemical">
+            <label text="acgal[c]" />
+            <bbox x="-592.0098975" y="118.08778" w="38" h="11" />
+        </glyph>
+        <glyph id="s100" class="simple chemical">
+            <label text="adp[c]" />
+            <bbox x="-492.8982659" y="-34.79943502" w="30" h="11" />
+        </glyph>
+        <glyph id="s101" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-582.0098975" y="-70.9184211" w="18" h="11" />
+        </glyph>
+        <glyph id="s102" class="simple chemical">
+            <label text="acgal1p[c]" />
+            <bbox x="-720.6672666" y="-34.79943502" w="49" h="11" />
+        </glyph>
+        <glyph id="s103" class="phenotype">
+            <label text="ACGALK2" />
+            <bbox x="-720.1672666" y="118.08778" w="48" h="11" />
+        </glyph>
+        <glyph id="s104" class="simple chemical">
+            <label text="itp[c]" />
+            <clone />
+            <bbox x="-708.1672666" y="157.6702305" w="24" h="11" />
+        </glyph>
+        <glyph id="s105" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-627.1269535" y="157.6702305" w="18" h="11" />
+        </glyph>
+        <glyph id="s106" class="simple chemical">
+            <label text="idp[c]" />
+            <clone />
+            <bbox x="-787.7075797" y="157.6702305" w="27" h="11" />
+        </glyph>
+        <glyph id="s107" class="phenotype">
+            <label text="ACGAM2E" />
+            <bbox x="-660.198272" y="-91.20442698" w="50" h="11" />
+        </glyph>
+        <glyph id="s108" class="simple chemical">
+            <label text="acgam[c]" />
+            <clone />
+            <bbox x="-657.198272" y="22.5951182" w="44" h="11" />
+        </glyph>
+        <glyph id="s109" class="simple chemical">
+            <label text="acmana[c]" />
+            <bbox x="-659.698272" y="-147.1146383" w="49" h="11" />
+        </glyph>
+        <glyph id="s110" class="phenotype">
+            <label text="ACGAM6PSi" />
+            <bbox x="-244.0122093" y="86.91660026" w="59" h="11" />
+        </glyph>
+        <glyph id="s111" class="simple chemical">
+            <label text="accoa[c]" />
+            <bbox x="-234.5122093" y="41.39678219" w="40" h="11" />
+        </glyph>
+        <glyph id="s112" class="simple chemical">
+            <label text="gam6p[c]" />
+            <bbox x="-113.3548402" y="86.91660026" w="44" h="11" />
+        </glyph>
+        <glyph id="s113" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-145.4718962" y="41.39678219" w="18" h="11" />
+        </glyph>
+        <glyph id="s114" class="simple chemical">
+            <label text="coa[c]" />
+            <bbox x="-308.2719022" y="41.39678219" w="29" h="11" />
+        </glyph>
+        <glyph id="s115" class="simple chemical">
+            <label text="acgam6p[c]" />
+            <bbox x="-460.2812099" y="86.91660026" w="55" h="11" />
+        </glyph>
+        <glyph id="s116" class="phenotype">
+            <label text="ACGAMK" />
+            <bbox x="-455.2812099" y="22.5951182" w="45" h="11" />
+        </glyph>
+        <glyph id="s117" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-363.7408968" y="22.5951182" w="18" h="11" />
+        </glyph>
+        <glyph id="s118" class="phenotype">
+            <label text="ACGAMPM" />
+            <bbox x="-538.5409029" y="86.91660026" w="53" h="11" />
+        </glyph>
+        <glyph id="s119" class="simple chemical">
+            <label text="acgam1p[c]" />
+            <bbox x="-662.698272" y="86.91660026" w="55" h="11" />
+        </glyph>
+        <glyph id="s120" class="phenotype">
+            <label text="ACNAM9PL" />
+            <bbox x="-505.8982659" y="-307.4235628" w="56" h="11" />
+        </glyph>
+        <glyph id="s121" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-570.938579" y="-349.4799165" w="30" h="11" />
+        </glyph>
+        <glyph id="s122" class="simple chemical">
+            <label text="acmanap[c]" />
+            <bbox x="-505.3982659" y="-227.2691006" w="55" h="11" />
+        </glyph>
+        <glyph id="s123" class="simple chemical">
+            <label text="pep[c]" />
+            <bbox x="-492.8982659" y="-349.4799165" w="30" h="11" />
+        </glyph>
+        <glyph id="s124" class="simple chemical">
+            <label text="pi[c]" />
+            <clone />
+            <bbox x="-409.138573" y="-349.4799165" w="21" h="11" />
+        </glyph>
+        <glyph id="s125" class="simple chemical">
+            <label text="acnamp[c]" />
+            <bbox x="-580.938579" y="-307.4235628" w="50" h="11" />
+        </glyph>
+        <glyph id="s126" class="phenotype">
+            <label text="ACNAM9PL2" />
+            <bbox x="-508.3982659" y="-393.020612" w="61" h="11" />
+        </glyph>
+        <glyph id="s127" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-609.9587356" y="-440.024772" w="30" h="11" />
+        </glyph>
+        <glyph id="s128" class="simple chemical">
+            <label text="man6p[c]" />
+            <bbox x="-459.6587295" y="-440.024772" w="44" h="11" />
+        </glyph>
+        <glyph id="s129" class="simple chemical">
+            <label text="pi[c]" />
+            <clone />
+            <bbox x="-527.4184225" y="-440.024772" w="21" h="11" />
+        </glyph>
+        <glyph id="s130" class="simple chemical">
+            <label text="kdnp[c]" />
+            <bbox x="-377.6184164" y="-440.024772" w="36" h="11" />
+        </glyph>
+        <glyph id="s131" class="phenotype">
+            <label text="ACNAMPH" />
+            <bbox x="-660.698272" y="-307.4235628" w="51" h="11" />
+        </glyph>
+        <glyph id="s132" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-650.198272" y="-348.4903552" w="30" h="11" />
+        </glyph>
+        <glyph id="s133" class="simple chemical">
+            <label text="pi[c]" />
+            <clone />
+            <bbox x="-723.7385851" y="-348.4903552" w="21" h="11" />
+        </glyph>
+        <glyph id="s134" class="simple chemical">
+            <label text="acnam[c]" />
+            <bbox x="-657.198272" y="-262.893306" w="44" h="11" />
+        </glyph>
+        <glyph id="s135" class="phenotype">
+            <label text="ACNMLr" />
+            <bbox x="-655.198272" y="-221.331733" w="40" h="11" />
+        </glyph>
+        <glyph id="s136" class="simple chemical">
+            <label text="pyr[c]" />
+            <bbox x="-727.2385851" y="-221.331733" w="28" h="11" />
+        </glyph>
+        <glyph id="s137" class="phenotype">
+            <label text="AGDC" />
+            <bbox x="-447.2812099" y="128.4781733" w="29" h="11" />
+        </glyph>
+        <glyph id="s138" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-447.7812099" y="164.1023787" w="30" h="11" />
+        </glyph>
+        <glyph id="s139" class="phenotype">
+            <label text="AMANK" />
+            <bbox x="-557.3672605" y="-147.1146383" w="37" h="11" />
+        </glyph>
+        <glyph id="s140" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-547.8672605" y="-112.4799941" w="18" h="11" />
+        </glyph>
+        <glyph id="s141" class="phenotype">
+            <label text="CHTNASE" />
+            <bbox x="-689.9211854" y="450.9598544" w="48" h="11" />
+        </glyph>
+        <glyph id="s142" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-613.5665285" y="512.7075814" w="30" h="11" />
+        </glyph>
+        <glyph id="s143" class="simple chemical">
+            <label text="chtn[c]" />
+            <bbox x="-682.4211854" y="512.7075814" w="33" h="11" />
+        </glyph>
+        <glyph id="s144" class="simple chemical">
+            <label text="acgam[c]" />
+            <clone />
+            <bbox x="-761.398993" y="512.7075814" w="44" h="11" />
+        </glyph>
+        <glyph id="s145" class="phenotype">
+            <label text="CHTNASEe" />
+            <bbox x="-692.9587508" y="281.884891" w="54" h="11" />
+        </glyph>
+        <glyph id="s146" class="simple chemical">
+            <label text="h2o[e]" />
+            <clone />
+            <bbox x="-613.5665285" y="343.632618" w="30" h="11" />
+        </glyph>
+        <glyph id="s147" class="simple chemical">
+            <label text="chtn[e]" />
+            <clone />
+            <bbox x="-682.4587508" y="343.632618" w="33" h="11" />
+        </glyph>
+        <glyph id="s148" class="simple chemical">
+            <label text="acgam[e]" />
+            <bbox x="-761.398993" y="343.632618" w="44" h="11" />
+        </glyph>
+        <glyph id="s149" class="phenotype">
+            <label text="CMPSAS" />
+            <bbox x="-734.7385851" y="-262.893306" w="43" h="11" />
+        </glyph>
+        <glyph id="s150" class="simple chemical">
+            <label text="ctp[c]" />
+            <bbox x="-805.9982781" y="-262.893306" w="27" h="11" />
+        </glyph>
+        <glyph id="s151" class="simple chemical">
+            <label text="ppi[c]" />
+            <clone />
+            <bbox x="-805.9982781" y="-228.7534425" w="27" h="11" />
+        </glyph>
+        <glyph id="s152" class="simple chemical">
+            <label text="cmpacna[c]" />
+            <bbox x="-819.9982781" y="-303.9600984" w="55" h="11" />
+        </glyph>
+        <glyph id="s153" class="phenotype">
+            <label text="CMPSASn" />
+            <bbox x="-82.10885303" y="463.0129885" w="49" h="11" />
+        </glyph>
+        <glyph id="s154" class="simple chemical">
+            <label text="acnam[n]" />
+            <bbox x="-192.9661022" y="516.0248985" w="44" h="11" />
+        </glyph>
+        <glyph id="s155" class="simple chemical">
+            <label text="ctp[n]" />
+            <bbox x="-115.7848398" y="516.0248985" w="28" h="11" />
+        </glyph>
+        <glyph id="s156" class="simple chemical">
+            <label text="cmpacna[n]" />
+            <bbox x="-29.76373765" y="516.0248985" w="56" h="11" />
+        </glyph>
+        <glyph id="s157" class="simple chemical">
+            <label text="ppi[n]" />
+            <bbox x="58.4185798" y="516.0248985" w="28" h="11" />
+        </glyph>
+        <glyph id="s158" class="phenotype">
+            <label text="G6PDA" />
+            <bbox x="-108.3548402" y="128.4781733" w="34" h="11" />
+        </glyph>
+        <glyph id="s159" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-145.3749967" y="165.5867206" w="30" h="11" />
+        </glyph>
+        <glyph id="s160" class="simple chemical">
+            <label text="nh4[c]" />
+            <clone />
+            <bbox x="-66.11530374" y="165.5867206" w="30" h="11" />
+        </glyph>
+        <glyph id="s161" class="simple chemical">
+            <label text="f6p[c]" />
+            <bbox x="52.44516589" y="86.91660026" w="27" h="11" />
+        </glyph>
+        <glyph id="s162" class="phenotype">
+            <label text="GF6PTA" />
+            <bbox x="-31.5951472" y="86.91660026" w="39" h="11" />
+        </glyph>
+        <glyph id="s163" class="phenotype">
+            <label text="HEX10" />
+            <bbox x="-204.9052315" y="-34.79943502" w="32" h="11" />
+        </glyph>
+        <glyph id="s164" class="simple chemical">
+            <label text="gam[c]" />
+            <bbox x="-205.4052315" y="-89.72008509" w="33" h="11" />
+        </glyph>
+        <glyph id="s165" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-197.9052315" y="-1.649132728" w="18" h="11" />
+        </glyph>
+        <glyph id="s166" class="phenotype">
+            <label text="KDNH" />
+            <bbox x="-374.1184164" y="-479.1124419" w="29" h="11" />
+        </glyph>
+        <glyph id="s167" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-296.5781033" y="-514.7366473" w="30" h="11" />
+        </glyph>
+        <glyph id="s168" class="simple chemical">
+            <label text="pi[c]" />
+            <clone />
+            <bbox x="-448.1587295" y="-514.7366473" w="21" h="11" />
+        </glyph>
+        <glyph id="s169" class="simple chemical">
+            <label text="kdn[c]" />
+            <bbox x="-374.6184164" y="-514.7366473" w="30" h="11" />
+        </glyph>
+        <glyph id="s170" class="phenotype">
+            <label text="UAG2EMAi" />
+            <bbox x="-784.8556411" y="-147.1146383" w="53" h="11" />
+        </glyph>
+        <glyph id="s171" class="simple chemical">
+            <label text="h2o[c]" />
+            <clone />
+            <bbox x="-773.3556411" y="-188.6762113" w="30" h="11" />
+        </glyph>
+        <glyph id="s172" class="simple chemical">
+            <label text="uacgam[c]" />
+            <bbox x="-783.3556411" y="-100.605259" w="50" h="11" />
+        </glyph>
+        <glyph id="s173" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-689.315328" y="-188.6762113" w="18" h="11" />
+        </glyph>
+        <glyph id="s174" class="simple chemical">
+            <label text="udp[c]" />
+            <bbox x="-852.6153341" y="-188.6762113" w="30" h="11" />
+        </glyph>
+        <glyph id="s175" class="phenotype">
+            <label text="UAG4E" />
+            <bbox x="-944.8494461" y="-100.605259" w="34" h="11" />
+        </glyph>
+        <glyph id="s176" class="simple chemical">
+            <label text="udpacgal[c]" />
+            <bbox x="-955.8494461" y="-34.79943502" w="56" h="11" />
+        </glyph>
+        <glyph id="s177" class="phenotype">
+            <label text="UAGALDP" />
+            <bbox x="-862.1153341" y="-34.79943502" w="49" h="11" />
+        </glyph>
+        <glyph id="s178" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-891.7323901" y="-74.87666615" w="18" h="11" />
+        </glyph>
+        <glyph id="s179" class="simple chemical">
+            <label text="utp[c]" />
+            <bbox x="-851.6153341" y="86.91660026" w="28" h="11" />
+        </glyph>
+        <glyph id="s180" class="simple chemical">
+            <label text="ppi[c]" />
+            <clone />
+            <bbox x="-818.192077" y="-74.87666615" w="27" h="11" />
+        </glyph>
+        <glyph id="s181" class="phenotype">
+            <label text="UAGDP" />
+            <bbox x="-776.3556411" y="86.91660026" w="36" h="11" />
+        </glyph>
+        <glyph id="s182" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-766.1362612" y="123.530367" w="18" h="11" />
+        </glyph>
+        <glyph id="s183" class="simple chemical">
+            <label text="ppi[c]" />
+            <clone />
+            <bbox x="-849.8959542" y="123.530367" w="27" h="11" />
+        </glyph>
+        <glyph id="s184" class="phenotype">
+            <label text="r0013" />
+            <bbox x="-426.2659314" y="327.7316395" w="26" h="11" />
+        </glyph>
+        <glyph id="s185" class="simple chemical">
+            <label text="h2o[l]" />
+            <bbox x="-484.8032088" y="362.6923086" w="27" h="11" />
+        </glyph>
+        <glyph id="s186" class="simple chemical">
+            <label text="HC00822[l]" />
+            <bbox x="-381.2286541" y="327.7316395" w="52" h="11" />
+        </glyph>
+        <glyph id="s187" class="simple chemical">
+            <label text="acgam[l]" />
+            <bbox x="-491.8032088" y="287.776589" w="41" h="11" />
+        </glyph>
+        <glyph id="s188" class="phenotype">
+            <label text="r0113" />
+            <bbox x="-77.90590113" y="283.3542819" w="26" h="11" />
+        </glyph>
+        <glyph id="s189" class="simple chemical">
+            <label text="h2o[r]" />
+            <clone />
+            <bbox x="-16.11860047" y="357.5336784" w="28" h="11" />
+        </glyph>
+        <glyph id="s190" class="simple chemical">
+            <label text="uacgam[r]" />
+            <bbox x="-88.90590113" y="357.5336784" w="48" h="11" />
+        </glyph>
+        <glyph id="s191" class="simple chemical">
+            <label text="h[r]" />
+            <clone />
+            <bbox x="-131.424546" y="357.5336784" w="17" h="11" />
+        </glyph>
+        <glyph id="s192" class="simple chemical">
+            <label text="udp[r]" />
+            <bbox x="-188.2902073" y="357.5336784" w="29" h="11" />
+        </glyph>
+        <glyph id="s193" class="simple chemical">
+            <label text="acmana[r]" />
+            <bbox x="36.66870019" y="357.5336784" w="48" h="11" />
+        </glyph>
+        <glyph id="s194" class="phenotype">
+            <label text="r0363" />
+            <bbox x="-104.3548402" y="-89.72008509" w="26" h="11" />
+        </glyph>
+        <glyph id="s195" class="simple chemical">
+            <label text="itp[c]" />
+            <clone />
+            <bbox x="-24.0951472" y="-123.8599486" w="24" h="11" />
+        </glyph>
+        <glyph id="s196" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-178.3951533" y="-123.8599486" w="18" h="11" />
+        </glyph>
+        <glyph id="s197" class="simple chemical">
+            <label text="idp[c]" />
+            <clone />
+            <bbox x="-104.8548402" y="-123.8599486" w="27" h="11" />
+        </glyph>
+        <glyph id="s198" class="phenotype">
+            <label text="r0364" />
+            <bbox x="-42.16646568" y="-3.133474622" w="26" h="11" />
+        </glyph>
+        <glyph id="s199" class="simple chemical">
+            <label text="datp[c]" />
+            <bbox x="32.3738474" y="-36.77855755" w="33" h="11" />
+        </glyph>
+        <glyph id="s200" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="39.8738474" y="-3.133474622" w="18" h="11" />
+        </glyph>
+        <glyph id="s201" class="simple chemical">
+            <label text="dadp[c]" />
+            <bbox x="30.8738474" y="31.50116957" w="36" h="11" />
+        </glyph>
+        <glyph id="s202" class="phenotype">
+            <label text="r0782" />
+            <bbox x="-876.0467866" y="384.979437" w="26" h="11" />
+        </glyph>
+        <glyph id="s203" class="simple chemical">
+            <label text="h[c]" />
+            <clone />
+            <bbox x="-944.1931191" y="338.3753318" w="18" h="11" />
+        </glyph>
+        <glyph id="s204" class="simple chemical">
+            <label text="nadh[c]" />
+            <bbox x="-953.1931191" y="384.979437" w="36" h="11" />
+        </glyph>
+        <glyph id="s205" class="simple chemical">
+            <label text="gdpddman[c]" />
+            <bbox x="-966.6931191" y="446.8963196" w="63" h="11" />
+        </glyph>
+        <glyph id="s206" class="simple chemical">
+            <label text="nad[c]" />
+            <bbox x="-950.1931191" y="506.8158834" w="30" h="11" />
+        </glyph>
+        <glyph id="s207" class="simple chemical">
+            <label text="gdpfuc[c]" />
+            <bbox x="-957.6931191" y="287.776589" w="45" h="11" />
+        </glyph>
+        <glyph id="s208" class="phenotype">
+            <label text="r1374" />
+            <bbox x="-426.2659314" y="469.7147651" w="26" h="11" />
+        </glyph>
+        <glyph id="s209" class="simple chemical">
+            <label text="h2o[e]" />
+            <clone />
+            <bbox x="-486.3032088" y="433.3271299" w="30" h="11" />
+        </glyph>
+        <glyph id="s210" class="simple chemical">
+            <label text="chtn[e]" />
+            <clone />
+            <bbox x="-487.8032088" y="506.8158834" w="33" h="11" />
+        </glyph>
+        <glyph id="s211" class="simple chemical">
+            <label text="HC00822[e]" />
+            <bbox x="-382.2286541" y="469.7147651" w="54" h="11" />
+        </glyph>
+        <glyph id="s212" class="phenotype">
+            <label text="r1375" />
+            <bbox x="-310.1913767" y="397.6529777" w="26" h="11" />
+        </glyph>
+        <arc id="f-s0-t0-e0" class="consumption" source="s1" target="s0">
+            <start x="806.2405362" y="334.7532655" />
+            <next x="822.7405362" y="340.2532655" />
+            <next x="822.7405362" y="307.0242363" />
+            <end x="806.2405362" y="301.5242363" />
+        </arc>
+        <arc id="f-s0-t0-e1" class="consumption" source="s2" target="s0">
+            <start x="806.2405362" y="272.1146357" />
+            <next x="822.7405362" y="277.6146357" />
+            <next x="822.7405362" y="307.0242363" />
+            <end x="806.2405362" y="301.5242363" />
+        </arc>
+        <arc id="f-s0-t0-e2" class="production" source="s0" target="s3">
+            <start x="807.2405362" y="301.5242363" />
+            <next x="818.174407" y="307.0242363" />
+            <next x="818.174407" y="292.1284646" />
+            <next x="746.7601462" y="292.1284646" />
+            <next x="746.7601462" y="277.6146357" />
+            <end x="731.2601462" y="272.1146357" />
+        </arc>
+        <arc id="f-s0-t0-e3" class="production" source="s0" target="s4">
+            <start x="807.7405362" y="301.5242363" />
+            <next x="827.3066654" y="307.0242363" />
+            <next x="827.3066654" y="292.1284646" />
+            <next x="898.7095109" y="292.1284646" />
+            <next x="898.7095109" y="277.6146357" />
+            <end x="883.7095109" y="272.1146357" />
+        </arc>
+        <arc id="f-s0-t1-e4" class="consumption" source="s6" target="s5">
+            <start x="771.4891046" y="166.1180518" />
+            <next x="785.9891046" y="171.6180518" />
+            <next x="785.9891046" y="119.1455672" />
+            <next x="869.8922842" y="119.1455672" />
+            <end x="855.3922842" y="115.5962172" />
+        </arc>
+        <arc id="f-s0-t1-e5" class="consumption" source="s7" target="s5">
+            <start x="822.5525139" y="166.1180518" />
+            <next x="837.0525139" y="171.6180518" />
+            <next x="837.0525139" y="123.0468672" />
+            <next x="869.8922842" y="123.0468672" />
+            <end x="855.3922842" y="115.5962172" />
+        </arc>
+        <arc id="f-s0-t1-e6" class="production" source="s5" target="s8">
+            <start x="856.3922842" y="115.5962172" />
+            <next x="869.8922842" y="123.0468672" />
+            <next x="902.7320546" y="123.0468672" />
+            <next x="902.7320546" y="171.6180518" />
+            <end x="889.2320546" y="166.1180518" />
+        </arc>
+        <arc id="f-s0-t1-e7" class="production" source="s5" target="s9">
+            <start x="855.8922842" y="115.5962172" />
+            <next x="869.8922842" y="119.1455672" />
+            <next x="950.2165874" y="119.1455672" />
+            <next x="950.2165874" y="171.6180518" />
+            <end x="936.2165874" y="166.1180518" />
+        </arc>
+        <arc id="f-s0-t2-e8" class="consumption" source="s11" target="s10">
+            <start x="649.6898145" y="4.251488666" />
+            <next x="661.9427162" y="9.751488666" />
+            <next x="661.9427162" y="37.15336108" />
+            <next x="610.6653815" y="37.15336108" />
+            <end x="596.6653815" y="31.65336108" />
+        </arc>
+        <arc id="b-s0-t2-e9" class="production" source="s10" target="s11">
+            <start x="596.6653815" y="31.65336108" />
+            <next x="610.6653815" y="37.15336108" />
+            <next x="661.9427162" y="37.15336108" />
+            <next x="661.9427162" y="9.751488666" />
+            <end x="649.6898145" y="4.251488666" />
+        </arc>
+        <arc id="f-s0-t2-e10" class="production" source="s10" target="s12">
+            <start x="591.1653815" y="31.65336108" />
+            <next x="610.6653815" y="37.15336108" />
+            <next x="557.6409485" y="37.15336108" />
+            <end x="538.1409485" y="31.65336108" />
+        </arc>
+        <arc id="b-s0-t2-e11" class="consumption" source="s12" target="s10">
+            <start x="538.1409485" y="31.65336108" />
+            <next x="557.6409485" y="37.15336108" />
+            <next x="610.6653815" y="37.15336108" />
+            <end x="591.1653815" y="31.65336108" />
+        </arc>
+        <arc id="f-s0-t3-e12" class="consumption" source="s14" target="s13">
+            <start x="319.969987" y="-32.55880379" />
+            <next x="337.469987" y="-27.05880379" />
+            <next x="306.2494467" y="-27.05880379" />
+            <end x="288.7494467" y="-32.55880379" />
+        </arc>
+        <arc id="b-s0-t3-e13" class="production" source="s13" target="s14">
+            <start x="288.7494467" y="-32.55880379" />
+            <next x="306.2494467" y="-27.05880379" />
+            <next x="337.469987" y="-27.05880379" />
+            <end x="319.969987" y="-32.55880379" />
+        </arc>
+        <arc id="f-s0-t3-e14" class="production" source="s13" target="s15">
+            <start x="290.7494467" y="-32.55880379" />
+            <next x="306.2494467" y="-29.44580201" />
+            <next x="290.6391765" y="-29.44580201" />
+            <next x="290.6391765" y="-72.41176995" />
+            <next x="275.023999" y="-72.41176995" />
+            <end x="259.523999" y="-77.91176995" />
+        </arc>
+        <arc id="b-s0-t3-e15" class="consumption" source="s15" target="s13">
+            <start x="259.523999" y="-77.91176995" />
+            <next x="275.023999" y="-72.41176995" />
+            <next x="290.6391765" y="-72.41176995" />
+            <next x="290.6391765" y="-29.44580201" />
+            <next x="306.2494467" y="-29.44580201" />
+            <end x="290.7494467" y="-32.55880379" />
+        </arc>
+        <arc id="f-s0-t3-e16" class="production" source="s13" target="s16">
+            <start x="286.7494467" y="-32.55880379" />
+            <next x="306.2494467" y="-24.67180557" />
+            <next x="290.6391765" y="-24.67180557" />
+            <next x="290.6391765" y="18.29416236" />
+            <next x="275.023999" y="18.29416236" />
+            <end x="255.523999" y="12.79416236" />
+        </arc>
+        <arc id="b-s0-t3-e17" class="consumption" source="s16" target="s13">
+            <start x="255.523999" y="12.79416236" />
+            <next x="275.023999" y="18.29416236" />
+            <next x="290.6391765" y="18.29416236" />
+            <next x="290.6391765" y="-24.67180557" />
+            <next x="306.2494467" y="-24.67180557" />
+            <end x="286.7494467" y="-32.55880379" />
+        </arc>
+        <arc id="f-s0-t3-e19" class="consumption" source="s19" target="s17">
+            <start x="350.6954347" y="315.9429361" />
+            <next x="368.6954347" y="321.4429361" />
+            <next x="368.6954347" y="173.4490466" />
+            <end x="350.6954347" y="167.9490466" />
+        </arc>
+        <arc id="f-s0-t3-e20" class="consumption" source="s20" target="s17">
+            <start x="319.469987" y="220.4630074" />
+            <next x="337.469987" y="225.9630074" />
+            <next x="353.0802572" y="225.9630074" />
+            <next x="353.0802572" y="180.6100412" />
+            <next x="368.6954347" y="180.6100412" />
+            <end x="350.6954347" y="167.9490466" />
+        </arc>
+        <arc id="f-s0-t3-e21" class="production" source="s17" target="s21">
+            <start x="359.6954347" y="167.9490466" />
+            <next x="368.6954347" y="171.0620483" />
+            <next x="353.0851645" y="171.0620483" />
+            <next x="353.0851645" y="60.06663118" />
+            <next x="337.469987" y="60.06663118" />
+            <end x="328.469987" y="54.56663118" />
+        </arc>
+        <arc id="f-s0-t3-e22" class="production" source="s17" target="s22">
+            <start x="352.1954347" y="167.9490466" />
+            <next x="368.6954347" y="173.4490466" />
+            <next x="399.915975" y="173.4490466" />
+            <end x="383.415975" y="167.9490466" />
+        </arc>
+        <arc id="f-s0-t3-e23" class="production" source="s17" target="s23">
+            <start x="355.1954347" y="167.9490466" />
+            <next x="368.6954347" y="175.8360448" />
+            <next x="351.1222258" y="175.8360448" />
+            <next x="351.1222258" y="136.4505742" />
+            <next x="337.469987" y="136.4505742" />
+            <end x="323.969987" y="130.9505742" />
+        </arc>
+        <arc id="f-s0-t3-e24" class="production" source="s17" target="s14">
+            <start x="346.1954347" y="167.9490466" />
+            <next x="368.6954347" y="166.2880519" />
+            <next x="355.0481033" y="166.2880519" />
+            <next x="355.0481033" y="-27.05880379" />
+            <next x="337.469987" y="-27.05880379" />
+            <end x="314.969987" y="-32.55880379" />
+        </arc>
+        <arc id="f-s0-t0-e25" class="consumption" source="s25" target="s24">
+            <start x="842.2079006" y="508.1553261" />
+            <next x="860.7079006" y="513.6553261" />
+            <next x="860.7079006" y="480.4262969" />
+            <end x="842.2079006" y="474.9262969" />
+        </arc>
+        <arc id="f-s0-t0-e26" class="consumption" source="s26" target="s24">
+            <start x="918.1882906" y="508.1553261" />
+            <next x="936.6882906" y="513.6553261" />
+            <next x="936.6882906" y="496.4678972" />
+            <next x="865.2740298" y="496.4678972" />
+            <next x="865.2740298" y="480.4262969" />
+            <end x="842.2079006" y="474.9262969" />
+        </arc>
+        <arc id="f-s0-t0-e27" class="production" source="s24" target="s27">
+            <start x="838.7079006" y="474.9262969" />
+            <next x="860.7079006" y="480.4262969" />
+            <next x="860.7079006" y="464.3846966" />
+            <next x="749.0432108" y="464.3846966" />
+            <next x="749.0432108" y="445.6694962" />
+            <end x="724.7601462" y="440.1694962" />
+        </arc>
+        <arc id="f-s0-t0-e28" class="production" source="s24" target="s28">
+            <start x="844.2079006" y="474.9262969" />
+            <next x="856.1417713" y="480.4262969" />
+            <next x="856.1417713" y="497.2317829" />
+            <next x="784.7389259" y="497.2317829" />
+            <next x="784.7389259" y="513.6553261" />
+            <end x="768.2389259" y="508.1553261" />
+        </arc>
+        <arc id="f-s0-t3-e29" class="consumption" source="s30" target="s29">
+            <start x="414.6414227" y="315.9429361" />
+            <next x="431.1414227" y="321.4429361" />
+            <next x="399.915975" y="321.4429361" />
+            <end x="383.415975" y="315.9429361" />
+        </arc>
+        <arc id="f-s0-t3-e31" class="consumption" source="s19" target="s29">
+            <start x="352.1954347" y="315.9429361" />
+            <next x="368.6954347" y="321.4429361" />
+            <next x="399.915975" y="321.4429361" />
+            <end x="383.415975" y="315.9429361" />
+        </arc>
+        <arc id="f-s0-t3-e33" class="production" source="s29" target="s32">
+            <start x="390.915975" y="315.9429361" />
+            <next x="399.915975" y="316.6689397" />
+            <next x="415.5262452" y="316.6689397" />
+            <next x="415.5262452" y="242.6719949" />
+            <next x="431.1414227" y="242.6719949" />
+            <end x="422.1414227" y="237.1719949" />
+        </arc>
+        <arc id="f-s0-t3-e35" class="production" source="s29" target="s22">
+            <start x="383.415975" y="315.9429361" />
+            <next x="399.915975" y="321.4429361" />
+            <next x="399.915975" y="173.4490466" />
+            <end x="383.415975" y="167.9490466" />
+        </arc>
+        <arc id="f-s0-t3-e36" class="production" source="s29" target="s34">
+            <start x="386.415975" y="315.9429361" />
+            <next x="399.915975" y="326.2169325" />
+            <next x="415.5262452" y="326.2169325" />
+            <next x="415.5262452" y="404.9878738" />
+            <next x="431.1414227" y="404.9878738" />
+            <end x="417.6414227" y="399.4878738" />
+        </arc>
+        <arc id="f-s0-t3-e37" class="production" source="s29" target="s35">
+            <start x="379.415975" y="315.9429361" />
+            <next x="399.915975" y="321.4429361" />
+            <next x="399.915975" y="422.8903604" />
+            <end x="379.415975" y="417.3903604" />
+        </arc>
+        <arc id="f-s0-t0-e38" class="consumption" source="s27" target="s36">
+            <start x="722.2601462" y="440.1694962" />
+            <next x="746.7601462" y="445.6694962" />
+            <next x="746.7601462" y="409.384924" />
+            <end x="722.2601462" y="403.884924" />
+        </arc>
+        <arc id="f-s0-t0-e39" class="consumption" source="s37" target="s36">
+            <start x="798.2405362" y="403.884924" />
+            <next x="822.7405362" y="409.384924" />
+            <next x="746.7601462" y="409.384924" />
+            <end x="722.2601462" y="403.884924" />
+        </arc>
+        <arc id="f-s0-t0-e40" class="production" source="s36" target="s38">
+            <start x="735.7601462" y="403.884924" />
+            <next x="742.194017" y="409.384924" />
+            <next x="742.194017" y="428.1001244" />
+            <next x="670.7797562" y="428.1001244" />
+            <next x="670.7797562" y="445.6694962" />
+            <end x="659.7797562" y="440.1694962" />
+        </arc>
+        <arc id="f-s0-t0-e41" class="production" source="s36" target="s39">
+            <start x="730.2601462" y="403.884924" />
+            <next x="746.7601462" y="409.384924" />
+            <next x="746.7601462" y="375.3920091" />
+            <end x="730.2601462" y="369.8920091" />
+        </arc>
+        <arc id="f-s0-t0-e42" class="production" source="s36" target="s40">
+            <start x="721.2601462" y="403.884924" />
+            <next x="751.3262754" y="409.384924" />
+            <next x="751.3262754" y="427.3362387" />
+            <next x="822.7405362" y="427.3362387" />
+            <next x="822.7405362" y="445.6694962" />
+            <end x="797.2405362" y="440.1694962" />
+        </arc>
+        <arc id="f-s0-t3-e43" class="consumption" source="s42" target="s41">
+            <start x="289.7494467" y="228.8175011" />
+            <next x="306.2494467" y="234.3175011" />
+            <next x="321.8597169" y="234.3175011" />
+            <next x="321.8597169" y="316.6689397" />
+            <next x="337.469987" y="316.6689397" />
+            <end x="320.969987" y="313.5559379" />
+        </arc>
+        <arc id="b-s0-t3-e44" class="production" source="s41" target="s42">
+            <start x="320.969987" y="313.5559379" />
+            <next x="337.469987" y="316.6689397" />
+            <next x="321.8597169" y="316.6689397" />
+            <next x="321.8597169" y="234.3175011" />
+            <next x="306.2494467" y="234.3175011" />
+            <end x="289.7494467" y="228.8175011" />
+        </arc>
+        <arc id="f-s0-t3-e45" class="consumption" source="s19" target="s41">
+            <start x="352.1954347" y="315.9429361" />
+            <next x="368.6954347" y="319.0559379" />
+            <next x="353.0802572" y="319.0559379" />
+            <next x="353.0802572" y="319.0559379" />
+            <next x="337.469987" y="319.0559379" />
+            <end x="320.969987" y="313.5559379" />
+        </arc>
+        <arc id="b-s0-t3-e46" class="production" source="s41" target="s19">
+            <start x="320.969987" y="313.5559379" />
+            <next x="337.469987" y="319.0559379" />
+            <next x="353.0802572" y="319.0559379" />
+            <next x="353.0802572" y="319.0559379" />
+            <next x="368.6954347" y="319.0559379" />
+            <end x="352.1954347" y="315.9429361" />
+        </arc>
+        <arc id="f-s0-t3-e49" class="production" source="s41" target="s43">
+            <start x="322.969987" y="313.5559379" />
+            <next x="337.469987" y="321.4429361" />
+            <next x="321.8597169" y="321.4429361" />
+            <next x="321.8597169" y="319.0559379" />
+            <next x="306.2494467" y="319.0559379" />
+            <end x="291.7494467" y="313.5559379" />
+        </arc>
+        <arc id="b-s0-t3-e50" class="consumption" source="s43" target="s41">
+            <start x="291.7494467" y="313.5559379" />
+            <next x="306.2494467" y="319.0559379" />
+            <next x="321.8597169" y="319.0559379" />
+            <next x="321.8597169" y="321.4429361" />
+            <next x="337.469987" y="321.4429361" />
+            <end x="322.969987" y="313.5559379" />
+        </arc>
+        <arc id="f-s0-t0-e51" class="consumption" source="s45" target="s44">
+            <start x="535.8091712" y="508.1553261" />
+            <next x="556.8091712" y="513.6553261" />
+            <next x="556.8091712" y="497.9956687" />
+            <next x="628.2120167" y="497.9956687" />
+            <next x="628.2120167" y="480.4262969" />
+            <end x="611.7781459" y="474.9262969" />
+        </arc>
+        <arc id="b-s0-t0-e52" class="production" source="s44" target="s45">
+            <start x="611.7781459" y="474.9262969" />
+            <next x="628.2120167" y="480.4262969" />
+            <next x="628.2120167" y="497.9956687" />
+            <next x="556.8091712" y="497.9956687" />
+            <next x="556.8091712" y="513.6553261" />
+            <end x="535.8091712" y="508.1553261" />
+        </arc>
+        <arc id="f-s0-t0-e53" class="consumption" source="s27" target="s44">
+            <start x="725.7601462" y="440.1694962" />
+            <next x="744.4770816" y="445.6694962" />
+            <next x="744.4770816" y="463.238868" />
+            <next x="632.7781459" y="463.238868" />
+            <next x="632.7781459" y="480.4262969" />
+            <end x="611.7781459" y="474.9262969" />
+        </arc>
+        <arc id="b-s0-t0-e54" class="production" source="s44" target="s27">
+            <start x="611.7781459" y="474.9262969" />
+            <next x="632.7781459" y="480.4262969" />
+            <next x="632.7781459" y="463.238868" />
+            <next x="744.4770816" y="463.238868" />
+            <next x="744.4770816" y="445.6694962" />
+            <end x="725.7601462" y="440.1694962" />
+        </arc>
+        <arc id="f-s0-t0-e55" class="production" source="s44" target="s46">
+            <start x="611.7781459" y="474.9262969" />
+            <next x="637.3442751" y="480.4262969" />
+            <next x="637.3442751" y="496.8498401" />
+            <next x="708.7585359" y="496.8498401" />
+            <next x="708.7585359" y="513.6553261" />
+            <end x="687.7585359" y="508.1553261" />
+        </arc>
+        <arc id="b-s0-t0-e56" class="consumption" source="s46" target="s44">
+            <start x="687.7585359" y="508.1553261" />
+            <next x="708.7585359" y="513.6553261" />
+            <next x="708.7585359" y="496.8498401" />
+            <next x="637.3442751" y="496.8498401" />
+            <next x="637.3442751" y="480.4262969" />
+            <end x="611.7781459" y="474.9262969" />
+        </arc>
+        <arc id="f-s0-t0-e57" class="production" source="s44" target="s47">
+            <start x="616.2781459" y="474.9262969" />
+            <next x="632.7781459" y="480.4262969" />
+            <next x="632.7781459" y="513.6553261" />
+            <end x="616.2781459" y="508.1553261" />
+        </arc>
+        <arc id="b-s0-t0-e58" class="consumption" source="s47" target="s44">
+            <start x="616.2781459" y="508.1553261" />
+            <next x="632.7781459" y="513.6553261" />
+            <next x="632.7781459" y="480.4262969" />
+            <end x="616.2781459" y="474.9262969" />
+        </arc>
+        <arc id="f-s0-t4-e59" class="consumption" source="s49" target="s48">
+            <start x="793.305305" y="13.81738821" />
+            <next x="816.805305" y="19.31738821" />
+            <next x="816.805305" y="-78.3521325" />
+            <next x="864.3288361" y="-78.3521325" />
+            <end x="840.8288361" y="-83.8521325" />
+        </arc>
+        <arc id="f-s0-t4-e60" class="consumption" source="s50" target="s48">
+            <start x="820.8633526" y="13.81738821" />
+            <next x="844.3633526" y="19.31738821" />
+            <next x="844.3633526" y="-71.35825347" />
+            <next x="864.3288361" y="-71.35825347" />
+            <end x="840.8288361" y="-83.8521325" />
+        </arc>
+        <arc id="f-s0-t4-e61" class="consumption" source="s51" target="s48">
+            <start x="863.194498" y="13.81738821" />
+            <next x="886.694498" y="19.31738821" />
+            <next x="886.694498" y="-71.35825347" />
+            <next x="864.3288361" y="-71.35825347" />
+            <end x="840.8288361" y="-83.8521325" />
+        </arc>
+        <arc id="f-s0-t4-e62" class="production" source="s48" target="s52">
+            <start x="846.8288361" y="-83.8521325" />
+            <next x="864.3288361" y="-85.34601154" />
+            <next x="788.2431827" y="-85.34601154" />
+            <next x="788.2431827" y="19.31738821" />
+            <end x="770.7431827" y="13.81738821" />
+        </arc>
+        <arc id="f-s0-t4-e63" class="production" source="s48" target="s53">
+            <start x="849.3288361" y="-83.8521325" />
+            <next x="864.3288361" y="-85.34601154" />
+            <next x="946.2149205" y="-85.34601154" />
+            <next x="946.2149205" y="19.31738821" />
+            <end x="931.2149205" y="13.81738821" />
+        </arc>
+        <arc id="f-s0-t4-e64" class="production" source="s48" target="s54">
+            <start x="849.8288361" y="-83.8521325" />
+            <next x="864.3288361" y="-78.3521325" />
+            <next x="917.6527983" y="-78.3521325" />
+            <next x="917.6527983" y="19.31738821" />
+            <end x="903.1527983" y="13.81738821" />
+        </arc>
+        <arc id="f-s0-t3-e65" class="consumption" source="s56" target="s55">
+            <start x="278.2494467" y="505.7092945" />
+            <next x="306.2494467" y="511.2092945" />
+            <next x="321.8597169" y="511.2092945" />
+            <next x="321.8597169" y="424.0838595" />
+            <next x="337.469987" y="424.0838595" />
+            <end x="309.469987" y="416.1968613" />
+        </arc>
+        <arc id="f-s0-t3-e66" class="consumption" source="s57" target="s55">
+            <start x="278.2494467" y="409.0358666" />
+            <next x="306.2494467" y="414.5358666" />
+            <next x="321.8597169" y="414.5358666" />
+            <next x="321.8597169" y="419.3098631" />
+            <next x="337.469987" y="419.3098631" />
+            <end x="309.469987" y="416.1968613" />
+        </arc>
+        <arc id="f-s0-t3-e67" class="production" source="s55" target="s19">
+            <start x="316.969987" y="416.1968613" />
+            <next x="337.469987" y="421.6968613" />
+            <next x="353.0802572" y="421.6968613" />
+            <next x="353.0802572" y="323.8299343" />
+            <next x="368.6954347" y="323.8299343" />
+            <end x="348.1954347" y="315.9429361" />
+        </arc>
+        <arc id="f-s0-t3-e69" class="consumption" source="s60" target="s59">
+            <start x="340.0851645" y="500.935298" />
+            <next x="353.0851645" y="506.435298" />
+            <next x="353.0851645" y="463.4693301" />
+            <next x="367.7139653" y="463.4693301" />
+            <next x="367.7139653" y="422.8903604" />
+            <end x="355.6954347" y="417.3903604" />
+        </arc>
+        <arc id="f-s0-t3-e70" class="consumption" source="s35" target="s59">
+            <start x="386.915975" y="417.3903604" />
+            <next x="399.915975" y="422.8903604" />
+            <next x="368.6954347" y="422.8903604" />
+            <end x="355.6954347" y="417.3903604" />
+        </arc>
+        <arc id="f-s0-t3-e71" class="production" source="s59" target="s61">
+            <start x="353.6954347" y="417.3903604" />
+            <next x="369.6769041" y="422.8903604" />
+            <next x="369.6769041" y="463.4693301" />
+            <next x="384.3057049" y="463.4693301" />
+            <next x="384.3057049" y="506.435298" />
+            <end x="369.3057049" y="500.935298" />
+        </arc>
+        <arc id="f-s0-t3-e72" class="production" source="s59" target="s19">
+            <start x="348.1954347" y="417.3903604" />
+            <next x="368.6954347" y="422.8903604" />
+            <next x="368.6954347" y="321.4429361" />
+            <end x="348.1954347" y="315.9429361" />
+        </arc>
+        <arc id="f-s0-t2-e73" class="consumption" source="s11" target="s62">
+            <start x="642.1898145" y="4.251488666" />
+            <next x="665.4369128" y="9.751488666" />
+            <next x="665.4369128" y="122.2433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <end x="589.1653815" y="116.7433859" />
+        </arc>
+        <arc id="b-s0-t2-e74" class="production" source="s62" target="s11">
+            <start x="589.1653815" y="116.7433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <next x="665.4369128" y="122.2433859" />
+            <next x="665.4369128" y="9.751488666" />
+            <end x="642.1898145" y="4.251488666" />
+        </arc>
+        <arc id="f-s0-t2-e75" class="consumption" source="s63" target="s62">
+            <start x="536.1409485" y="116.7433859" />
+            <next x="557.6409485" y="122.2433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <end x="589.1653815" y="116.7433859" />
+        </arc>
+        <arc id="b-s0-t2-e76" class="production" source="s62" target="s63">
+            <start x="589.1653815" y="116.7433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <next x="557.6409485" y="122.2433859" />
+            <end x="536.1409485" y="116.7433859" />
+        </arc>
+        <arc id="f-s0-t2-e77" class="production" source="s62" target="s64">
+            <start x="594.6653815" y="116.7433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <next x="610.6653815" y="161.1828888" />
+            <next x="557.6409485" y="161.1828888" />
+            <end x="541.6409485" y="155.6828888" />
+        </arc>
+        <arc id="b-s0-t2-e78" class="consumption" source="s64" target="s62">
+            <start x="541.6409485" y="155.6828888" />
+            <next x="557.6409485" y="161.1828888" />
+            <next x="610.6653815" y="161.1828888" />
+            <next x="610.6653815" y="122.2433859" />
+            <end x="594.6653815" y="116.7433859" />
+        </arc>
+        <arc id="f-s0-t2-e79" class="production" source="s62" target="s65">
+            <start x="586.6653815" y="116.7433859" />
+            <next x="610.6653815" y="122.2433859" />
+            <next x="610.6653815" y="79.93874081" />
+            <next x="557.6409485" y="79.93874081" />
+            <end x="533.6409485" y="74.43874081" />
+        </arc>
+        <arc id="b-s0-t2-e80" class="consumption" source="s65" target="s62">
+            <start x="533.6409485" y="74.43874081" />
+            <next x="557.6409485" y="79.93874081" />
+            <next x="610.6653815" y="79.93874081" />
+            <next x="610.6653815" y="122.2433859" />
+            <end x="586.6653815" y="116.7433859" />
+        </arc>
+        <arc id="f-s0-t0-e81" class="consumption" source="s37" target="s66">
+            <start x="800.7405362" y="403.884924" />
+            <next x="822.7405362" y="409.384924" />
+            <next x="822.7405362" y="375.3920091" />
+            <end x="800.7405362" y="369.8920091" />
+        </arc>
+        <arc id="b-s0-t0-e82" class="production" source="s66" target="s37">
+            <start x="800.7405362" y="369.8920091" />
+            <next x="822.7405362" y="375.3920091" />
+            <next x="822.7405362" y="409.384924" />
+            <end x="800.7405362" y="403.884924" />
+        </arc>
+        <arc id="f-s0-t0-e83" class="consumption" source="s1" target="s66">
+            <start x="800.7405362" y="334.7532655" />
+            <next x="822.7405362" y="340.2532655" />
+            <next x="822.7405362" y="375.3920091" />
+            <end x="800.7405362" y="369.8920091" />
+        </arc>
+        <arc id="b-s0-t0-e84" class="production" source="s66" target="s1">
+            <start x="800.7405362" y="369.8920091" />
+            <next x="822.7405362" y="375.3920091" />
+            <next x="822.7405362" y="340.2532655" />
+            <end x="800.7405362" y="334.7532655" />
+        </arc>
+        <arc id="f-s0-t0-e85" class="production" source="s66" target="s67">
+            <start x="811.7405362" y="369.8920091" />
+            <next x="827.3066654" y="375.3920091" />
+            <next x="827.3066654" y="357.4406944" />
+            <next x="898.7095109" y="357.4406944" />
+            <next x="898.7095109" y="340.2532655" />
+            <end x="887.7095109" y="334.7532655" />
+        </arc>
+        <arc id="b-s0-t0-e86" class="consumption" source="s67" target="s66">
+            <start x="887.7095109" y="334.7532655" />
+            <next x="898.7095109" y="340.2532655" />
+            <next x="898.7095109" y="357.4406944" />
+            <next x="827.3066654" y="357.4406944" />
+            <next x="827.3066654" y="375.3920091" />
+            <end x="811.7405362" y="369.8920091" />
+        </arc>
+        <arc id="f-s0-t0-e87" class="production" source="s66" target="s39">
+            <start x="806.2405362" y="369.8920091" />
+            <next x="822.7405362" y="375.3920091" />
+            <next x="746.7601462" y="375.3920091" />
+            <end x="730.2601462" y="369.8920091" />
+        </arc>
+        <arc id="b-s0-t0-e88" class="consumption" source="s39" target="s66">
+            <start x="730.2601462" y="369.8920091" />
+            <next x="746.7601462" y="375.3920091" />
+            <next x="822.7405362" y="375.3920091" />
+            <end x="806.2405362" y="369.8920091" />
+        </arc>
+        <arc id="f-s0-t0-e89" class="production" source="s66" target="s68">
+            <start x="796.7405362" y="369.8920091" />
+            <next x="818.174407" y="375.3920091" />
+            <next x="818.174407" y="358.586523" />
+            <next x="746.7601462" y="358.586523" />
+            <next x="746.7601462" y="340.2532655" />
+            <end x="720.7601462" y="334.7532655" />
+        </arc>
+        <arc id="b-s0-t0-e90" class="consumption" source="s68" target="s66">
+            <start x="720.7601462" y="334.7532655" />
+            <next x="746.7601462" y="340.2532655" />
+            <next x="746.7601462" y="358.586523" />
+            <next x="818.174407" y="358.586523" />
+            <next x="818.174407" y="375.3920091" />
+            <end x="796.7405362" y="369.8920091" />
+        </arc>
+        <arc id="f-s0-t2-e91" class="consumption" source="s70" target="s69">
+            <start x="536.1409485" y="-80.35780159" />
+            <next x="557.6409485" y="-74.85780159" />
+            <next x="610.6653815" y="-74.85780159" />
+            <next x="610.6653815" y="-49.37886759" />
+            <end x="589.1653815" y="-54.87886759" />
+        </arc>
+        <arc id="b-s0-t2-e92" class="production" source="s69" target="s70">
+            <start x="589.1653815" y="-54.87886759" />
+            <next x="610.6653815" y="-49.37886759" />
+            <next x="610.6653815" y="-74.85780159" />
+            <next x="557.6409485" y="-74.85780159" />
+            <end x="536.1409485" y="-80.35780159" />
+        </arc>
+        <arc id="f-s0-t2-e93" class="consumption" source="s71" target="s69">
+            <start x="536.1409485" y="-25.07332216" />
+            <next x="557.6409485" y="-19.57332216" />
+            <next x="610.6653815" y="-19.57332216" />
+            <next x="610.6653815" y="-49.37886759" />
+            <end x="589.1653815" y="-54.87886759" />
+        </arc>
+        <arc id="b-s0-t2-e94" class="production" source="s69" target="s71">
+            <start x="589.1653815" y="-54.87886759" />
+            <next x="610.6653815" y="-49.37886759" />
+            <next x="610.6653815" y="-19.57332216" />
+            <next x="557.6409485" y="-19.57332216" />
+            <end x="536.1409485" y="-25.07332216" />
+        </arc>
+        <arc id="f-s0-t2-e97" class="production" source="s69" target="s11">
+            <start x="591.6653815" y="-54.87886759" />
+            <next x="610.6653815" y="-49.37886759" />
+            <next x="663.6898145" y="-49.37886759" />
+            <next x="663.6898145" y="9.751488666" />
+            <end x="644.6898145" y="4.251488666" />
+        </arc>
+        <arc id="b-s0-t2-e98" class="consumption" source="s11" target="s69">
+            <start x="644.6898145" y="4.251488666" />
+            <next x="663.6898145" y="9.751488666" />
+            <next x="663.6898145" y="-49.37886759" />
+            <next x="610.6653815" y="-49.37886759" />
+            <end x="591.6653815" y="-54.87886759" />
+        </arc>
+        <arc id="f-s1-t0-e99" class="consumption" source="s73" target="s72">
+            <start x="637.7575023" y="-273.4468918" />
+            <next x="668.2575023" y="-267.9468918" />
+            <next x="668.2575023" y="-332.3566567" />
+            <next x="599.8407563" y="-332.3566567" />
+            <end x="569.3407563" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e100" class="consumption" source="s74" target="s72">
+            <start x="597.8139977" y="-273.4468918" />
+            <next x="628.3139977" y="-267.9468918" />
+            <next x="628.3139977" y="-328.0626724" />
+            <next x="599.8407563" y="-328.0626724" />
+            <end x="569.3407563" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e101" class="production" source="s72" target="s75">
+            <start x="591.3407563" y="-335.7096645" />
+            <next x="599.8407563" y="-328.0626724" />
+            <next x="575.6857316" y="-328.0626724" />
+            <next x="575.6857316" y="-267.9468918" />
+            <end x="567.1857316" y="-273.4468918" />
+        </arc>
+        <arc id="f-s1-t0-e102" class="production" source="s72" target="s76">
+            <start x="588.8407563" y="-335.7096645" />
+            <next x="599.8407563" y="-332.3566567" />
+            <next x="541.6797751" y="-332.3566567" />
+            <next x="541.6797751" y="-267.9468918" />
+            <end x="530.6797751" y="-273.4468918" />
+        </arc>
+        <arc id="f-s1-t0-e103" class="production" source="s72" target="s77">
+            <start x="581.3407563" y="-335.7096645" />
+            <next x="599.8407563" y="-330.2096645" />
+            <next x="599.8407563" y="-392.4724373" />
+            <end x="581.3407563" y="-397.9724373" />
+        </arc>
+        <arc id="f-s1-t0-e104" class="consumption" source="s79" target="s78">
+            <start x="673.8813009" y="-522.4979828" />
+            <next x="695.3813009" y="-516.9979828" />
+            <next x="821.419251" y="-516.9979828" />
+            <next x="821.419251" y="-454.7352101" />
+            <end x="799.919251" y="-460.2352101" />
+        </arc>
+        <arc id="b-s1-t0-e105" class="production" source="s78" target="s79">
+            <start x="799.919251" y="-460.2352101" />
+            <next x="821.419251" y="-454.7352101" />
+            <next x="821.419251" y="-516.9979828" />
+            <next x="695.3813009" y="-516.9979828" />
+            <end x="673.8813009" y="-522.4979828" />
+        </arc>
+        <arc id="f-s1-t0-e106" class="production" source="s78" target="s80">
+            <start x="798.419251" y="-460.2352101" />
+            <next x="821.419251" y="-454.7352101" />
+            <next x="821.419251" y="-392.4724373" />
+            <end x="798.419251" y="-397.9724373" />
+        </arc>
+        <arc id="b-s1-t0-e107" class="consumption" source="s80" target="s78">
+            <start x="798.419251" y="-397.9724373" />
+            <next x="821.419251" y="-392.4724373" />
+            <next x="821.419251" y="-454.7352101" />
+            <end x="798.419251" y="-460.2352101" />
+        </arc>
+        <arc id="f-s1-t0-e108" class="consumption" source="s82" target="s81">
+            <start x="466.051509" y="-397.9724373" />
+            <next x="489.051509" y="-392.4724373" />
+            <next x="489.051509" y="-452.5882179" />
+            <next x="516.1753077" y="-452.5882179" />
+            <end x="493.1753077" y="-460.2352101" />
+        </arc>
+        <arc id="f-s1-t0-e109" class="consumption" source="s77" target="s81">
+            <start x="576.8407563" y="-397.9724373" />
+            <next x="599.8407563" y="-392.4724373" />
+            <next x="599.8407563" y="-456.8822022" />
+            <next x="516.1753077" y="-456.8822022" />
+            <end x="493.1753077" y="-460.2352101" />
+        </arc>
+        <arc id="f-s1-t0-e110" class="production" source="s81" target="s83">
+            <start x="507.6753077" y="-460.2352101" />
+            <next x="516.1753077" y="-456.8822022" />
+            <next x="453.4262212" y="-456.8822022" />
+            <next x="453.4262212" y="-392.4724373" />
+            <end x="444.9262212" y="-397.9724373" />
+        </arc>
+        <arc id="f-s1-t0-e111" class="production" source="s81" target="s79">
+            <start x="496.1753077" y="-460.2352101" />
+            <next x="516.1753077" y="-454.7352101" />
+            <next x="516.1753077" y="-516.9979828" />
+            <next x="695.3813009" y="-516.9979828" />
+            <end x="675.3813009" y="-522.4979828" />
+        </arc>
+        <arc id="f-s1-t0-e112" class="production" source="s81" target="s84">
+            <start x="497.6753077" y="-460.2352101" />
+            <next x="516.1753077" y="-452.5882179" />
+            <next x="545.7281033" y="-452.5882179" />
+            <next x="545.7281033" y="-392.4724373" />
+            <end x="527.2281033" y="-397.9724373" />
+        </arc>
+        <arc id="f-s1-t1-e113" class="consumption" source="s86" target="s85">
+            <start x="245.5975343" y="-461.5845581" />
+            <next x="274.0975343" y="-456.0845581" />
+            <next x="326.6096241" y="-456.0845581" />
+            <next x="326.6096241" y="-394.4000773" />
+            <end x="299.889695" y="-399.9000773" />
+        </arc>
+        <arc id="f-s1-t1-e114" class="consumption" source="s87" target="s85">
+            <start x="245.5975343" y="-399.9000773" />
+            <next x="274.0975343" y="-394.4000773" />
+            <next x="328.389695" y="-394.4000773" />
+            <end x="299.889695" y="-399.9000773" />
+        </arc>
+        <arc id="f-s1-t1-e115" class="production" source="s85" target="s88">
+            <start x="310.889695" y="-399.9000773" />
+            <next x="326.6096241" y="-394.4000773" />
+            <next x="326.6096241" y="-328.0892605" />
+            <next x="274.0975343" y="-328.0892605" />
+            <end x="256.5975343" y="-333.5892605" />
+        </arc>
+        <arc id="f-s1-t1-e116" class="production" source="s85" target="s89">
+            <start x="313.389695" y="-399.9000773" />
+            <next x="330.1697658" y="-394.4000773" />
+            <next x="330.1697658" y="-267.9468918" />
+            <next x="274.0975343" y="-267.9468918" />
+            <end x="259.0975343" y="-273.4468918" />
+        </arc>
+        <arc id="f-s1-t1-e117" class="production" source="s85" target="s90">
+            <start x="307.389695" y="-399.9000773" />
+            <next x="330.1697658" y="-394.4000773" />
+            <next x="330.1697658" y="-516.9979828" />
+            <next x="274.0975343" y="-516.9979828" />
+            <end x="253.0975343" y="-522.4979828" />
+        </arc>
+        <arc id="f-s1-t0-e118" class="consumption" source="s92" target="s91">
+            <start x="868.4895325" y="-273.4468918" />
+            <next x="905.4895325" y="-267.9468918" />
+            <next x="905.4895325" y="-330.2096645" />
+            <next x="821.419251" y="-330.2096645" />
+            <end x="784.419251" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e119" class="consumption" source="s93" target="s91">
+            <start x="682.5363256" y="-273.4468918" />
+            <next x="719.5363256" y="-267.9468918" />
+            <next x="719.5363256" y="-334.5036489" />
+            <next x="821.419251" y="-334.5036489" />
+            <end x="784.419251" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e120" class="consumption" source="s94" target="s91">
+            <start x="906.5438172" y="-273.4468918" />
+            <next x="943.5438172" y="-267.9468918" />
+            <next x="943.5438172" y="-334.5036489" />
+            <next x="821.419251" y="-334.5036489" />
+            <end x="784.419251" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e121" class="consumption" source="s80" target="s91">
+            <start x="784.419251" y="-397.9724373" />
+            <next x="821.419251" y="-392.4724373" />
+            <next x="821.419251" y="-330.2096645" />
+            <end x="784.419251" y="-335.7096645" />
+        </arc>
+        <arc id="f-s1-t0-e122" class="production" source="s91" target="s95">
+            <start x="805.919251" y="-335.7096645" />
+            <next x="821.419251" y="-330.2096645" />
+            <next x="755.9712791" y="-330.2096645" />
+            <next x="755.9712791" y="-267.9468918" />
+            <end x="740.4712791" y="-273.4468918" />
+        </arc>
+        <arc id="f-s1-t0-e123" class="production" source="s91" target="s96">
+            <start x="808.419251" y="-335.7096645" />
+            <next x="821.419251" y="-325.9156802" />
+            <next x="794.8352294" y="-325.9156802" />
+            <next x="794.8352294" y="-267.9468918" />
+            <end x="781.8352294" y="-273.4468918" />
+        </arc>
+        <arc id="f-s1-t0-e124" class="production" source="s91" target="s97">
+            <start x="789.919251" y="-335.7096645" />
+            <next x="821.419251" y="-325.9156802" />
+            <next x="857.9891487" y="-325.9156802" />
+            <next x="857.9891487" y="-267.9468918" />
+            <end x="826.4891487" y="-273.4468918" />
+        </arc>
+        <arc id="f-s2-t0-e126" class="consumption" source="s99" target="s98">
+            <start x="-595.4610138" y="118.08778" />
+            <next x="-573.9610138" y="123.58778" />
+            <next x="-573.9610138" y="-29.29943502" />
+            <end x="-595.4610138" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e127" class="production" source="s98" target="s100">
+            <start x="-588.9610138" y="-34.79943502" />
+            <next x="-573.9610138" y="-29.29943502" />
+            <next x="-478.2031109" y="-29.29943502" />
+            <end x="-493.2031109" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e128" class="production" source="s98" target="s101">
+            <start x="-582.9610138" y="-34.79943502" />
+            <next x="-573.9610138" y="-29.29943502" />
+            <next x="-573.9610138" y="-65.4184211" />
+            <end x="-582.9610138" y="-70.9184211" />
+        </arc>
+        <arc id="f-s2-t0-e129" class="production" source="s98" target="s102">
+            <start x="-598.4610138" y="-34.79943502" />
+            <next x="-573.9610138" y="-29.29943502" />
+            <next x="-696.8257317" y="-29.29943502" />
+            <end x="-721.3257317" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e130" class="consumption" source="s99" target="s103">
+            <start x="-597.9610138" y="118.08778" />
+            <next x="-573.9610138" y="123.58778" />
+            <next x="-696.8257317" y="123.58778" />
+            <end x="-720.8257317" y="118.08778" />
+        </arc>
+        <arc id="f-s2-t0-e131" class="consumption" source="s104" target="s103">
+            <start x="-720.8257317" y="157.6702305" />
+            <next x="-696.8257317" y="163.1702305" />
+            <next x="-696.8257317" y="123.58778" />
+            <end x="-720.8257317" y="118.08778" />
+        </arc>
+        <arc id="f-s2-t0-e132" class="production" source="s103" target="s105">
+            <start x="-705.8257317" y="118.08778" />
+            <next x="-691.9482122" y="123.58778" />
+            <next x="-691.9482122" y="146.3476891" />
+            <next x="-618.2245039" y="146.3476891" />
+            <next x="-618.2245039" y="163.1702305" />
+            <end x="-627.2245039" y="157.6702305" />
+        </arc>
+        <arc id="f-s2-t0-e133" class="production" source="s103" target="s102">
+            <start x="-721.3257317" y="118.08778" />
+            <next x="-696.8257317" y="123.58778" />
+            <next x="-696.8257317" y="-29.29943502" />
+            <end x="-721.3257317" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e134" class="production" source="s103" target="s106">
+            <start x="-710.3257317" y="118.08778" />
+            <next x="-701.7032513" y="123.58778" />
+            <next x="-701.7032513" y="145.8529084" />
+            <next x="-775.4147658" y="145.8529084" />
+            <next x="-775.4147658" y="163.1702305" />
+            <end x="-788.9147658" y="157.6702305" />
+        </arc>
+        <arc id="f-s2-t0-e135" class="consumption" source="s108" target="s107">
+            <start x="-660.3933728" y="22.5951182" />
+            <next x="-635.3933728" y="28.0951182" />
+            <next x="-635.3933728" y="-85.70442698" />
+            <end x="-660.3933728" y="-91.20442698" />
+        </arc>
+        <arc id="b-s2-t0-e136" class="production" source="s107" target="s108">
+            <start x="-660.3933728" y="-91.20442698" />
+            <next x="-635.3933728" y="-85.70442698" />
+            <next x="-635.3933728" y="28.0951182" />
+            <end x="-660.3933728" y="22.5951182" />
+        </arc>
+        <arc id="f-s2-t0-e137" class="production" source="s107" target="s109">
+            <start x="-659.8933728" y="-91.20442698" />
+            <next x="-635.3933728" y="-85.70442698" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <end x="-659.8933728" y="-147.1146383" />
+        </arc>
+        <arc id="b-s2-t0-e138" class="consumption" source="s109" target="s107">
+            <start x="-659.8933728" y="-147.1146383" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <next x="-635.3933728" y="-85.70442698" />
+            <end x="-659.8933728" y="-91.20442698" />
+        </arc>
+        <arc id="f-s2-t0-e139" class="consumption" source="s111" target="s110">
+            <start x="-244.9145504" y="41.39678219" />
+            <next x="-215.4145504" y="46.89678219" />
+            <next x="-215.4145504" y="92.41660026" />
+            <end x="-244.9145504" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e140" class="consumption" source="s112" target="s110">
+            <start x="-120.928003" y="86.91660026" />
+            <next x="-91.42800297" y="92.41660026" />
+            <next x="-215.4145504" y="92.41660026" />
+            <end x="-244.9145504" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e141" class="production" source="s110" target="s113">
+            <start x="-224.4145504" y="86.91660026" />
+            <next x="-210.5370308" y="92.41660026" />
+            <next x="-210.5370308" y="67.18278807" />
+            <next x="-136.8255163" y="67.18278807" />
+            <next x="-136.8255163" y="46.89678219" />
+            <end x="-145.8255163" y="41.39678219" />
+        </arc>
+        <arc id="f-s2-t0-e142" class="production" source="s110" target="s114">
+            <start x="-229.9145504" y="86.91660026" />
+            <next x="-220.29207" y="92.41660026" />
+            <next x="-220.29207" y="67.18278807" />
+            <next x="-294.0035844" y="67.18278807" />
+            <next x="-294.0035844" y="46.89678219" />
+            <end x="-308.5035844" y="41.39678219" />
+        </arc>
+        <arc id="f-s2-t0-e143" class="production" source="s110" target="s115">
+            <start x="-242.9145504" y="86.91660026" />
+            <next x="-215.4145504" y="92.41660026" />
+            <next x="-433.9396208" y="92.41660026" />
+            <end x="-461.4396208" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e145" class="consumption" source="s108" target="s116">
+            <start x="-657.8933728" y="22.5951182" />
+            <next x="-635.3933728" y="28.0951182" />
+            <next x="-433.9396208" y="28.0951182" />
+            <end x="-456.4396208" y="22.5951182" />
+        </arc>
+        <arc id="f-s2-t0-e146" class="production" source="s116" target="s100">
+            <start x="-448.9396208" y="22.5951182" />
+            <next x="-433.9396208" y="26.11599568" />
+            <next x="-478.2031109" y="26.11599568" />
+            <next x="-478.2031109" y="-29.29943502" />
+            <end x="-493.2031109" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e147" class="production" source="s116" target="s117">
+            <start x="-442.9396208" y="22.5951182" />
+            <next x="-433.9396208" y="28.0951182" />
+            <next x="-355.3505868" y="28.0951182" />
+            <end x="-364.3505868" y="22.5951182" />
+        </arc>
+        <arc id="f-s2-t0-e148" class="production" source="s116" target="s115">
+            <start x="-461.4396208" y="22.5951182" />
+            <next x="-433.9396208" y="28.0951182" />
+            <next x="-433.9396208" y="92.41660026" />
+            <end x="-461.4396208" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e149" class="consumption" source="s115" target="s118">
+            <start x="-460.4396208" y="86.91660026" />
+            <next x="-433.9396208" y="92.41660026" />
+            <next x="-512.5286549" y="92.41660026" />
+            <end x="-539.0286549" y="86.91660026" />
+        </arc>
+        <arc id="b-s2-t0-e150" class="production" source="s118" target="s115">
+            <start x="-539.0286549" y="86.91660026" />
+            <next x="-512.5286549" y="92.41660026" />
+            <next x="-433.9396208" y="92.41660026" />
+            <end x="-460.4396208" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e151" class="production" source="s118" target="s119">
+            <start x="-540.0286549" y="86.91660026" />
+            <next x="-512.5286549" y="92.41660026" />
+            <next x="-635.3933728" y="92.41660026" />
+            <end x="-662.8933728" y="86.91660026" />
+        </arc>
+        <arc id="b-s2-t0-e152" class="consumption" source="s119" target="s118">
+            <start x="-662.8933728" y="86.91660026" />
+            <next x="-635.3933728" y="92.41660026" />
+            <next x="-512.5286549" y="92.41660026" />
+            <end x="-540.0286549" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e153" class="consumption" source="s121" target="s120">
+            <start x="-584.8043387" y="-349.4799165" />
+            <next x="-556.8043387" y="-343.9799165" />
+            <next x="-556.8043387" y="-326.1678138" />
+            <next x="-483.0806305" y="-326.1678138" />
+            <next x="-483.0806305" y="-301.9235628" />
+            <end x="-506.2031109" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e154" class="consumption" source="s122" target="s120">
+            <start x="-506.2031109" y="-227.2691006" />
+            <next x="-478.2031109" y="-221.7691006" />
+            <next x="-478.2031109" y="-301.9235628" />
+            <end x="-506.2031109" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e155" class="consumption" source="s123" target="s120">
+            <start x="-506.2031109" y="-349.4799165" />
+            <next x="-478.2031109" y="-343.9799165" />
+            <next x="-478.2031109" y="-301.9235628" />
+            <end x="-506.2031109" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e156" class="production" source="s120" target="s124">
+            <start x="-488.7031109" y="-307.4235628" />
+            <next x="-473.3255913" y="-301.9235628" />
+            <next x="-473.3255913" y="-326.1678138" />
+            <next x="-399.6140769" y="-326.1678138" />
+            <next x="-399.6140769" y="-343.9799165" />
+            <end x="-410.1140769" y="-349.4799165" />
+        </arc>
+        <arc id="f-s2-t0-e157" class="production" source="s120" target="s125">
+            <start x="-503.2031109" y="-307.4235628" />
+            <next x="-478.2031109" y="-301.9235628" />
+            <next x="-556.8043387" y="-301.9235628" />
+            <end x="-581.8043387" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e158" class="consumption" source="s127" target="s126">
+            <start x="-626.5439837" y="-440.024772" />
+            <next x="-596.0439837" y="-434.524772" />
+            <next x="-596.0439837" y="-414.7335468" />
+            <next x="-485.5193903" y="-414.7335468" />
+            <next x="-485.5193903" y="-387.520612" />
+            <end x="-508.7031109" y="-393.020612" />
+        </arc>
+        <arc id="f-s2-t0-e159" class="consumption" source="s123" target="s126">
+            <start x="-508.7031109" y="-349.4799165" />
+            <next x="-478.2031109" y="-343.9799165" />
+            <next x="-478.2031109" y="-387.520612" />
+            <end x="-508.7031109" y="-393.020612" />
+        </arc>
+        <arc id="f-s2-t0-e160" class="consumption" source="s128" target="s126">
+            <start x="-469.3537218" y="-440.024772" />
+            <next x="-438.8537218" y="-434.524772" />
+            <next x="-438.8537218" y="-414.2387661" />
+            <next x="-475.7643511" y="-414.2387661" />
+            <next x="-475.7643511" y="-387.520612" />
+            <end x="-508.7031109" y="-393.020612" />
+        </arc>
+        <arc id="f-s2-t0-e161" class="production" source="s126" target="s129">
+            <start x="-488.7031109" y="-393.020612" />
+            <next x="-480.6418707" y="-387.520612" />
+            <next x="-480.6418707" y="-416.7126693" />
+            <next x="-517.4549496" y="-416.7126693" />
+            <next x="-517.4549496" y="-434.524772" />
+            <end x="-527.9549496" y="-440.024772" />
+        </arc>
+        <arc id="f-s2-t0-e162" class="production" source="s126" target="s130">
+            <start x="-496.2031109" y="-393.020612" />
+            <next x="-470.8868316" y="-387.520612" />
+            <next x="-470.8868316" y="-412.2596436" />
+            <next x="-360.2646878" y="-412.2596436" />
+            <next x="-360.2646878" y="-434.524772" />
+            <end x="-378.2646878" y="-440.024772" />
+        </arc>
+        <arc id="f-s2-t0-e163" class="consumption" source="s132" target="s131">
+            <start x="-660.8933728" y="-348.4903552" />
+            <next x="-635.3933728" y="-342.9903552" />
+            <next x="-635.3933728" y="-326.1678138" />
+            <next x="-632.954613" y="-326.1678138" />
+            <next x="-632.954613" y="-301.9235628" />
+            <end x="-660.8933728" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e164" class="consumption" source="s125" target="s131">
+            <start x="-582.3043387" y="-307.4235628" />
+            <next x="-556.8043387" y="-301.9235628" />
+            <next x="-635.3933728" y="-301.9235628" />
+            <end x="-660.8933728" y="-307.4235628" />
+        </arc>
+        <arc id="f-s2-t0-e165" class="production" source="s131" target="s133">
+            <start x="-645.8933728" y="-307.4235628" />
+            <next x="-637.8321326" y="-301.9235628" />
+            <next x="-637.8321326" y="-324.1886912" />
+            <next x="-713.9824068" y="-324.1886912" />
+            <next x="-713.9824068" y="-342.9903552" />
+            <end x="-724.4824068" y="-348.4903552" />
+        </arc>
+        <arc id="f-s2-t0-e166" class="production" source="s131" target="s134">
+            <start x="-657.3933728" y="-307.4235628" />
+            <next x="-635.3933728" y="-301.9235628" />
+            <next x="-635.3933728" y="-257.393306" />
+            <end x="-657.3933728" y="-262.893306" />
+        </arc>
+        <arc id="f-s2-t0-e167" class="consumption" source="s134" target="s135">
+            <start x="-655.3933728" y="-262.893306" />
+            <next x="-635.3933728" y="-257.393306" />
+            <next x="-635.3933728" y="-215.831733" />
+            <end x="-655.3933728" y="-221.331733" />
+        </arc>
+        <arc id="b-s2-t0-e168" class="production" source="s135" target="s134">
+            <start x="-655.3933728" y="-221.331733" />
+            <next x="-635.3933728" y="-215.831733" />
+            <next x="-635.3933728" y="-257.393306" />
+            <end x="-655.3933728" y="-262.893306" />
+        </arc>
+        <arc id="f-s2-t0-e169" class="production" source="s135" target="s136">
+            <start x="-649.3933728" y="-221.331733" />
+            <next x="-635.3933728" y="-215.831733" />
+            <next x="-713.9824068" y="-215.831733" />
+            <end x="-727.9824068" y="-221.331733" />
+        </arc>
+        <arc id="b-s2-t0-e170" class="consumption" source="s136" target="s135">
+            <start x="-727.9824068" y="-221.331733" />
+            <next x="-713.9824068" y="-215.831733" />
+            <next x="-635.3933728" y="-215.831733" />
+            <end x="-649.3933728" y="-221.331733" />
+        </arc>
+        <arc id="f-s2-t0-e171" class="production" source="s135" target="s109">
+            <start x="-659.8933728" y="-221.331733" />
+            <next x="-635.3933728" y="-215.831733" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <end x="-659.8933728" y="-147.1146383" />
+        </arc>
+        <arc id="b-s2-t0-e172" class="consumption" source="s109" target="s135">
+            <start x="-659.8933728" y="-147.1146383" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <next x="-635.3933728" y="-215.831733" />
+            <end x="-659.8933728" y="-221.331733" />
+        </arc>
+        <arc id="f-s2-t0-e173" class="consumption" source="s138" target="s137">
+            <start x="-448.4396208" y="164.1023787" />
+            <next x="-433.9396208" y="169.6023787" />
+            <next x="-433.9396208" y="133.9781733" />
+            <end x="-448.4396208" y="128.4781733" />
+        </arc>
+        <arc id="f-s2-t0-e174" class="consumption" source="s115" target="s137">
+            <start x="-448.4396208" y="86.91660026" />
+            <next x="-433.9396208" y="92.41660026" />
+            <next x="-433.9396208" y="133.9781733" />
+            <end x="-448.4396208" y="128.4781733" />
+        </arc>
+        <arc id="f-s2-t0-e175" class="production" source="s137" target="s112">
+            <start x="-455.9396208" y="128.4781733" />
+            <next x="-429.0621013" y="133.9781733" />
+            <next x="-429.0621013" y="116.1660706" />
+            <next x="-96.29332874" y="116.1660706" />
+            <next x="-96.29332874" y="92.41660026" />
+            <end x="-113.428003" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e178" class="consumption" source="s109" target="s139">
+            <start x="-653.8933728" y="-147.1146383" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <next x="-539.6354699" y="-141.6146383" />
+            <end x="-558.1354699" y="-147.1146383" />
+        </arc>
+        <arc id="f-s2-t0-e179" class="production" source="s139" target="s100">
+            <start x="-554.6354699" y="-147.1146383" />
+            <next x="-539.6354699" y="-140.6250771" />
+            <next x="-478.2031109" y="-140.6250771" />
+            <next x="-478.2031109" y="-29.29943502" />
+            <end x="-493.2031109" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e180" class="production" source="s139" target="s140">
+            <start x="-548.6354699" y="-147.1146383" />
+            <next x="-539.6354699" y="-141.6146383" />
+            <next x="-539.6354699" y="-106.9799941" />
+            <end x="-548.6354699" y="-112.4799941" />
+        </arc>
+        <arc id="f-s2-t0-e181" class="production" source="s139" target="s122">
+            <start x="-567.1354699" y="-147.1146383" />
+            <next x="-539.6354699" y="-142.6041996" />
+            <next x="-478.2031109" y="-142.6041996" />
+            <next x="-478.2031109" y="-221.7691006" />
+            <end x="-505.7031109" y="-227.2691006" />
+        </arc>
+        <arc id="f-s2-t1-e182" class="consumption" source="s142" target="s141">
+            <start x="-622.5140443" y="513.479428" />
+            <next x="-598.5140443" y="518.979428" />
+            <next x="-598.5140443" y="456.4598544" />
+            <next x="-665.9211854" y="456.4598544" />
+            <end x="-689.9211854" y="450.9598544" />
+        </arc>
+        <arc id="f-s2-t1-e183" class="consumption" source="s143" target="s141">
+            <start x="-689.9211854" y="513.479428" />
+            <next x="-665.9211854" y="518.979428" />
+            <next x="-665.9211854" y="456.4598544" />
+            <end x="-689.9211854" y="450.9598544" />
+        </arc>
+        <arc id="f-s2-t1-e184" class="production" source="s141" target="s144">
+            <start x="-687.9211854" y="450.9598544" />
+            <next x="-665.9211854" y="456.4598544" />
+            <next x="-739.4514772" y="456.4598544" />
+            <next x="-739.4514772" y="518.979428" />
+            <end x="-761.4514772" y="513.479428" />
+        </arc>
+        <arc id="f-s2-t2-e185" class="consumption" source="s146" target="s145">
+            <start x="-625.4023679" y="343.8816008" />
+            <next x="-598.4023679" y="349.3816008" />
+            <next x="-598.4023679" y="287.384891" />
+            <next x="-665.9587508" y="287.384891" />
+            <end x="-692.9587508" y="281.884891" />
+        </arc>
+        <arc id="f-s2-t2-e186" class="consumption" source="s147" target="s145">
+            <start x="-692.9587508" y="343.8816008" />
+            <next x="-665.9587508" y="349.3816008" />
+            <next x="-665.9587508" y="287.384891" />
+            <end x="-692.9587508" y="281.884891" />
+        </arc>
+        <arc id="f-s2-t2-e187" class="production" source="s145" target="s148">
+            <start x="-687.9587508" y="281.884891" />
+            <next x="-665.9587508" y="287.384891" />
+            <next x="-739.5631536" y="287.384891" />
+            <next x="-739.5631536" y="349.3816008" />
+            <end x="-761.5631536" y="343.8816008" />
+        </arc>
+        <arc id="f-s2-t0-e188" class="consumption" source="s134" target="s149">
+            <start x="-656.8933728" y="-262.893306" />
+            <next x="-635.3933728" y="-257.393306" />
+            <next x="-713.9824068" y="-257.393306" />
+            <end x="-735.4824068" y="-262.893306" />
+        </arc>
+        <arc id="f-s2-t0-e189" class="consumption" source="s150" target="s149">
+            <start x="-814.0836347" y="-262.893306" />
+            <next x="-792.5836347" y="-257.393306" />
+            <next x="-713.9824068" y="-257.393306" />
+            <end x="-735.4824068" y="-262.893306" />
+        </arc>
+        <arc id="f-s2-t0-e190" class="production" source="s149" target="s151">
+            <start x="-727.4824068" y="-262.893306" />
+            <next x="-713.9824068" y="-255.4141835" />
+            <next x="-753.2830207" y="-255.4141835" />
+            <next x="-753.2830207" y="-223.2534425" />
+            <next x="-792.5836347" y="-223.2534425" />
+            <end x="-806.0836347" y="-228.7534425" />
+        </arc>
+        <arc id="f-s2-t0-e191" class="production" source="s149" target="s152">
+            <start x="-741.4824068" y="-262.893306" />
+            <next x="-713.9824068" y="-259.3724285" />
+            <next x="-753.2830207" y="-259.3724285" />
+            <next x="-753.2830207" y="-298.4600984" />
+            <next x="-792.5836347" y="-298.4600984" />
+            <end x="-820.0836347" y="-303.9600984" />
+        </arc>
+        <arc id="f-s2-t3-e192" class="consumption" source="s154" target="s153">
+            <start x="-195.9828779" y="516.0248985" />
+            <next x="-171.4828779" y="521.5248985" />
+            <next x="-171.4828779" y="466.8300707" />
+            <next x="-57.60885303" y="466.8300707" />
+            <end x="-82.10885303" y="463.0129885" />
+        </arc>
+        <arc id="f-s2-t3-e193" class="consumption" source="s155" target="s153">
+            <start x="-126.6015733" y="516.0248985" />
+            <next x="-102.1015733" y="521.5248985" />
+            <next x="-102.1015733" y="470.1959062" />
+            <next x="-57.60885303" y="470.1959062" />
+            <end x="-82.10885303" y="463.0129885" />
+        </arc>
+        <arc id="f-s2-t3-e194" class="production" source="s153" target="s156">
+            <start x="-85.60885303" y="463.0129885" />
+            <next x="-57.60885303" y="470.1959062" />
+            <next x="-1.447004155" y="470.1959062" />
+            <next x="-1.447004155" y="521.5248985" />
+            <end x="-29.44700416" y="516.0248985" />
+        </arc>
+        <arc id="f-s2-t3-e195" class="production" source="s153" target="s157">
+            <start x="-71.60885303" y="463.0129885" />
+            <next x="-57.60885303" y="466.8300707" />
+            <next x="72.93535549" y="466.8300707" />
+            <next x="72.93535549" y="521.5248985" />
+            <end x="58.93535549" y="516.0248985" />
+        </arc>
+        <arc id="f-s2-t0-e196" class="consumption" source="s159" target="s158">
+            <start x="-147.7286169" y="165.5867206" />
+            <next x="-130.7286169" y="171.0867206" />
+            <next x="-130.7286169" y="152.7798373" />
+            <next x="-93.86676275" y="152.7798373" />
+            <next x="-93.86676275" y="133.9781733" />
+            <end x="-108.428003" y="128.4781733" />
+        </arc>
+        <arc id="f-s2-t0-e197" class="consumption" source="s112" target="s158">
+            <start x="-108.428003" y="86.91660026" />
+            <next x="-91.41580917" y="92.41660026" />
+            <next x="-91.41580917" y="133.9781733" />
+            <end x="-108.428003" y="128.4781733" />
+        </arc>
+        <arc id="f-s2-t0-e198" class="production" source="s158" target="s160">
+            <start x="-106.428003" y="128.4781733" />
+            <next x="-88.98924318" y="133.9781733" />
+            <next x="-88.98924318" y="152.7798373" />
+            <next x="-52.12738905" y="152.7798373" />
+            <next x="-52.12738905" y="171.0867206" />
+            <end x="-67.12738905" y="165.5867206" />
+        </arc>
+        <arc id="f-s2-t0-e199" class="production" source="s158" target="s161">
+            <start x="-104.928003" y="128.4781733" />
+            <next x="-91.42800297" y="133.9781733" />
+            <next x="65.76225891" y="133.9781733" />
+            <next x="65.76225891" y="92.41660026" />
+            <end x="52.26225891" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e201" class="consumption" source="s161" target="s162">
+            <start x="46.26225891" y="86.91660026" />
+            <next x="65.76225891" y="92.41660026" />
+            <next x="-12.82677513" y="92.41660026" />
+            <end x="-32.32677513" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e203" class="production" source="s162" target="s112">
+            <start x="-34.82677513" y="86.91660026" />
+            <next x="-12.82677513" y="92.41660026" />
+            <next x="-91.42800297" y="92.41660026" />
+            <end x="-113.428003" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e205" class="consumption" source="s164" target="s163">
+            <start x="-205.844154" y="-89.72008509" />
+            <next x="-189.8563478" y="-84.22008509" />
+            <next x="-189.8563478" y="-29.29943502" />
+            <end x="-205.844154" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e206" class="production" source="s163" target="s100">
+            <start x="-204.844154" y="-34.79943502" />
+            <next x="-189.844154" y="-29.29943502" />
+            <next x="-478.2031109" y="-29.29943502" />
+            <end x="-493.2031109" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e207" class="production" source="s163" target="s165">
+            <start x="-198.844154" y="-34.79943502" />
+            <next x="-189.844154" y="-29.29943502" />
+            <next x="-189.844154" y="3.850867272" />
+            <end x="-198.844154" y="-1.649132728" />
+        </arc>
+        <arc id="f-s2-t0-e208" class="production" source="s163" target="s112">
+            <start x="-211.844154" y="-34.79943502" />
+            <next x="-189.844154" y="-29.29943502" />
+            <next x="-96.30552254" y="-29.29943502" />
+            <next x="-96.30552254" y="92.41660026" />
+            <end x="-113.428003" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e209" class="consumption" source="s167" target="s166">
+            <start x="-296.1756537" y="-514.7366473" />
+            <next x="-281.6756537" y="-509.2366473" />
+            <next x="-281.6756537" y="-491.4245446" />
+            <next x="-355.3871682" y="-491.4245446" />
+            <next x="-355.3871682" y="-473.6124419" />
+            <end x="-374.7646878" y="-479.1124419" />
+        </arc>
+        <arc id="f-s2-t0-e210" class="consumption" source="s130" target="s166">
+            <start x="-374.7646878" y="-440.024772" />
+            <next x="-360.2646878" y="-434.524772" />
+            <next x="-360.2646878" y="-473.6124419" />
+            <end x="-374.7646878" y="-479.1124419" />
+        </arc>
+        <arc id="f-s2-t0-e211" class="production" source="s166" target="s168">
+            <start x="-370.7646878" y="-479.1124419" />
+            <next x="-365.1422073" y="-473.6124419" />
+            <next x="-365.1422073" y="-491.4245446" />
+            <next x="-438.8537218" y="-491.4245446" />
+            <next x="-438.8537218" y="-509.2366473" />
+            <end x="-449.3537218" y="-514.7366473" />
+        </arc>
+        <arc id="f-s2-t0-e212" class="production" source="s166" target="s169">
+            <start x="-375.2646878" y="-479.1124419" />
+            <next x="-360.2646878" y="-473.6124419" />
+            <next x="-360.2646878" y="-509.2366473" />
+            <end x="-375.2646878" y="-514.7366473" />
+        </arc>
+        <arc id="f-s2-t0-e213" class="consumption" source="s171" target="s170">
+            <start x="-785.8799202" y="-188.6762113" />
+            <next x="-759.3799202" y="-183.1762113" />
+            <next x="-759.3799202" y="-141.6146383" />
+            <end x="-785.8799202" y="-147.1146383" />
+        </arc>
+        <arc id="f-s2-t0-e214" class="consumption" source="s172" target="s170">
+            <start x="-785.8799202" y="-100.605259" />
+            <next x="-759.3799202" y="-95.10525898" />
+            <next x="-759.3799202" y="-141.6146383" />
+            <end x="-785.8799202" y="-147.1146383" />
+        </arc>
+        <arc id="f-s2-t0-e215" class="production" source="s170" target="s173">
+            <start x="-768.3799202" y="-147.1146383" />
+            <next x="-754.5024006" y="-141.6146383" />
+            <next x="-754.5024006" y="-165.3641086" />
+            <next x="-680.7908862" y="-165.3641086" />
+            <next x="-680.7908862" y="-183.1762113" />
+            <end x="-689.7908862" y="-188.6762113" />
+        </arc>
+        <arc id="f-s2-t0-e216" class="production" source="s170" target="s174">
+            <start x="-774.3799202" y="-147.1146383" />
+            <next x="-764.2574398" y="-141.6146383" />
+            <next x="-764.2574398" y="-165.3641086" />
+            <next x="-837.9689542" y="-165.3641086" />
+            <next x="-837.9689542" y="-183.1762113" />
+            <end x="-852.9689542" y="-188.6762113" />
+        </arc>
+        <arc id="f-s2-t0-e217" class="production" source="s170" target="s109">
+            <start x="-783.8799202" y="-147.1146383" />
+            <next x="-759.3799202" y="-141.6146383" />
+            <next x="-635.3933728" y="-141.6146383" />
+            <end x="-659.8933728" y="-147.1146383" />
+        </arc>
+        <arc id="f-s2-t0-e218" class="consumption" source="s172" target="s175">
+            <start x="-776.3799202" y="-100.605259" />
+            <next x="-759.3799202" y="-95.10525898" />
+            <next x="-928.763981" y="-95.10525898" />
+            <end x="-945.763981" y="-100.605259" />
+        </arc>
+        <arc id="b-s2-t0-e219" class="production" source="s175" target="s172">
+            <start x="-945.763981" y="-100.605259" />
+            <next x="-928.763981" y="-95.10525898" />
+            <next x="-759.3799202" y="-95.10525898" />
+            <end x="-776.3799202" y="-100.605259" />
+        </arc>
+        <arc id="f-s2-t0-e220" class="production" source="s175" target="s176">
+            <start x="-956.763981" y="-100.605259" />
+            <next x="-928.763981" y="-95.10525898" />
+            <next x="-928.763981" y="-29.29943502" />
+            <end x="-956.763981" y="-34.79943502" />
+        </arc>
+        <arc id="b-s2-t0-e221" class="consumption" source="s176" target="s175">
+            <start x="-956.763981" y="-34.79943502" />
+            <next x="-928.763981" y="-29.29943502" />
+            <next x="-928.763981" y="-95.10525898" />
+            <end x="-956.763981" y="-100.605259" />
+        </arc>
+        <arc id="f-s2-t0-e222" class="consumption" source="s178" target="s177">
+            <start x="-907.8664676" y="-74.87666615" />
+            <next x="-883.3664676" y="-69.37666615" />
+            <next x="-883.3664676" y="-53.04890532" />
+            <next x="-840.407714" y="-53.04890532" />
+            <next x="-840.407714" y="-29.29943502" />
+            <end x="-862.4689542" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e223" class="consumption" source="s102" target="s177">
+            <start x="-721.3257317" y="-34.79943502" />
+            <next x="-696.8257317" y="-29.29943502" />
+            <next x="-837.9689542" y="-29.29943502" />
+            <end x="-862.4689542" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e224" class="consumption" source="s179" target="s177">
+            <start x="-862.4689542" y="86.91660026" />
+            <next x="-837.9689542" y="92.41660026" />
+            <next x="-837.9689542" y="-29.29943502" />
+            <end x="-862.4689542" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e225" class="production" source="s177" target="s180">
+            <start x="-851.4689542" y="-34.79943502" />
+            <next x="-835.5301944" y="-29.29943502" />
+            <next x="-835.5301944" y="-52.05934406" />
+            <next x="-804.7774336" y="-52.05934406" />
+            <next x="-804.7774336" y="-69.37666615" />
+            <end x="-818.2774336" y="-74.87666615" />
+        </arc>
+        <arc id="f-s2-t0-e226" class="production" source="s177" target="s176">
+            <start x="-865.9689542" y="-34.79943502" />
+            <next x="-837.9689542" y="-29.29943502" />
+            <next x="-928.763981" y="-29.29943502" />
+            <end x="-956.763981" y="-34.79943502" />
+        </arc>
+        <arc id="f-s2-t0-e227" class="consumption" source="s182" target="s181">
+            <start x="-776.1605403" y="123.530367" />
+            <next x="-758.1605403" y="129.030367" />
+            <next x="-758.1605403" y="112.7026061" />
+            <next x="-756.9411604" y="112.7026061" />
+            <next x="-756.9411604" y="92.41660026" />
+            <end x="-777.3799202" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e228" class="consumption" source="s119" target="s181">
+            <start x="-653.3933728" y="86.91660026" />
+            <next x="-635.3933728" y="92.41660026" />
+            <next x="-759.3799202" y="92.41660026" />
+            <end x="-777.3799202" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e229" class="consumption" source="s179" target="s181">
+            <start x="-855.9689542" y="86.91660026" />
+            <next x="-837.9689542" y="92.41660026" />
+            <next x="-759.3799202" y="92.41660026" />
+            <end x="-777.3799202" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e230" class="production" source="s181" target="s183">
+            <start x="-772.8799202" y="86.91660026" />
+            <next x="-761.81868" y="92.41660026" />
+            <next x="-761.81868" y="111.7130449" />
+            <next x="-836.7495743" y="111.7130449" />
+            <next x="-836.7495743" y="129.030367" />
+            <end x="-850.2495743" y="123.530367" />
+        </arc>
+        <arc id="f-s2-t0-e231" class="production" source="s181" target="s172">
+            <start x="-784.3799202" y="86.91660026" />
+            <next x="-759.3799202" y="92.41660026" />
+            <next x="-759.3799202" y="-95.10525898" />
+            <end x="-784.3799202" y="-100.605259" />
+        </arc>
+        <arc id="f-s2-t4-e232" class="consumption" source="s185" target="s184">
+            <start x="-484.3032088" y="362.6923086" />
+            <next x="-471.3032088" y="368.1923086" />
+            <next x="-413.2659314" y="368.1923086" />
+            <next x="-413.2659314" y="333.2316395" />
+            <end x="-426.2659314" y="327.7316395" />
+        </arc>
+        <arc id="f-s2-t4-e233" class="consumption" source="s186" target="s184">
+            <start x="-368.2286541" y="327.7316395" />
+            <next x="-355.2286541" y="333.2316395" />
+            <next x="-413.2659314" y="333.2316395" />
+            <end x="-426.2659314" y="327.7316395" />
+        </arc>
+        <arc id="f-s2-t4-e234" class="production" source="s184" target="s187">
+            <start x="-433.7659314" y="327.7316395" />
+            <next x="-413.2659314" y="333.2316395" />
+            <next x="-413.2659314" y="293.276589" />
+            <next x="-471.3032088" y="293.276589" />
+            <end x="-491.8032088" y="287.776589" />
+        </arc>
+        <arc id="f-s2-t5-e235" class="consumption" source="s189" target="s188">
+            <start x="-15.11860047" y="358.4540523" />
+            <next x="-2.118600468" y="363.9540523" />
+            <next x="-2.118600468" y="291.601667" />
+            <next x="-64.90590113" y="291.601667" />
+            <end x="-77.90590113" y="283.3542819" />
+        </arc>
+        <arc id="f-s2-t5-e236" class="consumption" source="s190" target="s188">
+            <start x="-77.90590113" y="358.4540523" />
+            <next x="-64.90590113" y="363.9540523" />
+            <next x="-64.90590113" y="288.8542819" />
+            <end x="-77.90590113" y="283.3542819" />
+        </arc>
+        <arc id="f-s2-t5-e237" class="production" source="s188" target="s191">
+            <start x="-73.40590113" y="283.3542819" />
+            <next x="-64.90590113" y="291.601667" />
+            <next x="-123.321934" y="291.601667" />
+            <next x="-123.321934" y="363.9540523" />
+            <end x="-131.821934" y="358.4540523" />
+        </arc>
+        <arc id="f-s2-t5-e238" class="production" source="s188" target="s192">
+            <start x="-79.40590113" y="283.3542819" />
+            <next x="-64.90590113" y="286.1068969" />
+            <next x="-174.1875953" y="286.1068969" />
+            <next x="-174.1875953" y="363.9540523" />
+            <end x="-188.6875953" y="358.4540523" />
+        </arc>
+        <arc id="f-s2-t5-e239" class="production" source="s188" target="s193">
+            <start x="-88.90590113" y="283.3542819" />
+            <next x="-64.90590113" y="286.1068969" />
+            <next x="60.66870019" y="286.1068969" />
+            <next x="60.66870019" y="363.9540523" />
+            <end x="36.66870019" y="358.4540523" />
+        </arc>
+        <arc id="f-s2-t0-e240" class="consumption" source="s195" target="s194">
+            <start x="-25.82677513" y="-123.8599486" />
+            <next x="-12.82677513" y="-118.3599486" />
+            <next x="-12.82677513" y="-101.5374072" />
+            <next x="-86.5504834" y="-101.5374072" />
+            <next x="-86.5504834" y="-84.22008509" />
+            <end x="-104.428003" y="-89.72008509" />
+        </arc>
+        <arc id="f-s2-t0-e241" class="consumption" source="s164" target="s194">
+            <start x="-202.844154" y="-89.72008509" />
+            <next x="-189.844154" y="-84.22008509" />
+            <next x="-91.42800297" y="-84.22008509" />
+            <end x="-104.428003" y="-89.72008509" />
+        </arc>
+        <arc id="f-s2-t0-e242" class="production" source="s194" target="s196">
+            <start x="-100.428003" y="-89.72008509" />
+            <next x="-96.30552254" y="-84.22008509" />
+            <next x="-96.30552254" y="-102.0321878" />
+            <next x="-170.017037" y="-102.0321878" />
+            <next x="-170.017037" y="-118.3599486" />
+            <end x="-179.017037" y="-123.8599486" />
+        </arc>
+        <arc id="f-s2-t0-e243" class="production" source="s194" target="s197">
+            <start x="-104.928003" y="-89.72008509" />
+            <next x="-91.42800297" y="-84.22008509" />
+            <next x="-91.42800297" y="-118.3599486" />
+            <end x="-104.928003" y="-123.8599486" />
+        </arc>
+        <arc id="f-s2-t0-e244" class="production" source="s194" target="s112">
+            <start x="-113.428003" y="-89.72008509" />
+            <next x="-91.42800297" y="-84.22008509" />
+            <next x="-91.42800297" y="92.41660026" />
+            <end x="-113.428003" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e245" class="consumption" source="s199" target="s198">
+            <start x="35.59339003" y="-36.77855755" />
+            <next x="48.59339003" y="-31.27855755" />
+            <next x="9.304969908" y="-31.27855755" />
+            <next x="9.304969908" y="0.3874028534" />
+            <next x="-29.99564401" y="0.3874028534" />
+            <end x="-42.99564401" y="-3.133474622" />
+        </arc>
+        <arc id="f-s2-t0-e246" class="consumption" source="s164" target="s198">
+            <start x="-202.844154" y="-89.72008509" />
+            <next x="-184.9788283" y="-84.22008509" />
+            <next x="-184.9788283" y="-57.00715037" />
+            <next x="-29.99564401" y="-57.00715037" />
+            <next x="-29.99564401" y="2.366525378" />
+            <end x="-42.99564401" y="-3.133474622" />
+        </arc>
+        <arc id="f-s2-t0-e247" class="production" source="s198" target="s200">
+            <start x="-38.99564401" y="-3.133474622" />
+            <next x="-29.99564401" y="2.366525378" />
+            <next x="48.59339003" y="2.366525378" />
+            <end x="39.59339003" y="-3.133474622" />
+        </arc>
+        <arc id="f-s2-t0-e248" class="production" source="s198" target="s112">
+            <start x="-51.99564401" y="-3.133474622" />
+            <next x="-29.99564401" y="2.366525378" />
+            <next x="-86.5504834" y="2.366525378" />
+            <next x="-86.5504834" y="92.41660026" />
+            <end x="-113.428003" y="86.91660026" />
+        </arc>
+        <arc id="f-s2-t0-e249" class="production" source="s198" target="s201">
+            <start x="-47.99564401" y="-3.133474622" />
+            <next x="-29.99564401" y="4.345647903" />
+            <next x="9.304969908" y="4.345647903" />
+            <next x="9.304969908" y="37.00116957" />
+            <next x="48.59339003" y="37.00116957" />
+            <end x="30.59339003" y="31.50116957" />
+        </arc>
+        <arc id="f-s2-t6-e250" class="consumption" source="s203" target="s202">
+            <start x="-948.6036069" y="338.3753318" />
+            <next x="-935.6036069" y="343.8753318" />
+            <next x="-865.5345912" y="343.8753318" />
+            <next x="-865.5345912" y="390.479437" />
+            <end x="-876.0467866" y="384.979437" />
+        </arc>
+        <arc id="f-s2-t6-e251" class="consumption" source="s204" target="s202">
+            <start x="-948.6036069" y="384.979437" />
+            <next x="-935.6036069" y="390.479437" />
+            <next x="-863.0467866" y="390.479437" />
+            <end x="-876.0467866" y="384.979437" />
+        </arc>
+        <arc id="f-s2-t6-e252" class="consumption" source="s205" target="s202">
+            <start x="-948.6036069" y="446.8963196" />
+            <next x="-935.6036069" y="452.3963196" />
+            <next x="-865.5345912" y="452.3963196" />
+            <next x="-865.5345912" y="390.479437" />
+            <end x="-876.0467866" y="384.979437" />
+        </arc>
+        <arc id="f-s2-t6-e253" class="production" source="s202" target="s206">
+            <start x="-878.0467866" y="384.979437" />
+            <next x="-860.558982" y="390.479437" />
+            <next x="-860.558982" y="512.3158834" />
+            <next x="-935.6036069" y="512.3158834" />
+            <end x="-950.6036069" y="506.8158834" />
+        </arc>
+        <arc id="f-s2-t6-e254" class="production" source="s202" target="s207">
+            <start x="-885.5467866" y="384.979437" />
+            <next x="-860.558982" y="390.479437" />
+            <next x="-860.558982" y="293.276589" />
+            <next x="-935.6036069" y="293.276589" />
+            <end x="-958.1036069" y="287.776589" />
+        </arc>
+        <arc id="f-s2-t4-e255" class="consumption" source="s209" target="s208">
+            <start x="-484.3032088" y="433.3271299" />
+            <next x="-471.3032088" y="438.8271299" />
+            <next x="-413.2659314" y="438.8271299" />
+            <next x="-413.2659314" y="475.2147651" />
+            <end x="-426.2659314" y="469.7147651" />
+        </arc>
+        <arc id="f-s2-t4-e256" class="consumption" source="s210" target="s208">
+            <start x="-484.3032088" y="506.8158834" />
+            <next x="-471.3032088" y="512.3158834" />
+            <next x="-413.2659314" y="512.3158834" />
+            <next x="-413.2659314" y="475.2147651" />
+            <end x="-426.2659314" y="469.7147651" />
+        </arc>
+        <arc id="f-s2-t4-e257" class="production" source="s208" target="s211">
+            <start x="-440.2659314" y="469.7147651" />
+            <next x="-413.2659314" y="475.2147651" />
+            <next x="-355.2286541" y="475.2147651" />
+            <end x="-382.2286541" y="469.7147651" />
+        </arc>
+        <arc id="f-s2-t4-e258" class="consumption" source="s211" target="s212">
+            <start x="-368.2286541" y="469.7147651" />
+            <next x="-355.2286541" y="475.2147651" />
+            <next x="-297.1913767" y="475.2147651" />
+            <next x="-297.1913767" y="403.1529777" />
+            <end x="-310.1913767" y="397.6529777" />
+        </arc>
+        <arc id="f-s2-t4-e259" class="production" source="s212" target="s186">
+            <start x="-323.1913767" y="397.6529777" />
+            <next x="-297.1913767" y="403.1529777" />
+            <next x="-297.1913767" y="333.2316395" />
+            <next x="-355.2286541" y="333.2316395" />
+            <end x="-381.2286541" y="327.7316395" />
+        </arc>
+    </map>
+</sbgn>

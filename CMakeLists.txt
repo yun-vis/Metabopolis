@@ -21,8 +21,13 @@ else()
 endif()
 
 if (UNIX AND NOT APPLE)
+
   message(status "Setting G++ flags")
-  set( CPLEX_PATH_DIR "/opt/ibm/ILOG/CPLEX_Studio128/")
+
+  set(CPLEX_INCLUDE "/opt/ibm/ILOG/CPLEX_Studio128/cplex/include/")
+  set(CONCERT_INCLUDE "/opt/ibm/ILOG/CPLEX_Studio128/concert/include/")
+  set(CPLEX_LIB "/opt/ibm/ILOG/CPLEX_Studio128/cplex/lib/x86-64_linux/static_pic/")
+  set(CONCERT_LIB "/opt/ibm/ILOG/CPLEX_Studio128/concert/lib/x86-64_linux/static_pic/")
   set( GRAPHVIZ_PATH_DIR "/home/$ENV{USER}/MyLib/release/graphviz")
   set( QT5_PATH_DIR "/home/$ENV{USER}/MyLib/release/qt5-package/5.8/gcc_64")
 
@@ -37,29 +42,34 @@ if (UNIX AND NOT APPLE)
 elseif(APPLE)
 
   message(status "Setting CLANG flags")
-  set( CPLEX_PATH_DIR "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/")
+  set(CPLEX_INCLUDE "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/cplex/include/")
+  set(CONCERT_INCLUDE "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/concert/include/")
+  set(CPLEX_LIB "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/cplex/lib/x86-64_osx/static_pic/")
+  set(CONCERT_LIB "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/concert/lib/x86-64_osx/static_pic/")
 
   # add the libraries you need below
   set( OPENGL_FLAG "-framework OpenGL" )
   find_package(GLUT REQUIRED)
   find_package(OpenGL REQUIRED)
 
-  set( CXX_FLAGS "${CXX_FLAGS}-ltinyxml -lsbml -lcgraph -lgvc -lCGAL -lgmp -lmpfr -lilocplex -lconcert -lcplex ${OPENGL_FLAG}")
+  set(CXX_FLAGS "${CXX_FLAGS}-ltinyxml -lsbml -lcgraph -lgvc -lCGAL -lgmp -lmpfr -lilocplex -lconcert -lcplex ${OPENGL_FLAG}")
 
 endif()
 
 include_directories(
+    /opt/local/include
     ${CMAKE_SOURCE_DIR}/include
-    ${CPLEX_PATH_DIR}/cplex/include
-    ${CPLEX_PATH_DIR}/concert/include
+    ${CPLEX_INCLUDE}
+    ${CONCERT_INCLUDE}
     ${GRAPHVIZ_PATH_DIR}/include
     ${QT5_PATH_DIR}/include
 )
 
 link_directories(
+    /opt/local/lib
     ${CMAKE_SOURCE_DIR}/src
-    ${CPLEX_PATH_DIR}/cplex/lib/x86-64_linux/static_pic
-    ${CPLEX_PATH_DIR}/concert/lib/x86-64_linux/static_pic
+    ${CPLEX_LIB}
+    ${CONCERT_LIB}
     ${GRAPHVIZ_PATH_DIR}/lib
     ${QT5_PATH_DIR}/lib
 )

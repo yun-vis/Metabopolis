@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph class="compartment" id="glyph_d0">
+            <label text="Alanine and aspartate metabolism"/>
+            <bbox w="794.0" h="704.0" x="211.0" y="-133.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d1">
+            <label text="Alkaloid synthesis"/>
+            <bbox w="794.0" h="358.0" x="211.0" y="-571.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2">
+            <label text="Aminosugar metabolism"/>
+            <bbox w="1137.0" h="1143.0" x="-1006.0" y="-571.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d0-t0">
+            <bbox w="474.0" h="312.0" x="512.0" y="239.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d0-t1">
+            <bbox w="240.0" h="106.0" x="745.0" y="92.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d0-t2">
+            <bbox w="193.0" h="312.0" x="512.0" y="-113.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d0-t3">
+            <bbox w="240.0" h="664.0" x="231.0" y="-113.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d0-t4">
+            <bbox w="240.0" h="165.0" x="745.0" y="-113.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d1-t0">
+            <bbox w="571.0" h="318.0" x="414.0" y="-551.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d1-t1">
+            <bbox w="143.0" h="318.0" x="231.0" y="-551.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t0">
+            <bbox w="1097.0" h="765.0" x="-986.0" y="-551.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t1">
+            <bbox w="227.0" h="129.0" x="-785.0" y="422.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t2">
+            <bbox w="227.0" h="129.0" x="-785.0" y="253.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t3">
+            <bbox w="328.0" h="113.0" x="-216.0" y="438.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t4">
+            <bbox w="261.0" h="298.0" x="-517.0" y="253.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t5">
+            <bbox w="328.0" h="144.0" x="-216.0" y="253.0"/>
+        </glyph>
+        <glyph class="compartment" id="glyph_d2-t6">
+            <bbox w="160.0" h="298.0" x="-986.0" y="253.0"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t2r0">
+            <label text="ac[c]"/>
+            <clone/>
+            <bbox w="23.0" h="11.0" x="694.3654" y="-54.87887"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r0">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="458.54907" y="269.31082"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r1">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="458.54907" y="380.13498"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r2">
+            <label text="gln_L[c]"/>
+            <clone/>
+            <bbox w="39.0" h="11.0" x="452.54907" y="313.55594"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r3">
+            <label text="glu_L[c]"/>
+            <clone/>
+            <bbox w="39.0" h="11.0" x="452.54907" y="315.94293"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r4">
+            <label text="glu_L[c]"/>
+            <clone/>
+            <bbox w="39.0" h="11.0" x="211.96945" y="269.31082"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d0t3r5">
+            <label text="ac[c]"/>
+            <clone/>
+            <bbox w="23.0" h="11.0" x="219.96945" y="380.13498"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r0">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-999.94507" y="22.595118"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r1">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-586.5099" y="208.22127"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r2">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-294.14288" y="-557.3712"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r3">
+            <label text="atp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-294.14288" y="208.22127"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r4">
+            <label text="gln_L[c]"/>
+            <clone/>
+            <bbox w="39.0" h="11.0" x="13.546983" y="208.22127"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r5">
+            <label text="glu_L[c]"/>
+            <clone/>
+            <bbox w="39.0" h="11.0" x="91.969444" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_d2t0r6">
+            <label text="ac[c]"/>
+            <clone/>
+            <bbox w="23.0" h="11.0" x="-550.36725" y="208.22127"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s0">
+            <label text="AGTim"/>
+            <bbox w="33.0" h="11.0" x="806.3547" y="301.52423"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s1">
+            <label text="ala_L[m]"/>
+            <bbox w="41.0" h="11.0" x="802.3547" y="334.75327"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s2">
+            <label text="glx[m]"/>
+            <bbox w="30.0" h="11.0" x="807.8547" y="272.11462"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s3">
+            <label text="pyr[m]"/>
+            <bbox w="31.0" h="11.0" x="732.01355" y="272.11462"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s4">
+            <label text="gly[m]"/>
+            <bbox w="30.0" h="11.0" x="884.33734" y="272.11462"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s5">
+            <label text="AGTix"/>
+            <bbox w="29.0" h="11.0" x="855.3923" y="115.596214"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s6">
+            <label text="ala_L[x]"/>
+            <bbox w="38.0" h="11.0" x="767.14655" y="165.3378"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s7">
+            <label text="glx[x]"/>
+            <bbox w="27.0" h="11.0" x="824.1824" y="165.3378"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s8">
+            <label text="gly[x]"/>
+            <bbox w="27.0" h="11.0" x="888.6022" y="165.3378"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s9">
+            <label text="pyr[x]"/>
+            <bbox w="28.0" h="11.0" x="936.05914" y="165.3378"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s10">
+            <label text="ALAR"/>
+            <bbox w="28.0" h="11.0" x="597.27686" y="31.65336"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s11">
+            <label text="ala_L[c]"/>
+            <bbox w="38.0" h="11.0" x="644.6898" y="4.2514887"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s12">
+            <label text="ala_D[c]"/>
+            <bbox w="39.0" h="11.0" x="538.49036" y="31.65336"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s13">
+            <label text="ARGSL"/>
+            <bbox w="35.0" h="11.0" x="288.90158" y="-32.558804"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s14">
+            <label text="argsuc[c]"/>
+            <bbox w="45.0" h="11.0" x="315.3086" y="-32.558804"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s15">
+            <label text="fum[c]"/>
+            <bbox w="31.0" h="11.0" x="259.9853" y="-77.91177"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s16">
+            <label text="arg_L[c]"/>
+            <bbox w="39.0" h="11.0" x="255.98529" y="12.794163"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s17">
+            <label text="ARGSS"/>
+            <bbox w="36.0" h="11.0" x="350.72488" y="167.94905"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s19">
+            <label text="asp_L[c]"/>
+            <bbox w="41.0" h="11.0" x="348.22488" y="315.94293"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s20">
+            <label text="citr_L[c]"/>
+            <bbox w="39.0" h="11.0" x="318.3086" y="220.46301"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s21">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="328.8086" y="54.56663"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s22">
+            <label text="amp[c]"/>
+            <bbox w="33.0" h="11.0" x="383.6319" y="167.94905"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s23">
+            <label text="ppi[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="324.3086" y="130.95058"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s24">
+            <label text="ASNNm"/>
+            <bbox w="37.0" h="11.0" x="843.1668" y="474.9263"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s25">
+            <label text="h2o[m]"/>
+            <bbox w="33.0" h="11.0" x="845.1668" y="508.15533"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s26">
+            <label text="asn_L[m]"/>
+            <bbox w="44.0" h="11.0" x="915.00793" y="508.15533"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s27">
+            <label text="asp_L[m]"/>
+            <bbox w="44.0" h="11.0" x="725.51355" y="440.1695"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s28">
+            <label text="nh4[m]"/>
+            <bbox w="33.0" h="11.0" x="768.68414" y="508.15533"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s29">
+            <label text="ASNS1"/>
+            <bbox w="33.0" h="11.0" x="383.6319" y="315.94293"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s30">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="416.5389" y="315.94293"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s32">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="422.5389" y="237.172"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s34">
+            <label text="ppi[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="418.0389" y="399.48788"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s35">
+            <label text="asn_L[c]"/>
+            <bbox w="41.0" h="11.0" x="379.6319" y="417.39035"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s36">
+            <label text="ASPNATm"/>
+            <bbox w="49.0" h="11.0" x="723.01355" y="403.88492"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s37">
+            <label text="accoa[m]"/>
+            <bbox w="44.0" h="11.0" x="800.8547" y="403.88492"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s38">
+            <label text="h[m]"/>
+            <clone/>
+            <bbox w="22.0" h="11.0" x="660.0309" y="440.1695"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s39">
+            <label text="coa[m]"/>
+            <bbox w="33.0" h="11.0" x="731.01355" y="369.892"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s40">
+            <label text="Nacasp[m]"/>
+            <bbox w="51.0" h="11.0" x="797.3547" y="440.1695"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s41">
+            <label text="ASPTA"/>
+            <bbox w="33.0" h="11.0" x="321.3086" y="313.55594"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s42">
+            <label text="akg[c]"/>
+            <bbox w="29.0" h="11.0" x="291.90158" y="228.8175"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s43">
+            <label text="oaa[c]"/>
+            <bbox w="29.0" h="11.0" x="291.90158" y="313.55594"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s44">
+            <label text="ASPTAm"/>
+            <bbox w="42.0" h="11.0" x="612.36035" y="474.9263"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s45">
+            <label text="akg[m]"/>
+            <bbox w="33.0" h="11.0" x="540.3777" y="508.15533"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s46">
+            <label text="glu_L[m]"/>
+            <bbox w="42.0" h="11.0" x="688.843" y="508.15533"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s47">
+            <label text="oaa[m]"/>
+            <bbox w="33.0" h="11.0" x="616.86035" y="508.15533"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s48">
+            <label text="DASPO1p"/>
+            <bbox w="47.0" h="11.0" x="840.82886" y="-83.852135"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s49">
+            <label text="o2[x]"/>
+            <bbox w="24.0" h="11.0" x="805.1253" y="12.3137045"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s50">
+            <label text="h2o[x]"/>
+            <bbox w="30.0" h="11.0" x="829.72736" y="12.3137045"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s51">
+            <label text="asp_D[x]"/>
+            <bbox w="42.0" h="11.0" x="865.33044" y="12.3137045"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s52">
+            <label text="h2o2[x]"/>
+            <bbox w="35.0" h="11.0" x="770.8232" y="12.3137045"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s53">
+            <label text="nh4[x]"/>
+            <bbox w="30.0" h="11.0" x="930.9349" y="12.3137045"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s54">
+            <label text="oaa[x]"/>
+            <bbox w="29.0" h="11.0" x="903.0328" y="12.3137045"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s55">
+            <label text="NACASPAH"/>
+            <bbox w="56.0" h="11.0" x="309.8086" y="416.19687"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s56">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="291.40158" y="505.7093"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s57">
+            <label text="Nacasp[c]"/>
+            <bbox w="48.0" h="11.0" x="282.40158" y="409.03586"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s59">
+            <label text="r0127"/>
+            <bbox w="26.0" h="11.0" x="355.72488" y="417.39035"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s60">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="338.51212" y="500.9353"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s61">
+            <label text="nh4[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="369.42838" y="500.9353"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s62">
+            <label text="RE1473C"/>
+            <bbox w="43.0" h="11.0" x="589.77686" y="116.743385"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s63">
+            <label text="gthrd[c]"/>
+            <bbox w="38.0" h="11.0" x="538.99036" y="116.743385"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s64">
+            <label text="cgly[c]"/>
+            <bbox w="32.0" h="11.0" x="541.99036" y="155.68289"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s65">
+            <label text="CE0469[c]"/>
+            <bbox w="48.0" h="11.0" x="533.99036" y="74.43874"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s66">
+            <label text="RE2031M"/>
+            <bbox w="44.0" h="11.0" x="800.8547" y="369.892"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s67">
+            <label text="h[m]"/>
+            <clone/>
+            <bbox w="22.0" h="11.0" x="888.33734" y="334.75327"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s68">
+            <label text="CE1554[m]"/>
+            <bbox w="52.0" h="11.0" x="721.51355" y="334.75327"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s69">
+            <label text="RE2642C"/>
+            <bbox w="43.0" h="11.0" x="589.77686" y="-54.87887"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s70">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="542.99036" y="-80.3578"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s71">
+            <label text="CE1554[c]"/>
+            <bbox w="48.0" h="11.0" x="533.99036" y="-25.073322"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s72">
+            <label text="COKECBESr"/>
+            <bbox w="61.0" h="11.0" x="569.34076" y="-335.70966"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s73">
+            <label text="h2o[r]"/>
+            <clone/>
+            <bbox w="28.0" h="11.0" x="654.39246" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s74">
+            <label text="coke[r]"/>
+            <bbox w="33.0" h="11.0" x="611.9489" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s75">
+            <label text="h[r]"/>
+            <clone/>
+            <bbox w="17.0" h="11.0" x="567.5906" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s76">
+            <label text="bz[r]"/>
+            <bbox w="22.0" h="11.0" x="531.0846" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s77">
+            <label text="egme[r]"/>
+            <bbox w="37.0" h="11.0" x="581.34076" y="-397.97244"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s78">
+            <label text="ECGISOr"/>
+            <bbox w="43.0" h="11.0" x="799.64935" y="-460.2352"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s79">
+            <label text="ecgon[r]"/>
+            <bbox w="40.0" h="11.0" x="675.3813" y="-522.498"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s80">
+            <label text="pecgon[r]"/>
+            <bbox w="46.0" h="11.0" x="798.14935" y="-397.97244"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s81">
+            <label text="EGMESTr"/>
+            <bbox w="46.0" h="11.0" x="493.1753" y="-460.2352"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s82">
+            <label text="h2o[r]"/>
+            <clone/>
+            <bbox w="28.0" h="11.0" x="475.18646" y="-397.97244"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s83">
+            <label text="h[r]"/>
+            <clone/>
+            <bbox w="17.0" h="11.0" x="445.06116" y="-397.97244"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s84">
+            <label text="meoh[r]"/>
+            <bbox w="37.0" h="11.0" x="527.36304" y="-397.97244"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s85">
+            <label text="NMPTRCOX"/>
+            <bbox w="57.0" h="11.0" x="299.8897" y="-399.9001"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s86">
+            <label text="o2[c]"/>
+            <bbox w="24.0" h="11.0" x="262.09753" y="-461.58456"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s87">
+            <label text="nmptrc[c]"/>
+            <bbox w="46.0" h="11.0" x="251.09753" y="-399.9001"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s88">
+            <label text="h2o2[c]"/>
+            <bbox w="35.0" h="11.0" x="256.59753" y="-333.58926"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s89">
+            <label text="nh4[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="259.09753" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s90">
+            <label text="1mpyr[c]"/>
+            <bbox w="42.0" h="11.0" x="253.09753" y="-522.498"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s91">
+            <label text="PECGONCOATr"/>
+            <bbox w="74.0" h="11.0" x="784.14935" y="-335.70966"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s92">
+            <label text="atp[r]"/>
+            <bbox w="26.0" h="11.0" x="892.3546" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s93">
+            <label text="h[r]"/>
+            <clone/>
+            <bbox w="17.0" h="11.0" x="710.6315" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s94">
+            <label text="coa[r]"/>
+            <bbox w="28.0" h="11.0" x="929.139" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s95">
+            <label text="amp[r]"/>
+            <bbox w="31.0" h="11.0" x="740.33636" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s96">
+            <label text="ppi[r]"/>
+            <bbox w="26.0" h="11.0" x="781.70026" y="-273.4469"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s97">
+            <label text="pecgoncoa[r]"/>
+            <bbox w="63.0" h="11.0" x="826.3542" y="-273.4469"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s98">
+            <label text="ACGALK"/>
+            <bbox w="43.0" h="11.0" x="-594.5099" y="-34.799435"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s99">
+            <label text="acgal[c]"/>
+            <bbox w="38.0" h="11.0" x="-592.0099" y="118.08778"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s100">
+            <label text="adp[c]"/>
+            <bbox w="30.0" h="11.0" x="-492.89825" y="-34.799435"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s101">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-582.0099" y="-70.91842"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s102">
+            <label text="acgal1p[c]"/>
+            <bbox w="49.0" h="11.0" x="-720.66724" y="-34.799435"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s103">
+            <label text="ACGALK2"/>
+            <bbox w="48.0" h="11.0" x="-720.16724" y="118.08778"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s104">
+            <label text="itp[c]"/>
+            <clone/>
+            <bbox w="24.0" h="11.0" x="-708.16724" y="157.67023"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s105">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-627.12695" y="157.67023"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s106">
+            <label text="idp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-787.7076" y="157.67023"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s107">
+            <label text="ACGAM2E"/>
+            <bbox w="50.0" h="11.0" x="-660.19824" y="-91.20443"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s108">
+            <label text="acgam[c]"/>
+            <clone/>
+            <bbox w="44.0" h="11.0" x="-657.19824" y="22.595118"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s109">
+            <label text="acmana[c]"/>
+            <bbox w="49.0" h="11.0" x="-659.69824" y="-147.11464"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s110">
+            <label text="ACGAM6PSi"/>
+            <bbox w="59.0" h="11.0" x="-244.0122" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s111">
+            <label text="accoa[c]"/>
+            <bbox w="40.0" h="11.0" x="-234.5122" y="41.396782"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s112">
+            <label text="gam6p[c]"/>
+            <bbox w="44.0" h="11.0" x="-113.35484" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s113">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-145.4719" y="41.396782"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s114">
+            <label text="coa[c]"/>
+            <bbox w="29.0" h="11.0" x="-308.2719" y="41.396782"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s115">
+            <label text="acgam6p[c]"/>
+            <bbox w="55.0" h="11.0" x="-460.28122" y="86.9166"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s116">
+            <label text="ACGAMK"/>
+            <bbox w="45.0" h="11.0" x="-455.28122" y="22.595118"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s117">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-363.7409" y="22.595118"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s118">
+            <label text="ACGAMPM"/>
+            <bbox w="53.0" h="11.0" x="-538.5409" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s119">
+            <label text="acgam1p[c]"/>
+            <bbox w="55.0" h="11.0" x="-662.69824" y="86.9166"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s120">
+            <label text="ACNAM9PL"/>
+            <bbox w="56.0" h="11.0" x="-505.89825" y="-307.42355"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s121">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-570.9386" y="-349.47992"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s122">
+            <label text="acmanap[c]"/>
+            <bbox w="55.0" h="11.0" x="-505.39825" y="-227.2691"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s123">
+            <label text="pep[c]"/>
+            <bbox w="30.0" h="11.0" x="-492.89825" y="-349.47992"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s124">
+            <label text="pi[c]"/>
+            <clone/>
+            <bbox w="21.0" h="11.0" x="-409.13858" y="-349.47992"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s125">
+            <label text="acnamp[c]"/>
+            <bbox w="50.0" h="11.0" x="-580.9386" y="-307.42355"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s126">
+            <label text="ACNAM9PL2"/>
+            <bbox w="61.0" h="11.0" x="-508.39825" y="-393.0206"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s127">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-609.95874" y="-440.02478"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s128">
+            <label text="man6p[c]"/>
+            <bbox w="44.0" h="11.0" x="-459.65872" y="-440.02478"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s129">
+            <label text="pi[c]"/>
+            <clone/>
+            <bbox w="21.0" h="11.0" x="-527.4184" y="-440.02478"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s130">
+            <label text="kdnp[c]"/>
+            <bbox w="36.0" h="11.0" x="-377.6184" y="-440.02478"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s131">
+            <label text="ACNAMPH"/>
+            <bbox w="51.0" h="11.0" x="-660.69824" y="-307.42355"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s132">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-650.19824" y="-348.49036"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s133">
+            <label text="pi[c]"/>
+            <clone/>
+            <bbox w="21.0" h="11.0" x="-723.7386" y="-348.49036"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s134">
+            <label text="acnam[c]"/>
+            <bbox w="44.0" h="11.0" x="-657.19824" y="-262.8933"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s135">
+            <label text="ACNMLr"/>
+            <bbox w="40.0" h="11.0" x="-655.19824" y="-221.33173"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s136">
+            <label text="pyr[c]"/>
+            <bbox w="28.0" h="11.0" x="-727.2386" y="-221.33173"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s137">
+            <label text="AGDC"/>
+            <bbox w="29.0" h="11.0" x="-447.28122" y="128.47818"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s138">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-447.78122" y="164.10237"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s139">
+            <label text="AMANK"/>
+            <bbox w="37.0" h="11.0" x="-557.36725" y="-147.11464"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s140">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-547.86725" y="-112.479996"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s141">
+            <label text="CHTNASE"/>
+            <bbox w="48.0" h="11.0" x="-689.9212" y="450.95987"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s142">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-613.5665" y="512.7076"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s143">
+            <label text="chtn[c]"/>
+            <bbox w="33.0" h="11.0" x="-682.4212" y="512.7076"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s144">
+            <label text="acgam[c]"/>
+            <clone/>
+            <bbox w="44.0" h="11.0" x="-761.399" y="512.7076"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s145">
+            <label text="CHTNASEe"/>
+            <bbox w="54.0" h="11.0" x="-692.95874" y="281.8849"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s146">
+            <label text="h2o[e]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-613.5665" y="343.63263"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s147">
+            <label text="chtn[e]"/>
+            <clone/>
+            <bbox w="33.0" h="11.0" x="-682.45874" y="343.63263"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s148">
+            <label text="acgam[e]"/>
+            <bbox w="44.0" h="11.0" x="-761.399" y="343.63263"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s149">
+            <label text="CMPSAS"/>
+            <bbox w="43.0" h="11.0" x="-734.7386" y="-262.8933"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s150">
+            <label text="ctp[c]"/>
+            <bbox w="27.0" h="11.0" x="-805.9983" y="-262.8933"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s151">
+            <label text="ppi[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-805.9983" y="-228.75345"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s152">
+            <label text="cmpacna[c]"/>
+            <bbox w="55.0" h="11.0" x="-819.9983" y="-303.9601"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s153">
+            <label text="CMPSASn"/>
+            <bbox w="49.0" h="11.0" x="-82.10886" y="463.013"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s154">
+            <label text="acnam[n]"/>
+            <bbox w="44.0" h="11.0" x="-192.9661" y="516.0249"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s155">
+            <label text="ctp[n]"/>
+            <bbox w="28.0" h="11.0" x="-115.78484" y="516.0249"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s156">
+            <label text="cmpacna[n]"/>
+            <bbox w="56.0" h="11.0" x="-29.763737" y="516.0249"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s157">
+            <label text="ppi[n]"/>
+            <bbox w="28.0" h="11.0" x="58.41858" y="516.0249"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s158">
+            <label text="G6PDA"/>
+            <bbox w="34.0" h="11.0" x="-108.35484" y="128.47818"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s159">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-145.375" y="165.58672"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s160">
+            <label text="nh4[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-66.1153" y="165.58672"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s161">
+            <label text="f6p[c]"/>
+            <bbox w="27.0" h="11.0" x="52.445168" y="86.9166"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s162">
+            <label text="GF6PTA"/>
+            <bbox w="39.0" h="11.0" x="-31.595148" y="86.9166"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s163">
+            <label text="HEX10"/>
+            <bbox w="32.0" h="11.0" x="-204.90523" y="-34.799435"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s164">
+            <label text="gam[c]"/>
+            <bbox w="33.0" h="11.0" x="-205.40523" y="-89.720085"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s165">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-197.90523" y="-1.6491327"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s166">
+            <label text="KDNH"/>
+            <bbox w="29.0" h="11.0" x="-374.1184" y="-479.11243"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s167">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-296.5781" y="-514.73663"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s168">
+            <label text="pi[c]"/>
+            <clone/>
+            <bbox w="21.0" h="11.0" x="-448.15872" y="-514.73663"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s169">
+            <label text="kdn[c]"/>
+            <bbox w="30.0" h="11.0" x="-374.6184" y="-514.73663"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s170">
+            <label text="UAG2EMAi"/>
+            <bbox w="53.0" h="11.0" x="-784.85565" y="-147.11464"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s171">
+            <label text="h2o[c]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-773.35565" y="-188.67621"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s172">
+            <label text="uacgam[c]"/>
+            <bbox w="50.0" h="11.0" x="-783.35565" y="-100.60526"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s173">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-689.3153" y="-188.67621"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s174">
+            <label text="udp[c]"/>
+            <bbox w="30.0" h="11.0" x="-852.61536" y="-188.67621"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s175">
+            <label text="UAG4E"/>
+            <bbox w="34.0" h="11.0" x="-944.8494" y="-100.60526"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s176">
+            <label text="udpacgal[c]"/>
+            <bbox w="56.0" h="11.0" x="-955.8494" y="-34.799435"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s177">
+            <label text="UAGALDP"/>
+            <bbox w="49.0" h="11.0" x="-862.11536" y="-34.799435"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s178">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-891.73236" y="-74.87666"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s179">
+            <label text="utp[c]"/>
+            <bbox w="28.0" h="11.0" x="-851.61536" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s180">
+            <label text="ppi[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-818.1921" y="-74.87666"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s181">
+            <label text="UAGDP"/>
+            <bbox w="36.0" h="11.0" x="-776.35565" y="86.9166"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s182">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-766.1363" y="123.530365"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s183">
+            <label text="ppi[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-849.89594" y="123.530365"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s184">
+            <label text="r0013"/>
+            <bbox w="26.0" h="11.0" x="-426.26593" y="327.73163"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s185">
+            <label text="h2o[l]"/>
+            <bbox w="27.0" h="11.0" x="-484.80322" y="362.69232"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s186">
+            <label text="HC00822[l]"/>
+            <bbox w="52.0" h="11.0" x="-381.22867" y="327.73163"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s187">
+            <label text="acgam[l]"/>
+            <bbox w="41.0" h="11.0" x="-491.80322" y="287.77658"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s188">
+            <label text="r0113"/>
+            <bbox w="26.0" h="11.0" x="-77.9059" y="283.35428"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s189">
+            <label text="h2o[r]"/>
+            <clone/>
+            <bbox w="28.0" h="11.0" x="-16.1186" y="357.5337"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s190">
+            <label text="uacgam[r]"/>
+            <bbox w="48.0" h="11.0" x="-88.9059" y="357.5337"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s191">
+            <label text="h[r]"/>
+            <clone/>
+            <bbox w="17.0" h="11.0" x="-131.42455" y="357.5337"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s192">
+            <label text="udp[r]"/>
+            <bbox w="29.0" h="11.0" x="-188.2902" y="357.5337"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s193">
+            <label text="acmana[r]"/>
+            <bbox w="48.0" h="11.0" x="36.6687" y="357.5337"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s194">
+            <label text="r0363"/>
+            <bbox w="26.0" h="11.0" x="-104.35484" y="-89.720085"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s195">
+            <label text="itp[c]"/>
+            <clone/>
+            <bbox w="24.0" h="11.0" x="-24.095148" y="-123.85995"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s196">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-178.39516" y="-123.85995"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s197">
+            <label text="idp[c]"/>
+            <clone/>
+            <bbox w="27.0" h="11.0" x="-104.85484" y="-123.85995"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s198">
+            <label text="r0364"/>
+            <bbox w="26.0" h="11.0" x="-42.166466" y="-3.1334746"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s199">
+            <label text="datp[c]"/>
+            <bbox w="33.0" h="11.0" x="32.373848" y="-36.778557"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s200">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="39.873848" y="-3.1334746"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s201">
+            <label text="dadp[c]"/>
+            <bbox w="36.0" h="11.0" x="30.873848" y="31.50117"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s202">
+            <label text="r0782"/>
+            <bbox w="26.0" h="11.0" x="-876.0468" y="384.97943"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s203">
+            <label text="h[c]"/>
+            <clone/>
+            <bbox w="18.0" h="11.0" x="-944.1931" y="338.37534"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s204">
+            <label text="nadh[c]"/>
+            <bbox w="36.0" h="11.0" x="-953.1931" y="384.97943"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s205">
+            <label text="gdpddman[c]"/>
+            <bbox w="63.0" h="11.0" x="-966.6931" y="446.89633"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s206">
+            <label text="nad[c]"/>
+            <bbox w="30.0" h="11.0" x="-950.1931" y="506.8159"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s207">
+            <label text="gdpfuc[c]"/>
+            <bbox w="45.0" h="11.0" x="-957.6931" y="287.77658"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s208">
+            <label text="r1374"/>
+            <bbox w="26.0" h="11.0" x="-426.26593" y="469.71475"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s209">
+            <label text="h2o[e]"/>
+            <clone/>
+            <bbox w="30.0" h="11.0" x="-486.30322" y="433.32712"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s210">
+            <label text="chtn[e]"/>
+            <clone/>
+            <bbox w="33.0" h="11.0" x="-487.80322" y="506.8159"/>
+        </glyph>
+        <glyph class="simple chemical" id="glyph_s211">
+            <label text="HC00822[e]"/>
+            <bbox w="54.0" h="11.0" x="-382.22867" y="469.71475"/>
+        </glyph>
+        <glyph class="phenotype" id="glyph_s212">
+            <label text="r1375"/>
+            <bbox w="26.0" h="11.0" x="-310.19138" y="397.65298"/>
+        </glyph>
+        <arc class="production" id="arc_s69-d0t2r0" source="glyph_s69" target="glyph_d0t2r0">
+            <start x="611.27686" y="-49.37887"/>
+            <next x="705.8654" y="-49.37887"/>
+            <end x="705.8654" y="-49.37887"/>
+        </arc>
+        <arc class="consumption" id="arc_d0t2r0-s69" source="glyph_d0t2r0" target="glyph_s69">
+            <start x="705.8654" y="-49.37887"/>
+            <next x="705.8654" y="-49.37887"/>
+            <end x="611.27686" y="-49.37887"/>
+        </arc>
+        <arc class="consumption" id="arc_d0t3r0-s17" source="glyph_d0t3r0" target="glyph_s17">
+            <start x="472.04907" y="274.81082"/>
+            <next x="472.04907" y="274.81082"/>
+            <next x="452.00076" y="274.81082"/>
+            <next x="452.00076" y="274.81082"/>
+            <next x="400.1319" y="274.81082"/>
+            <next x="400.1319" y="274.81082"/>
+            <next x="368.72488" y="274.81082"/>
+            <next x="368.72488" y="274.81082"/>
+            <end x="368.72488" y="173.44905"/>
+        </arc>
+        <arc class="consumption" id="arc_d0t3r1-s29" source="glyph_d0t3r1" target="glyph_s29">
+            <start x="472.04907" y="385.63498"/>
+            <next x="472.04907" y="385.63498"/>
+            <next x="452.00076" y="385.63498"/>
+            <next x="452.00076" y="385.63498"/>
+            <next x="400.1319" y="385.63498"/>
+            <next x="400.1319" y="385.63498"/>
+            <end x="400.1319" y="321.44293"/>
+        </arc>
+        <arc class="consumption" id="arc_d0t3r2-s29" source="glyph_d0t3r2" target="glyph_s29">
+            <start x="472.04907" y="319.05594"/>
+            <next x="472.04907" y="319.05594"/>
+            <next x="452.00076" y="319.05594"/>
+            <next x="452.00076" y="319.05594"/>
+            <next x="400.1319" y="319.05594"/>
+            <next x="400.1319" y="319.05594"/>
+            <end x="400.1319" y="321.44293"/>
+        </arc>
+        <arc class="production" id="arc_s29-d0t3r3" source="glyph_s29" target="glyph_d0t3r3">
+            <start x="400.1319" y="321.44293"/>
+            <next x="452.00076" y="321.44293"/>
+            <next x="452.00076" y="321.44293"/>
+            <next x="472.04907" y="321.44293"/>
+            <end x="472.04907" y="321.44293"/>
+        </arc>
+        <arc class="production" id="arc_s41-d0t3r4" source="glyph_s41" target="glyph_d0t3r4">
+            <start x="337.8086" y="319.05594"/>
+            <next x="337.8086" y="274.81082"/>
+            <next x="337.8086" y="274.81082"/>
+            <next x="291.61435" y="274.81082"/>
+            <next x="291.61435" y="274.81082"/>
+            <next x="231.46945" y="274.81082"/>
+            <end x="231.46945" y="274.81082"/>
+        </arc>
+        <arc class="consumption" id="arc_d0t3r4-s41" source="glyph_d0t3r4" target="glyph_s41">
+            <start x="231.46945" y="274.81082"/>
+            <next x="231.46945" y="274.81082"/>
+            <next x="291.61435" y="274.81082"/>
+            <next x="291.61435" y="274.81082"/>
+            <next x="337.8086" y="274.81082"/>
+            <next x="337.8086" y="274.81082"/>
+            <end x="337.8086" y="319.05594"/>
+        </arc>
+        <arc class="production" id="arc_s55-d0t3r5" source="glyph_s55" target="glyph_d0t3r5">
+            <start x="337.8086" y="421.69687"/>
+            <next x="337.8086" y="385.63498"/>
+            <next x="337.8086" y="385.63498"/>
+            <next x="291.61435" y="385.63498"/>
+            <next x="291.61435" y="385.63498"/>
+            <next x="231.46945" y="385.63498"/>
+            <end x="231.46945" y="385.63498"/>
+        </arc>
+        <arc class="consumption" id="arc_d2t0r0-s98" source="glyph_d2t0r0" target="glyph_s98">
+            <start x="-986.44507" y="28.095118"/>
+            <next x="-986.44507" y="28.095118"/>
+            <next x="-908.0226" y="28.095118"/>
+            <next x="-908.0226" y="28.095118"/>
+            <next x="-751.1777" y="28.095118"/>
+            <next x="-751.1777" y="28.095118"/>
+            <next x="-573.0099" y="28.095118"/>
+            <next x="-573.0099" y="28.095118"/>
+            <end x="-573.0099" y="-29.299435"/>
+        </arc>
+        <arc class="consumption" id="arc_d2t0r1-s116" source="glyph_d2t0r1" target="glyph_s116">
+            <start x="-573.0099" y="213.72127"/>
+            <next x="-573.0099" y="213.72127"/>
+            <next x="-573.0099" y="133.97818"/>
+            <next x="-573.0099" y="133.97818"/>
+            <next x="-573.0099" y="92.4166"/>
+            <next x="-573.0099" y="92.4166"/>
+            <next x="-573.0099" y="49.665745"/>
+            <next x="-573.0099" y="49.665745"/>
+            <next x="-538.86725" y="49.665745"/>
+            <next x="-538.86725" y="49.665745"/>
+            <next x="-538.86725" y="28.095118"/>
+            <next x="-538.86725" y="28.095118"/>
+            <end x="-432.78122" y="28.095118"/>
+        </arc>
+        <arc class="consumption" id="arc_d2t0r2-s139" source="glyph_d2t0r2" target="glyph_s139">
+            <start x="-280.64288" y="-551.8712"/>
+            <next x="-280.64288" y="-551.8712"/>
+            <next x="-280.64288" y="-497.18604"/>
+            <next x="-280.64288" y="-497.18604"/>
+            <next x="-280.64288" y="-387.81567"/>
+            <next x="-280.64288" y="-387.81567"/>
+            <next x="-280.64288" y="-278.4453"/>
+            <next x="-280.64288" y="-278.4453"/>
+            <next x="-432.78122" y="-278.4453"/>
+            <next x="-432.78122" y="-278.4453"/>
+            <end x="-538.86725" y="-141.61464"/>
+        </arc>
+        <arc class="consumption" id="arc_d2t0r3-s163" source="glyph_d2t0r3" target="glyph_s163">
+            <start x="-280.64288" y="213.72127"/>
+            <next x="-280.64288" y="213.72127"/>
+            <next x="-280.64288" y="133.97818"/>
+            <next x="-280.64288" y="133.97818"/>
+            <next x="-280.64288" y="92.4166"/>
+            <next x="-280.64288" y="92.4166"/>
+            <next x="-280.64288" y="49.665745"/>
+            <next x="-280.64288" y="49.665745"/>
+            <next x="-280.64288" y="28.095118"/>
+            <next x="-280.64288" y="28.095118"/>
+            <next x="-280.64288" y="-29.299435"/>
+            <next x="-280.64288" y="-29.299435"/>
+            <end x="-188.90523" y="-29.299435"/>
+        </arc>
+        <arc class="consumption" id="arc_d2t0r4-s162" source="glyph_d2t0r4" target="glyph_s162">
+            <start x="33.04698" y="213.72127"/>
+            <next x="33.04698" y="213.72127"/>
+            <next x="33.04698" y="133.97818"/>
+            <next x="33.04698" y="133.97818"/>
+            <end x="-12.095147" y="92.4166"/>
+        </arc>
+        <arc class="production" id="arc_s162-d2t0r5" source="glyph_s162" target="glyph_d2t0r5">
+            <start x="-12.095147" y="92.4166"/>
+            <next x="33.04698" y="92.4166"/>
+            <next x="33.04698" y="92.4166"/>
+            <next x="111.469444" y="92.4166"/>
+            <end x="111.469444" y="92.4166"/>
+        </arc>
+        <arc class="production" id="arc_s137-d2t0r6" source="glyph_s137" target="glyph_d2t0r6">
+            <start x="-432.78122" y="133.97818"/>
+            <next x="-538.86725" y="133.97818"/>
+            <next x="-538.86725" y="133.97818"/>
+            <next x="-538.86725" y="213.72127"/>
+            <end x="-538.86725" y="213.72127"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e0" source="glyph_s1" target="glyph_s0">
+            <start x="806.24054" y="334.75327"/>
+            <next x="822.74054" y="340.25327"/>
+            <next x="822.74054" y="307.02423"/>
+            <end x="806.24054" y="301.52423"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e1" source="glyph_s2" target="glyph_s0">
+            <start x="806.24054" y="272.11462"/>
+            <next x="822.74054" y="277.61462"/>
+            <next x="822.74054" y="307.02423"/>
+            <end x="806.24054" y="301.52423"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e2" source="glyph_s0" target="glyph_s3">
+            <start x="807.24054" y="301.52423"/>
+            <next x="818.1744" y="307.02423"/>
+            <next x="818.1744" y="292.12848"/>
+            <next x="746.76013" y="292.12848"/>
+            <next x="746.76013" y="277.61462"/>
+            <end x="731.26013" y="272.11462"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e3" source="glyph_s0" target="glyph_s4">
+            <start x="807.74054" y="301.52423"/>
+            <next x="827.30664" y="307.02423"/>
+            <next x="827.30664" y="292.12848"/>
+            <next x="898.70953" y="292.12848"/>
+            <next x="898.70953" y="277.61462"/>
+            <end x="883.70953" y="272.11462"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t1-e4" source="glyph_s6" target="glyph_s5">
+            <start x="771.4891" y="166.11806"/>
+            <next x="785.9891" y="171.61806"/>
+            <next x="785.9891" y="119.14557"/>
+            <next x="869.8923" y="119.14557"/>
+            <end x="855.3923" y="115.596214"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t1-e5" source="glyph_s7" target="glyph_s5">
+            <start x="822.5525" y="166.11806"/>
+            <next x="837.0525" y="171.61806"/>
+            <next x="837.0525" y="123.04687"/>
+            <next x="869.8923" y="123.04687"/>
+            <end x="855.3923" y="115.596214"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t1-e6" source="glyph_s5" target="glyph_s8">
+            <start x="856.3923" y="115.596214"/>
+            <next x="869.8923" y="123.04687"/>
+            <next x="902.73206" y="123.04687"/>
+            <next x="902.73206" y="171.61806"/>
+            <end x="889.23206" y="166.11806"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t1-e7" source="glyph_s5" target="glyph_s9">
+            <start x="855.8923" y="115.596214"/>
+            <next x="869.8923" y="119.14557"/>
+            <next x="950.2166" y="119.14557"/>
+            <next x="950.2166" y="171.61806"/>
+            <end x="936.2166" y="166.11806"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t2-e8" source="glyph_s11" target="glyph_s10">
+            <start x="649.6898" y="4.2514887"/>
+            <next x="661.9427" y="9.751489"/>
+            <next x="661.9427" y="37.153362"/>
+            <next x="610.6654" y="37.153362"/>
+            <end x="596.6654" y="31.65336"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t2-e9" source="glyph_s10" target="glyph_s11">
+            <start x="596.6654" y="31.65336"/>
+            <next x="610.6654" y="37.153362"/>
+            <next x="661.9427" y="37.153362"/>
+            <next x="661.9427" y="9.751489"/>
+            <end x="649.6898" y="4.2514887"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t2-e10" source="glyph_s10" target="glyph_s12">
+            <start x="591.1654" y="31.65336"/>
+            <next x="610.6654" y="37.153362"/>
+            <next x="557.6409" y="37.153362"/>
+            <end x="538.1409" y="31.65336"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t2-e11" source="glyph_s12" target="glyph_s10">
+            <start x="538.1409" y="31.65336"/>
+            <next x="557.6409" y="37.153362"/>
+            <next x="610.6654" y="37.153362"/>
+            <end x="591.1654" y="31.65336"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e12" source="glyph_s14" target="glyph_s13">
+            <start x="319.97" y="-32.558804"/>
+            <next x="337.47" y="-27.058804"/>
+            <next x="306.24945" y="-27.058804"/>
+            <end x="288.74945" y="-32.558804"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t3-e13" source="glyph_s13" target="glyph_s14">
+            <start x="288.74945" y="-32.558804"/>
+            <next x="306.24945" y="-27.058804"/>
+            <next x="337.47" y="-27.058804"/>
+            <end x="319.97" y="-32.558804"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e14" source="glyph_s13" target="glyph_s15">
+            <start x="290.74945" y="-32.558804"/>
+            <next x="306.24945" y="-29.445803"/>
+            <next x="290.6392" y="-29.445803"/>
+            <next x="290.6392" y="-72.41177"/>
+            <next x="275.024" y="-72.41177"/>
+            <end x="259.524" y="-77.91177"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t3-e15" source="glyph_s15" target="glyph_s13">
+            <start x="259.524" y="-77.91177"/>
+            <next x="275.024" y="-72.41177"/>
+            <next x="290.6392" y="-72.41177"/>
+            <next x="290.6392" y="-29.445803"/>
+            <next x="306.24945" y="-29.445803"/>
+            <end x="290.74945" y="-32.558804"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e16" source="glyph_s13" target="glyph_s16">
+            <start x="286.74945" y="-32.558804"/>
+            <next x="306.24945" y="-24.671806"/>
+            <next x="290.6392" y="-24.671806"/>
+            <next x="290.6392" y="18.294163"/>
+            <next x="275.024" y="18.294163"/>
+            <end x="255.524" y="12.794163"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t3-e17" source="glyph_s16" target="glyph_s13">
+            <start x="255.524" y="12.794163"/>
+            <next x="275.024" y="18.294163"/>
+            <next x="290.6392" y="18.294163"/>
+            <next x="290.6392" y="-24.671806"/>
+            <next x="306.24945" y="-24.671806"/>
+            <end x="286.74945" y="-32.558804"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e19" source="glyph_s19" target="glyph_s17">
+            <start x="350.69543" y="315.94293"/>
+            <next x="368.69543" y="321.44293"/>
+            <next x="368.69543" y="173.44905"/>
+            <end x="350.69543" y="167.94905"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e20" source="glyph_s20" target="glyph_s17">
+            <start x="319.47" y="220.46301"/>
+            <next x="337.47" y="225.96301"/>
+            <next x="353.08026" y="225.96301"/>
+            <next x="353.08026" y="180.61005"/>
+            <next x="368.69543" y="180.61005"/>
+            <end x="350.69543" y="167.94905"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e21" source="glyph_s17" target="glyph_s21">
+            <start x="359.69543" y="167.94905"/>
+            <next x="368.69543" y="171.06204"/>
+            <next x="353.08517" y="171.06204"/>
+            <next x="353.08517" y="60.06663"/>
+            <next x="337.47" y="60.06663"/>
+            <end x="328.47" y="54.56663"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e22" source="glyph_s17" target="glyph_s22">
+            <start x="352.19543" y="167.94905"/>
+            <next x="368.69543" y="173.44905"/>
+            <next x="399.916" y="173.44905"/>
+            <end x="383.416" y="167.94905"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e23" source="glyph_s17" target="glyph_s23">
+            <start x="355.19543" y="167.94905"/>
+            <next x="368.69543" y="175.83604"/>
+            <next x="351.12222" y="175.83604"/>
+            <next x="351.12222" y="136.45058"/>
+            <next x="337.47" y="136.45058"/>
+            <end x="323.97" y="130.95058"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e24" source="glyph_s17" target="glyph_s14">
+            <start x="346.19543" y="167.94905"/>
+            <next x="368.69543" y="166.28806"/>
+            <next x="355.0481" y="166.28806"/>
+            <next x="355.0481" y="-27.058804"/>
+            <next x="337.47" y="-27.058804"/>
+            <end x="314.97" y="-32.558804"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e25" source="glyph_s25" target="glyph_s24">
+            <start x="842.2079" y="508.15533"/>
+            <next x="860.7079" y="513.65533"/>
+            <next x="860.7079" y="480.4263"/>
+            <end x="842.2079" y="474.9263"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e26" source="glyph_s26" target="glyph_s24">
+            <start x="918.1883" y="508.15533"/>
+            <next x="936.6883" y="513.65533"/>
+            <next x="936.6883" y="496.4679"/>
+            <next x="865.27405" y="496.4679"/>
+            <next x="865.27405" y="480.4263"/>
+            <end x="842.2079" y="474.9263"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e27" source="glyph_s24" target="glyph_s27">
+            <start x="838.7079" y="474.9263"/>
+            <next x="860.7079" y="480.4263"/>
+            <next x="860.7079" y="464.3847"/>
+            <next x="749.0432" y="464.3847"/>
+            <next x="749.0432" y="445.6695"/>
+            <end x="724.76013" y="440.1695"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e28" source="glyph_s24" target="glyph_s28">
+            <start x="844.2079" y="474.9263"/>
+            <next x="856.1418" y="480.4263"/>
+            <next x="856.1418" y="497.23178"/>
+            <next x="784.73895" y="497.23178"/>
+            <next x="784.73895" y="513.65533"/>
+            <end x="768.23895" y="508.15533"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e29" source="glyph_s30" target="glyph_s29">
+            <start x="414.64142" y="315.94293"/>
+            <next x="431.14142" y="321.44293"/>
+            <next x="399.916" y="321.44293"/>
+            <end x="383.416" y="315.94293"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e31" source="glyph_s19" target="glyph_s29">
+            <start x="352.19543" y="315.94293"/>
+            <next x="368.69543" y="321.44293"/>
+            <next x="399.916" y="321.44293"/>
+            <end x="383.416" y="315.94293"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e33" source="glyph_s29" target="glyph_s32">
+            <start x="390.916" y="315.94293"/>
+            <next x="399.916" y="316.66895"/>
+            <next x="415.52625" y="316.66895"/>
+            <next x="415.52625" y="242.672"/>
+            <next x="431.14142" y="242.672"/>
+            <end x="422.14142" y="237.172"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e35" source="glyph_s29" target="glyph_s22">
+            <start x="383.416" y="315.94293"/>
+            <next x="399.916" y="321.44293"/>
+            <next x="399.916" y="173.44905"/>
+            <end x="383.416" y="167.94905"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e36" source="glyph_s29" target="glyph_s34">
+            <start x="386.416" y="315.94293"/>
+            <next x="399.916" y="326.21692"/>
+            <next x="415.52625" y="326.21692"/>
+            <next x="415.52625" y="404.98788"/>
+            <next x="431.14142" y="404.98788"/>
+            <end x="417.64142" y="399.48788"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e37" source="glyph_s29" target="glyph_s35">
+            <start x="379.416" y="315.94293"/>
+            <next x="399.916" y="321.44293"/>
+            <next x="399.916" y="422.89035"/>
+            <end x="379.416" y="417.39035"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e38" source="glyph_s27" target="glyph_s36">
+            <start x="722.26013" y="440.1695"/>
+            <next x="746.76013" y="445.6695"/>
+            <next x="746.76013" y="409.38492"/>
+            <end x="722.26013" y="403.88492"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e39" source="glyph_s37" target="glyph_s36">
+            <start x="798.24054" y="403.88492"/>
+            <next x="822.74054" y="409.38492"/>
+            <next x="746.76013" y="409.38492"/>
+            <end x="722.26013" y="403.88492"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e40" source="glyph_s36" target="glyph_s38">
+            <start x="735.76013" y="403.88492"/>
+            <next x="742.19403" y="409.38492"/>
+            <next x="742.19403" y="428.10013"/>
+            <next x="670.7798" y="428.10013"/>
+            <next x="670.7798" y="445.6695"/>
+            <end x="659.7798" y="440.1695"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e41" source="glyph_s36" target="glyph_s39">
+            <start x="730.26013" y="403.88492"/>
+            <next x="746.76013" y="409.38492"/>
+            <next x="746.76013" y="375.392"/>
+            <end x="730.26013" y="369.892"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e42" source="glyph_s36" target="glyph_s40">
+            <start x="721.26013" y="403.88492"/>
+            <next x="751.3263" y="409.38492"/>
+            <next x="751.3263" y="427.33624"/>
+            <next x="822.74054" y="427.33624"/>
+            <next x="822.74054" y="445.6695"/>
+            <end x="797.24054" y="440.1695"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e43" source="glyph_s42" target="glyph_s41">
+            <start x="289.74945" y="228.8175"/>
+            <next x="306.24945" y="234.3175"/>
+            <next x="321.8597" y="234.3175"/>
+            <next x="321.8597" y="316.66895"/>
+            <next x="337.47" y="316.66895"/>
+            <end x="320.97" y="313.55594"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t3-e44" source="glyph_s41" target="glyph_s42">
+            <start x="320.97" y="313.55594"/>
+            <next x="337.47" y="316.66895"/>
+            <next x="321.8597" y="316.66895"/>
+            <next x="321.8597" y="234.3175"/>
+            <next x="306.24945" y="234.3175"/>
+            <end x="289.74945" y="228.8175"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e45" source="glyph_s19" target="glyph_s41">
+            <start x="352.19543" y="315.94293"/>
+            <next x="368.69543" y="319.05594"/>
+            <next x="353.08026" y="319.05594"/>
+            <next x="353.08026" y="319.05594"/>
+            <next x="337.47" y="319.05594"/>
+            <end x="320.97" y="313.55594"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t3-e46" source="glyph_s41" target="glyph_s19">
+            <start x="320.97" y="313.55594"/>
+            <next x="337.47" y="319.05594"/>
+            <next x="353.08026" y="319.05594"/>
+            <next x="353.08026" y="319.05594"/>
+            <next x="368.69543" y="319.05594"/>
+            <end x="352.19543" y="315.94293"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e49" source="glyph_s41" target="glyph_s43">
+            <start x="322.97" y="313.55594"/>
+            <next x="337.47" y="321.44293"/>
+            <next x="321.8597" y="321.44293"/>
+            <next x="321.8597" y="319.05594"/>
+            <next x="306.24945" y="319.05594"/>
+            <end x="291.74945" y="313.55594"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t3-e50" source="glyph_s43" target="glyph_s41">
+            <start x="291.74945" y="313.55594"/>
+            <next x="306.24945" y="319.05594"/>
+            <next x="321.8597" y="319.05594"/>
+            <next x="321.8597" y="321.44293"/>
+            <next x="337.47" y="321.44293"/>
+            <end x="322.97" y="313.55594"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e51" source="glyph_s45" target="glyph_s44">
+            <start x="535.80914" y="508.15533"/>
+            <next x="556.80914" y="513.65533"/>
+            <next x="556.80914" y="497.99567"/>
+            <next x="628.21204" y="497.99567"/>
+            <next x="628.21204" y="480.4263"/>
+            <end x="611.77814" y="474.9263"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t0-e52" source="glyph_s44" target="glyph_s45">
+            <start x="611.77814" y="474.9263"/>
+            <next x="628.21204" y="480.4263"/>
+            <next x="628.21204" y="497.99567"/>
+            <next x="556.80914" y="497.99567"/>
+            <next x="556.80914" y="513.65533"/>
+            <end x="535.80914" y="508.15533"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e53" source="glyph_s27" target="glyph_s44">
+            <start x="725.76013" y="440.1695"/>
+            <next x="744.4771" y="445.6695"/>
+            <next x="744.4771" y="463.23886"/>
+            <next x="632.77814" y="463.23886"/>
+            <next x="632.77814" y="480.4263"/>
+            <end x="611.77814" y="474.9263"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t0-e54" source="glyph_s44" target="glyph_s27">
+            <start x="611.77814" y="474.9263"/>
+            <next x="632.77814" y="480.4263"/>
+            <next x="632.77814" y="463.23886"/>
+            <next x="744.4771" y="463.23886"/>
+            <next x="744.4771" y="445.6695"/>
+            <end x="725.76013" y="440.1695"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e55" source="glyph_s44" target="glyph_s46">
+            <start x="611.77814" y="474.9263"/>
+            <next x="637.3443" y="480.4263"/>
+            <next x="637.3443" y="496.84985"/>
+            <next x="708.75854" y="496.84985"/>
+            <next x="708.75854" y="513.65533"/>
+            <end x="687.75854" y="508.15533"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t0-e56" source="glyph_s46" target="glyph_s44">
+            <start x="687.75854" y="508.15533"/>
+            <next x="708.75854" y="513.65533"/>
+            <next x="708.75854" y="496.84985"/>
+            <next x="637.3443" y="496.84985"/>
+            <next x="637.3443" y="480.4263"/>
+            <end x="611.77814" y="474.9263"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e57" source="glyph_s44" target="glyph_s47">
+            <start x="616.27814" y="474.9263"/>
+            <next x="632.77814" y="480.4263"/>
+            <next x="632.77814" y="513.65533"/>
+            <end x="616.27814" y="508.15533"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t0-e58" source="glyph_s47" target="glyph_s44">
+            <start x="616.27814" y="508.15533"/>
+            <next x="632.77814" y="513.65533"/>
+            <next x="632.77814" y="480.4263"/>
+            <end x="616.27814" y="474.9263"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t4-e59" source="glyph_s49" target="glyph_s48">
+            <start x="793.3053" y="13.817389"/>
+            <next x="816.8053" y="19.317389"/>
+            <next x="816.8053" y="-78.352135"/>
+            <next x="864.32886" y="-78.352135"/>
+            <end x="840.82886" y="-83.852135"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t4-e60" source="glyph_s50" target="glyph_s48">
+            <start x="820.86334" y="13.817389"/>
+            <next x="844.36334" y="19.317389"/>
+            <next x="844.36334" y="-71.35825"/>
+            <next x="864.32886" y="-71.35825"/>
+            <end x="840.82886" y="-83.852135"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t4-e61" source="glyph_s51" target="glyph_s48">
+            <start x="863.1945" y="13.817389"/>
+            <next x="886.6945" y="19.317389"/>
+            <next x="886.6945" y="-71.35825"/>
+            <next x="864.32886" y="-71.35825"/>
+            <end x="840.82886" y="-83.852135"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t4-e62" source="glyph_s48" target="glyph_s52">
+            <start x="846.82886" y="-83.852135"/>
+            <next x="864.32886" y="-85.34601"/>
+            <next x="788.24316" y="-85.34601"/>
+            <next x="788.24316" y="19.317389"/>
+            <end x="770.74316" y="13.817389"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t4-e63" source="glyph_s48" target="glyph_s53">
+            <start x="849.32886" y="-83.852135"/>
+            <next x="864.32886" y="-85.34601"/>
+            <next x="946.2149" y="-85.34601"/>
+            <next x="946.2149" y="19.317389"/>
+            <end x="931.2149" y="13.817389"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t4-e64" source="glyph_s48" target="glyph_s54">
+            <start x="849.82886" y="-83.852135"/>
+            <next x="864.32886" y="-78.352135"/>
+            <next x="917.6528" y="-78.352135"/>
+            <next x="917.6528" y="19.317389"/>
+            <end x="903.1528" y="13.817389"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e65" source="glyph_s56" target="glyph_s55">
+            <start x="278.24945" y="505.7093"/>
+            <next x="306.24945" y="511.2093"/>
+            <next x="321.8597" y="511.2093"/>
+            <next x="321.8597" y="424.08386"/>
+            <next x="337.47" y="424.08386"/>
+            <end x="309.47" y="416.19687"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e66" source="glyph_s57" target="glyph_s55">
+            <start x="278.24945" y="409.03586"/>
+            <next x="306.24945" y="414.53586"/>
+            <next x="321.8597" y="414.53586"/>
+            <next x="321.8597" y="419.30988"/>
+            <next x="337.47" y="419.30988"/>
+            <end x="309.47" y="416.19687"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e67" source="glyph_s55" target="glyph_s19">
+            <start x="316.97" y="416.19687"/>
+            <next x="337.47" y="421.69687"/>
+            <next x="353.08026" y="421.69687"/>
+            <next x="353.08026" y="323.82993"/>
+            <next x="368.69543" y="323.82993"/>
+            <end x="348.19543" y="315.94293"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e69" source="glyph_s60" target="glyph_s59">
+            <start x="340.08517" y="500.9353"/>
+            <next x="353.08517" y="506.4353"/>
+            <next x="353.08517" y="463.46933"/>
+            <next x="367.71396" y="463.46933"/>
+            <next x="367.71396" y="422.89035"/>
+            <end x="355.69543" y="417.39035"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t3-e70" source="glyph_s35" target="glyph_s59">
+            <start x="386.916" y="417.39035"/>
+            <next x="399.916" y="422.89035"/>
+            <next x="368.69543" y="422.89035"/>
+            <end x="355.69543" y="417.39035"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e71" source="glyph_s59" target="glyph_s61">
+            <start x="353.69543" y="417.39035"/>
+            <next x="369.6769" y="422.89035"/>
+            <next x="369.6769" y="463.46933"/>
+            <next x="384.3057" y="463.46933"/>
+            <next x="384.3057" y="506.4353"/>
+            <end x="369.3057" y="500.9353"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t3-e72" source="glyph_s59" target="glyph_s19">
+            <start x="348.19543" y="417.39035"/>
+            <next x="368.69543" y="422.89035"/>
+            <next x="368.69543" y="321.44293"/>
+            <end x="348.19543" y="315.94293"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t2-e73" source="glyph_s11" target="glyph_s62">
+            <start x="642.1898" y="4.2514887"/>
+            <next x="665.4369" y="9.751489"/>
+            <next x="665.4369" y="122.243385"/>
+            <next x="610.6654" y="122.243385"/>
+            <end x="589.1654" y="116.743385"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t2-e74" source="glyph_s62" target="glyph_s11">
+            <start x="589.1654" y="116.743385"/>
+            <next x="610.6654" y="122.243385"/>
+            <next x="665.4369" y="122.243385"/>
+            <next x="665.4369" y="9.751489"/>
+            <end x="642.1898" y="4.2514887"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t2-e75" source="glyph_s63" target="glyph_s62">
+            <start x="536.1409" y="116.743385"/>
+            <next x="557.6409" y="122.243385"/>
+            <next x="610.6654" y="122.243385"/>
+            <end x="589.1654" y="116.743385"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t2-e76" source="glyph_s62" target="glyph_s63">
+            <start x="589.1654" y="116.743385"/>
+            <next x="610.6654" y="122.243385"/>
+            <next x="557.6409" y="122.243385"/>
+            <end x="536.1409" y="116.743385"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t2-e77" source="glyph_s62" target="glyph_s64">
+            <start x="594.6654" y="116.743385"/>
+            <next x="610.6654" y="122.243385"/>
+            <next x="610.6654" y="161.18289"/>
+            <next x="557.6409" y="161.18289"/>
+            <end x="541.6409" y="155.68289"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t2-e78" source="glyph_s64" target="glyph_s62">
+            <start x="541.6409" y="155.68289"/>
+            <next x="557.6409" y="161.18289"/>
+            <next x="610.6654" y="161.18289"/>
+            <next x="610.6654" y="122.243385"/>
+            <end x="594.6654" y="116.743385"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t2-e79" source="glyph_s62" target="glyph_s65">
+            <start x="586.6654" y="116.743385"/>
+            <next x="610.6654" y="122.243385"/>
+            <next x="610.6654" y="79.93874"/>
+            <next x="557.6409" y="79.93874"/>
+            <end x="533.6409" y="74.43874"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t2-e80" source="glyph_s65" target="glyph_s62">
+            <start x="533.6409" y="74.43874"/>
+            <next x="557.6409" y="79.93874"/>
+            <next x="610.6654" y="79.93874"/>
+            <next x="610.6654" y="122.243385"/>
+            <end x="586.6654" y="116.743385"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e81" source="glyph_s37" target="glyph_s66">
+            <start x="800.74054" y="403.88492"/>
+            <next x="822.74054" y="409.38492"/>
+            <next x="822.74054" y="375.392"/>
+            <end x="800.74054" y="369.892"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t0-e82" source="glyph_s66" target="glyph_s37">
+            <start x="800.74054" y="369.892"/>
+            <next x="822.74054" y="375.392"/>
+            <next x="822.74054" y="409.38492"/>
+            <end x="800.74054" y="403.88492"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t0-e83" source="glyph_s1" target="glyph_s66">
+            <start x="800.74054" y="334.75327"/>
+            <next x="822.74054" y="340.25327"/>
+            <next x="822.74054" y="375.392"/>
+            <end x="800.74054" y="369.892"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t0-e84" source="glyph_s66" target="glyph_s1">
+            <start x="800.74054" y="369.892"/>
+            <next x="822.74054" y="375.392"/>
+            <next x="822.74054" y="340.25327"/>
+            <end x="800.74054" y="334.75327"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e85" source="glyph_s66" target="glyph_s67">
+            <start x="811.74054" y="369.892"/>
+            <next x="827.30664" y="375.392"/>
+            <next x="827.30664" y="357.4407"/>
+            <next x="898.70953" y="357.4407"/>
+            <next x="898.70953" y="340.25327"/>
+            <end x="887.70953" y="334.75327"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t0-e86" source="glyph_s67" target="glyph_s66">
+            <start x="887.70953" y="334.75327"/>
+            <next x="898.70953" y="340.25327"/>
+            <next x="898.70953" y="357.4407"/>
+            <next x="827.30664" y="357.4407"/>
+            <next x="827.30664" y="375.392"/>
+            <end x="811.74054" y="369.892"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e87" source="glyph_s66" target="glyph_s39">
+            <start x="806.24054" y="369.892"/>
+            <next x="822.74054" y="375.392"/>
+            <next x="746.76013" y="375.392"/>
+            <end x="730.26013" y="369.892"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t0-e88" source="glyph_s39" target="glyph_s66">
+            <start x="730.26013" y="369.892"/>
+            <next x="746.76013" y="375.392"/>
+            <next x="822.74054" y="375.392"/>
+            <end x="806.24054" y="369.892"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t0-e89" source="glyph_s66" target="glyph_s68">
+            <start x="796.74054" y="369.892"/>
+            <next x="818.1744" y="375.392"/>
+            <next x="818.1744" y="358.58652"/>
+            <next x="746.76013" y="358.58652"/>
+            <next x="746.76013" y="340.25327"/>
+            <end x="720.76013" y="334.75327"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t0-e90" source="glyph_s68" target="glyph_s66">
+            <start x="720.76013" y="334.75327"/>
+            <next x="746.76013" y="340.25327"/>
+            <next x="746.76013" y="358.58652"/>
+            <next x="818.1744" y="358.58652"/>
+            <next x="818.1744" y="375.392"/>
+            <end x="796.74054" y="369.892"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t2-e91" source="glyph_s70" target="glyph_s69">
+            <start x="536.1409" y="-80.3578"/>
+            <next x="557.6409" y="-74.8578"/>
+            <next x="610.6654" y="-74.8578"/>
+            <next x="610.6654" y="-49.37887"/>
+            <end x="589.1654" y="-54.87887"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t2-e92" source="glyph_s69" target="glyph_s70">
+            <start x="589.1654" y="-54.87887"/>
+            <next x="610.6654" y="-49.37887"/>
+            <next x="610.6654" y="-74.8578"/>
+            <next x="557.6409" y="-74.8578"/>
+            <end x="536.1409" y="-80.3578"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s0-t2-e93" source="glyph_s71" target="glyph_s69">
+            <start x="536.1409" y="-25.073322"/>
+            <next x="557.6409" y="-19.573322"/>
+            <next x="610.6654" y="-19.573322"/>
+            <next x="610.6654" y="-49.37887"/>
+            <end x="589.1654" y="-54.87887"/>
+        </arc>
+        <arc class="production" id="arc_b-s0-t2-e94" source="glyph_s69" target="glyph_s71">
+            <start x="589.1654" y="-54.87887"/>
+            <next x="610.6654" y="-49.37887"/>
+            <next x="610.6654" y="-19.573322"/>
+            <next x="557.6409" y="-19.573322"/>
+            <end x="536.1409" y="-25.073322"/>
+        </arc>
+        <arc class="production" id="arc_f-s0-t2-e97" source="glyph_s69" target="glyph_s11">
+            <start x="591.6654" y="-54.87887"/>
+            <next x="610.6654" y="-49.37887"/>
+            <next x="663.6898" y="-49.37887"/>
+            <next x="663.6898" y="9.751489"/>
+            <end x="644.6898" y="4.2514887"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s0-t2-e98" source="glyph_s11" target="glyph_s69">
+            <start x="644.6898" y="4.2514887"/>
+            <next x="663.6898" y="9.751489"/>
+            <next x="663.6898" y="-49.37887"/>
+            <next x="610.6654" y="-49.37887"/>
+            <end x="591.6654" y="-54.87887"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e99" source="glyph_s73" target="glyph_s72">
+            <start x="637.7575" y="-273.4469"/>
+            <next x="668.2575" y="-267.9469"/>
+            <next x="668.2575" y="-332.35666"/>
+            <next x="599.84076" y="-332.35666"/>
+            <end x="569.34076" y="-335.70966"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e100" source="glyph_s74" target="glyph_s72">
+            <start x="597.814" y="-273.4469"/>
+            <next x="628.314" y="-267.9469"/>
+            <next x="628.314" y="-328.06268"/>
+            <next x="599.84076" y="-328.06268"/>
+            <end x="569.34076" y="-335.70966"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e101" source="glyph_s72" target="glyph_s75">
+            <start x="591.34076" y="-335.70966"/>
+            <next x="599.84076" y="-328.06268"/>
+            <next x="575.6857" y="-328.06268"/>
+            <next x="575.6857" y="-267.9469"/>
+            <end x="567.1857" y="-273.4469"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e102" source="glyph_s72" target="glyph_s76">
+            <start x="588.84076" y="-335.70966"/>
+            <next x="599.84076" y="-332.35666"/>
+            <next x="541.67975" y="-332.35666"/>
+            <next x="541.67975" y="-267.9469"/>
+            <end x="530.67975" y="-273.4469"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e103" source="glyph_s72" target="glyph_s77">
+            <start x="581.34076" y="-335.70966"/>
+            <next x="599.84076" y="-330.20966"/>
+            <next x="599.84076" y="-392.47244"/>
+            <end x="581.34076" y="-397.97244"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e104" source="glyph_s79" target="glyph_s78">
+            <start x="673.8813" y="-522.498"/>
+            <next x="695.3813" y="-516.998"/>
+            <next x="821.41925" y="-516.998"/>
+            <next x="821.41925" y="-454.7352"/>
+            <end x="799.91925" y="-460.2352"/>
+        </arc>
+        <arc class="production" id="arc_b-s1-t0-e105" source="glyph_s78" target="glyph_s79">
+            <start x="799.91925" y="-460.2352"/>
+            <next x="821.41925" y="-454.7352"/>
+            <next x="821.41925" y="-516.998"/>
+            <next x="695.3813" y="-516.998"/>
+            <end x="673.8813" y="-522.498"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e106" source="glyph_s78" target="glyph_s80">
+            <start x="798.41925" y="-460.2352"/>
+            <next x="821.41925" y="-454.7352"/>
+            <next x="821.41925" y="-392.47244"/>
+            <end x="798.41925" y="-397.97244"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s1-t0-e107" source="glyph_s80" target="glyph_s78">
+            <start x="798.41925" y="-397.97244"/>
+            <next x="821.41925" y="-392.47244"/>
+            <next x="821.41925" y="-454.7352"/>
+            <end x="798.41925" y="-460.2352"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e108" source="glyph_s82" target="glyph_s81">
+            <start x="466.0515" y="-397.97244"/>
+            <next x="489.0515" y="-392.47244"/>
+            <next x="489.0515" y="-452.58823"/>
+            <next x="516.1753" y="-452.58823"/>
+            <end x="493.1753" y="-460.2352"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e109" source="glyph_s77" target="glyph_s81">
+            <start x="576.84076" y="-397.97244"/>
+            <next x="599.84076" y="-392.47244"/>
+            <next x="599.84076" y="-456.8822"/>
+            <next x="516.1753" y="-456.8822"/>
+            <end x="493.1753" y="-460.2352"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e110" source="glyph_s81" target="glyph_s83">
+            <start x="507.6753" y="-460.2352"/>
+            <next x="516.1753" y="-456.8822"/>
+            <next x="453.4262" y="-456.8822"/>
+            <next x="453.4262" y="-392.47244"/>
+            <end x="444.9262" y="-397.97244"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e111" source="glyph_s81" target="glyph_s79">
+            <start x="496.1753" y="-460.2352"/>
+            <next x="516.1753" y="-454.7352"/>
+            <next x="516.1753" y="-516.998"/>
+            <next x="695.3813" y="-516.998"/>
+            <end x="675.3813" y="-522.498"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e112" source="glyph_s81" target="glyph_s84">
+            <start x="497.6753" y="-460.2352"/>
+            <next x="516.1753" y="-452.58823"/>
+            <next x="545.7281" y="-452.58823"/>
+            <next x="545.7281" y="-392.47244"/>
+            <end x="527.2281" y="-397.97244"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t1-e113" source="glyph_s86" target="glyph_s85">
+            <start x="245.59753" y="-461.58456"/>
+            <next x="274.09753" y="-456.08456"/>
+            <next x="326.60962" y="-456.08456"/>
+            <next x="326.60962" y="-394.4001"/>
+            <end x="299.8897" y="-399.9001"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t1-e114" source="glyph_s87" target="glyph_s85">
+            <start x="245.59753" y="-399.9001"/>
+            <next x="274.09753" y="-394.4001"/>
+            <next x="328.3897" y="-394.4001"/>
+            <end x="299.8897" y="-399.9001"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t1-e115" source="glyph_s85" target="glyph_s88">
+            <start x="310.8897" y="-399.9001"/>
+            <next x="326.60962" y="-394.4001"/>
+            <next x="326.60962" y="-328.08926"/>
+            <next x="274.09753" y="-328.08926"/>
+            <end x="256.59753" y="-333.58926"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t1-e116" source="glyph_s85" target="glyph_s89">
+            <start x="313.3897" y="-399.9001"/>
+            <next x="330.16977" y="-394.4001"/>
+            <next x="330.16977" y="-267.9469"/>
+            <next x="274.09753" y="-267.9469"/>
+            <end x="259.09753" y="-273.4469"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t1-e117" source="glyph_s85" target="glyph_s90">
+            <start x="307.3897" y="-399.9001"/>
+            <next x="330.16977" y="-394.4001"/>
+            <next x="330.16977" y="-516.998"/>
+            <next x="274.09753" y="-516.998"/>
+            <end x="253.09753" y="-522.498"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e118" source="glyph_s92" target="glyph_s91">
+            <start x="868.48956" y="-273.4469"/>
+            <next x="905.48956" y="-267.9469"/>
+            <next x="905.48956" y="-330.20966"/>
+            <next x="821.41925" y="-330.20966"/>
+            <end x="784.41925" y="-335.70966"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e119" source="glyph_s93" target="glyph_s91">
+            <start x="682.5363" y="-273.4469"/>
+            <next x="719.5363" y="-267.9469"/>
+            <next x="719.5363" y="-334.50366"/>
+            <next x="821.41925" y="-334.50366"/>
+            <end x="784.41925" y="-335.70966"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e120" source="glyph_s94" target="glyph_s91">
+            <start x="906.5438" y="-273.4469"/>
+            <next x="943.5438" y="-267.9469"/>
+            <next x="943.5438" y="-334.50366"/>
+            <next x="821.41925" y="-334.50366"/>
+            <end x="784.41925" y="-335.70966"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s1-t0-e121" source="glyph_s80" target="glyph_s91">
+            <start x="784.41925" y="-397.97244"/>
+            <next x="821.41925" y="-392.47244"/>
+            <next x="821.41925" y="-330.20966"/>
+            <end x="784.41925" y="-335.70966"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e122" source="glyph_s91" target="glyph_s95">
+            <start x="805.91925" y="-335.70966"/>
+            <next x="821.41925" y="-330.20966"/>
+            <next x="755.97125" y="-330.20966"/>
+            <next x="755.97125" y="-267.9469"/>
+            <end x="740.47125" y="-273.4469"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e123" source="glyph_s91" target="glyph_s96">
+            <start x="808.41925" y="-335.70966"/>
+            <next x="821.41925" y="-325.91568"/>
+            <next x="794.8352" y="-325.91568"/>
+            <next x="794.8352" y="-267.9469"/>
+            <end x="781.8352" y="-273.4469"/>
+        </arc>
+        <arc class="production" id="arc_f-s1-t0-e124" source="glyph_s91" target="glyph_s97">
+            <start x="789.91925" y="-335.70966"/>
+            <next x="821.41925" y="-325.91568"/>
+            <next x="857.98914" y="-325.91568"/>
+            <next x="857.98914" y="-267.9469"/>
+            <end x="826.48914" y="-273.4469"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e126" source="glyph_s99" target="glyph_s98">
+            <start x="-595.461" y="118.08778"/>
+            <next x="-573.961" y="123.58778"/>
+            <next x="-573.961" y="-29.299435"/>
+            <end x="-595.461" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e127" source="glyph_s98" target="glyph_s100">
+            <start x="-588.961" y="-34.799435"/>
+            <next x="-573.961" y="-29.299435"/>
+            <next x="-478.20312" y="-29.299435"/>
+            <end x="-493.20312" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e128" source="glyph_s98" target="glyph_s101">
+            <start x="-582.961" y="-34.799435"/>
+            <next x="-573.961" y="-29.299435"/>
+            <next x="-573.961" y="-65.41842"/>
+            <end x="-582.961" y="-70.91842"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e129" source="glyph_s98" target="glyph_s102">
+            <start x="-598.461" y="-34.799435"/>
+            <next x="-573.961" y="-29.299435"/>
+            <next x="-696.82574" y="-29.299435"/>
+            <end x="-721.32574" y="-34.799435"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e130" source="glyph_s99" target="glyph_s103">
+            <start x="-597.961" y="118.08778"/>
+            <next x="-573.961" y="123.58778"/>
+            <next x="-696.82574" y="123.58778"/>
+            <end x="-720.82574" y="118.08778"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e131" source="glyph_s104" target="glyph_s103">
+            <start x="-720.82574" y="157.67023"/>
+            <next x="-696.82574" y="163.17023"/>
+            <next x="-696.82574" y="123.58778"/>
+            <end x="-720.82574" y="118.08778"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e132" source="glyph_s103" target="glyph_s105">
+            <start x="-705.82574" y="118.08778"/>
+            <next x="-691.94824" y="123.58778"/>
+            <next x="-691.94824" y="146.34769"/>
+            <next x="-618.2245" y="146.34769"/>
+            <next x="-618.2245" y="163.17023"/>
+            <end x="-627.2245" y="157.67023"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e133" source="glyph_s103" target="glyph_s102">
+            <start x="-721.32574" y="118.08778"/>
+            <next x="-696.82574" y="123.58778"/>
+            <next x="-696.82574" y="-29.299435"/>
+            <end x="-721.32574" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e134" source="glyph_s103" target="glyph_s106">
+            <start x="-710.32574" y="118.08778"/>
+            <next x="-701.70325" y="123.58778"/>
+            <next x="-701.70325" y="145.8529"/>
+            <next x="-775.4148" y="145.8529"/>
+            <next x="-775.4148" y="163.17023"/>
+            <end x="-788.9148" y="157.67023"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e135" source="glyph_s108" target="glyph_s107">
+            <start x="-660.3934" y="22.595118"/>
+            <next x="-635.3934" y="28.095118"/>
+            <next x="-635.3934" y="-85.70443"/>
+            <end x="-660.3934" y="-91.20443"/>
+        </arc>
+        <arc class="production" id="arc_b-s2-t0-e136" source="glyph_s107" target="glyph_s108">
+            <start x="-660.3934" y="-91.20443"/>
+            <next x="-635.3934" y="-85.70443"/>
+            <next x="-635.3934" y="28.095118"/>
+            <end x="-660.3934" y="22.595118"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e137" source="glyph_s107" target="glyph_s109">
+            <start x="-659.8934" y="-91.20443"/>
+            <next x="-635.3934" y="-85.70443"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <end x="-659.8934" y="-147.11464"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s2-t0-e138" source="glyph_s109" target="glyph_s107">
+            <start x="-659.8934" y="-147.11464"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <next x="-635.3934" y="-85.70443"/>
+            <end x="-659.8934" y="-91.20443"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e139" source="glyph_s111" target="glyph_s110">
+            <start x="-244.91455" y="41.396782"/>
+            <next x="-215.41455" y="46.896782"/>
+            <next x="-215.41455" y="92.4166"/>
+            <end x="-244.91455" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e140" source="glyph_s112" target="glyph_s110">
+            <start x="-120.928" y="86.9166"/>
+            <next x="-91.428" y="92.4166"/>
+            <next x="-215.41455" y="92.4166"/>
+            <end x="-244.91455" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e141" source="glyph_s110" target="glyph_s113">
+            <start x="-224.41455" y="86.9166"/>
+            <next x="-210.53703" y="92.4166"/>
+            <next x="-210.53703" y="67.182785"/>
+            <next x="-136.82552" y="67.182785"/>
+            <next x="-136.82552" y="46.896782"/>
+            <end x="-145.82552" y="41.396782"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e142" source="glyph_s110" target="glyph_s114">
+            <start x="-229.91455" y="86.9166"/>
+            <next x="-220.29207" y="92.4166"/>
+            <next x="-220.29207" y="67.182785"/>
+            <next x="-294.00357" y="67.182785"/>
+            <next x="-294.00357" y="46.896782"/>
+            <end x="-308.50357" y="41.396782"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e143" source="glyph_s110" target="glyph_s115">
+            <start x="-242.91455" y="86.9166"/>
+            <next x="-215.41455" y="92.4166"/>
+            <next x="-433.9396" y="92.4166"/>
+            <end x="-461.4396" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e145" source="glyph_s108" target="glyph_s116">
+            <start x="-657.8934" y="22.595118"/>
+            <next x="-635.3934" y="28.095118"/>
+            <next x="-433.9396" y="28.095118"/>
+            <end x="-456.4396" y="22.595118"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e146" source="glyph_s116" target="glyph_s100">
+            <start x="-448.9396" y="22.595118"/>
+            <next x="-433.9396" y="26.115995"/>
+            <next x="-478.20312" y="26.115995"/>
+            <next x="-478.20312" y="-29.299435"/>
+            <end x="-493.20312" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e147" source="glyph_s116" target="glyph_s117">
+            <start x="-442.9396" y="22.595118"/>
+            <next x="-433.9396" y="28.095118"/>
+            <next x="-355.3506" y="28.095118"/>
+            <end x="-364.3506" y="22.595118"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e148" source="glyph_s116" target="glyph_s115">
+            <start x="-461.4396" y="22.595118"/>
+            <next x="-433.9396" y="28.095118"/>
+            <next x="-433.9396" y="92.4166"/>
+            <end x="-461.4396" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e149" source="glyph_s115" target="glyph_s118">
+            <start x="-460.4396" y="86.9166"/>
+            <next x="-433.9396" y="92.4166"/>
+            <next x="-512.5286" y="92.4166"/>
+            <end x="-539.0286" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_b-s2-t0-e150" source="glyph_s118" target="glyph_s115">
+            <start x="-539.0286" y="86.9166"/>
+            <next x="-512.5286" y="92.4166"/>
+            <next x="-433.9396" y="92.4166"/>
+            <end x="-460.4396" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e151" source="glyph_s118" target="glyph_s119">
+            <start x="-540.0286" y="86.9166"/>
+            <next x="-512.5286" y="92.4166"/>
+            <next x="-635.3934" y="92.4166"/>
+            <end x="-662.8934" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s2-t0-e152" source="glyph_s119" target="glyph_s118">
+            <start x="-662.8934" y="86.9166"/>
+            <next x="-635.3934" y="92.4166"/>
+            <next x="-512.5286" y="92.4166"/>
+            <end x="-540.0286" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e153" source="glyph_s121" target="glyph_s120">
+            <start x="-584.8043" y="-349.47992"/>
+            <next x="-556.8043" y="-343.97992"/>
+            <next x="-556.8043" y="-326.16782"/>
+            <next x="-483.08063" y="-326.16782"/>
+            <next x="-483.08063" y="-301.92355"/>
+            <end x="-506.20312" y="-307.42355"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e154" source="glyph_s122" target="glyph_s120">
+            <start x="-506.20312" y="-227.2691"/>
+            <next x="-478.20312" y="-221.7691"/>
+            <next x="-478.20312" y="-301.92355"/>
+            <end x="-506.20312" y="-307.42355"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e155" source="glyph_s123" target="glyph_s120">
+            <start x="-506.20312" y="-349.47992"/>
+            <next x="-478.20312" y="-343.97992"/>
+            <next x="-478.20312" y="-301.92355"/>
+            <end x="-506.20312" y="-307.42355"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e156" source="glyph_s120" target="glyph_s124">
+            <start x="-488.70312" y="-307.42355"/>
+            <next x="-473.3256" y="-301.92355"/>
+            <next x="-473.3256" y="-326.16782"/>
+            <next x="-399.61407" y="-326.16782"/>
+            <next x="-399.61407" y="-343.97992"/>
+            <end x="-410.11407" y="-349.47992"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e157" source="glyph_s120" target="glyph_s125">
+            <start x="-503.20312" y="-307.42355"/>
+            <next x="-478.20312" y="-301.92355"/>
+            <next x="-556.8043" y="-301.92355"/>
+            <end x="-581.8043" y="-307.42355"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e158" source="glyph_s127" target="glyph_s126">
+            <start x="-626.544" y="-440.02478"/>
+            <next x="-596.044" y="-434.52478"/>
+            <next x="-596.044" y="-414.73355"/>
+            <next x="-485.51938" y="-414.73355"/>
+            <next x="-485.51938" y="-387.5206"/>
+            <end x="-508.70312" y="-393.0206"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e159" source="glyph_s123" target="glyph_s126">
+            <start x="-508.70312" y="-349.47992"/>
+            <next x="-478.20312" y="-343.97992"/>
+            <next x="-478.20312" y="-387.5206"/>
+            <end x="-508.70312" y="-393.0206"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e160" source="glyph_s128" target="glyph_s126">
+            <start x="-469.35373" y="-440.02478"/>
+            <next x="-438.85373" y="-434.52478"/>
+            <next x="-438.85373" y="-414.23877"/>
+            <next x="-475.76434" y="-414.23877"/>
+            <next x="-475.76434" y="-387.5206"/>
+            <end x="-508.70312" y="-393.0206"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e161" source="glyph_s126" target="glyph_s129">
+            <start x="-488.70312" y="-393.0206"/>
+            <next x="-480.64188" y="-387.5206"/>
+            <next x="-480.64188" y="-416.71268"/>
+            <next x="-517.45496" y="-416.71268"/>
+            <next x="-517.45496" y="-434.52478"/>
+            <end x="-527.95496" y="-440.02478"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e162" source="glyph_s126" target="glyph_s130">
+            <start x="-496.20312" y="-393.0206"/>
+            <next x="-470.88684" y="-387.5206"/>
+            <next x="-470.88684" y="-412.25964"/>
+            <next x="-360.26468" y="-412.25964"/>
+            <next x="-360.26468" y="-434.52478"/>
+            <end x="-378.26468" y="-440.02478"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e163" source="glyph_s132" target="glyph_s131">
+            <start x="-660.8934" y="-348.49036"/>
+            <next x="-635.3934" y="-342.99036"/>
+            <next x="-635.3934" y="-326.16782"/>
+            <next x="-632.9546" y="-326.16782"/>
+            <next x="-632.9546" y="-301.92355"/>
+            <end x="-660.8934" y="-307.42355"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e164" source="glyph_s125" target="glyph_s131">
+            <start x="-582.3043" y="-307.42355"/>
+            <next x="-556.8043" y="-301.92355"/>
+            <next x="-635.3934" y="-301.92355"/>
+            <end x="-660.8934" y="-307.42355"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e165" source="glyph_s131" target="glyph_s133">
+            <start x="-645.8934" y="-307.42355"/>
+            <next x="-637.83215" y="-301.92355"/>
+            <next x="-637.83215" y="-324.1887"/>
+            <next x="-713.9824" y="-324.1887"/>
+            <next x="-713.9824" y="-342.99036"/>
+            <end x="-724.4824" y="-348.49036"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e166" source="glyph_s131" target="glyph_s134">
+            <start x="-657.3934" y="-307.42355"/>
+            <next x="-635.3934" y="-301.92355"/>
+            <next x="-635.3934" y="-257.3933"/>
+            <end x="-657.3934" y="-262.8933"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e167" source="glyph_s134" target="glyph_s135">
+            <start x="-655.3934" y="-262.8933"/>
+            <next x="-635.3934" y="-257.3933"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <end x="-655.3934" y="-221.33173"/>
+        </arc>
+        <arc class="production" id="arc_b-s2-t0-e168" source="glyph_s135" target="glyph_s134">
+            <start x="-655.3934" y="-221.33173"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <next x="-635.3934" y="-257.3933"/>
+            <end x="-655.3934" y="-262.8933"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e169" source="glyph_s135" target="glyph_s136">
+            <start x="-649.3934" y="-221.33173"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <next x="-713.9824" y="-215.83173"/>
+            <end x="-727.9824" y="-221.33173"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s2-t0-e170" source="glyph_s136" target="glyph_s135">
+            <start x="-727.9824" y="-221.33173"/>
+            <next x="-713.9824" y="-215.83173"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <end x="-649.3934" y="-221.33173"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e171" source="glyph_s135" target="glyph_s109">
+            <start x="-659.8934" y="-221.33173"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <end x="-659.8934" y="-147.11464"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s2-t0-e172" source="glyph_s109" target="glyph_s135">
+            <start x="-659.8934" y="-147.11464"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <next x="-635.3934" y="-215.83173"/>
+            <end x="-659.8934" y="-221.33173"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e173" source="glyph_s138" target="glyph_s137">
+            <start x="-448.4396" y="164.10237"/>
+            <next x="-433.9396" y="169.60237"/>
+            <next x="-433.9396" y="133.97818"/>
+            <end x="-448.4396" y="128.47818"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e174" source="glyph_s115" target="glyph_s137">
+            <start x="-448.4396" y="86.9166"/>
+            <next x="-433.9396" y="92.4166"/>
+            <next x="-433.9396" y="133.97818"/>
+            <end x="-448.4396" y="128.47818"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e175" source="glyph_s137" target="glyph_s112">
+            <start x="-455.9396" y="128.47818"/>
+            <next x="-429.0621" y="133.97818"/>
+            <next x="-429.0621" y="116.16607"/>
+            <next x="-96.29333" y="116.16607"/>
+            <next x="-96.29333" y="92.4166"/>
+            <end x="-113.428" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e178" source="glyph_s109" target="glyph_s139">
+            <start x="-653.8934" y="-147.11464"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <next x="-539.6355" y="-141.61464"/>
+            <end x="-558.1355" y="-147.11464"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e179" source="glyph_s139" target="glyph_s100">
+            <start x="-554.6355" y="-147.11464"/>
+            <next x="-539.6355" y="-140.62508"/>
+            <next x="-478.20312" y="-140.62508"/>
+            <next x="-478.20312" y="-29.299435"/>
+            <end x="-493.20312" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e180" source="glyph_s139" target="glyph_s140">
+            <start x="-548.6355" y="-147.11464"/>
+            <next x="-539.6355" y="-141.61464"/>
+            <next x="-539.6355" y="-106.979996"/>
+            <end x="-548.6355" y="-112.479996"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e181" source="glyph_s139" target="glyph_s122">
+            <start x="-567.1355" y="-147.11464"/>
+            <next x="-539.6355" y="-142.6042"/>
+            <next x="-478.20312" y="-142.6042"/>
+            <next x="-478.20312" y="-221.7691"/>
+            <end x="-505.70312" y="-227.2691"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t1-e182" source="glyph_s142" target="glyph_s141">
+            <start x="-622.51404" y="513.47943"/>
+            <next x="-598.51404" y="518.97943"/>
+            <next x="-598.51404" y="456.45987"/>
+            <next x="-665.9212" y="456.45987"/>
+            <end x="-689.9212" y="450.95987"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t1-e183" source="glyph_s143" target="glyph_s141">
+            <start x="-689.9212" y="513.47943"/>
+            <next x="-665.9212" y="518.97943"/>
+            <next x="-665.9212" y="456.45987"/>
+            <end x="-689.9212" y="450.95987"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t1-e184" source="glyph_s141" target="glyph_s144">
+            <start x="-687.9212" y="450.95987"/>
+            <next x="-665.9212" y="456.45987"/>
+            <next x="-739.4515" y="456.45987"/>
+            <next x="-739.4515" y="518.97943"/>
+            <end x="-761.4515" y="513.47943"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t2-e185" source="glyph_s146" target="glyph_s145">
+            <start x="-625.40234" y="343.8816"/>
+            <next x="-598.40234" y="349.3816"/>
+            <next x="-598.40234" y="287.3849"/>
+            <next x="-665.95874" y="287.3849"/>
+            <end x="-692.95874" y="281.8849"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t2-e186" source="glyph_s147" target="glyph_s145">
+            <start x="-692.95874" y="343.8816"/>
+            <next x="-665.95874" y="349.3816"/>
+            <next x="-665.95874" y="287.3849"/>
+            <end x="-692.95874" y="281.8849"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t2-e187" source="glyph_s145" target="glyph_s148">
+            <start x="-687.95874" y="281.8849"/>
+            <next x="-665.95874" y="287.3849"/>
+            <next x="-739.5632" y="287.3849"/>
+            <next x="-739.5632" y="349.3816"/>
+            <end x="-761.5632" y="343.8816"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e188" source="glyph_s134" target="glyph_s149">
+            <start x="-656.8934" y="-262.8933"/>
+            <next x="-635.3934" y="-257.3933"/>
+            <next x="-713.9824" y="-257.3933"/>
+            <end x="-735.4824" y="-262.8933"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e189" source="glyph_s150" target="glyph_s149">
+            <start x="-814.0836" y="-262.8933"/>
+            <next x="-792.5836" y="-257.3933"/>
+            <next x="-713.9824" y="-257.3933"/>
+            <end x="-735.4824" y="-262.8933"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e190" source="glyph_s149" target="glyph_s151">
+            <start x="-727.4824" y="-262.8933"/>
+            <next x="-713.9824" y="-255.41418"/>
+            <next x="-753.283" y="-255.41418"/>
+            <next x="-753.283" y="-223.25345"/>
+            <next x="-792.5836" y="-223.25345"/>
+            <end x="-806.0836" y="-228.75345"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e191" source="glyph_s149" target="glyph_s152">
+            <start x="-741.4824" y="-262.8933"/>
+            <next x="-713.9824" y="-259.37244"/>
+            <next x="-753.283" y="-259.37244"/>
+            <next x="-753.283" y="-298.4601"/>
+            <next x="-792.5836" y="-298.4601"/>
+            <end x="-820.0836" y="-303.9601"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t3-e192" source="glyph_s154" target="glyph_s153">
+            <start x="-195.98288" y="516.0249"/>
+            <next x="-171.48288" y="521.5249"/>
+            <next x="-171.48288" y="466.83008"/>
+            <next x="-57.608852" y="466.83008"/>
+            <end x="-82.10886" y="463.013"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t3-e193" source="glyph_s155" target="glyph_s153">
+            <start x="-126.60157" y="516.0249"/>
+            <next x="-102.10157" y="521.5249"/>
+            <next x="-102.10157" y="470.1959"/>
+            <next x="-57.608852" y="470.1959"/>
+            <end x="-82.10886" y="463.013"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t3-e194" source="glyph_s153" target="glyph_s156">
+            <start x="-85.60886" y="463.013"/>
+            <next x="-57.608852" y="470.1959"/>
+            <next x="-1.4470042" y="470.1959"/>
+            <next x="-1.4470042" y="521.5249"/>
+            <end x="-29.447004" y="516.0249"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t3-e195" source="glyph_s153" target="glyph_s157">
+            <start x="-71.60886" y="463.013"/>
+            <next x="-57.608852" y="466.83008"/>
+            <next x="72.935356" y="466.83008"/>
+            <next x="72.935356" y="521.5249"/>
+            <end x="58.935356" y="516.0249"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e196" source="glyph_s159" target="glyph_s158">
+            <start x="-147.72862" y="165.58672"/>
+            <next x="-130.72862" y="171.08672"/>
+            <next x="-130.72862" y="152.77983"/>
+            <next x="-93.86676" y="152.77983"/>
+            <next x="-93.86676" y="133.97818"/>
+            <end x="-108.428" y="128.47818"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e197" source="glyph_s112" target="glyph_s158">
+            <start x="-108.428" y="86.9166"/>
+            <next x="-91.41581" y="92.4166"/>
+            <next x="-91.41581" y="133.97818"/>
+            <end x="-108.428" y="128.47818"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e198" source="glyph_s158" target="glyph_s160">
+            <start x="-106.428" y="128.47818"/>
+            <next x="-88.98924" y="133.97818"/>
+            <next x="-88.98924" y="152.77983"/>
+            <next x="-52.127388" y="152.77983"/>
+            <next x="-52.127388" y="171.08672"/>
+            <end x="-67.12739" y="165.58672"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e199" source="glyph_s158" target="glyph_s161">
+            <start x="-104.928" y="128.47818"/>
+            <next x="-91.428" y="133.97818"/>
+            <next x="65.76226" y="133.97818"/>
+            <next x="65.76226" y="92.4166"/>
+            <end x="52.26226" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e201" source="glyph_s161" target="glyph_s162">
+            <start x="46.26226" y="86.9166"/>
+            <next x="65.76226" y="92.4166"/>
+            <next x="-12.826776" y="92.4166"/>
+            <end x="-32.326775" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e203" source="glyph_s162" target="glyph_s112">
+            <start x="-34.826775" y="86.9166"/>
+            <next x="-12.826776" y="92.4166"/>
+            <next x="-91.428" y="92.4166"/>
+            <end x="-113.428" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e205" source="glyph_s164" target="glyph_s163">
+            <start x="-205.84415" y="-89.720085"/>
+            <next x="-189.85635" y="-84.220085"/>
+            <next x="-189.85635" y="-29.299435"/>
+            <end x="-205.84415" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e206" source="glyph_s163" target="glyph_s100">
+            <start x="-204.84415" y="-34.799435"/>
+            <next x="-189.84415" y="-29.299435"/>
+            <next x="-478.20312" y="-29.299435"/>
+            <end x="-493.20312" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e207" source="glyph_s163" target="glyph_s165">
+            <start x="-198.84415" y="-34.799435"/>
+            <next x="-189.84415" y="-29.299435"/>
+            <next x="-189.84415" y="3.8508673"/>
+            <end x="-198.84415" y="-1.6491327"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e208" source="glyph_s163" target="glyph_s112">
+            <start x="-211.84415" y="-34.799435"/>
+            <next x="-189.84415" y="-29.299435"/>
+            <next x="-96.30552" y="-29.299435"/>
+            <next x="-96.30552" y="92.4166"/>
+            <end x="-113.428" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e209" source="glyph_s167" target="glyph_s166">
+            <start x="-296.17566" y="-514.73663"/>
+            <next x="-281.67566" y="-509.23663"/>
+            <next x="-281.67566" y="-491.42453"/>
+            <next x="-355.38718" y="-491.42453"/>
+            <next x="-355.38718" y="-473.61243"/>
+            <end x="-374.76468" y="-479.11243"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e210" source="glyph_s130" target="glyph_s166">
+            <start x="-374.76468" y="-440.02478"/>
+            <next x="-360.26468" y="-434.52478"/>
+            <next x="-360.26468" y="-473.61243"/>
+            <end x="-374.76468" y="-479.11243"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e211" source="glyph_s166" target="glyph_s168">
+            <start x="-370.76468" y="-479.11243"/>
+            <next x="-365.1422" y="-473.61243"/>
+            <next x="-365.1422" y="-491.42453"/>
+            <next x="-438.85373" y="-491.42453"/>
+            <next x="-438.85373" y="-509.23663"/>
+            <end x="-449.35373" y="-514.73663"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e212" source="glyph_s166" target="glyph_s169">
+            <start x="-375.26468" y="-479.11243"/>
+            <next x="-360.26468" y="-473.61243"/>
+            <next x="-360.26468" y="-509.23663"/>
+            <end x="-375.26468" y="-514.73663"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e213" source="glyph_s171" target="glyph_s170">
+            <start x="-785.87994" y="-188.67621"/>
+            <next x="-759.37994" y="-183.17621"/>
+            <next x="-759.37994" y="-141.61464"/>
+            <end x="-785.87994" y="-147.11464"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e214" source="glyph_s172" target="glyph_s170">
+            <start x="-785.87994" y="-100.60526"/>
+            <next x="-759.37994" y="-95.10526"/>
+            <next x="-759.37994" y="-141.61464"/>
+            <end x="-785.87994" y="-147.11464"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e215" source="glyph_s170" target="glyph_s173">
+            <start x="-768.37994" y="-147.11464"/>
+            <next x="-754.5024" y="-141.61464"/>
+            <next x="-754.5024" y="-165.3641"/>
+            <next x="-680.7909" y="-165.3641"/>
+            <next x="-680.7909" y="-183.17621"/>
+            <end x="-689.7909" y="-188.67621"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e216" source="glyph_s170" target="glyph_s174">
+            <start x="-774.37994" y="-147.11464"/>
+            <next x="-764.25745" y="-141.61464"/>
+            <next x="-764.25745" y="-165.3641"/>
+            <next x="-837.96893" y="-165.3641"/>
+            <next x="-837.96893" y="-183.17621"/>
+            <end x="-852.96893" y="-188.67621"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e217" source="glyph_s170" target="glyph_s109">
+            <start x="-783.87994" y="-147.11464"/>
+            <next x="-759.37994" y="-141.61464"/>
+            <next x="-635.3934" y="-141.61464"/>
+            <end x="-659.8934" y="-147.11464"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e218" source="glyph_s172" target="glyph_s175">
+            <start x="-776.37994" y="-100.60526"/>
+            <next x="-759.37994" y="-95.10526"/>
+            <next x="-928.764" y="-95.10526"/>
+            <end x="-945.764" y="-100.60526"/>
+        </arc>
+        <arc class="production" id="arc_b-s2-t0-e219" source="glyph_s175" target="glyph_s172">
+            <start x="-945.764" y="-100.60526"/>
+            <next x="-928.764" y="-95.10526"/>
+            <next x="-759.37994" y="-95.10526"/>
+            <end x="-776.37994" y="-100.60526"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e220" source="glyph_s175" target="glyph_s176">
+            <start x="-956.764" y="-100.60526"/>
+            <next x="-928.764" y="-95.10526"/>
+            <next x="-928.764" y="-29.299435"/>
+            <end x="-956.764" y="-34.799435"/>
+        </arc>
+        <arc class="consumption" id="arc_b-s2-t0-e221" source="glyph_s176" target="glyph_s175">
+            <start x="-956.764" y="-34.799435"/>
+            <next x="-928.764" y="-29.299435"/>
+            <next x="-928.764" y="-95.10526"/>
+            <end x="-956.764" y="-100.60526"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e222" source="glyph_s178" target="glyph_s177">
+            <start x="-907.86646" y="-74.87666"/>
+            <next x="-883.36646" y="-69.37666"/>
+            <next x="-883.36646" y="-53.048904"/>
+            <next x="-840.4077" y="-53.048904"/>
+            <next x="-840.4077" y="-29.299435"/>
+            <end x="-862.46893" y="-34.799435"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e223" source="glyph_s102" target="glyph_s177">
+            <start x="-721.32574" y="-34.799435"/>
+            <next x="-696.82574" y="-29.299435"/>
+            <next x="-837.96893" y="-29.299435"/>
+            <end x="-862.46893" y="-34.799435"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e224" source="glyph_s179" target="glyph_s177">
+            <start x="-862.46893" y="86.9166"/>
+            <next x="-837.96893" y="92.4166"/>
+            <next x="-837.96893" y="-29.299435"/>
+            <end x="-862.46893" y="-34.799435"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e225" source="glyph_s177" target="glyph_s180">
+            <start x="-851.46893" y="-34.799435"/>
+            <next x="-835.5302" y="-29.299435"/>
+            <next x="-835.5302" y="-52.059345"/>
+            <next x="-804.7774" y="-52.059345"/>
+            <next x="-804.7774" y="-69.37666"/>
+            <end x="-818.2774" y="-74.87666"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e226" source="glyph_s177" target="glyph_s176">
+            <start x="-865.96893" y="-34.799435"/>
+            <next x="-837.96893" y="-29.299435"/>
+            <next x="-928.764" y="-29.299435"/>
+            <end x="-956.764" y="-34.799435"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e227" source="glyph_s182" target="glyph_s181">
+            <start x="-776.1605" y="123.530365"/>
+            <next x="-758.1605" y="129.03036"/>
+            <next x="-758.1605" y="112.70261"/>
+            <next x="-756.94116" y="112.70261"/>
+            <next x="-756.94116" y="92.4166"/>
+            <end x="-777.37994" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e228" source="glyph_s119" target="glyph_s181">
+            <start x="-653.3934" y="86.9166"/>
+            <next x="-635.3934" y="92.4166"/>
+            <next x="-759.37994" y="92.4166"/>
+            <end x="-777.37994" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e229" source="glyph_s179" target="glyph_s181">
+            <start x="-855.96893" y="86.9166"/>
+            <next x="-837.96893" y="92.4166"/>
+            <next x="-759.37994" y="92.4166"/>
+            <end x="-777.37994" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e230" source="glyph_s181" target="glyph_s183">
+            <start x="-772.87994" y="86.9166"/>
+            <next x="-761.81866" y="92.4166"/>
+            <next x="-761.81866" y="111.71304"/>
+            <next x="-836.7496" y="111.71304"/>
+            <next x="-836.7496" y="129.03036"/>
+            <end x="-850.2496" y="123.530365"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e231" source="glyph_s181" target="glyph_s172">
+            <start x="-784.37994" y="86.9166"/>
+            <next x="-759.37994" y="92.4166"/>
+            <next x="-759.37994" y="-95.10526"/>
+            <end x="-784.37994" y="-100.60526"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t4-e232" source="glyph_s185" target="glyph_s184">
+            <start x="-484.30322" y="362.69232"/>
+            <next x="-471.30322" y="368.19232"/>
+            <next x="-413.26593" y="368.19232"/>
+            <next x="-413.26593" y="333.23163"/>
+            <end x="-426.26593" y="327.73163"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t4-e233" source="glyph_s186" target="glyph_s184">
+            <start x="-368.22867" y="327.73163"/>
+            <next x="-355.22867" y="333.23163"/>
+            <next x="-413.26593" y="333.23163"/>
+            <end x="-426.26593" y="327.73163"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t4-e234" source="glyph_s184" target="glyph_s187">
+            <start x="-433.76593" y="327.73163"/>
+            <next x="-413.26593" y="333.23163"/>
+            <next x="-413.26593" y="293.27658"/>
+            <next x="-471.30322" y="293.27658"/>
+            <end x="-491.80322" y="287.77658"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t5-e235" source="glyph_s189" target="glyph_s188">
+            <start x="-15.118601" y="358.45404"/>
+            <next x="-2.1186004" y="363.95404"/>
+            <next x="-2.1186004" y="291.60165"/>
+            <next x="-64.9059" y="291.60165"/>
+            <end x="-77.9059" y="283.35428"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t5-e236" source="glyph_s190" target="glyph_s188">
+            <start x="-77.9059" y="358.45404"/>
+            <next x="-64.9059" y="363.95404"/>
+            <next x="-64.9059" y="288.85428"/>
+            <end x="-77.9059" y="283.35428"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t5-e237" source="glyph_s188" target="glyph_s191">
+            <start x="-73.4059" y="283.35428"/>
+            <next x="-64.9059" y="291.60165"/>
+            <next x="-123.32194" y="291.60165"/>
+            <next x="-123.32194" y="363.95404"/>
+            <end x="-131.82193" y="358.45404"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t5-e238" source="glyph_s188" target="glyph_s192">
+            <start x="-79.4059" y="283.35428"/>
+            <next x="-64.9059" y="286.1069"/>
+            <next x="-174.18759" y="286.1069"/>
+            <next x="-174.18759" y="363.95404"/>
+            <end x="-188.68759" y="358.45404"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t5-e239" source="glyph_s188" target="glyph_s193">
+            <start x="-88.9059" y="283.35428"/>
+            <next x="-64.9059" y="286.1069"/>
+            <next x="60.6687" y="286.1069"/>
+            <next x="60.6687" y="363.95404"/>
+            <end x="36.6687" y="358.45404"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e240" source="glyph_s195" target="glyph_s194">
+            <start x="-25.826775" y="-123.85995"/>
+            <next x="-12.826776" y="-118.35995"/>
+            <next x="-12.826776" y="-101.53741"/>
+            <next x="-86.55048" y="-101.53741"/>
+            <next x="-86.55048" y="-84.220085"/>
+            <end x="-104.428" y="-89.720085"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e241" source="glyph_s164" target="glyph_s194">
+            <start x="-202.84415" y="-89.720085"/>
+            <next x="-189.84415" y="-84.220085"/>
+            <next x="-91.428" y="-84.220085"/>
+            <end x="-104.428" y="-89.720085"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e242" source="glyph_s194" target="glyph_s196">
+            <start x="-100.428" y="-89.720085"/>
+            <next x="-96.30552" y="-84.220085"/>
+            <next x="-96.30552" y="-102.03219"/>
+            <next x="-170.01704" y="-102.03219"/>
+            <next x="-170.01704" y="-118.35995"/>
+            <end x="-179.01704" y="-123.85995"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e243" source="glyph_s194" target="glyph_s197">
+            <start x="-104.928" y="-89.720085"/>
+            <next x="-91.428" y="-84.220085"/>
+            <next x="-91.428" y="-118.35995"/>
+            <end x="-104.928" y="-123.85995"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e244" source="glyph_s194" target="glyph_s112">
+            <start x="-113.428" y="-89.720085"/>
+            <next x="-91.428" y="-84.220085"/>
+            <next x="-91.428" y="92.4166"/>
+            <end x="-113.428" y="86.9166"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e245" source="glyph_s199" target="glyph_s198">
+            <start x="35.59339" y="-36.778557"/>
+            <next x="48.59339" y="-31.278557"/>
+            <next x="9.30497" y="-31.278557"/>
+            <next x="9.30497" y="0.38740286"/>
+            <next x="-29.995644" y="0.38740286"/>
+            <end x="-42.995644" y="-3.1334746"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t0-e246" source="glyph_s164" target="glyph_s198">
+            <start x="-202.84415" y="-89.720085"/>
+            <next x="-184.97882" y="-84.220085"/>
+            <next x="-184.97882" y="-57.00715"/>
+            <next x="-29.995644" y="-57.00715"/>
+            <next x="-29.995644" y="2.3665254"/>
+            <end x="-42.995644" y="-3.1334746"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e247" source="glyph_s198" target="glyph_s200">
+            <start x="-38.995644" y="-3.1334746"/>
+            <next x="-29.995644" y="2.3665254"/>
+            <next x="48.59339" y="2.3665254"/>
+            <end x="39.59339" y="-3.1334746"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e248" source="glyph_s198" target="glyph_s112">
+            <start x="-51.995644" y="-3.1334746"/>
+            <next x="-29.995644" y="2.3665254"/>
+            <next x="-86.55048" y="2.3665254"/>
+            <next x="-86.55048" y="92.4166"/>
+            <end x="-113.428" y="86.9166"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t0-e249" source="glyph_s198" target="glyph_s201">
+            <start x="-47.995644" y="-3.1334746"/>
+            <next x="-29.995644" y="4.345648"/>
+            <next x="9.30497" y="4.345648"/>
+            <next x="9.30497" y="37.00117"/>
+            <next x="48.59339" y="37.00117"/>
+            <end x="30.59339" y="31.50117"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t6-e250" source="glyph_s203" target="glyph_s202">
+            <start x="-948.6036" y="338.37534"/>
+            <next x="-935.6036" y="343.87534"/>
+            <next x="-865.5346" y="343.87534"/>
+            <next x="-865.5346" y="390.47943"/>
+            <end x="-876.0468" y="384.97943"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t6-e251" source="glyph_s204" target="glyph_s202">
+            <start x="-948.6036" y="384.97943"/>
+            <next x="-935.6036" y="390.47943"/>
+            <next x="-863.0468" y="390.47943"/>
+            <end x="-876.0468" y="384.97943"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t6-e252" source="glyph_s205" target="glyph_s202">
+            <start x="-948.6036" y="446.89633"/>
+            <next x="-935.6036" y="452.39633"/>
+            <next x="-865.5346" y="452.39633"/>
+            <next x="-865.5346" y="390.47943"/>
+            <end x="-876.0468" y="384.97943"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t6-e253" source="glyph_s202" target="glyph_s206">
+            <start x="-878.0468" y="384.97943"/>
+            <next x="-860.55896" y="390.47943"/>
+            <next x="-860.55896" y="512.31586"/>
+            <next x="-935.6036" y="512.31586"/>
+            <end x="-950.6036" y="506.8159"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t6-e254" source="glyph_s202" target="glyph_s207">
+            <start x="-885.5468" y="384.97943"/>
+            <next x="-860.55896" y="390.47943"/>
+            <next x="-860.55896" y="293.27658"/>
+            <next x="-935.6036" y="293.27658"/>
+            <end x="-958.1036" y="287.77658"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t4-e255" source="glyph_s209" target="glyph_s208">
+            <start x="-484.30322" y="433.32712"/>
+            <next x="-471.30322" y="438.82712"/>
+            <next x="-413.26593" y="438.82712"/>
+            <next x="-413.26593" y="475.21475"/>
+            <end x="-426.26593" y="469.71475"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t4-e256" source="glyph_s210" target="glyph_s208">
+            <start x="-484.30322" y="506.8159"/>
+            <next x="-471.30322" y="512.31586"/>
+            <next x="-413.26593" y="512.31586"/>
+            <next x="-413.26593" y="475.21475"/>
+            <end x="-426.26593" y="469.71475"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t4-e257" source="glyph_s208" target="glyph_s211">
+            <start x="-440.26593" y="469.71475"/>
+            <next x="-413.26593" y="475.21475"/>
+            <next x="-355.22867" y="475.21475"/>
+            <end x="-382.22867" y="469.71475"/>
+        </arc>
+        <arc class="consumption" id="arc_f-s2-t4-e258" source="glyph_s211" target="glyph_s212">
+            <start x="-368.22867" y="469.71475"/>
+            <next x="-355.22867" y="475.21475"/>
+            <next x="-297.19138" y="475.21475"/>
+            <next x="-297.19138" y="403.15298"/>
+            <end x="-310.19138" y="397.65298"/>
+        </arc>
+        <arc class="production" id="arc_f-s2-t4-e259" source="glyph_s212" target="glyph_s186">
+            <start x="-323.19138" y="397.65298"/>
+            <next x="-297.19138" y="403.15298"/>
+            <next x="-297.19138" y="333.23163"/>
+            <next x="-355.22867" y="333.23163"/>
+            <end x="-381.22867" y="327.73163"/>
+        </arc>
+    </map>
+</sbgn>

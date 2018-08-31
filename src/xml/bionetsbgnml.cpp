@@ -742,14 +742,14 @@ void BioNetSBGNML::buildRouters( void )
                     arc->SetAttribute( "target", "s"+toString( g[vdS].id ) );
                     arc->SetAttribute( "source", "d"+toString( it->second->id )+"t"+toString( i )+"r"+toString( itR->second.id ) );
 
-                    for( unsigned int j = 0; j < line.samples().size(); j++ ) {
+                    for( int j = line.samples().size()-1; j >= 0; j-- ) {
 
                         double x = line.samples()[j].x();
                         double y = line.samples()[j].y();
 
                         if( j == 0 ) {
                             TiXmlElement * start;
-                            start = new TiXmlElement( "start" );
+                            start = new TiXmlElement( "end" );
                             arc->LinkEndChild( start );
                             start->SetAttribute( "x", toString( x ) );
                             start->SetAttribute( "y", toString( -y ) );
@@ -757,7 +757,7 @@ void BioNetSBGNML::buildRouters( void )
                         }
                         else if ( j == line.samples().size()-1 ){
                             TiXmlElement * end;
-                            end = new TiXmlElement( "end" );
+                            end = new TiXmlElement( "start" );
                             arc->LinkEndChild( end );
                             end->SetAttribute( "x", toString( x ) );
                             end->SetAttribute( "y", toString( -y ) );
@@ -801,9 +801,9 @@ void BioNetSBGNML::buildSBGNML( void )
 
     buildDomains();
     buildTreemaps();
+    buildRouters();
     buildNodes();
     buildEdges();
-    buildRouters();
 }
 
 bool BioNetSBGNML::writeBioNetSBGNML( void )
