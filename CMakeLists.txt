@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.4)
-PROJECT (BIONET)
+PROJECT (METABOPOLIS)
 
 # using Qt meta-system (precompiler)
 # Tell CMake to run moc when necessary:
@@ -9,97 +9,192 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 #set(CMAKE_AUTORCC ON)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall -Wno-deprecated -DIL_STD")
+
+# compiler setting
+if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
+else()
+    set(CMAKE_CXX_STANDARD 11)
+endif()
 
 if (UNIX AND NOT APPLE)
   message(status "Setting G++ flags")
-  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O -Wall -Wno-deprecated -DIL_STD -std=gnu++11 -frounding-math -Wunused-variable")
-  include_directories(
-      /usr/include
-      /usr/X11R6/include
-  	  /opt/local/include
-      /opt/ibm/ILOG/CPLEX_Studio128/cplex/include
-      /opt/ibm/ILOG/CPLEX_Studio128/concert/include
-      ${CMAKE_SOURCE_DIR}/include
-      ${CMAKE_SOURCE_DIR}/src
-      /home/$ENV{USER}/MyLib/release/sbml/include
-      /home/$ENV{USER}/MyLib/release/graphviz/include
-#      /home/$ENV{USER}/MyLib/release/qt5/qtbase/include
-      /home/$ENV{USER}/MyLib/release/qt5-package/5.8/gcc_64/include
-#      /home/$ENV{USER}/Desktop/gitroot/others/ogdf/build/include
-#      /home/$ENV{USER}/Desktop/gitroot/others/ogdf/include
-  )
-  link_directories(
-      /usr/X11R6/lib
-      /opt/local/lib
-      /usr/lib/x86_64-linux-gnu
-      /home/$ENV{USER}/MyLib/release/sbml/lib
-      /home/$ENV{USER}/MyLib/release/graphviz/lib
-#      /home/$ENV{USER}/MyLib/release/qt5/qtbase/lib
-      /home/$ENV{USER}/MyLib/release/qt5-package/5.8/gcc_64/lib
-#      /home/$ENV{USER}/Desktop/gitroot/others/ogdf/build
-      /opt/ibm/ILOG/CPLEX_Studio128/cplex/lib/x86-64_linux/static_pic
-      /opt/ibm/ILOG/CPLEX_Studio128/concert/lib/x86-64_linux/static_pic
-  )
+  set( CPLEX_PATH_DIR "/opt/ibm/ILOG/CPLEX_Studio128/")
+  set( GRAPHVIZ_PATH_DIR "/home/$ENV{USER}/MyLib/release/graphviz")
+  set( QT5_PATH_DIR "/home/$ENV{USER}/MyLib/release/qt5-package/5.8/gcc_64")
+
   # add the libraries you need below
-  set( OPENGL_FLAG GL GLU glut )
+  set( OPENGL_FLAG -lGL -lGLU -lglut )
   find_package(OpenGL REQUIRED)
   find_package(GLUT REQUIRED)
   find_package(CGAL QUIET COMPONENTS Core REQUIRED)
+
+  set( CXX_FLAGS "${CXX_FLAGS}-ltinyxml -lsbml -lcgraph -lgvc -lCGAL -lgmp -lmpfr -lboost_thread -lboost_system -lilocplex -lconcert -lcplex -ldl -lpthread ${OPENGL_FLAG}")
+
 elseif(APPLE)
+
   message(status "Setting CLANG flags")
-  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall -Wno-deprecated -DIL_STD -std=c++11")
-#  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall -Wno-deprecated -DIL_STD -std=c++11 -stdlib=libc++")
-#  set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall -Wno-deprecated -DIL_STD -std=c++0x")
-  include_directories(
-      /opt/local/include
-  	  /usr/local/include
-  	  /usr/X11R6/include
-	  ${CMAKE_SOURCE_DIR}/include
-      ${CMAKE_SOURCE_DIR}/src
-#      /Users/$ENV{USER}/Desktop/gitroot/others/ogdf/build/include
-#      /Users/$ENV{USER}/Desktop/gitroot/others/ogdf/include
-      /Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/cplex/include
-      /Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/concert/include
-  )
-  link_directories(
-      /usr/X11R6/lib
-      /opt/local/lib
-	  /Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/cplex/lib/x86-64_osx/static_pic
-	  /Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/concert/lib/x86-64_osx/static_pic
-#      /Users/$ENV{USER}/Desktop/gitroot/others/ogdf/build
-  )
+  set( CPLEX_PATH_DIR "/Users/$ENV{USER}/Applications/IBM/ILOG/CPLEX_Studio128/")
+
   # add the libraries you need below
   set( OPENGL_FLAG "-framework OpenGL" )
   find_package(GLUT REQUIRED)
   find_package(OpenGL REQUIRED)
+
+  set( CXX_FLAGS "${CXX_FLAGS}-ltinyxml -lsbml -lcgraph -lgvc -lCGAL -lgmp -lmpfr -lilocplex -lconcert -lcplex ${OPENGL_FLAG}")
+
 endif()
 
-set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_INCLUDE_CURRENT_DIR ON)
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+include_directories(
+    ${CMAKE_SOURCE_DIR}/include
+    ${CPLEX_PATH_DIR}/cplex/include
+    ${CPLEX_PATH_DIR}/concert/include
+    ${GRAPHVIZ_PATH_DIR}/include
+    ${QT5_PATH_DIR}/include
+)
 
+link_directories(
+    ${CMAKE_SOURCE_DIR}/src
+    ${CPLEX_PATH_DIR}/cplex/lib/x86-64_linux/static_pic
+    ${CPLEX_PATH_DIR}/concert/lib/x86-64_linux/static_pic
+    ${GRAPHVIZ_PATH_DIR}/lib
+    ${QT5_PATH_DIR}/lib
+)
 
 # automatically grab all the source files
-file(GLOB SOURCES src/*.cpp src/graph/*.cpp src/render/*.cpp src/optimization/*.cpp src/hola/*.cpp src/xml/*.cpp)
-file(GLOB HEADERS include/*.h include/graph/*.h include/render/*.h include/optimization/*.h include/hola/*.h include/xml/*.h)
-file(GLOB UI_FILES include/*.ui)
-file(GLOB RESOURCES *.qrc)
+set(UI_FILES include/DiaLayout.ui)
+#set(RESOURCES *.qrc)
 
+set(HEADERS
+    include/boost/create_dual_graph.hpp
+    include/graph/BaseEdgeProperty.h
+    include/graph/BaseGraph.h
+    include/graph/BaseGraphProperty.h
+    include/graph/BaseVertexProperty.h
+    include/graph/FlowEdgeProperty.h
+    include/graph/FlowGraph.h
+    include/graph/FlowVertexProperty.h
+    include/graph/MetaboliteEdgeProperty.h
+    include/graph/MetaboliteGraph.h
+    include/graph/MetaboliteVertexProperty.h
+    include/graph/PropertyGraph.h
+    include/graph/RelationEdgeProperty.h
+    include/graph/RelationGraph.h
+    include/graph/RelationVertexProperty.h
+    include/graph/RoadEdgeProperty.h
+    include/graph/RoadGraph.h
+    include/graph/RoadVertexProperty.h
+    include/hola/Hola.h
+    include/hola/TreeMap.h
+    include/optimization/Deformation.h
+    include/optimization/Floorplan.h
+    include/optimization/Flow.h
+    include/optimization/Layout.h
+    include/optimization/MIP.h
+    include/optimization/QMIP.h
+    include/render/GraphicsArrowItem.h
+    include/render/GraphicsBallItem.h
+    include/render/GraphicsBase.h
+    include/render/GraphicsBaseItem.h
+    include/render/GraphicsCurveItem.h
+    include/render/GraphicsDomainItem.h
+    include/render/GraphicsEdgeItem.h
+    include/render/GraphicsFlowItem.h
+    include/render/GraphicsMetaboliteItem.h
+    include/render/GraphicsNameItem.h
+    include/render/GraphicsReactionItem.h
+    include/render/GraphicsRouterItem.h
+    include/render/GraphicsTreemapItem.h
+    include/render/GraphicsTreemapNameItem.h
+    include/render/GraphicsVertexItem.h
+    include/render/GraphicsView.h
+    include/render/Widget.h
+    include/render/Window.h
+    include/xml/bionetsbgnml.h
+    include/xml/bionetsbml.h
+    include/Common.h
+    include/CommonClass.h
+    include/ConfigSpace.h
+    include/Coord2.h
+    include/DiaLayout.h
+    include/GraphVizAPI.h
+    include/Line2.h
+    include/Pathway.h
+    include/PathwayData.h
+    include/Rectangle2.h
+)
+
+set(SOURCES
+    src/graph/BaseEdgeProperty.cpp
+    src/graph/BaseGraph.cpp
+    src/graph/BaseGraphProperty.cpp
+    src/graph/BaseVertexProperty.cpp
+    src/graph/FlowEdgeProperty.cpp
+    src/graph/FlowGraph.cpp
+    src/graph/FlowVertexProperty.cpp
+    src/graph/MetaboliteEdgeProperty.cpp
+    src/graph/MetaboliteGraph.cpp
+    src/graph/MetaboliteVertexProperty.cpp
+    src/graph/RelationEdgeProperty.cpp
+    src/graph/RelationGraph.cpp
+    src/graph/RelationVertexProperty.cpp
+    src/graph/RoadEdgeProperty.cpp
+    src/graph/RoadGraph.cpp
+    src/graph/RoadVertexProperty.cpp
+    src/hola/Hola.cpp
+    src/hola/TreeMap.cpp
+    src/optimization/Deformation.cpp
+    src/optimization/Floorplan.cpp
+    src/optimization/Flow.cpp
+    src/optimization/Layout.cpp
+    src/optimization/MIP.cpp
+    src/optimization/QMIP.cpp
+    src/render/GraphicsArrowItem.cpp
+    src/render/GraphicsBallItem.cpp
+    src/render/GraphicsBaseItem.cpp
+    src/render/GraphicsCurveItem.cpp
+    src/render/GraphicsDomainItem.cpp
+    src/render/GraphicsEdgeItem.cpp
+    src/render/GraphicsFlowItem.cpp
+    src/render/GraphicsMetaboliteItem.cpp
+    src/render/GraphicsNameItem.cpp
+    src/render/GraphicsReactionItem.cpp
+    src/render/GraphicsRouterItem.cpp
+    src/render/GraphicsTreemapItem.cpp
+    src/render/GraphicsTreemapNameItem.cpp
+    src/render/GraphicsVertexItem.cpp
+    src/render/GraphicsView.cpp
+    src/render/Widget.cpp
+    src/render/Window.cpp
+    src/xml/bionetsbgnml.cpp
+    src/xml/bionetsbml.cpp
+    src/Common.cpp
+    src/ConfigSpace.cpp
+    src/Coord2.cpp
+    src/DiaLayout.cpp
+    src/GraphVizAPI.cpp
+    src/Line2.cpp
+    src/Pathway.cpp
+    src/PathwayData.cpp
+    src/Rectangle2.cpp
+    src/main.cpp
+    )
 
 set( DEFINEQT5 ON )
-#set(CMAKE_PREFIX_PATH ${CMAKE_PREFIX_PATH} "/home/yun/MyLib/release/qt5/qtbase/lib/cmake/Qt5" )
-set(CMAKE_PREFIX_PATH ${CMAKE_PREFIX_PATH} "/home/yun/MyLib/release/qt5-package/5.8/gcc_64/lib/cmake/Qt5" )
-find_package(Qt5 COMPONENTS Core Gui Svg Widgets OpenGL REQUIRED)
+find_package(Qt5 COMPONENTS Core Gui Svg Widgets REQUIRED)
+
 # using Qt meta-system (precompiler)
 QT5_ADD_RESOURCES( RES_SOURCES ${RESOURCES} )
 QT5_WRAP_UI( UI_HEADERS ${UI_FILES} )
 QT5_WRAP_CPP( MOC_SRCS ${UI_HEADERS})
 QT5_WRAP_CPP( MOC_SRCS ${MOC_HEADERS} )
-QT5_WRAP_CPP( MOC_WINDOW ${CMAKE_CURRENT_SOURCE_DIR}/include/DiaLayout.h )
+QT5_WRAP_CPP( MOC_DIALAYOUT ${CMAKE_CURRENT_SOURCE_DIR}/include/DiaLayout.h )
 QT5_WRAP_CPP( MOC_WINDOW ${CMAKE_CURRENT_SOURCE_DIR}/include/render/Window.h )
 QT5_WRAP_CPP( MOC_WIDGET ${CMAKE_CURRENT_SOURCE_DIR}/include/render/Widget.h )
-QT5_WRAP_CPP( MOC_WIDGET ${CMAKE_CURRENT_SOURCE_DIR}/include/render/GraphicsView.h )
-QT5_WRAP_CPP( MOC_WIDGET ${CMAKE_CURRENT_SOURCE_DIR}/include/render/GraphicsVertexItem.h )
+QT5_WRAP_CPP( MOC_GRAPHICSVIEW ${CMAKE_CURRENT_SOURCE_DIR}/include/render/GraphicsView.h )
 
 set_property( SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cmake-build-debug/moc_ui_DiaLayout.cpp PROPERTY SKIP_AUTOGEN ON )
 set_property( SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cmake-build-debug/include/moc_DiaLayout.cpp PROPERTY SKIP_AUTOGEN ON )
@@ -108,12 +203,8 @@ set_property( SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cmake-build-debug/include/rende
 set_property( SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cmake-build-debug/include/render/moc_GraphicsView.cpp PROPERTY SKIP_AUTOGEN ON )
 set_property( SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cmake-build-debug/include/render/moc_GraphicsVertexItem.cpp PROPERTY SKIP_AUTOGEN ON )
 
-#add_executable (bionet ${SOURCES} ${MOC_SRCS} ${RES_SOURCES} ${UI_HEADERS} ${MOC_WINDOW} ${MOC_WIDGET})
-add_executable (bionet ${SOURCES} ${MOC_SRCS} ${MOC_WINDOW} ${MOC_WIDGET})
-if (UNIX AND NOT APPLE)
-    target_link_libraries (bionet pthread tinyxml sbml cgraph gvc boost_thread boost_system CGAL gmp mpfr ${OPENGL_FLAG} ${QT_LIBRARIES} pthread dl ilocplex concert cplex boost_graph)
-elseif (APPLE)
-    target_link_libraries (bionet pthread tinyxml sbml cgraph gvc CGAL gmp mpfr ${OPENGL_FLAG} ${QT_LIBRARIES} ilocplex concert cplex)
-endif()
+add_executable (metabopolis ${SOURCES} ${MOC_SRCS} ${MOC_DIALAYOUT} ${MOC_WINDOW} ${MOC_WIDGET} ${MOC_GRAPHICSVIEW})
+target_link_libraries (metabopolis ${CXX_FLAGS})
+
 # qt stuff
-qt5_use_modules(bionet Core Gui Svg Widgets OpenGL)
+qt5_use_modules(metabopolis Core Gui Svg Widgets)

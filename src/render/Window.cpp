@@ -108,7 +108,7 @@ void Window::simulateAllKeys( void )
 #ifdef  ACTIVATE_TIMER
     start_time = time();
 #endif // ACTIVATE_TIMER
-    //simulateKey( Qt::Key_O );
+    simulateKey( Qt::Key_O );
 #ifdef  ACTIVATE_TIMER
     end_time = time();
     cerr << "Key_O time = " << (float)(end_time - start_time) << endl;
@@ -122,7 +122,7 @@ void Window::simulateAllKeys( void )
 #ifdef  ACTIVATE_TIMER
     start_time = time();
 #endif // ACTIVATE_TIMER
-    //simulateKey( Qt::Key_D );
+    simulateKey( Qt::Key_D );
 #ifdef  ACTIVATE_TIMER
     end_time = time();
     cerr << "Key_D time = " << (float)(end_time - start_time) << endl;
@@ -153,7 +153,7 @@ void Window::simulateAllKeys( void )
     //cerr << "Key_F time = " << (float)(end_time - start_time)/(float)CLOCKS_PER_SEC << endl;
 #endif // ACTIVATE_TIMER
 
-    //simulateKey( Qt::Key_B );       // export sbml
+    simulateKey( Qt::Key_B );     // export sbml
     simulateKey( Qt::Key_N );       // export images
 }
 

@@ -8,12 +8,8 @@ DiaLayout::DiaLayout( QWidget *parent ) :
 
     _baseFont = QFont( "Arial", DEFAULT_FONT_SIZE, QFont::Bold, false );
 
-#ifdef __linux__
-    _current_dir = "/home/yun/Desktop/gitroot/tools/bionet";
-#endif	// __linux__
-#ifdef __APPLE__
-    _current_dir = "/Users/yun/Desktop/gitroot/tools/bionet";
-#endif	// __APPLE__
+    _current_dir = QDir::currentPath() + "/../";
+    // cerr << "_currentPath = " << _current_dir.toStdString() << endl;
 
     // initialization
     // diaLayout->pushButton_Load->setEnabled( true );
@@ -32,8 +28,8 @@ DiaLayout::DiaLayout( QWidget *parent ) :
     //_input_dir = _current_dir+QString( "/xml/try-1/" ); // maximum
     //_input_dir = _current_dir+QString( "/xml/try-2/" );   // major
     //_input_dir = _current_dir+QString( "/xml/try-3/" );     // flow test
-    //_input_dir = _current_dir+QString( "/xml/contest/" ); // contest
-    _input_dir = _current_dir+QString( "/xml/kegg/" );  // kegg
+    _input_dir = _current_dir+QString( "/xml/major/" ); // contest
+    //_input_dir = _current_dir+QString( "/xml/kegg/" );  // kegg
     //_input_dir = _current_dir+QString( "/xml/Ecoli_Palsson2011_iJO1366/" );   // filipa
     //_output_dir = _current_dir+QString( "/dot/" );
 

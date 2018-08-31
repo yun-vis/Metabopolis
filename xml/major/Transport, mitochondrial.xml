@@ -1,0 +1,178 @@
+<metabolites>
+    <metabolite>
+        <name>arg_L[c]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>arg_L[m]</name>
+        <formula>C6H15N4O2</formula>
+        <description>L-argininium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[c]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>citr_L[m]</name>
+        <formula>C6H13N3O3</formula>
+        <description>L-citrulline</description>
+    </metabolite>
+    <metabolite>
+        <name>h[c]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>h[m]</name>
+        <formula>H</formula>
+        <description>proton</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[c]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>his_L[m]</name>
+        <formula>C6H9N3O2</formula>
+        <description>L-histidine</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[c]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>lys_L[m]</name>
+        <formula>C6H15N2O2</formula>
+        <description>L-lysinium(1+)</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[c]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+    <metabolite>
+        <name>orn[m]</name>
+        <formula>C5H13N2O2</formula>
+        <description>Ornithine</description>
+    </metabolite>
+</metabolites>
+<reactions>
+    <reaction>
+        <id>CITRtm</id>
+        <name>citrulline mitochondrial transport via proton antiport</name>
+        <reactant>citr_L[m]</reactant>
+        <product>citr_L[c]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>ORNt4m</id>
+        <name>ornithine mitochondrial transport exchange with citruline</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>orn[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>true</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r0947</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>orn[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>orn[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2398</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2402</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[m]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[c]</product>
+        <product>citr_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2409</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>citr_L[c]</reactant>
+        <reactant>his_L[m]</reactant>
+        <product>h[m]</product>
+        <product>citr_L[m]</product>
+        <product>his_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2410</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>lys_L[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>lys_L[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2411</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>arg_L[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>arg_L[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2412</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>orn[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <product>h[m]</product>
+        <product>orn[m]</product>
+        <product>citr_L[c]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+    <reaction>
+        <id>r2413</id>
+        <name>Mitochondrial Carrier (MC) TCDB:2.A.29.19.1</name>
+        <reactant>h[c]</reactant>
+        <reactant>citr_L[m]</reactant>
+        <reactant>his_L[c]</reactant>
+        <product>h[m]</product>
+        <product>citr_L[c]</product>
+        <product>his_L[m]</product>
+        <reversible>false</reversible>
+        <subsystem>Transport, mitochondrial</subsystem>
+    </reaction>
+</reactions>
