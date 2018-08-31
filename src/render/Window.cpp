@@ -153,7 +153,7 @@ void Window::simulateAllKeys( void )
     //cerr << "Key_F time = " << (float)(end_time - start_time)/(float)CLOCKS_PER_SEC << endl;
 #endif // ACTIVATE_TIMER
 
-    simulateKey( Qt::Key_B );     // export sbml
+    simulateKey( Qt::Key_B );       // export sbml
     simulateKey( Qt::Key_N );       // export images
 }
 
@@ -196,11 +196,6 @@ void Window::initActions( void )
     connect( _dialog->diaLayout->pushButton_Network_Compute, &QPushButton::clicked, [=]{
         simulateKey( Qt::Key_F );
     });
-    connect( _dialog->diaLayout->pushButton_Export, &QPushButton::clicked, [=]{
-        simulateKey( Qt::Key_N );
-    });
-    connect( _dialog->diaLayout->pushButton_Batch, SIGNAL( clicked() ),
-             this, SLOT( simulateAllKeys() ) );
 
     connect( _dialog->diaLayout->radioButton_Local, SIGNAL( clicked() ),
              this, SLOT( redrawAllScene() ) );
@@ -229,6 +224,16 @@ void Window::initActions( void )
              this, SLOT( redrawAllScene() ) );
     connect( _dialog->diaLayout->radioButton_ColorBrewer, SIGNAL( clicked() ),
              this, SLOT( redrawAllScene() ) );
+
+    // batch
+    connect( _dialog->diaLayout->pushButton_Batch, SIGNAL( clicked() ),
+             this, SLOT( simulateAllKeys() ) );
+    connect( _dialog->diaLayout->pushButton_Export, &QPushButton::clicked, [=]{
+        simulateKey( Qt::Key_N );
+    });
+    connect( _dialog->diaLayout->pushButton_Export, &QPushButton::clicked, [=]{
+        simulateKey( Qt::Key_B );
+    });
 
     // quit
     connect( _dialog->diaLayout->pushButton_Quit, SIGNAL( clicked() ),
@@ -789,7 +794,7 @@ void Window::keyPressEvent( QKeyEvent *e )
 #else // SBGNML
         BioNetSBGNML sbgnml;
         string file = "bionet";
-        string file_path = "../" + file + ".sbgnml";
+        string file_path = "../svg/" + file + ".sbgnml";
 
         double boulevardWidth = _dialog->diaLayout->horizontalSlider_BoulevardWidth->value();
         double laneWidth = _dialog->diaLayout->horizontalSlider_LaneWidth->value();

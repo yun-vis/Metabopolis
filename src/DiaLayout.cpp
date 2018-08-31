@@ -12,23 +12,11 @@ DiaLayout::DiaLayout( QWidget *parent ) :
     // cerr << "_currentPath = " << _current_dir.toStdString() << endl;
 
     // initialization
-    // diaLayout->pushButton_Load->setEnabled( true );
-    // diaLayout->pushButton_Load->setAutoDefault( false );
-    // diaLayout->pushButton_Load->setDefault( false );
 
-    //_input_dir = _current_dir+QString( "/xml/contest/" );
-    //_input_dir = _current_dir+QString( "/xml/teaser/" );
-    //_input_dir = _current_dir+QString( "/xml/result1/" );
-    //_input_dir = _current_dir+QString( "/xml/result2/" );
-    //_input_dir = _current_dir+QString( "/xml/synthetic/" );
-    //_input_dir = _current_dir+QString( "/xml/small/" );
-    //_input_dir = _current_dir+QString( "/xml/tiny/" );
+    _input_dir = _current_dir+QString( "/xml/small/" );
     //_input_dir = _current_dir+QString( "/xml/A/" );
     //_input_dir = _current_dir+QString( "/xml/full/" );
-    //_input_dir = _current_dir+QString( "/xml/try-1/" ); // maximum
-    //_input_dir = _current_dir+QString( "/xml/try-2/" );   // major
-    //_input_dir = _current_dir+QString( "/xml/try-3/" );     // flow test
-    _input_dir = _current_dir+QString( "/xml/major/" ); // contest
+    //_input_dir = _current_dir+QString( "/xml/major/" ); // contest
     //_input_dir = _current_dir+QString( "/xml/kegg/" );  // kegg
     //_input_dir = _current_dir+QString( "/xml/Ecoli_Palsson2011_iJO1366/" );   // filipa
     //_output_dir = _current_dir+QString( "/dot/" );

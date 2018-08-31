@@ -46,6 +46,7 @@ public:
     void buildTreemaps( void );
     void buildNodes( void );
     void buildEdges( void );
+    void buildRouters( void );
 
     bool writeBioNetSBGNML( void );
 

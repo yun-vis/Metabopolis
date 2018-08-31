@@ -220,7 +220,7 @@ void BioNetSBGNML::buildNodes( void )
                 TiXmlElement * glyph;
                 glyph = new TiXmlElement( "glyph" );
                 mapPtr->LinkEndChild( glyph );
-                glyph->SetAttribute( "id", "n"+toString( g[vd].id ) );
+                glyph->SetAttribute( "id", "s"+toString( g[vd].id ) );
                 glyph->SetAttribute( "class", "simple chemical" );
 
                 TiXmlElement * label;
@@ -278,7 +278,7 @@ void BioNetSBGNML::buildNodes( void )
             TiXmlElement * glyph;
             glyph = new TiXmlElement( "glyph" );
             mapPtr->LinkEndChild( glyph );
-            glyph->SetAttribute( "id", "n"+to_string( g[vd].id ) );
+            glyph->SetAttribute( "id", "s"+to_string( g[vd].id ) );
             //glyph->SetAttribute( "orientation", "vertical" );
             glyph->SetAttribute( "class", "phenotype" );
 
@@ -392,8 +392,8 @@ void BioNetSBGNML::buildEdges( void )
                     arc->SetAttribute( "class", "consumption" );
                 else
                     arc->SetAttribute( "class", "production" );
-                arc->SetAttribute( "source", "n"+toString( subg[i][vdMS].initID ));
-                arc->SetAttribute( "target", "n"+toString( subg[i][vdMT].initID ));
+                arc->SetAttribute( "source", "s"+toString( subg[i][vdMS].initID ));
+                arc->SetAttribute( "target", "s"+toString( subg[i][vdMT].initID ));
 /*
                 TiXmlElement *glyph;
                 glyph = new TiXmlElement( "glyph" );
@@ -470,8 +470,8 @@ void BioNetSBGNML::buildEdges( void )
                     arc->SetAttribute( "class", "production" );
                 else
                     arc->SetAttribute( "class", "consumption" );
-                arc->SetAttribute( "source", "n"+toString( subg[i][vdMT].initID ));
-                arc->SetAttribute( "target", "n"+toString( subg[i][vdMS].initID ));
+                arc->SetAttribute( "source", "s"+toString( subg[i][vdMT].initID ));
+                arc->SetAttribute( "target", "s"+toString( subg[i][vdMS].initID ));
 /*
                 TiXmlElement *glyph;
                 glyph = new TiXmlElement( "glyph" );
@@ -539,6 +539,246 @@ void BioNetSBGNML::buildEdges( void )
     }
 }
 
+void BioNetSBGNML::buildRouters( void )
+{
+    cerr << "building routers..." << endl;
+
+    MetaboliteGraph &g = _pathway->g();
+    map< string, Subdomain * > &sub = _pathway->subsys();
+    vector< UndirectedBaseGraph > &lsubg    = _pathway->lsubG();
+    vector< MetaboliteGraph >      &subg    = _pathway->subG();
+
+    // draw router
+    for( map< string, Subdomain * >:: iterator it = sub.begin(); it != sub.end(); it++ ){
+
+        Subdomain *domain = it->second;
+        unsigned int leafSize = domain->treeLeaves.size();
+        vector< TreeNode > &treeLeaves = domain->treeLeaves;
+        for ( unsigned int i = 0; i < leafSize; i++ ) {
+
+            map< unsigned int, Router > routerMap = treeLeaves[i].routerMap;
+            map< unsigned int, Router >::iterator itR = routerMap.begin();
+
+            for( ; itR != routerMap.end(); itR++ ){
+
+                // conjunction
+                //Coord2 * point = itR->second.routerCoordPtr;
+                Coord2 * point = itR->second.conjunctCoordPtr;
+                QFont font = QFont( "Arial", DEFAULT_FONT_SIZE, QFont::Bold, false );
+                MetaboliteGraph::vertex_descriptor vdS = vertex( itR->second.reactGID, g );
+                MetaboliteGraph::vertex_descriptor vdT = vertex( itR->second.metaGID, g );
+                double sw = *g[vdS].namePixelWidthPtr;
+                double sh = *g[vdS].namePixelHeightPtr;
+                double tw = *g[vdT].namePixelWidthPtr;
+                double th = *g[vdT].namePixelHeightPtr;
+
+                // create xml element
+                TiXmlElement * glyph;
+                glyph = new TiXmlElement( "glyph" );
+                mapPtr->LinkEndChild( glyph );
+                glyph->SetAttribute( "id", "d"+toString( it->second->id )+
+                                           "t"+toString( i )+
+                                           "r"+toString( itR->second.id ) );
+                glyph->SetAttribute( "class", "simple chemical" );
+
+                TiXmlElement * label;
+                label = new TiXmlElement( "label" );
+                glyph->LinkEndChild( label );
+                label->SetAttribute( "text", *g[vdT].namePtr );
+
+                TiXmlElement * clone;
+                clone = new TiXmlElement( "clone" );
+                glyph->LinkEndChild( clone );
+
+                TiXmlElement * bbox;
+                bbox = new TiXmlElement( "bbox" );
+                glyph->LinkEndChild( bbox );
+                bbox->SetAttribute( "x", toString( point->x()-0.5*tw ) );
+                bbox->SetAttribute( "y", toString( -point->y()-0.5*th ) );
+                bbox->SetAttribute( "w", toString( tw ) );
+                bbox->SetAttribute( "h", toString( th ) );
+
+                // arrow
+                Line2 &line = itR->second.line;
+                vector< Coord2 > &path = line.samples();
+                if( itR->second.isProduct == true && path.size() > 0 ){
+                    //if( itR->second.isProduct == true ){
+
+                    //cerr << "w = " << *g[ vdT ].namePixelWidthPtr << ", h = " << *g[ vdT ].namePixelHeightPtr << endl;
+                    // find the intersected point
+                    Coord2 startF, endF;
+                    double b = path[ path.size() -1 ].y() - (*g[ vdS ].namePixelHeightPtr);
+                    double r = path[ path.size() -1 ].x() + 0.5*(*g[ vdS ].namePixelWidthPtr);
+                    double t = path[ path.size() -1 ].y() + (*g[ vdS ].namePixelHeightPtr);
+                    double l = path[ path.size() -1 ].x() - 0.5*(*g[ vdS ].namePixelWidthPtr);
+
+                    for( unsigned int m = 1; m < path.size(); m++ ){
+                        Coord2 &source = path[ m ];
+                        Coord2 &target = path[ m-1 ];
+
+                        Coord2 pointBS, pointBT;
+                        for( unsigned int n = 0; n < 4; n++ ) {
+
+                            if( n == 0 ){  // b
+                                pointBS = Coord2( l, b );
+                                pointBT = Coord2( r, b );
+                            }
+                            if( n == 1 ){  // r
+                                pointBS = Coord2( r, b );
+                                pointBT = Coord2( r, t );
+                            }
+                            if( n == 2 ){  // t
+                                pointBS = Coord2( l, t );
+                                pointBT = Coord2( r, t );
+                            }
+                            if( n == 3 ){  // l
+                                pointBS = Coord2( l, b );
+                                pointBT = Coord2( l, t );
+                            }
+
+                            Coord2 cross;
+                            bool intersect = isIntersected( source, target, pointBS, pointBT, cross );
+                            if( intersect ){
+                                startF = cross;
+                                endF = target;
+                            }
+                        }
+                    }
+
+                    TiXmlElement * arc;
+                    arc = new TiXmlElement( "arc" );
+                    mapPtr->LinkEndChild( arc );
+                    string id = "s"+toString( g[vdS].id )+"-d"+toString( it->second->id )+"t"+toString( i )+"r"+toString( itR->second.id );
+
+                    arc->SetAttribute( "id", id );
+                    arc->SetAttribute( "class", "production" );
+                    arc->SetAttribute( "source", "s"+toString( g[vdS].id ) );
+                    arc->SetAttribute( "target", "d"+toString( it->second->id )+"t"+toString( i )+"r"+toString( itR->second.id ) );
+
+                    for( unsigned int j = 0; j < line.samples().size(); j++ ) {
+
+                        double x = line.samples()[j].x();
+                        double y = line.samples()[j].y();
+
+                        if( j == 0 ) {
+                            TiXmlElement * start;
+                            start = new TiXmlElement( "start" );
+                            arc->LinkEndChild( start );
+                            start->SetAttribute( "x", toString( x ) );
+                            start->SetAttribute( "y", toString( -y ) );
+                            //cerr << "start" << endl;
+                        }
+                        else if ( j == line.samples().size()-1 ){
+                            TiXmlElement * end;
+                            end = new TiXmlElement( "end" );
+                            arc->LinkEndChild( end );
+                            end->SetAttribute( "x", toString( x ) );
+                            end->SetAttribute( "y", toString( -y ) );
+                            //cerr << "end" << endl;
+                        }
+                        else{
+                            TiXmlElement * next;
+                            next = new TiXmlElement( "next" );
+                            arc->LinkEndChild( next );
+                            next->SetAttribute( "x", toString( x ) );
+                            next->SetAttribute( "y", toString( -y ) );
+                            //cerr << "next" << endl;
+                        }
+
+                    }
+                }
+
+                if( itR->second.isReactant == true && path.size() > 0 ){
+                    // if( itR->second.isReactant == true ){
+
+                    //cerr << "w = " << *g[ vdT ].namePixelWidthPtr << ", h = " << *g[ vdT ].namePixelHeightPtr << endl;
+                    // find the intersected point
+                    Coord2 startB, endB;
+                    double b = path[0].y() - (*g[ vdS ].namePixelHeightPtr);
+                    double r = path[0].x() + 0.5*(*g[ vdS ].namePixelWidthPtr);
+                    double t = path[0].y() + (*g[ vdS ].namePixelHeightPtr);
+                    double l = path[0].x() - 0.5*(*g[ vdS ].namePixelWidthPtr);
+
+                    for( unsigned int m = 1; m < path.size(); m++ ){
+                        Coord2 &source = path[ m ];
+                        Coord2 &target = path[ m-1 ];
+
+                        Coord2 pointBS, pointBT;
+                        for( unsigned int n = 0; n < 4; n++ ) {
+
+                            if( n == 0 ){  // b
+                                pointBS = Coord2( l, b );
+                                pointBT = Coord2( r, b );
+                            }
+                            if( n == 1 ){  // r
+                                pointBS = Coord2( r, b );
+                                pointBT = Coord2( r, t );
+                            }
+                            if( n == 2 ){  // t
+                                pointBS = Coord2( l, t );
+                                pointBT = Coord2( r, t );
+                            }
+                            if( n == 3 ){  // l
+                                pointBS = Coord2( l, b );
+                                pointBT = Coord2( l, t );
+                            }
+
+                            Coord2 cross;
+                            bool intersect = isIntersected( source, target, pointBS, pointBT, cross );
+                            if( intersect ){
+                                startB = cross;
+                                endB = source;
+                            }
+                        }
+                    }
+
+                    TiXmlElement * arc;
+                    arc = new TiXmlElement( "arc" );
+                    mapPtr->LinkEndChild( arc );
+                    string id = "d"+toString( it->second->id )+"t"+toString( i )+"r"+toString( itR->second.id )+"-s"+toString( g[vdS].id );
+
+                    arc->SetAttribute( "id", id );
+                    arc->SetAttribute( "class", "consumption" );
+                    arc->SetAttribute( "target", "s"+toString( g[vdS].id ) );
+                    arc->SetAttribute( "source", "d"+toString( it->second->id )+"t"+toString( i )+"r"+toString( itR->second.id ) );
+
+                    for( unsigned int j = 0; j < line.samples().size(); j++ ) {
+
+                        double x = line.samples()[j].x();
+                        double y = line.samples()[j].y();
+
+                        if( j == 0 ) {
+                            TiXmlElement * start;
+                            start = new TiXmlElement( "start" );
+                            arc->LinkEndChild( start );
+                            start->SetAttribute( "x", toString( x ) );
+                            start->SetAttribute( "y", toString( -y ) );
+                            //cerr << "start" << endl;
+                        }
+                        else if ( j == line.samples().size()-1 ){
+                            TiXmlElement * end;
+                            end = new TiXmlElement( "end" );
+                            arc->LinkEndChild( end );
+                            end->SetAttribute( "x", toString( x ) );
+                            end->SetAttribute( "y", toString( -y ) );
+                            //cerr << "end" << endl;
+                        }
+                        else{
+                            TiXmlElement * next;
+                            next = new TiXmlElement( "next" );
+                            arc->LinkEndChild( next );
+                            next->SetAttribute( "x", toString( x ) );
+                            next->SetAttribute( "y", toString( -y ) );
+                            //cerr << "next" << endl;
+                        }
+
+                    }
+                }
+            }
+        }
+    }
+}
+
 void BioNetSBGNML::buildSBGNML( void )
 {
     TiXmlDeclaration* decl = new TiXmlDeclaration( "1.0", "UTF-8", "yes" );
@@ -563,6 +803,7 @@ void BioNetSBGNML::buildSBGNML( void )
     buildTreemaps();
     buildNodes();
     buildEdges();
+    buildRouters();
 }
 
 bool BioNetSBGNML::writeBioNetSBGNML( void )

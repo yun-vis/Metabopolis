@@ -1188,7 +1188,6 @@ void GraphicsView::_item_router( void )
 
                 }
 
-                // cerr << "here" << endl;
                 // boundary
                 GraphicsRouterItem *itemptr = new GraphicsRouterItem;
                 itemptr->setFlag( QGraphicsItem::ItemIsSelectable );

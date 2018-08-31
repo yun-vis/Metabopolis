@@ -19,8 +19,6 @@ TBA.
 - [cgal][cgal]
 - [tinyxml][tinyxml]
 - [sbml][sbml]
-- [sbgnml][sbgnml]
-
 
 ### Metabopolis
 
@@ -89,7 +87,6 @@ The project leading to this submission has received funding from the European Un
 [boost]: https://www.boost.org/
 [cgal]: https://www.cgal.org/
 [sbml]: https://sbml.org/
-[sbgnml]: https://github.com/sbgn
 
 [rdcg]: https://www.cg.tuwien.ac.at/
 [tuwien]: https://www.tuwien.ac.at/
