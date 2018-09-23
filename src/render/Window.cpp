@@ -1066,6 +1066,7 @@ void Window::keyPressEvent( QKeyEvent *e )
     }
     case Qt::Key_E:
     {
+		_pathway->exportRelationGraph();
         _pathway->exportSubsysBoxInfo();
         break;
     }

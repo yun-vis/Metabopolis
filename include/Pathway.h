@@ -201,6 +201,7 @@ public:
 	void normalization( void );
 	void importSubsysBoxInfo( void );
 	void exportSubsysBoxInfo( void );
+	void exportRelationGraph( void );
 
 //------------------------------------------------------------------------------
 //      Find conflicts

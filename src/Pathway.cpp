@@ -3261,6 +3261,71 @@ void Pathway::importSubsysBoxInfo( void )
 }
 
 //
+//  Pathway::exportRelationGraph --    export RelationGraph
+//
+//  Inputs
+//  node
+//
+//  Outputs
+//  none
+//
+void Pathway::exportRelationGraph( void )
+{
+    TiXmlDocument *xmlPtr = new TiXmlDocument( "" );
+
+	// graphml
+	TiXmlElement *graphmlPtr = new TiXmlElement( "graphml" );
+	xmlPtr->LinkEndChild( graphmlPtr );
+
+	// graph
+	TiXmlElement *graphPtr = new TiXmlElement( "graph" );
+	graphmlPtr->LinkEndChild( graphPtr );
+
+	// vertices
+	cerr << "nV = " << num_vertices( _relation ) << " nE = " << num_edges( _relation );
+
+	for( map< string, Subdomain * >::iterator it = _sub.begin(); it != _sub.end(); ++it ){
+
+        // element
+        TiXmlElement *nodePtr = new TiXmlElement( "node" );
+        graphPtr->LinkEndChild( nodePtr );
+
+		// - id
+        nodePtr->SetAttribute( "id", "n"+to_string( it->second->id ) );
+		// - x
+        nodePtr->SetAttribute( "x", it->second->center.x() );
+		// - y
+        nodePtr->SetAttribute( "y", it->second->center.y() );
+		// - width
+        nodePtr->SetAttribute( "width", it->second->width );
+		// - height
+        nodePtr->SetAttribute( "height", it->second->height );
+		// - area
+        nodePtr->SetAttribute( "area", it->second->area );
+	}
+
+	// edges
+	BGL_FORALL_EDGES( ed, _dependGraph, DependGraph ){
+
+		DependGraph::vertex_descriptor vdS = source( ed, _dependGraph );
+		DependGraph::vertex_descriptor vdT = target( ed, _dependGraph );
+
+		// element
+		TiXmlElement *edgePtr = new TiXmlElement( "edge" );
+		graphPtr->LinkEndChild( edgePtr );
+
+		// - id
+		edgePtr->SetAttribute( "id", "e"+to_string( _dependGraph[ed].id ) );
+		// - source
+		edgePtr->SetAttribute( "source", "n"+to_string( _dependGraph[vdS].id ) );
+		// - target
+		edgePtr->SetAttribute( "target", "n"+to_string( _dependGraph[vdT].id ) );
+	}
+
+    xmlPtr->SaveFile( "../subsys/skeleton.txt" );
+}
+
+//
 //  Pathway::exportSubsysBoxInfo --    export sub-system box size info
 //
 //  Inputs
