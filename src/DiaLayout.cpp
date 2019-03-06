@@ -11,12 +11,54 @@ DiaLayout::DiaLayout( QWidget *parent ) :
     _current_dir = QDir::currentPath() + "/../";
     // cerr << "_currentPath = " << _current_dir.toStdString() << endl;
 
-    // initialization
+    // initializationDownload
+    //
+    //
+    //    Source
+    //
+    //    PDF
+    //
+    //Actions
+    //
+    //       Copy Project
+    //       Publish as Template
+    //       Word Count
+    //
+    //Sync
+    //
+    //       Dropbox
+    //
+    //       Git
+    //
+    //       GitHub
+    //
+    //Settings
+    //Compiler
+    //Main document
+    //Spell check
+    //Auto-complete
+    //Auto-close Brackets
+    //Code check
+    //Editor theme
+    //Overall theme
+    //Keybindings
+    //Font Size
+    //Font Family
+    //Line Height
+    //PDF Viewer
+    //Hotkeys
+    //
+    //       Show Hotkeys
+    //
+    //A Survey on Schematic Map Visualization: The Challenge to Interactivity
+    //
+    //Editor mode.
+    //8
 
     _input_dir = _current_dir+QString( "/xml/small/" );
     //_input_dir = _current_dir+QString( "/xml/A/" );
     //_input_dir = _current_dir+QString( "/xml/full/" );
-    //_input_dir = _current_dir+QString( "/xml/major/" ); // contest
+    //r_input_dir = _current_dir+QString( "/xml/major/" ); // contest
     //_input_dir = _current_dir+QString( "/xml/kegg/" );  // kegg
     //_input_dir = _current_dir+QString( "/xml/Ecoli_Palsson2011_iJO1366/" );   // filipa
     //_output_dir = _current_dir+QString( "/dot/" );

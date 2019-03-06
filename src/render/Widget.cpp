@@ -81,7 +81,7 @@ void Widget::_draw_road( void )
 
                 //glLineWidth( 2.0*totalW );
                 vector< double > rgb;
-                _pickColor( _colorScheme, (double)it->first, rgb );
+                _pathway->pickColor( _colorScheme, (double)it->first, rgb );
                 glColor4d( rgb[0]-0.1, rgb[1]-0.1, rgb[2]-0.1, 0.8 );
                 if( fabs( (pointS-pointT).x() ) > fabs( (pointS-pointT).y() ) ){
                     glBegin( GL_POLYGON );
@@ -317,7 +317,7 @@ void Widget::_draw_flow( bool active )
 
                         glLineWidth( 8.0 );
                         vector< double > rgb;
-                        _pickColor( _colorScheme, i, rgb );
+                        _pathway->pickColor( _colorScheme, i, rgb );
                         glColor4d( rgb[0], rgb[1], rgb[2], 0.8 );
 
                         //if( ( flowG[ vdS ].vertexType == TYPE_VERTEX_ROAD ) && ( flowG[ vdT ].vertexType == TYPE_VERTEX_ROAD ) ){
@@ -763,7 +763,7 @@ void Widget::_draw_domain( void )
         // cerr << " sub[ " << it->first << " ] = " << it->second.lb;
 
         vector< double > rgb;
-        _pickColor( _colorScheme, it->second->id, rgb );
+        _pathway->pickColor( _colorScheme, it->second->id, rgb );
         glColor4d( rgb[0], rgb[1], rgb[2], 0.8 );
 
         if( dependG[vd].computeType != TYPE_FREE ){

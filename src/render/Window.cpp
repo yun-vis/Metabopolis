@@ -1070,6 +1070,11 @@ void Window::keyPressEvent( QKeyEvent *e )
         _pathway->exportSubsysBoxInfo();
         break;
     }
+    case Qt::Key_Z:
+    {
+        _pathway->exportCytoscape();
+        break;
+    }
     case Qt::Key_Q:
     case Qt::Key_Escape:
         close();

@@ -37,6 +37,8 @@ using namespace std;
 #include "graph/RelationGraph.h"
 #include "graph/PropertyGraph.h"
 #include "boost/create_dual_graph.hpp"
+#include "Color.h"
+#include "Common.h"
 
 #define DUPL_THRESHOLD	(8)  // <-- Ecoli_Palsson2011_iJO1366
 //#define DUPL_THRESHOLD	(1000) // > 1
@@ -46,7 +48,7 @@ typedef pair< unsigned int, unsigned int >	IDPair;
 typedef pair< DependGraph::vertex_descriptor, DependGraph::vertex_descriptor >	VVDependGraphPair;
 typedef map< IDPair, VVDependGraphPair >	BBMap;
 
-class Pathway
+class Pathway: public Color
 {
 private:
 
@@ -114,6 +116,8 @@ protected:
 
     void clearPathway( void );
 
+    void _pickPredefinedColor( unsigned int id, vector< double > &rgb );
+
 public:
 
     Pathway();                      // default constructor
@@ -164,7 +168,9 @@ public:
 //  	Specific functions
 //------------------------------------------------------------------------------
 	void init( string pathIn, string pathOut, string fileFreq, string fileType );
-	void generate( void );
+    void pickColor( ColorScheme colorScheme, unsigned int id, vector< double > &rgb );
+
+    void generate( void );
 	void initSubdomain( void );
     void updateSubdomainMaxWH( void );
 	void loadPathway( void );
@@ -202,6 +208,7 @@ public:
 	void importSubsysBoxInfo( void );
 	void exportSubsysBoxInfo( void );
 	void exportRelationGraph( void );
+	void exportCytoscape( void );
 
 //------------------------------------------------------------------------------
 //      Find conflicts

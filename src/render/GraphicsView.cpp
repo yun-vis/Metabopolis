@@ -28,7 +28,7 @@ void GraphicsView::_item_domain( void )
     for( it = sub.begin(); it != sub.end(); it++ ){
 
         vector< double > rgb;
-        _pickColor( colorScheme, it->second->id, rgb );
+        _pathway->pickColor( colorScheme, it->second->id, rgb );
 
 #ifdef DEBUG
         cerr << "_colorScheme = " << _colorScheme << endl;
@@ -103,7 +103,7 @@ void GraphicsView::_item_treemap( void )
 
         // pick color
         vector< double > rgb;
-        _pickColor( _colorScheme, it->second->id, rgb );
+        _pathway->pickColor( _colorScheme, it->second->id, rgb );
 
         Coord2 *domainCenterdPtr = &it->second->center;
         double domainWidth = it->second->width;
@@ -169,7 +169,7 @@ void GraphicsView::_item_treemapname( void )
 
         // pick color
         vector< double > rgb;
-        _pickColor( _colorScheme, it->second->id, rgb );
+        _pathway->pickColor( _colorScheme, it->second->id, rgb );
 
         Coord2 *domainCenterdPtr = &it->second->center;
         double domainWidth = it->second->width;
@@ -1256,7 +1256,7 @@ void GraphicsView::_item_shortestpath( void )
 
             GraphicsFlowItem *itemptr = new GraphicsFlowItem;
             vector< double > rgb;
-            _pickColor( colorScheme, localpath.subID, rgb );
+            _pathway->pickColor( colorScheme, localpath.subID, rgb );
             itemptr->setPen( QPen( QColor( MAX2( 0, 255*rgb[0]-55 ), MAX2( 0, 255*rgb[1]-55 ),
                                            MAX2( 0, 255*rgb[2]-55 ), 255 ), mag ) );
             itemptr->setPath( painterpath );
@@ -1302,7 +1302,7 @@ void GraphicsView::_item_bundledpath( void )
 
             GraphicsFlowItem *itemptr = new GraphicsFlowItem;
             vector< double > rgb;
-            _pickColor( _colorScheme, flowpath.subsysID, rgb );
+            _pathway->pickColor( _colorScheme, flowpath.subsysID, rgb );
             if( flowpath.isSelected == true || flowpath.isNeighbor == true )
                 itemptr->setPen( QPen( QColor( MAX2( 0, 255*rgb[0]-55 ), MAX2( 0, 255*rgb[1]-55 ),
                                                MAX2( 0, 255*rgb[2]-55 ), 255 ), mag ) );
@@ -1399,7 +1399,7 @@ void GraphicsView::_item_extendedpath( void )
 
             GraphicsFlowItem *itemptr = new GraphicsFlowItem;
             vector< double > rgb;
-            _pickColor( _colorScheme, flowpath.subsysID, rgb );
+            _pathway->pickColor( _colorScheme, flowpath.subsysID, rgb );
             if( flowpath.isSelected == true || flowpath.isNeighbor == true )
                 itemptr->setPen( QPen( QColor( 255*rgb[0]-55, 255*rgb[1]-55, 255*rgb[2]-55, 255 ), mag ) );
             else
@@ -1459,7 +1459,7 @@ void GraphicsView::_item_name( void )
     for( it = sub.begin(); it != sub.end(); it++ ){
 
         vector< double > rgb;
-        _pickColor( _colorScheme, it->second->id, rgb );
+        _pathway->pickColor( _colorScheme, it->second->id, rgb );
 
         GraphicsNameItem *itemptr = new GraphicsNameItem;
         itemptr->setDID( it->second->id );
@@ -1531,7 +1531,7 @@ void GraphicsView::_item_globalball( void )
             GraphicsBallItem *itemptr = new GraphicsBallItem;
 
             vector< double > rgb;
-            _pickColor( _colorScheme, flowpath.subsysID, rgb );
+            _pathway->pickColor( _colorScheme, flowpath.subsysID, rgb );
             RoadGraph::vertex_descriptor vd = vertex( roadIDPath[ 0 ], roadG );
             itemptr->setRect( QRectF( roadG[ vd ].coordPtr->x(), -roadG[ vd ].coordPtr->y(), 30.0, 30.0 ) );
             itemptr->setBrush( QBrush( QColor( 255*rgb[0], 255*rgb[1], 255*rgb[2], 255 ), Qt::SolidPattern ) );
@@ -3430,7 +3430,7 @@ void GraphicsView::_item_localball( void )
             GraphicsBallItem *itemptr = new GraphicsBallItem;
 
             vector< double > rgb;
-            _pickColor( _colorScheme, localpath.subID, rgb );
+            _pathway->pickColor( _colorScheme, localpath.subID, rgb );
             RoadGraph::vertex_descriptor vd = vertex( roadIDPath[ 0 ], roadG );
             itemptr->setRect( QRectF( roadG[ vd ].coordPtr->x(), -roadG[ vd ].coordPtr->y(), 30.0, 30.0 ) );
             itemptr->setBrush( QBrush( QColor( 255*rgb[0]-55, 255*rgb[1]-55, 255*rgb[2]-55, 255 ), Qt::SolidPattern ) );
@@ -3642,7 +3642,7 @@ void GraphicsView::computeTextCenter( Subdomain *subptr, QImage &screenshot )
     int textW = 0, textH = 0;
 
     vector< double > rgb;
-    _pickColor( _colorScheme, subptr->id, rgb );
+    _pathway->pickColor( _colorScheme, subptr->id, rgb );
 
 #ifdef DEBUG
     if( it->second->id == 0 )

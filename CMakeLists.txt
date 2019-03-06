@@ -135,6 +135,7 @@ set(HEADERS
     include/Pathway.h
     include/PathwayData.h
     include/Rectangle2.h
+    include/Color.h
 )
 
 set(SOURCES
@@ -190,6 +191,7 @@ set(SOURCES
     src/Pathway.cpp
     src/PathwayData.cpp
     src/Rectangle2.cpp
+    src/Color.cpp
     src/main.cpp
     )
 

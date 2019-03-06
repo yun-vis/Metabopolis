@@ -219,7 +219,8 @@ bool Pathway::isCloneMetaType( MetaboliteGraph::vertex_descriptor metaVD )
 		isClone = false;
 	}
 
-	return isClone;
+    return false;
+	//return isClone;
 }
 
 //
@@ -3258,6 +3259,155 @@ void Pathway::importSubsysBoxInfo( void )
     }
 
     cerr << "Importing box size..." << endl;
+}
+
+//
+//  Pathway::exportCytpscape --    export cytpscape data
+//
+//  Inputs
+//  node
+//
+//  Outputs
+//  none
+//
+void Pathway::exportCytoscape( void )
+{
+	// export style
+	string stylename = "../gml/Cytoscape/styletmp.xml";
+	ofstream ofss( stylename.c_str() );
+	if ( !ofss ) {
+		cerr << "Cannot open the target file : " << stylename << endl;
+		return;
+	}
+
+	map< string, Subdomain * >::iterator it;
+	for( it = _sub.begin(); it != _sub.end(); it++ ){
+
+		vector< double > rgb;
+        pickColor( COLOR_BREWER, it->second->id, rgb );
+		//pickColor( COLOR_PREDEFINED, it->second->id, rgb );
+		QColor color( 255*rgb[0], 255*rgb[1], 255*rgb[2], 255 );
+        //cerr << "r = " << color.red() << " g = " << color.green() << " b = " << color.blue() << endl;
+		//cerr << "color = " << color.name().toStdString() << endl;
+		ofss << "<discreteMappingEntry attributeValue=\"" << it->second->id+1 << "\" value=\"" << color.name().toStdString() << "\"/>" << endl;
+	}
+
+	// export graph
+    string filename = "../gml/Cytoscape/metabopolis.graphml";
+
+	ofstream ofs( filename.c_str() );
+	if ( !ofs ) {
+		cerr << "Cannot open the target file : " << filename << endl;
+		return;
+	}
+
+	ofs << "<graphml xmlns=\"http://graphml.graphdrawing.org/xmlns\">" << endl;
+	ofs << "<graph edgedefault=\"directed\" id=\"Network\">" << endl;
+
+	// vertices
+	ofs << "<key attr.name=\"SUID\" attr.type=\"long\" for=\"node\" id=\"SUID\"/>" << endl;
+	ofs << "<key attr.name=\"shared name\" attr.type=\"string\" for=\"node\" id=\"shared name\"/>" << endl;
+	ofs << "<key attr.name=\"name\" attr.type=\"string\" for=\"node\" id=\"name\"/>" << endl;
+	ofs << "<key attr.name=\"colorID\" attr.type=\"string\" for=\"node\" id=\"colorID\"/>" << endl;
+	// edges
+    ofs << "<key attr.name=\"SUID\" attr.type=\"long\" for=\"edge\" id=\"SUID\"/>" << endl;
+
+	// vertices
+    BGL_FORALL_VERTICES( vd, _graph, MetaboliteGraph ) {
+
+		ofs << "<node id=\"" << (_graph[vd].id+1) << "\">" << endl;
+		ofs << "	" << "<data key=\"SUID\">" << (_graph[vd].id+1) << "</data>" << endl;
+		ofs << "	" << "<data key=\"shared name\">" << *_graph[vd].namePtr << "</data>" << endl;
+		ofs << "	" << "<data key=\"name\">" << *_graph[vd].namePtr << "</data>" << endl;
+		if( _graph[vd].type == "metabolite" ){
+
+		    BioNetMetabolite &meta = *_graph[vd].metaPtr;
+            map< string, Subdomain * >::iterator itS = meta.subsystems.begin();
+            vector< unsigned int > sysVec;
+            ofs << "	" << "<data key=\"colorID\">[";
+            for( ; itS != meta.subsystems.end(); itS++ ){
+
+                if( itS == meta.subsystems.begin() ){
+
+                    ofs << (itS->second->id+1);
+                }
+                else{
+
+                    ofs << ", " << (itS->second->id+1);
+                }
+            }
+			ofs << "]</data>" << endl;
+		}
+		else if( _graph[vd].type == "reaction" ){
+
+			BioNetReaction &react = *_graph[vd].reactPtr;
+			ofs << "	" << "<data key=\"colorID\">[" << (react.subsystem->id+1) << "]</data>" << endl;
+		}
+		ofs << "</node>" << endl;
+	}
+
+	// edges
+	BGL_FORALL_EDGES( ed, _graph, MetaboliteGraph ) {
+
+		MetaboliteGraph::vertex_descriptor vdS = source( ed, _graph );
+		MetaboliteGraph::vertex_descriptor vdT = target( ed, _graph );
+
+		ofs << "<edge source=\"" << (_graph[vdS].id+1) << "\" target=\"" << (_graph[vdT].id+1) << "\">" << endl;
+		ofs << "	" << "<data key=\"SUID\">" << (_graph[ed].id+1) << "</data>" << endl;
+		ofs << "</edge>" << endl;
+	}
+
+	ofs << "</graph>" << endl;
+	ofs << "</graphml>" << endl;
+}
+
+
+
+void Pathway::_pickPredefinedColor( unsigned int id, vector< double > &rgb )
+{
+    // initialization
+    rgb.resize( 3 );
+
+    map< string, Subdomain * >::iterator it = _sub.begin();
+    advance( it, id );
+
+    QColor color;
+    color.setNamedColor( QString::fromStdString( it->second->defaultColor ) );
+    rgb[ 0 ] = color.redF();
+    rgb[ 1 ] = color.greenF();
+    rgb[ 2 ] = color.blueF();
+    //cerr << "name = " << it->second->name << " r = " << rgb[ 0 ] << " g = " << rgb[ 1 ] << " b = " << rgb[ 2 ] << endl;
+}
+
+//
+//  Color::_pickColor --    pick a color
+//
+//  Inputs
+//  pathname: name of the main path
+//
+//  Outputs
+//  node
+//
+void Pathway::pickColor( ColorScheme colorScheme, unsigned int id, vector< double > &rgb )
+{
+    switch( colorScheme ){
+
+        case COLOR_PREDEFINED:
+            _pickPredefinedColor( id, rgb );
+            break;
+        case COLOR_MONOTONE:
+            _pickMonotoneColor( id, rgb );
+            break;
+        case COLOR_PASTEL:
+            _pickPastelColor( id, rgb );
+            break;
+        case COLOR_BREWER:
+            _pickBrewerColor( id, rgb );
+            break;
+        default:
+            cerr << "sth is wrong here... at " << __LINE__ << " in " << __FILE__ << endl;
+            break;
+    }
 }
 
 //

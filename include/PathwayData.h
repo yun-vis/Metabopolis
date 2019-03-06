@@ -21,7 +21,6 @@
 #include "hola/Hola.h"
 #include "Pathway.h"
 
-
 class PathwayData
 {
 protected:
@@ -32,13 +31,6 @@ protected:
 	double              _contentHeight;
 	double				_scaleWidth;
 	double				_scaleHeight;
-
-
-    void _pickColor( ColorScheme colorScheme, unsigned int id, vector< double > &rgb );
-	void _pickPredefinedColor( unsigned int id, vector< double > &rgb );
-	void _pickMonotoneColor( unsigned int id, vector< double > &rgb );
-	void _pickPastelColor( unsigned int id, vector< double > &rgb );
-	void _pickBrewerColor( unsigned int id, vector< double > &rgb );
 
 public:
 
