@@ -6,6 +6,8 @@ Metabopolis is a new layout algorithm for biological pathways, which has been de
 ## How to cite?
 
 Hsiang-Yun Wu, Martin Nöllenburg, Filipa L. Sousa, and Ivan Viola, Metabopolis: Scalable Network Layout for Biological Pathway Diagrams in Urban Map Style, BMC Bioinformatics, Vol. 20, No. 1, p. 187, 2019.
+Paper: https://doi.org/10.1016/j.visinf.2018.12.006
+Video: https://www.youtube.com/watch?v=AhWCIGTxqAg
 
 ## Installing
 
