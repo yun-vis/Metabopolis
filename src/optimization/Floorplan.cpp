@@ -211,8 +211,8 @@ void Floorplan::_EqBBOverlap( unsigned int & rowNo, IloRangeArray & range,
     unsigned int                    nSubsys     = _pathway->nSubsys();
 	map< string, Subdomain * >::iterator itA    = sub.begin();
 	map< string, Subdomain * >::iterator itB    = sub.begin();
-	advance( itA, idA );
-	advance( itB, idB );
+	std::advance( itA, idA );
+	std::advance( itB, idB );
     double maxW = _pathway->maxW();
     double maxH = _pathway->maxH();
     double M = nSubsys * MAX2( maxW + maxH, DEFAULT_WIDTH );
@@ -317,7 +317,7 @@ void Floorplan::_EqBBOverlapCondition( unsigned int & rowNo, IloRangeArray & ran
     if( isFar == true ) BBconflict   = _farBBconflict;
 
     BBMap::iterator it = BBconflict.begin();
-    advance( it, id );
+    std::advance( it, id );
 
     ostringstream       ostr;
     IloNumVarArray      idx( _env, 4 );
@@ -371,7 +371,7 @@ void Floorplan::_EqOnPath( unsigned int & rowNo, IloRangeArray & range,
 
         DependGraph::edge_iterator ei, ei_end, e_next;
         tie( ei, ei_end ) = edges( dependG );
-        advance( ei, eID );
+	std::advance( ei, eID );
 
         DependGraph::edge_descriptor ed = *ei;
         DependGraph::vertex_descriptor vdS = source( ed, dependG );
@@ -520,7 +520,7 @@ void Floorplan::_EqOnPathCondition( unsigned int & rowNo, IloRangeArray & range,
 
     DependGraph::edge_iterator ei, ei_end, e_next;
     tie( ei, ei_end ) = edges( dependG );
-    advance( ei, eID );
+    std::advance( ei, eID );
 
     ComputeType typeA = dependG[ source( *ei, dependG ) ].computeType;
     ComputeType typeB = dependG[ target( *ei, dependG ) ].computeType;
@@ -567,7 +567,7 @@ void Floorplan::_EqDisableTriangleSide( unsigned int & rowNo, IloRangeArray & ra
 {
     DependGraph &			 dependG	    = _pathway->dependG();
     map < pair< unsigned int, IDPair >, CSpaceSidePair >::iterator it = _triangleFaces.begin();
-    advance( it, id );
+    std::advance( it, id );
     unsigned int idC = it->first.first,
                  idA = it->first.second.first,
                  idB = it->first.second.second;
@@ -1049,7 +1049,7 @@ void Floorplan::_EqBound( unsigned int & rowNo, IloRangeArray & range,
 
 	map< string, Subdomain * > &	sub		= _pathway->subsys();
 	map< string, Subdomain * >::iterator it = sub.begin();
-	advance( it, id );
+	std::advance( it, id );
 
 	// ux
     ostr.str("");
@@ -1394,8 +1394,8 @@ void Floorplan::_EqBCOverlap( unsigned int & rowNo, IloRangeArray & range,
     map< string, Subdomain * > &	sub		= _pathway->subsys();
     map< string, Subdomain *>::iterator itA = sub.begin();       // fixed or compute
     map< string, Subdomain * >::iterator itB = sub.begin();       // dummy
-    advance( itA, idA );
-    advance( itB, idB );
+    std::advance( itA, idA );
+    std::advance( itB, idB );
     double maxW = _pathway->maxW();
     double maxH = _pathway->maxH();
     //double M = maxW + maxH;
@@ -2993,7 +2993,7 @@ void Floorplan::_setFloorplanVars      ( IloNumVarArray & vari, IloNumArray & co
     for ( unsigned int i = 0; i < pVDMap.size(); i++ ) {
 
         map< DependGraph::vertex_descriptor, unsigned int >::iterator itP = pVDMap.begin();
-        advance( itP, i );
+	std::advance( itP, i );
         DependGraph::vertex_descriptor vd = itP->first;
 
         int secID = 0;
@@ -3598,7 +3598,7 @@ void Floorplan::setSubsysCoord( void )
         //double iy = ( _solution[ _idY( i ) ] - _solution[ _idLY() ] ) * expansion;
 
 		map< string, Subdomain * >::iterator it = sub.begin();
-		advance( it, i );
+		std::advance( it, i );
 
         it->second->width *= expansion;
 		it->second->height *= expansion;
@@ -3635,7 +3635,7 @@ void Floorplan::setSubsysCoord( void )
 
         unsigned int id = dependG[ vd ].id;
         map< string, Subdomain * >::iterator it = sub.begin();
-        advance( it, id );
+	std::advance( it, id );
 
         dependG[ vd ].coordPtr 	= &it->second->center;
         dependG[ vd ].widthPtr	= &it->second->width;

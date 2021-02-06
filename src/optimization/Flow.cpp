@@ -1564,7 +1564,7 @@ void Flow::buildConjunction( void )
                     cerr << "subID = 8, i = " << i << " treeLeaves[i].coordPtr = " << *treeLeaves[i].coordPtr
                          << " w = " << *treeLeaves[i].widthPtr << " h = " << *treeLeaves[i].heightPtr << endl;
                     map< string, Subdomain *>:: iterator it = sub.begin();
-                    advance( it, 9 );
+		    std::advance( it, 9 );
                     cerr << "domain w = " << it->second->width << " h = " << it->second->height << endl;
 
                     cerr << " V = ";
@@ -3468,7 +3468,7 @@ void Flow::shortestPathsInSubsystems( LocalShortestPath &path, unsigned int &idS
     Coord2 *coordPtrS = graph[ vdS ].coordPtr;
     Coord2 *coordPtrT = graph[ vdT ].coordPtr;
     map< string, Subdomain * >::iterator it = sub.begin();
-    advance( it, path.subID );
+    std::advance( it, path.subID );
     vector< TreeNode > &treeLeaves = it->second->treeLeaves;
     // cerr << "coordS = " << *coordPtrS << " coordT = " << *coordPtrT << endl;
 

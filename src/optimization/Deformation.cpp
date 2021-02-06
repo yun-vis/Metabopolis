@@ -489,9 +489,9 @@ void Deformation::_EqRelativePosition( unsigned int & rowNo, IloRangeArray & ran
     IloNumArray         val( _env, 8 );
 
     map< string, Subdomain * >::iterator itS = sub.begin();
-    advance( itS, idS );
+    std::advance( itS, idS );
     map< string, Subdomain * >::iterator itT = sub.begin();
-    advance( itT, idT );
+    std::advance( itT, idT );
 
     for( int i = 0; i < 2; i++ ) {
 
@@ -593,9 +593,9 @@ void Deformation::_EqAttachPosition( unsigned int & rowNo, IloRangeArray & range
     DependGraph::vertex_descriptor vdS = source( ed, _relativeG );
     DependGraph::vertex_descriptor vdT = target( ed, _relativeG );
     map< string, Subdomain * >::iterator itS = sub.begin();
-    advance( itS, _relativeG[ vdS ].id );
+    std::advance( itS, _relativeG[ vdS ].id );
     map< string, Subdomain * >::iterator itT = sub.begin();
-    advance( itT, _relativeG[ vdT ].id );
+    std::advance( itT, _relativeG[ vdT ].id );
     Coord2 &coordS = itS->second->center;
     double sw = itS->second->width;
     double sh = itS->second->height;
@@ -1110,7 +1110,7 @@ void Deformation::_EqBound( unsigned int & rowNo, IloRangeArray & range,
 
 	map< string, Subdomain * > &	sub		= _pathway->subsys();
 	map< string, Subdomain * >::iterator it = sub.begin();
-	advance( it, id );
+	std::advance( it, id );
 
 	// ux: right
     ostr.str("");
@@ -2197,7 +2197,7 @@ void Deformation::setBoxSizes( void )
 #endif  // DEBUG
 
     		map< string, Subdomain * >::iterator it = sub.begin();
-	    	advance( it, i );
+		std::advance( it, i );
 
             it->second->width = br - bl;
             it->second->height = bt - bb;
@@ -2221,7 +2221,7 @@ void Deformation::setBoxSizes( void )
 
         unsigned int id = dependG[ vd ].id;
         map< string, Subdomain * >::iterator it = sub.begin();
-        advance( it, id );
+	std::advance( it, id );
 
         dependG[ vd ].coordPtr 	= &it->second->center;
         dependG[ vd ].widthPtr	= &it->second->width;

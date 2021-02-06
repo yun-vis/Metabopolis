@@ -94,7 +94,7 @@ void TreeMap::_buildHierarchy( void )
     map< string, Subdomain * >::iterator    it      = sub.begin();
 
 
-    advance( it, _subsysID );
+    std::advance( it, _subsysID );
     // create leaf vertices
     for( unsigned int i = 0; i < _comIDVec.size(); i++ ){
 

@@ -1028,7 +1028,7 @@ void Widget::_draw_glyph( void )
                 maxID = i;
             }
         }
-        advance( itC, maxID );
+	std::advance( itC, maxID );
         newAngle = itC->first + angleDiff[ maxID ]/2.0;
         if( newAngle > M_PI ) newAngle -= 2.0*M_PI;
         //cerr << "maxID = " << maxID << endl;
@@ -1036,7 +1036,7 @@ void Widget::_draw_glyph( void )
 
         // add new edge to the map
         map< double, pair< int, double > >::iterator itI = idMap.begin();
-        advance( itI, MAX2( maxID-1, 0 ) );
+	std::advance( itI, MAX2( maxID-1, 0 ) );
         idMap.insert( itI, pair< double, pair< int, double > >( newAngle, pair< int, double >( -1, edgeW[ dependG[ vd ].id ][ edgeW[ dependG[ vd ].id ].size()-1 ] ) ) );
 
 #ifdef  DEBUG
@@ -1532,7 +1532,7 @@ int Widget::updateContentbyNormalization( double borderW )
 
         // find the treenode, index is treenodeID
         map< string, Subdomain * >::iterator it = sub.begin();
-        advance( it, i );
+	std::advance( it, i );
         vector< TreeNode > &treeLeaves = it->second->treeLeaves;
 
         for( unsigned int j = 0; j < treeLeaves.size(); j++ ){

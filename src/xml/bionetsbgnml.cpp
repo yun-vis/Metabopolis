@@ -352,7 +352,7 @@ void BioNetSBGNML::buildEdges( void )
 
             // find corresponding treenode object
             map< string, Subdomain * >::iterator it = sub.begin();
-            advance( it, i );
+	    std::advance( it, i );
             vector< TreeNode > &treeLeaves = it->second->treeLeaves;
             TreeNode &treeNode = treeLeaves[ *lsubg[i][ vdS ].treenodeIDPtr ];
 

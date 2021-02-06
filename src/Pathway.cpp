@@ -1426,7 +1426,7 @@ void Pathway::normalization( void )
 			minY = (_dependGraph)[ vd ].coordPtr->y()-scale**(_dependGraph)[ vd ].heightPtr/2.0;
 
 		map< string, Subdomain * >::iterator it = _sub.begin();
-		advance( it, _dependGraph[ vd ].id );
+		std::advance( it, _dependGraph[ vd ].id );
 		double subArea = it->second->area;
 		*_dependGraph[ vd ].widthPtr 	= sqrt( subArea );
 		*_dependGraph[ vd ].heightPtr 	= sqrt( subArea );
@@ -1451,7 +1451,7 @@ void Pathway::normalization( void )
 	BGL_FORALL_VERTICES( vd, _dependGraph, DependGraph ){
 
         map< string, Subdomain * >::iterator it = _sub.begin();
-        advance( it, _dependGraph[ vd ].id );
+	std::advance( it, _dependGraph[ vd ].id );
         double subArea = totalArea * (double)it->second->reactNum / totalNum * mag;
 
             //cerr << " Before " << vertexCoord[ vd ] << endl;
@@ -2802,7 +2802,7 @@ void Pathway::resetDomainSizes( void )
 		if( _dependGraph[ vd ].computeType != TYPE_FIXED ){
 		//if( _dependGraph[ vd ].computeType != TYPE_FIXED && _dependGraph[ vd ].computeType != TYPE_OSCILLATED ){
 			map< string, Subdomain * >::iterator it = _sub.begin();
-			advance( it, _dependGraph[ vd ].id );
+			std::advance( it, _dependGraph[ vd ].id );
 			it->second->width = it->second->height = _dependGraph[ vd ].width = _dependGraph[ vd ].height = sqrt( _dependGraph[ vd ].area );
 		}
 	}
@@ -2811,7 +2811,7 @@ void Pathway::resetDomainSizes( void )
 
 		if( _dependGraph[ vd ].computeType != TYPE_FIXED ) {
 			map< string, Subdomain * >::iterator it = _sub.begin();
-			advance( it, _dependGraph[ vd ].id );
+			std::advance( it, _dependGraph[ vd ].id );
 			//_dependGraph[ vd ].width = MAX2( _dependGraph[ vd ].width, _dependGraph[ vd ].childWidth );
 			//_dependGraph[ vd ].height = MAX2( _dependGraph[ vd ].height, _dependGraph[ vd ].childHeight );
 			it->second->width = _dependGraph[ vd ].width;
@@ -3369,7 +3369,7 @@ void Pathway::_pickPredefinedColor( unsigned int id, vector< double > &rgb )
     rgb.resize( 3 );
 
     map< string, Subdomain * >::iterator it = _sub.begin();
-    advance( it, id );
+    std::advance( it, id );
 
     QColor color;
     color.setNamedColor( QString::fromStdString( it->second->defaultColor ) );

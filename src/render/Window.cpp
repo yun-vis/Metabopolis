@@ -824,7 +824,7 @@ void Window::keyPressEvent( QKeyEvent *e )
 
 				map< string, Subdomain * > &sub = _pathway->subsys();
 				map< string, Subdomain * >::iterator iter = sub.begin();
-				advance( iter, i );
+				std::advance( iter, i );
 				double width = iter->second->width;
 				double height = iter->second->height;
 

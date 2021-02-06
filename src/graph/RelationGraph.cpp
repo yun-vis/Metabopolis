@@ -701,7 +701,7 @@ void computeChildWidthHeight( DependGraph & graph, unsigned int nZoneDiff, map< 
 
                 cerr << "zone " << i << " id = " << graph[vd].id << " graph[vd].width = " << *graph[vd].widthPtr << endl;
                 map< string, Subdomain *>::iterator it = sub.begin();
-                advance( it, graph[vd].id );
+		std::advance( it, graph[vd].id );
                 //it->second->width = graph[vd].widthPtr;
                 //it->second->height = graph[vd].heightPtr;
                 //graph[vd]->width = MAX2( graph[vd].width, maxWH );

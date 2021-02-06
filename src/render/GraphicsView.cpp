@@ -444,7 +444,7 @@ void GraphicsView::_item_edges( void )
             // cerr << "id = " << *lsubg[i][ vdS ].treenodeIDPtr << endl;
             // find corresponding treenode object
             map< string, Subdomain * >::iterator it = sub.begin();
-            advance( it, i );
+	    std::advance( it, i );
             vector< TreeNode > &treeLeaves = it->second->treeLeaves;
             TreeNode &treeNode = treeLeaves[ *lsubg[i][ vdS ].treenodeIDPtr ];
 
@@ -587,7 +587,7 @@ void GraphicsView::_item_edges( void )
 #ifdef DEBUG
                 if( isIntersectExisted == false ) {
                     map<string, Subdomain *>::iterator it = sub.begin();
-                    advance(it, i);
+		    std::advance(it, i);
                     itemFptr->setPen(QPen(QColor(255, 0, 0, 255), 5));
                     itemFptr->setTextName(QString::fromStdString(it->second->name + "(" + to_string(i)
                                                                  + ")(" + to_string( *lsubg[i][ vdS ].treenodeIDPtr ) + ")" ));
@@ -665,7 +665,7 @@ void GraphicsView::_item_edges( void )
 #ifdef DEBUG
                 if( isIntersectExisted == false ) {
                     map<string, Subdomain *>::iterator it = sub.begin();
-                    advance(it, i);
+		    std::advance(it, i);
                     itemBptr->setPen(QPen(QColor(255, 0, 0, 255), 5));
                     itemBptr->setTextName(QString::fromStdString(it->second->name + "(" + to_string(i)
                                                                  + ")(" + to_string( *lsubg[i][ vdS ].treenodeIDPtr ) + ")" ));
@@ -1830,7 +1830,7 @@ void GraphicsView::_item_glucose( void ) // vis
         {
             map< string, Subdomain * > &sub = _pathway->subsys();
             map< string, Subdomain * >:: iterator it = sub.begin();
-            advance( it, 5 );
+	    std::advance( it, 5 );
 
             Subdomain *domain = it->second;
             unsigned int leafSize = domain->treeLeaves.size();
@@ -3192,7 +3192,7 @@ void GraphicsView::_item_target( void )
         {
             map< string, Subdomain * > &sub = _pathway->subsys();
             map< string, Subdomain * >:: iterator it = sub.begin();
-            advance( it, 5 );
+	    std::advance( it, 5 );
 
             Subdomain *domain = it->second;
             unsigned int leafSize = domain->treeLeaves.size();
@@ -3959,7 +3959,7 @@ void GraphicsView::_updateNameItems( void )
     for( unsigned int i = 0; i < _nameItemVec.size(); i++ ){
 
         map< string, Subdomain * >::iterator it = sub.begin();
-        advance( it, i );
+	std::advance( it, i );
 
         Coord2 textCenter = it->second->center;
         qreal w = it->second->width;

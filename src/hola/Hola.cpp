@@ -159,7 +159,7 @@ void Hola::_createTreemap( unsigned int subID, vector< int > &component, vector<
 #endif // DEBUG
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
 
     component.resize( num_vertices( lsubg[ subID ] ) );
@@ -253,7 +253,7 @@ void Hola::_exportGML( unsigned int subID, vector< int > &component, vector< vec
     //string outputpath = "../gml/output/";
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
     unsigned int num = idVec.size();
     string sysname = iter->second->name;
@@ -554,7 +554,7 @@ void Hola::_holaCommand( unsigned int subID, vector< vector< int > > &idVec )
     map< string, Subdomain * > &sub = _pathway->subsys();
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
     string sysname = iter->second->name;
     string filename = sysname;
@@ -602,7 +602,7 @@ void Hola::_importGML( unsigned int subID, vector< vector< int > > &idVec )
     //string inpath = "../gml/input/";
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
     string filename = iter->second->name;
 
 #ifdef DEBUG
@@ -1036,7 +1036,7 @@ void Hola::_exportGraphML( unsigned int subID, vector< int > &component, vector<
     //string outputpath = "../gml/GraphML_output/";
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
     unsigned int num = idVec.size();
     string sysname = iter->second->name;
@@ -1096,7 +1096,7 @@ void Hola::_yfilesCommand( unsigned int subID, vector< vector< int > > &idVec )
     map< string, Subdomain * > &sub = _pathway->subsys();
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
     string sysname = iter->second->name;
 
@@ -1132,7 +1132,7 @@ void Hola::_importGraphML( unsigned int subID, vector< vector< int > > & idVec )
     map< string, Subdomain * > &sub = _pathway->subsys();
 
     map<string, Subdomain * >::iterator iter = sub.begin();
-    advance( iter, subID );
+    std::advance( iter, subID );
 
     string filename = iter->second->name;
 
@@ -1330,7 +1330,7 @@ void Hola::_normalization( int subID, int index,
 
     // find the treenode, index is treenodeID
     map< string, Subdomain * >::iterator it = sub.begin();
-    advance( it, subID );
+    std::advance( it, subID );
     TreeNode    &treeNode = it->second->treeLeaves[ index ];
     Coord2 &center = *treeNode.coordPtr;
     double treeNodeW = *it->second->treeLeaves[ index ].widthPtr;
