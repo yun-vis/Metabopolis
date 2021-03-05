@@ -19,27 +19,11 @@ using namespace std;
 #include "GraphicsBase.h"
 //#endif // Q_MOC_RUN
 
-#define QT5
-#ifdef QT5
-    #include <QtWidgets/QGraphicsScene>
-    #include <QtWidgets/QGraphicsItem>
-	#include <QtGui/QPainter>
-	#include <QtCore/QString>
-    #include <QtWidgets/QGraphicsSceneMouseEvent>
-#elif QT4
-    #include <QtOpenGL/QGLWidget>
-    #include <QtGui/QGraphicsScene>
-    #include <QtGui/QGraphicsView>
-    #include <QtGui/QGraphicsItem>
-    #include <QtGui/QPainterPath>
-    #include <QtGui/QMouseEvent>
-    #include <QtGui/QRubberBand>
-    #include <QtGui/QToolTip>
-    #include <QtGui/QGraphicsSceneDragDropEvent>
-    #include <QtCore/QDebug>
-    #include <QtCore/QMetaType>
-    #include <QtGui/QApplication>
-#endif  // QT4
+#include <QtWidgets/QGraphicsScene>
+#include <QtWidgets/QGraphicsItem>
+#include <QtGui/QPainter>
+#include <QtCore/QString>
+#include <QtWidgets/QGraphicsSceneMouseEvent>
 
 //------------------------------------------------------------------------------
 //	Macro definitions

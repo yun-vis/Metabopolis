@@ -5,17 +5,20 @@
 
 using namespace std;
 
+// add tp avoid apple clang 11.0.0 parser bug
+#define CGAL_DO_NOT_USE_BOOST_MP
 #include <CGAL/basic.h>
-#include <CGAL/minkowski_sum_2.h>
-#include <CGAL/Exact_predicates_exact_constructions_kernel.h>
-#include <CGAL/Boolean_set_operations_2.h>
+#include <CGAL/Exact_predicates_inexact_constructions_kernel.h>
+#include <CGAL/Polygon_2.h>
+#include <CGAL/Polygon_with_holes_2.h>
 
-typedef CGAL::Exact_predicates_exact_constructions_kernel Kernel;
+typedef CGAL::Exact_predicates_inexact_constructions_kernel Kernel;
 typedef Kernel::Point_2                            Point_2;
 typedef CGAL::Polygon_2<Kernel>                    Polygon_2;
-typedef Polygon_2::Vertex_iterator                 Vertex_iterator;
 typedef CGAL::Polygon_with_holes_2<Kernel>         Polygon_with_holes_2;
-typedef std::list<Polygon_with_holes_2>            Pgn_with_holes_2_container;
+typedef Polygon_2::Vertex_iterator                 Vertex_iterator;
+
+
 
 #include "Coord2.h"
 

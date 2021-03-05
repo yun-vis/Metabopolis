@@ -3,6 +3,7 @@
 
 #include <iostream>
 
+#include <QtWidgets/QWidget>
 #include <QtWidgets/QOpenGLWidget>
 #include <QtGui/QPainter>
 #include <QtCore/QBasicTimer>
@@ -14,7 +15,7 @@ using namespace std;
 #include "DiaLayout.h"
 #endif // Q_MOC_RUN
 
-class Widget : public QOpenGLWidget, public PathwayData
+class Widget : public QWidget, public PathwayData
 {
     Q_OBJECT
 
@@ -36,29 +37,29 @@ protected:
 	int					_display_mode;		// switching different flow representation through keyboard
 	bool				_global_mode;		// switching color scheme for global or local flow representation
 
-    void initializeGL( void );
-
-	void _draw_domain( void );
-	void _draw_core( void );
-    void _draw_graph( void );
-	void _draw_subgraph( void );
-	void _draw_dependgraph( void );
-	void _draw_cspace( void );
-	void _draw_relation( void );
-	void _draw_dummy( void );
-	void _draw_msg( void );
-	void _draw_glyph( void );
-	void _draw_flow( bool active );
-	void _draw_localflow( void );
-	void _draw_road( void );
-	void _draw_router( void );
-	void _draw_roadbond( void );
-	void _draw_tree( void );
-    void _draw_name( void );
+//    void initializeGL( void );
+//
+//	void _draw_domain( void );
+//	void _draw_core( void );
+//    void _draw_graph( void );
+//	void _draw_subgraph( void );
+//	void _draw_dependgraph( void );
+//	void _draw_cspace( void );
+//	void _draw_relation( void );
+//	void _draw_dummy( void );
+//	void _draw_msg( void );
+//	void _draw_glyph( void );
+//	void _draw_flow( bool active );
+//	void _draw_localflow( void );
+//	void _draw_road( void );
+//	void _draw_router( void );
+//	void _draw_roadbond( void );
+//	void _draw_tree( void );
+//    void _draw_name( void );
 
 public:
-    explicit Widget( QWidget *parent = 0 );
-    ~Widget();
+    explicit Widget( QWidget *parent = Q_NULLPTR );
+    ~Widget() {}
 
 //------------------------------------------------------------------------------
 //      Reference to members

@@ -1,3 +1,7 @@
+
+#include <CGAL/minkowski_sum_2.h>
+#include <CGAL/Boolean_set_operations_2.h>
+
 #include "../include/ConfigSpace.h"
 
 ConfigSpace::ConfigSpace( void )
