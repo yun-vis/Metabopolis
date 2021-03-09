@@ -3573,6 +3573,423 @@ void GraphicsView::initSceneItems ( void )
     cerr << "_scene.size = " << _scene->items().size() << endl;
 }
 
+void GraphicsView::exportSVGLevel0( double cx, double cy, double cw, double ch, unsigned int & index )
+{
+	QString currentPath = qApp->applicationDirPath();
+	QString folderPath = currentPath + QString( "/../data/level0/" );
+	string filename = folderPath.toStdString() + "00000.svg";
+	if( !QDir( folderPath ).exists() ){
+		QDir().mkdir( folderPath );
+		cerr << "create the data folder!" << endl;
+	}
+	
+	map< string, Subdomain * > &sub = _pathway->subsys();
+	DependGraph & dependG           = _pathway->dependG();
+	
+	double routingArea = _dialog->diaLayout->horizontalSlider_BoulevardWidth->value();
+	ColorScheme colorScheme = _dialog->colorScheme();
+	
+	ofstream            ofs( filename );
+	
+	if ( !ofs ) {
+		cerr << "Cannot open the target file : " << filename << endl;
+		return;
+	}
+	
+	// metadata
+	ofs << "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>" << endl;
+	ofs << "<svg\n"
+	       "   width=\"" << to_string(cw) << "\"\n"
+           "   height=\"" << to_string(ch) << "\"\n"
+           "   viewBox=\"" << to_string(0) << " " << to_string(0) << " " << to_string(cw) << " " << to_string(ch) << "\"\n"
+// 	       "   viewBox=\"" << to_string(-width()) << " " << to_string(-height()) << " " << to_string(width()) << " " << to_string(height()) << "\"\n"
+           "   version=\"1.2\"\n"
+           "   id=\"svg2\">" << endl;
+	
+	// create subsystem object and add it to the scene
+	map< string, Subdomain * >::iterator it;
+	for( it = sub.begin(); it != sub.end(); it++ ){
+		
+		vector< double > rgb;
+		_pathway->pickColor( colorScheme, it->second->id, rgb );
+		
+		DependGraph::vertex_descriptor vd = vertex( it->second->id, dependG );
+		
+		// boundary
+		double w = it->second->width-routingArea,
+				h = it->second->height-routingArea;
+		if( w <= 0.0 ) w = it->second->width;
+		if( h <= 0.0 ) h = it->second->height;
+		double x = it->second->center.x() - 0.5*w +0.5*cw,
+				y = it->second->center.y() + 0.5*h -0.5*ch;
+		
+		QString hexR = QString("%1").arg((int)(255.0 * rgb[0]), 2, 16, QLatin1Char( '0' ));
+		QString hexG = QString("%1").arg((int)(255.0 * rgb[1]), 2, 16, QLatin1Char( '0' ));
+		QString hexB = QString("%1").arg((int)(255.0 * rgb[2]), 2, 16, QLatin1Char( '0' ));
+		
+#ifdef DEBUG
+		cerr << "ww = " << width() << ", wh = " << height() << endl;
+		cerr << "r = " << hexR.toStdString() << endl;
+		cerr << "g = " << hexG.toStdString() << endl;
+		cerr << "b = " << hexB.toStdString() << endl;
+		cerr << "x = " << x << endl
+		     << "y = " << y << endl
+		     << "w = " << w << endl
+		     << "h = " << h << endl << endl;
+#endif // DEBUG
+		
+		stringstream ss;
+		ss << "obj" << setw(5) << setfill('0') << index;
+		
+		ofs << "  <rect\n"
+		       "     x=\"" << to_string(x) << "\"\n"
+               "     y=\"" << to_string(-y) << "\"\n"
+	           "     width=\"" << to_string(w) << "\"\n"
+               "     height=\"" << to_string(h) << "\"\n"
+               "     rx=\"" << to_string(15) << "\"\n"
+               "     id=\"" << ss.str() << "\"\n"
+		       "     style=\"fill:#" << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
+		    << ";fill-opacity:0.4;stroke:#000000;stroke-width:0\" />"
+		    << endl;
+		index++;
+	}
+	
+	ofs << "</svg>" << endl;
+	ofs.close();
+}
+
+void GraphicsView::exportSVGLevel1( double cx, double cy, double cw, double ch,
+									unsigned int & index, vector< unsigned int > & treemapIDVec )
+{
+	// initialization
+	map< string, Subdomain * > &sub = _pathway->subsys();
+	DependGraph & dependG           = _pathway->dependG();
+	double boulevardRoutingArea = _dialog->diaLayout->horizontalSlider_BoulevardWidth->value();
+	double laneRoutingArea = _dialog->diaLayout->horizontalSlider_LaneWidth->value();
+	ColorScheme _colorScheme = _dialog->colorScheme();
+	
+	// create subsystem object and add it to the scene
+	map< string, Subdomain * >::iterator it;
+	for( it = sub.begin(); it != sub.end(); it++ ){
+		
+		// pick color
+		vector< double > rgb;
+		_pathway->pickColor( _colorScheme, it->second->id, rgb );
+		
+		Coord2 *domainCenterdPtr = &it->second->center;
+		double domainWidth = it->second->width;
+		double domainHeight = it->second->height;
+		double newDomainWidth = it->second->width-boulevardRoutingArea;
+		double newDomainHeight = it->second->height-boulevardRoutingArea;
+		
+		// file
+		QString currentPath = qApp->applicationDirPath();
+		QString folderPath = currentPath + QString( "/../data/level1/" );
+		stringstream ss;
+		ss << setw(5) << setfill('0') << it->second->id + 1;
+		string filename = folderPath.toStdString() + "00000." + ss.str() + ".svg";
+		if( !QDir( folderPath ).exists() ){
+			QDir().mkdir( folderPath );
+			cerr << "create the data folder!" << endl;
+		}
+		
+		ofstream ofs( filename );
+		if( !ofs ) {
+			cerr << "Cannot open the target file : " << filename << endl;
+			return;
+		}
+		
+		// metadata
+		ofs << "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>" << endl;
+		ofs << "<svg\n"
+		       "   width=\"" << to_string( cw ) << "\"\n"
+               "   height=\"" << to_string( ch ) << "\"\n"
+	           "   viewBox=\""
+		    << to_string( 0 ) << " " << to_string( 0 ) << " " << to_string( cw ) << " " << to_string( ch ) << "\"\n"
+// 	       "   viewBox=\"" << to_string(-width()) << " " << to_string(-height()) << " " << to_string(width()) << " " << to_string(height()) << "\"\n"
+			   "   version=\"1.2\"\n"
+               "   id=\"svg2\">"
+		    << endl;
+				
+		vector< TreeNode > &treeLeaves = it->second->treeLeaves;
+		for ( unsigned int i = 0; i < treeLeaves.size(); i++) {
+			
+			// boundary
+			qreal w = MAX2( *treeLeaves[ i ].widthPtr * newDomainWidth / domainWidth - laneRoutingArea, 0.0 ),
+					h = MAX2( *treeLeaves[ i ].heightPtr * newDomainHeight / domainHeight - laneRoutingArea, 0.0 );
+			qreal x = ( treeLeaves[ i ].coordPtr->x() - domainCenterdPtr->x() ) * newDomainWidth / domainWidth +
+			          domainCenterdPtr->x() - 0.5 * w + 0.5 * cw,
+					y = ( treeLeaves[ i ].coordPtr->y() - domainCenterdPtr->y() ) * newDomainHeight / domainHeight +
+					    domainCenterdPtr->y() + 0.5 * h - 0.5 * ch; // upper left corner at (x, y)
+				
+			QString hexR = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 0 ] ), 2, 16, QLatin1Char( '0' ) );
+			QString hexG = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 1 ] ), 2, 16, QLatin1Char( '0' ) );
+			QString hexB = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 2 ] ), 2, 16, QLatin1Char( '0' ) );
+			
+			treemapIDVec.push_back( index );
+#ifdef DEBUG
+			cerr << "ww = " << width() << ", wh = " << height() << endl;
+			cerr << "r = " << hexR.toStdString() << endl;
+			cerr << "g = " << hexG.toStdString() << endl;
+			cerr << "b = " << hexB.toStdString() << endl;
+			cerr << "x = " << x << endl
+				 << "y = " << y << endl
+				 << "w = " << w << endl
+				 << "h = " << h << endl << endl;
+#endif // DEBUG
+			
+			stringstream ss;
+			ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+			
+			ofs << "  <rect\n"
+			       "     x=\"" << to_string( x ) << "\"\n"
+                   "     y=\"" << to_string( -y ) << "\"\n"
+                   "     width=\""
+			    << to_string( w ) << "\"\n"
+                   "     height=\"" << to_string( h ) << "\"\n"
+                   "     rx=\"" << to_string(15) << "\"\n"
+                   "     id=\"" << ss.str() << "\"\n"
+                   "     style=\"fill:#"
+			    << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
+			    << ";fill-opacity:1;stroke:#8a8a8a;stroke-width:5\" />"
+			    << endl;
+			index++;
+		}
+		
+		ofs << "</svg>" << endl;
+		ofs.close();
+	}
+}
+
+void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
+									unsigned int & index, vector< unsigned int > & treemapIDVec )
+{
+	map< string, Subdomain * > &sub = _pathway->subsys();
+	vector< UndirectedBaseGraph > &lsubg    = _pathway->lsubG();
+	vector< MetaboliteGraph >      &subg    = _pathway->subG();
+	MetaboliteGraph &g = _pathway->g();
+	ColorScheme colorScheme = _dialog->colorScheme();
+	unsigned int treemapIndex = 0;
+
+#ifdef DEBUG
+	for( unsigned int i = 0; i < subg.size(); i++ ){
+		BGL_FORALL_VERTICES( vd, subg[i], MetaboliteGraph ) {
+			cerr << "id = " << subg[i][vd].id << endl;
+			cerr << "initID = " << subg[i][vd].initID << endl;
+			}
+	}
+#endif // DEBUG
+
+	vector< TreeMap > &treemapVec = _hola->treemapVec();
+	cerr << "HERE treemapVec.size() = " << treemapVec.size() << endl;
+	for( unsigned int i = 0; i < treemapVec.size(); i++ ){
+		
+		vector< vector< int > > &comIDVec = treemapVec[i].comIDVec();
+		for( unsigned int m = 0; m < comIDVec.size(); m++ ){
+			
+			// file
+			QString currentPath = qApp->applicationDirPath();
+			QString folderPath = currentPath + QString( "/../data/level2/" );
+			stringstream ss1, ss2;
+			ss1 << setw(5) << setfill('0') << i + 1;
+			ss2 << setw(5) << setfill('0') << treemapIDVec[treemapIndex];
+			string filename = folderPath.toStdString() + "00000." + ss1.str() + "." + ss2.str() + ".svg";
+			if( !QDir( folderPath ).exists() ){
+				QDir().mkdir( folderPath );
+				cerr << "create the data folder!" << endl;
+			}
+	
+			ofstream ofs( filename );
+			if( !ofs ) {
+				cerr << "Cannot open the target file : " << filename << endl;
+				return;
+			}
+	
+			// metadata
+			ofs << "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>" << endl;
+			ofs << "<svg\n"
+//		 		   "   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n"
+//			       "   xmlns:cc=\"http://creativecommons.org/ns#\"\n"
+//			       "   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n"
+//			       "   xmlns:svg=\"http://www.w3.org/2000/svg\"\n"
+//			       "   xmlns=\"http://www.w3.org/2000/svg\"\n"
+			       "   width=\"" << to_string( cw ) << "\"\n"
+	               "   height=\"" << to_string( ch ) << "\"\n"
+	               "   viewBox=\""
+			    << to_string( 0 ) << " " << to_string( 0 ) << " " << to_string( cw ) << " " << to_string( ch ) << "\"\n"
+	               "   version=\"1.1\"\n"
+	               "   id=\"svg8\">"
+			    << endl;
+			
+			// add edges
+			for( unsigned int n = 0; n < comIDVec[m].size(); n++ ) {
+				for( unsigned int o = n+1; o < comIDVec[m].size(); o++ ) {
+					
+					unsigned int idS = comIDVec[m][n];
+					unsigned int idT = comIDVec[m][o];
+					
+					QString hexR = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+					QString hexG = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+					QString hexB = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+					
+					bool found = false;
+					DependGraph::edge_descriptor oldED;
+					DependGraph::vertex_descriptor vdO = vertex( idS, lsubg[i] );
+					DependGraph::vertex_descriptor vdI = vertex( idT, lsubg[i] );
+					tie( oldED, found ) = edge( vdO, vdI, lsubg[i] );
+					
+					if( found == true ) {
+						
+						Line2 &line = lsubg[i][oldED].line;
+						
+						stringstream ss;
+						ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+						
+						ofs << "  <path\n";
+						ofs << "     d=\"M ";
+						for( unsigned int k = 0; k < line.samples().size(); k++ ) {
+							double x = line.samples()[k].x() + 0.5*cw;
+							double y = line.samples()[k].y() - 0.5*ch;
+							ofs << to_string( x ) << "," << to_string( -y ) << " ";
+						}
+						ofs << "\"\n";
+                        ofs << "     id=\"" << ss.str() << "\"\n"
+                               "     style=\"opacity:1;fill:#"
+						    << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
+						    << ";fill-opacity:0;fill-rule:nonzero;stroke:#8a8a8a;stroke-width:3\" />"
+						    << endl;
+					}
+				}
+			}
+			
+			
+			// add vertices
+			for( unsigned int n = 0; n < comIDVec[m].size(); n++ ) {
+				
+				unsigned int id = comIDVec[m][n];
+				MetaboliteGraph::vertex_descriptor vdU = vertex( id, subg[i] );
+				unsigned int initID = subg[i][vdU].initID;
+				MetaboliteGraph::vertex_descriptor vd = vertex( initID, g );
+//				double w = 10;
+//				double h = 10;
+				double w = *g[vd].namePixelWidthPtr;
+				double h = *g[vd].namePixelHeightPtr;
+				double x = g[vd].coordPtr->x() + 0.5*cw - 0.5*w;
+				double y = g[vd].coordPtr->y() - 0.5*ch + 0.5*h;
+				string name = *g[vd].namePtr;
+				
+				QString penR, penG, penB;
+				QString brushR, brushG, brushB;
+				if( g[vd].type == "metabolite" ){
+					penR = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+					penG = QString( "%1" ).arg( ( int ) ( 0 ), 2, 16, QLatin1Char( '0' ) );
+					penB = QString( "%1" ).arg( ( int ) ( 0 ), 2, 16, QLatin1Char( '0' ) );
+					brushR = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+					brushG = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+					brushB = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+				}
+				else{
+					penR = QString( "%1" ).arg( ( int ) ( 0 ), 2, 16, QLatin1Char( '0' ) );
+					penG = QString( "%1" ).arg( ( int ) ( 0 ), 2, 16, QLatin1Char( '0' ) );
+					penB = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+					brushR = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+					brushG = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+					brushB = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+				}
+				
+				stringstream ss;
+				ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+				
+				ofs << "  <rect\n"
+				       "     x=\"" << to_string( x ) << "\"\n"
+                       "     y=\"" << to_string( -y ) << "\"\n"
+                       "     name=\"" << name << "\"\n"
+                       "     width=\"" << to_string( w ) << "\"\n"
+		               "     height=\"" << to_string( h ) << "\"\n"
+                       "     rx=\"" << to_string(5) << "\"\n"
+                       "     id=\"" << ss.str() << "\"\n"
+                       "     style=\"fill:#"
+				    << brushR.toStdString() << brushG.toStdString() << brushB.toStdString()
+				    << ";fill-opacity:1;stroke:#"
+					<< penR.toStdString() << penG.toStdString() << penB.toStdString()
+				    << ";stroke-width:3\" />"
+				    << endl;
+				index++;
+			}
+			
+			// end of file
+			treemapIndex++;
+			ofs << "</svg>" << endl;
+			ofs.close();
+		}
+	}
+}
+
+void GraphicsView::exportSVGMetadata( void )
+{
+	// file
+	QString currentPath = qApp->applicationDirPath();
+	QString folderPath = currentPath + QString( "/../data/" );
+//	stringstream ss1, ss2;
+//			ss1 << setw( 5 ) << setfill( '0' ) << i + 1;
+//			ss2 << setw( 5 ) << setfill( '0' ) << treemapIDVec[ treemapIndex ] + 1;
+	string filename = folderPath.toStdString() + "metadata.xml";
+	if( !QDir( folderPath ).exists() ) {
+		QDir().mkdir( folderPath );
+		cerr << "create the data folder!" << endl;
+	}
+	
+	ofstream ofs( filename );
+	if( !ofs ) {
+		cerr << "Cannot open the target file : " << filename << endl;
+		return;
+	}
+	
+	ofs << "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n"
+		<< "<slml>\n"
+		<< "    <objects maxlevel=\"3\">\n";
+	ofs << "        <object level=\"00000\" id=\"00000\" file=\"/level0/00000.svg\">\n";
+	
+	vector< TreeMap > &treemapVec = _hola->treemapVec();
+	unsigned int index = treemapVec.size()+1;
+	for( unsigned int i = 0; i < treemapVec.size(); i++ ){
+		
+		stringstream ss;
+		ss << setw(5) << setfill('0') << to_string( i+1 );
+		
+		ofs << "           <object level=\"00001\" " << "id=\"" << ss.str() << "\" file=\"/level1/00000." << ss.str() << ".svg\">\n";
+//		UndirectedBaseGraph &g = lsubg[i];
+		vector< vector< int > > &comIDVec = treemapVec[i].comIDVec();
+		for( unsigned int m = 0; m < comIDVec.size(); m++ ) {
+			
+			stringstream sst;
+			sst << setw(5) << setfill('0') << to_string( index );
+			ofs << "               <object level=\"00002\" " << "id=\"" << sst.str()
+				<< "\" file=\"/level2/00000." << ss.str() << "." << sst.str()
+				<< ".svg\">\n";
+			ofs << "               </object>\n";
+			index++;
+		}
+		ofs << "           </object>\n";
+	}
+	
+	ofs << "       </object>\n";
+	ofs << "    </objects>\n"
+	       "</slml>" << endl;
+	ofs.close();
+}
+
+void GraphicsView::exportHierarchicalSVG( double cx, double cy, double cw, double ch )
+{
+	unsigned int index = 1;
+	vector< unsigned int > treemapIDVec;
+	
+	exportSVGLevel0( cx, cy, cw, ch, index );
+	exportSVGLevel1( cx, cy, cw, ch, index, treemapIDVec );
+	exportSVGLevel2( cx, cy, cw, ch, index, treemapIDVec );
+	exportSVGMetadata();
+}
+
 void GraphicsView::exportPNG ( double x, double y, double w, double h )
 {
     // Take file path and name that will create

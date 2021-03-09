@@ -352,8 +352,10 @@ void Window::keyPressEvent( QKeyEvent *e )
         double routingArea = _dialog->diaLayout->horizontalSlider_BoulevardWidth->value();
         //gv->exportPNG( -w->contentWidth()/2.0-ROUTING_AREA, -w->contentHeight()/2.0-ROUTING_AREA,
         //               w->contentWidth()+2.0*ROUTING_AREA, w->contentHeight()+2.0*ROUTING_AREA );
-        gv->exportSVG( -w->contentWidth()/2.0-routingArea, -w->contentHeight()/2.0-routingArea,
-                       w->contentWidth()+2.0*routingArea, w->contentHeight()+2.0*routingArea );
+//        gv->exportSVG( -w->contentWidth()/2.0-routingArea, -w->contentHeight()/2.0-routingArea,
+//                       w->contentWidth()+2.0*routingArea, w->contentHeight()+2.0*routingArea );
+	    gv->exportHierarchicalSVG( -w->contentWidth()/2.0-routingArea, -w->contentHeight()/2.0-routingArea,
+	                   w->contentWidth()+2.0*routingArea, w->contentHeight()+2.0*routingArea );
 #endif  // GRAPHICSVIEW
         break;
     }

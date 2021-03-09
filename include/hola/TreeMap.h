@@ -76,7 +76,9 @@ public:
 //------------------------------------------------------------------------------
     const UndirectedBaseGraph &          tree( void ) const 	 { return _tree; }
     UndirectedBaseGraph &                tree( void )            { return _tree; }
-
+	
+	const vector< vector< int > > &          comIDVec( void ) const 	 { return _comIDVec; }
+	vector< vector< int > > &                comIDVec( void )            { return _comIDVec; }
 
 //------------------------------------------------------------------------------
 //	Special functions

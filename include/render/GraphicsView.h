@@ -186,6 +186,13 @@ public:
     //void    update              ( void );
     void resetWheelScale( void ) { _wheelScale = 1.0; }
     void exportSVG( double x, double y, double w, double h );
+	void exportSVGLevel0( double cx, double cy, double cw, double ch, unsigned int & index );
+	void exportSVGLevel1( double cx, double cy, double cw, double ch,
+					   unsigned int & index, vector< unsigned int > & treemapIDVec );
+	void exportSVGLevel2( double cx, double cy, double cw, double ch,
+					   unsigned int & index, vector< unsigned int > & treemapIDVec );
+	void exportSVGMetadata( void );
+	void exportHierarchicalSVG( double x, double y, double w, double h );
     void exportPNG( double x, double y, double w, double h );
     void test( void );
     void computeTextCenter( Subdomain *subptr, QImage &screenshot );
