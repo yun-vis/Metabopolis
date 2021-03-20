@@ -33,6 +33,7 @@ public:
 	unsigned int reactGID;		    // id in the metabolite graph
     unsigned int subsysID;		    // id in the subsystem
     unsigned int routerRoadID;      // router id in the road graph
+    unsigned int treeNodeID;        // treemap componentID
     unsigned int conjunctionRoadID; // conjunction id in the road graph
 
 	bool isProduct;                 // product
@@ -52,6 +53,7 @@ public:
 class TreeNode {
 
 public:
+	unsigned int            id;
     Coord2                  *coordPtr;
     double                  *widthPtr;
     double                  *heightPtr;

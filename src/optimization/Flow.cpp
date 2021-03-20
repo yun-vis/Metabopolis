@@ -216,7 +216,7 @@ void Flow::solve( void )
 }
 
 //
-//  Flow::buildRouterinTree --        build the router to the road network
+//  Flow::findRouterinTree --        build the router to the road network
 //
 //  Inputs
 //      none
@@ -305,6 +305,7 @@ void Flow::buildRouter( void )
 
                             Router router;
                             router.id               = mapL;
+                            router.treeNodeID       = treenodeID;
                             router.metaGID          = graph[ vd ].id;
                             router.reactGID         = graph[ vdS ].id;
                             router.subsysID         = it->second->id;
@@ -355,6 +356,7 @@ void Flow::buildRouter( void )
 
                             Router router;
                             router.id               = mapL;
+                            router.treeNodeID       = treenodeID;
                             router.metaGID          = graph[ vd ].id;
                             router.reactGID         = graph[ vdT ].id;
                             router.subsysID         = it->second->id;

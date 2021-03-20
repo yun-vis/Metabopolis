@@ -191,6 +191,7 @@ public:
 					   unsigned int & index, vector< unsigned int > & treemapIDVec );
 	void exportSVGLevel2( double cx, double cy, double cw, double ch,
 					   unsigned int & index, vector< unsigned int > & treemapIDVec );
+	void exportGlobalRoute( double cx, double cy, double cw, double ch );
 	void exportSVGMetadata( void );
 	void exportHierarchicalSVG( double x, double y, double w, double h );
     void exportPNG( double x, double y, double w, double h );

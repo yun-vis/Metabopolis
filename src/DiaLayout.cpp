@@ -11,50 +11,7 @@ DiaLayout::DiaLayout( QWidget *parent ) :
     _current_dir = QDir::currentPath() + "/../";
     // cerr << "_currentPath = " << _current_dir.toStdString() << endl;
 
-    // initializationDownload
-    //
-    //
-    //    Source
-    //
-    //    PDF
-    //
-    //Actions
-    //
-    //       Copy Project
-    //       Publish as Template
-    //       Word Count
-    //
-    //Sync
-    //
-    //       Dropbox
-    //
-    //       Git
-    //
-    //       GitHub
-    //
-    //Settings
-    //Compiler
-    //Main document
-    //Spell check
-    //Auto-complete
-    //Auto-close Brackets
-    //Code check
-    //Editor theme
-    //Overall theme
-    //Keybindings
-    //Font Size
-    //Font Family
-    //Line Height
-    //PDF Viewer
-    //Hotkeys
-    //
-    //       Show Hotkeys
-    //
-    //A Survey on Schematic Map Visualization: The Challenge to Interactivity
-    //
-    //Editor mode.
-    //8
-
+    // initialization
     _input_dir = _current_dir+QString( "/xml/small/" );
     //_input_dir = _current_dir+QString( "/xml/A/" );
     //_input_dir = _current_dir+QString( "/xml/full/" );

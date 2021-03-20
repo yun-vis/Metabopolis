@@ -116,7 +116,7 @@ void TreeMap::_buildHierarchy( void )
 
         // add tree nodes
         TreeNode *nodePtr       = new TreeNode;
-
+	    nodePtr->id             = i;
         nodePtr->coordPtr       = _tree[ vd ].coordPtr;
         nodePtr->widthPtr       = _tree[ vd ].widthPtr;
         nodePtr->heightPtr      = _tree[ vd ].heightPtr;

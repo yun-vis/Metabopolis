@@ -3648,6 +3648,7 @@ void GraphicsView::exportSVGLevel0( double cx, double cy, double cw, double ch, 
                "     height=\"" << to_string(h) << "\"\n"
                "     rx=\"" << to_string(15) << "\"\n"
                "     id=\"" << ss.str() << "\"\n"
+               "     label=\"" << it->second->name << "\"\n"
 		       "     style=\"fill:#" << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
 		    << ";fill-opacity:0.4;stroke:#000000;stroke-width:0\" />"
 		    << endl;
@@ -3749,6 +3750,7 @@ void GraphicsView::exportSVGLevel1( double cx, double cy, double cw, double ch,
                    "     height=\"" << to_string( h ) << "\"\n"
                    "     rx=\"" << to_string(15) << "\"\n"
                    "     id=\"" << ss.str() << "\"\n"
+                   "     label=\"" << string("component ")+to_string(i) << "\"\n"
                    "     style=\"fill:#"
 			    << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
 			    << ";fill-opacity:1;stroke:#8a8a8a;stroke-width:5\" />"
@@ -3770,6 +3772,9 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 	MetaboliteGraph &g = _pathway->g();
 	ColorScheme colorScheme = _dialog->colorScheme();
 	unsigned int treemapIndex = 0;
+	
+	double boulevardRoutingArea = _dialog->diaLayout->horizontalSlider_BoulevardWidth->value();
+	double laneRoutingArea = _dialog->diaLayout->horizontalSlider_LaneWidth->value();
 
 #ifdef DEBUG
 	for( unsigned int i = 0; i < subg.size(); i++ ){
@@ -3781,11 +3786,20 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 #endif // DEBUG
 
 	vector< TreeMap > &treemapVec = _hola->treemapVec();
-	cerr << "HERE treemapVec.size() = " << treemapVec.size() << endl;
+//	cerr << "HERE treemapVec.size() = " << treemapVec.size() << endl;
 	for( unsigned int i = 0; i < treemapVec.size(); i++ ){
+		
+		map< string, Subdomain * >::iterator itS = sub.begin();
+		advance( itS, i );
+		Subdomain *subdomain = itS->second;
+		
+		// find corresponding treenode object
+		vector< TreeNode > &treeLeaves = subdomain->treeLeaves;
 		
 		vector< vector< int > > &comIDVec = treemapVec[i].comIDVec();
 		for( unsigned int m = 0; m < comIDVec.size(); m++ ){
+			
+			TreeNode treeNode = treeLeaves[ m ];
 			
 			// file
 			QString currentPath = qApp->applicationDirPath();
@@ -3817,12 +3831,13 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 	               "   height=\"" << to_string( ch ) << "\"\n"
 	               "   viewBox=\""
 			    << to_string( 0 ) << " " << to_string( 0 ) << " " << to_string( cw ) << " " << to_string( ch ) << "\"\n"
-	               "   version=\"1.1\"\n"
-	               "   id=\"svg8\">"
+	               "   version=\"1.2\"\n"
+	               "   id=\"svg2\">"
 			    << endl;
 			
 			// add edges
 			for( unsigned int n = 0; n < comIDVec[m].size(); n++ ) {
+
 				for( unsigned int o = n+1; o < comIDVec[m].size(); o++ ) {
 					
 					unsigned int idS = comIDVec[m][n];
@@ -3848,8 +3863,18 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 						ofs << "  <path\n";
 						ofs << "     d=\"M ";
 						for( unsigned int k = 0; k < line.samples().size(); k++ ) {
-							double x = line.samples()[k].x() + 0.5*cw;
-							double y = line.samples()[k].y() - 0.5*ch;
+							
+							double nx, ny;
+							
+							translateScalePoint( line.samples()[k].x(), line.samples()[k].y(), nx, ny,
+							                     subdomain->center.x(), subdomain->center.y(), subdomain->width, subdomain->height,
+							                     treeNode.coordPtr->x(), treeNode.coordPtr->y(), *treeNode.widthPtr, *treeNode.heightPtr,
+							                     boulevardRoutingArea, laneRoutingArea );
+							
+							double x = nx + 0.5*cw;
+							double y = ny - 0.5*ch;
+//							double x = line.samples()[k].x() + 0.5*cw;
+//							double y = line.samples()[k].y() - 0.5*ch;
 							ofs << to_string( x ) << "," << to_string( -y ) << " ";
 						}
 						ofs << "\"\n";
@@ -3870,12 +3895,19 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 				MetaboliteGraph::vertex_descriptor vdU = vertex( id, subg[i] );
 				unsigned int initID = subg[i][vdU].initID;
 				MetaboliteGraph::vertex_descriptor vd = vertex( initID, g );
-//				double w = 10;
-//				double h = 10;
+				
+				double nx, ny;
+				translateScalePoint( g[ vd ].coordPtr->x(), g[ vd ].coordPtr->y(), nx, ny,
+				                     subdomain->center.x(), subdomain->center.y(), subdomain->width, subdomain->height,
+				                     treeNode.coordPtr->x(), treeNode.coordPtr->y(), *treeNode.widthPtr, *treeNode.heightPtr,
+				                     boulevardRoutingArea, laneRoutingArea );
+				
 				double w = *g[vd].namePixelWidthPtr;
 				double h = *g[vd].namePixelHeightPtr;
-				double x = g[vd].coordPtr->x() + 0.5*cw - 0.5*w;
-				double y = g[vd].coordPtr->y() - 0.5*ch + 0.5*h;
+				double x = nx + 0.5*cw - 0.5*w;
+				double y = ny - 0.5*ch + 0.5*h;
+//				double x = g[vd].coordPtr->x() + 0.5*cw - 0.5*w;
+//				double y = g[vd].coordPtr->y() - 0.5*ch + 0.5*h;
 				string name = *g[vd].namePtr;
 				
 				QString penR, penG, penB;
@@ -3908,13 +3940,119 @@ void GraphicsView::exportSVGLevel2( double cx, double cy, double cw, double ch,
 		               "     height=\"" << to_string( h ) << "\"\n"
                        "     rx=\"" << to_string(5) << "\"\n"
                        "     id=\"" << ss.str() << "\"\n"
-                       "     style=\"fill:#"
+					   "     label=\"" << name << "\"\n"
+					   "     style=\"fill:#"
 				    << brushR.toStdString() << brushG.toStdString() << brushB.toStdString()
 				    << ";fill-opacity:1;stroke:#"
 					<< penR.toStdString() << penG.toStdString() << penB.toStdString()
 				    << ";stroke-width:3\" />"
 				    << endl;
 				index++;
+			}
+			
+			map< string, Subdomain * >:: iterator it = sub.begin();
+			advance( it, i );
+			Subdomain *domain = it->second;
+			vector<TreeNode> &treeLeaves = domain->treeLeaves;
+			unsigned int leafSize = treeLeaves.size();
+#ifdef DEBUG
+			cerr << "i = " << i << " m = " << m << " leafSize = " << leafSize << endl;
+#endif // DEBUG
+			
+			// add boundary edges
+			for ( unsigned int i = 0; i < leafSize; i++) {
+				
+				map< unsigned int, Router > routerMap = treeLeaves[i].routerMap;
+				map< unsigned int, Router >::iterator itR = routerMap.begin();
+				
+				for( ; itR != routerMap.end(); itR++ ){
+#ifdef DEBUG
+					cerr << "itR->second.treeNodeID = " << itR->second.treeNodeID << endl;
+#endif // DEBUG
+					if( itR->second.treeNodeID == m ){
+						
+						Line2 &line = itR->second.line;
+						
+						QString hexR = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						QString hexG = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						QString hexB = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						
+						stringstream ss;
+						ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+						
+						ofs << "  <path\n";
+						ofs << "     d=\"M ";
+						for( unsigned int k = 0; k < line.samples().size(); k++ ) {
+							double x = line.samples()[k].x() + 0.5*cw;
+							double y = line.samples()[k].y() - 0.5*ch;
+							ofs << to_string( x ) << "," << to_string( -y ) << " ";
+						}
+						ofs << "\"\n";
+						ofs << "     id=\"" << ss.str() << "\"\n"
+						                                   "     style=\"opacity:1;fill:#"
+						    << hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
+						    << ";fill-opacity:0;fill-rule:nonzero;stroke:#8a8a8a;stroke-width:3\" />"
+						    << endl;
+					}
+				}
+			}
+			
+			// add boundary vertices
+			for ( unsigned int i = 0; i < leafSize; i++) {
+				
+				map< unsigned int, Router > routerMap = treeLeaves[i].routerMap;
+				map< unsigned int, Router >::iterator itR = routerMap.begin();
+				
+				for( ; itR != routerMap.end(); itR++ ){
+#ifdef DEBUG
+					cerr << "itR->second.treeNodeID = " << itR->second.treeNodeID << endl;
+#endif // DEBUG
+					if( itR->second.treeNodeID == m ){
+						
+						Coord2 * point = itR->second.conjunctCoordPtr;
+						unsigned int initID = itR->second.metaGID;
+						MetaboliteGraph::vertex_descriptor vd = vertex( initID, g );
+						double w = *g[vd].namePixelWidthPtr;
+						double h = *g[vd].namePixelHeightPtr;
+						double x = point->x() + 0.5*cw - 0.5*w;
+						double y = point->y() - 0.5*ch + 0.5*h;
+						string name = *g[vd].namePtr;
+						
+						QString penR, penG, penB;
+						QString brushR, brushG, brushB;
+						
+						penR = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						penG = QString( "%1" ).arg( ( int ) ( 100 ), 2, 16, QLatin1Char( '0' ) );
+						penB = QString( "%1" ).arg( ( int ) ( 0 ), 2, 16, QLatin1Char( '0' ) );
+						brushR = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						brushG = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						brushB = QString( "%1" ).arg( ( int ) ( 255 ), 2, 16, QLatin1Char( '0' ) );
+						
+						stringstream ss;
+						ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+						
+						ofs << "  <rect\n"
+						       "     x=\"" << to_string( x ) << "\"\n"
+	                           "     y=\"" << to_string( -y ) << "\"\n"
+                               "     name=\"" << name << "\"\n"
+                               "     width=\"" << to_string( w ) << "\"\n"
+                               "     height=\"" << to_string( h ) << "\"\n"
+                               "     rx=\"" << to_string(5) << "\"\n"
+                               "     id=\"" << ss.str() << "\"\n"
+                               "     label=\"" << name << "\"\n"
+                               "     style=\"fill:#"
+						    << brushR.toStdString() << brushG.toStdString() << brushB.toStdString()
+						    << ";fill-opacity:1;stroke:#"
+						    << penR.toStdString() << penG.toStdString() << penB.toStdString()
+						    << ";stroke-width:3\" />"
+						    << endl;
+						index++;
+					}
+				}
+			}
+			for( unsigned int n = 0; n < comIDVec[m].size(); n++ ){
+				unsigned int id = comIDVec[m][n];
+//				cerr << "n = " << n << " id = " << id << endl;
 			}
 			
 			// end of file
@@ -3979,6 +4117,86 @@ void GraphicsView::exportSVGMetadata( void )
 	ofs.close();
 }
 
+void GraphicsView::exportGlobalRoute( double cx, double cy, double cw, double ch )
+{
+	ColorScheme _colorScheme = _dialog->colorScheme();
+	
+	vector< vector < FlowPath > > &path = _flow->flowPaths();
+	RoadGraph &roadG = _flow->roadNet();
+	
+	// file
+	QString currentPath = qApp->applicationDirPath();
+	QString folderPath = currentPath + QString( "/../data/" );
+	string filename = folderPath.toStdString() + "globalpath.svg";
+	if( !QDir( folderPath ).exists() ){
+		QDir().mkdir( folderPath );
+		cerr << "create the data folder!" << endl;
+	}
+	
+	ofstream            ofs( filename );
+	
+	if ( !ofs ) {
+		cerr << "Cannot open the target file : " << filename << endl;
+		return;
+	}
+	
+	// metadata
+	ofs << "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>" << endl;
+	ofs << "<svg\n"
+	       "   width=\"" << to_string(cw) << "\"\n"
+		   "   height=\"" << to_string(ch) << "\"\n"
+		   "   viewBox=\"" << to_string(0) << " " << to_string(0) << " " << to_string(cw) << " " << to_string(ch) << "\"\n"
+		   "   version=\"1.2\"\n"
+		   "   id=\"svg2\">" << endl;
+	
+	for( unsigned int i = 0; i < path.size(); i++ ){
+		for( unsigned int j = 0; j < path[i].size(); j++ ) {
+			
+//			cerr << "i = " << i << ", j = " << j << endl;
+			FlowPath &flowpath = path[i][j];
+			vector < int > &roadIDPath = flowpath.roadIDPath;
+			
+			stringstream ss;
+			ss << "obj" << setw( 5 ) << setfill( '0' ) << index;
+			ofs << "  <path\n";
+			ofs << "     d=\"M ";
+			
+			vector< double > rgb;
+			_pathway->pickColor( _colorScheme, flowpath.subsysID, rgb );
+			
+			QString hexR = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 0 ] ), 2, 16, QLatin1Char( '0' ) );
+			QString hexG = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 1 ] ), 2, 16, QLatin1Char( '0' ) );
+			QString hexB = QString( "%1" ).arg( ( int ) ( 255.0 * rgb[ 2 ] ), 2, 16, QLatin1Char( '0' ) );
+
+			double strokeWidth = _dialog->diaLayout->horizontalSlider_LineWidth->maximum();
+			
+			for( unsigned int k = 0; k < roadIDPath.size(); k++ ){
+				
+				RoadGraph::vertex_descriptor vd = vertex( roadIDPath[ k ], roadG );
+				
+				Coord2 *point = roadG[ vd ].coordPtr;
+//				cerr << " n( " << nPtr->x() << ", " << nPtr->y() << " ) " << endl;
+				double x = point->x() + 0.5*cw;
+				double y = point->y() - 0.5*ch;
+				ofs << to_string( x ) << "," << to_string( -y ) << " ";
+			}
+
+			ofs << "\"\n";
+			ofs << "     id=\"" << ss.str() << "\"\n"
+                   "     style=\"opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#"
+				<< hexR.toStdString() << hexG.toStdString() << hexB.toStdString()
+				<< ";stroke-width:" << 0.5*strokeWidth
+				<< ";stroke-opacity:" << to_string( 0.6 )
+				<< "\" />"
+			    << endl;
+		}
+	}
+	
+	// end of file
+	ofs << "</svg>" << endl;
+	ofs.close();
+}
+
 void GraphicsView::exportHierarchicalSVG( double cx, double cy, double cw, double ch )
 {
 	unsigned int index = 1;
@@ -3987,6 +4205,7 @@ void GraphicsView::exportHierarchicalSVG( double cx, double cy, double cw, doubl
 	exportSVGLevel0( cx, cy, cw, ch, index );
 	exportSVGLevel1( cx, cy, cw, ch, index, treemapIDVec );
 	exportSVGLevel2( cx, cy, cw, ch, index, treemapIDVec );
+	exportGlobalRoute( cx, cy, cw, ch );
 	exportSVGMetadata();
 }
 
